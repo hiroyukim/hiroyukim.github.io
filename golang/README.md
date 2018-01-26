@@ -2,8 +2,8 @@
 
 ### vim-go
 
-+ vimを使用しているなら[vim-go](https://github.com/fatih/vim-go)を使用しましょう
-+ [vim-plug](https://github.com/junegunn/vim-plug)を利用してinstallしましょう
++ [vim-go](https://github.com/fatih/vim-go)
++ install: [vim-plug](https://github.com/junegunn/vim-plug)
 
 ### テスト
 
@@ -14,15 +14,21 @@
 ### go-callvis
 
 + goのcall graphを作成してくれるやつ
-+ https://github.com/TrueFurby/go-callvis
++ [https://github.com/TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis)
 
 
 ### depのマニュアル
 
-+ https://golang.github.io/dep/docs/introduction.html
++ [https://golang.github.io/dep/docs/introduction.html](https://golang.github.io/dep/docs/introduction.html)
 
 
 ### memmap
 
 + graphvizで使用するためのデータ構造。
-+ https://github.com/bradleyjkemp/memmap
++ [https://github.com/bradleyjkemp/memmap](https://github.com/bradleyjkemp/memmap)
+
+### pop
+
++ migration tool
++ [https://github.com/markbates/pop](https://github.com/markbates/pop)
+
