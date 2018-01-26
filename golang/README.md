@@ -32,3 +32,6 @@
 + migration tool
 + [https://github.com/markbates/pop](https://github.com/markbates/pop)
 
+### [静的解析を使った開発ツールの開発](https://www.slideshare.net/takuyaueda967/ss-86437682)
+
++ goに標準でついてくる静的解析ツールを使用した開発ツールの開発の発表
