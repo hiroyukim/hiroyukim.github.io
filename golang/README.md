@@ -1,32 +1,28 @@
 ## Golang
 
+### vim-go
 
-### 基本情報
++ vimを使用しているなら[vim-go](https://github.com/fatih/vim-go)を使用しましょう
++ [vim-plug](https://github.com/junegunn/vim-plug)を利用してinstallしましょう
 
-+ [The Go Programming Language](https://golang.org/)
-+ [The Go Blog](https://blog.golang.org/)
-+ [Packages](https://golang.org/pkg/)
+### テスト
 
-### インストール
++ goのテストに対する考え方は以下を参考
+    + [Why does Go not have assertions?](https://golang.org/doc/faq#assertions)
+    + [Where is my favorite helper function for testing?](https://golang.org/doc/faq#testing_framework)
 
-#### ダウンロード
+### go-callvis
 
-公式サイトにDownload出来るところがあるので落としましょう。
-
-https://golang.org/dl/
-
-#### 設定
-
-GOPATHを設定する必要性があります。
-
-https://github.com/golang/go/wiki/SettingGOPATH
-
-ここに記述されていますが、以下の通りです。
-
-##### .bash_profileにGOPATHを追加
-
-```shell:~/.bash_profile
-export GOPATH=$HOME/go
-```
++ goのcall graphを作成してくれるやつ
++ https://github.com/TrueFurby/go-callvis
 
 
+### depのマニュアル
+
++ https://golang.github.io/dep/docs/introduction.html
+
+
+### memmap
+
++ graphvizで使用するためのデータ構造。
++ https://github.com/bradleyjkemp/memmap
