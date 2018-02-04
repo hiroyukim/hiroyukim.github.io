@@ -19,3 +19,5 @@
     + [goで書いたコードがヒープ割り当てになるかを確認する方法](https://hnakamur.github.io/blog/2018/01/30/go-heap-allocations/)
     + [RTMP 1.0 準拠のサーバーをGo言語で実装する](https://developers.cyberagent.co.jp/blog/archives/13739/)
     + [A Million WebSockets and Go](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
++ Book
+    + [Writing An Interpreter In Go](https://interpreterbook.com/)
