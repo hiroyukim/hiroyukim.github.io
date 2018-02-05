@@ -14,6 +14,8 @@
     + [memmap](https://github.com/bradleyjkemp/memmap)
     + [pop](https://github.com/markbates/pop)
         + migration tool
+    + [google-cloud-go](https://github.com/GoogleCloudPlatform/google-cloud-go)
+        + https://twitter.com/lestrrat/status/960484957704482818
 + Article
     + [静的解析を使った開発ツールの開発](https://www.slideshare.net/takuyaueda967/ss-86437682)
     + [goで書いたコードがヒープ割り当てになるかを確認する方法](https://hnakamur.github.io/blog/2018/01/30/go-heap-allocations/)
