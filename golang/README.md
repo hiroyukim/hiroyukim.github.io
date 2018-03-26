@@ -33,5 +33,6 @@
     + [Concurrent HTTP downloads using Go](https://medium.com/@dhanushgopinath/concurrent-http-downloads-using-go-32fecfa1ed27)
     + [go tool traceでgoroutineの実行状況を可視化する](http://yuroyoro.hatenablog.com/entry/2017/12/11/192341)
     + [PopCountがGo1.7からあまりに早くなったので調べてみた](https://go-talks.appspot.com/github.com/tooru/gopl-popcount/popcount.slide#1)
+    + [GoのためのGo](https://motemen.github.io/go-for-go-book/)
 + Book
     + [Writing An Interpreter In Go](https://interpreterbook.com/)
