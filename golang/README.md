@@ -15,6 +15,7 @@
         + https://qiita.com/pei0804/items/3a0b481d1e47e5a72078
     + [shaman](https://github.com/nanopack/shaman)
         + Small, lightweight, api-driven dns server.
+    + [vegeta](https://github.com/tsenart/vegeta)
 + Manual
     + [dep docs](https://golang.github.io/dep/docs/introduction.html)
 + library
