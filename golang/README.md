@@ -16,6 +16,7 @@
     + [shaman](https://github.com/nanopack/shaman)
         + Small, lightweight, api-driven dns server.
     + [vegeta](https://github.com/tsenart/vegeta)
+    + [lstf](https://github.com/yuuki/lstf)
 + Manual
     + [dep docs](https://golang.github.io/dep/docs/introduction.html)
 + library
