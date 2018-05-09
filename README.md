@@ -10,3 +10,6 @@
 + [os](https://hiroyukim.github.io/os/)
 + [tool](https://hiroyukim.github.io/tool/)
 + [c](https://hiroyukim.github.io/c/)
++ [java](https://hiroyukim.github.io/java/)
++ [rust](https://hiroyukim.github.io/rust/)
++ [blog](https://hiroyukim.github.io/blog/)
