@@ -7,3 +7,4 @@
 + [Golang Standard library (fmt Println)](https://hiroyukim.github.io/blog/2018/04/23/)
 + [Golang Standard library (context WithTimeout)](https://hiroyukim.github.io/blog/2018/04/26/)
 + [Golang Standard library (text.template Execute)](https://hiroyukim.github.io/blog/2018/05/01/)
++ [Release procedure for golang](https://hiroyukim.github.io/blog/2018/05/09/)
