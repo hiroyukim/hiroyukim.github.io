@@ -11,7 +11,7 @@ NOW_VERSION=`gobump show | jq '.["version"]' | sed 's/"//g'`
 
 ghch --format=markdown --next-version=v${NOW_VERSION} >> CHANGELOG.md
 
-if [-e ./goxz ]; then
+if [ -e ./goxz ]; then
 	rm -rf goxz
 fi
 
