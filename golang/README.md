@@ -55,6 +55,12 @@
     + [GoらしいAPIを求める旅路 (Go Conference 2018 Spring)](https://www.slideshare.net/lestrrat/goapi-go-conference-2018-spring)
     + [Google container builderと友だちになるまで](https://www.slideshare.net/lestrrat/google-container-builder-87244724)
     + [Golangでのstreamの扱い方を学ぶ](https://christina04.hatenablog.com/entry/2017/01/06/190000)
+    + [Heap optimization means speed optimization](https://maruel.ca/post/heap_speed/)
+    + [Debugging Latency in Go 1.11](https://medium.com/observability/debugging-latency-in-go-1-11-9f97a7910d68)
+    + [How I write Go HTTP services after seven years](https://medium.com/@matryer/how-i-write-go-http-services-after-seven-years-37c208122831)
+    + [ゴルーチンと並行性パターン](https://qiita.com/hayajo/items/4cd75f87e35e60ae11a9)
+    + [sync.Pool で楽して高速化](http://yoru9zine.hatenablog.com/entry/2015/12/05/143414)
+    + [time.Ticker で遊ぶ](http://text.baldanders.info/golang/ticker/)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack
