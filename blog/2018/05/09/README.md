@@ -27,7 +27,7 @@ ghr v${NOW_VERSION} goxz/
 
 ```
 go get -u github.com/motemen/gobump
-cd $GOPATH/src/github.com/motemen/gobump/cmd/gobump
+cd `go env GOPATH`/src/github.com/motemen/gobump/cmd/gobump
 go install
 ```
 
