@@ -19,6 +19,7 @@
     + [lstf](https://github.com/yuuki/lstf)
     + [gotop](https://github.com/cjbassi/gotop)
     + [goruby](https://github.com/goruby/goruby)
+    + [DataViz](https://github.com/Arafatk/DataViz)
 + Framework
     + [Buffalo](https://gobuffalo.io/en)
 + Manual
