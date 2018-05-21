@@ -62,6 +62,7 @@
     + [ゴルーチンと並行性パターン](https://qiita.com/hayajo/items/4cd75f87e35e60ae11a9)
     + [sync.Pool で楽して高速化](http://yoru9zine.hatenablog.com/entry/2015/12/05/143414)
     + [time.Ticker で遊ぶ](http://text.baldanders.info/golang/ticker/)
+    + [Introducing DataViz a data-structure visualization library for Golang](https://medium.com/@Arafat./introducing-dataviz-a-data-structure-visualization-library-for-golang-f6e60663bc9d)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack
