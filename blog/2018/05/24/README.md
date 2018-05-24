@@ -44,12 +44,12 @@ chmod +x open_asciidoctor.sh
 
 ### See
 
-+ [https://asciidoctor.org/]()
-+ [https://asciidoctor.org/docs/user-manual/]()
-+ [https://takumon.github.io/asciidoc-syntax-quick-reference-japanese-translation/]()
++ [https://asciidoctor.org/](https://asciidoctor.org/)
++ [https://asciidoctor.org/docs/user-manual/](https://asciidoctor.org/docs/user-manual/)
++ [https://takumon.github.io/asciidoc-syntax-quick-reference-japanese-translation/](https://takumon.github.io/asciidoc-syntax-quick-reference-japanese-translation/)
 
 
 ### Docker
 
-+ [https://github.com/liquidz/docker-asciidoctor-jp]()
-+ [https://hub.docker.com/r/asciidoctor/docker-asciidoctor/]()
++ [https://github.com/liquidz/docker-asciidoctor-jp](https://github.com/liquidz/docker-asciidoctor-jp)
++ [https://hub.docker.com/r/asciidoctor/docker-asciidoctor/](https://hub.docker.com/r/asciidoctor/docker-asciidoctor/)
