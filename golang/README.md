@@ -20,6 +20,10 @@
     + [gotop](https://github.com/cjbassi/gotop)
     + [goruby](https://github.com/goruby/goruby)
     + [DataViz](https://github.com/Arafatk/DataViz)
+    + [Gdlv](https://github.com/aarzilli/gdlv)
+        + Gdlv is a graphical frontend to Delve for Linux, Windows and macOS.
+    + [Delve](https://github.com/derekparker/delve)
+        + Delve is a debugger for the Go programming language.
 + Framework
     + [Buffalo](https://gobuffalo.io/en)
 + Manual
