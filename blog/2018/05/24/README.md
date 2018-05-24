@@ -51,5 +51,5 @@ chmod +x open_asciidoctor.sh
 
 ### Docker
 
-+ [](https://github.com/liquidz/docker-asciidoctor-jp)
-+ [](https://hub.docker.com/r/asciidoctor/docker-asciidoctor/)
++ [https://github.com/liquidz/docker-asciidoctor-jp]()
++ [https://hub.docker.com/r/asciidoctor/docker-asciidoctor/]()
