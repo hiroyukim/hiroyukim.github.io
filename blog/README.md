@@ -9,3 +9,4 @@
 + [Golang Standard library (text.template Execute)](https://hiroyukim.github.io/blog/2018/05/01/)
 + [Release procedure for golang](https://hiroyukim.github.io/blog/2018/05/09/)
 + [Personal asciidoctor setup](https://hiroyukim.github.io/blog/2018/05/24/)
++ [I tried using memviz](https://hiroyukim.github.io/blog/2018/06/12/)
