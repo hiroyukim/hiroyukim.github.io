@@ -58,6 +58,8 @@ go run main.go > hoge.dot
 dot -Tpng hoge.dot -o hoge.png
 ```
 
+![hoge.png](hoge.png)
+
 ### See
 
 + https://github.com/bradleyjkemp/memviz
