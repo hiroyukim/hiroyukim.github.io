@@ -1,5 +1,9 @@
 # hiroyukim.github.io
 
+## Blog
+
++ [blog](https://hiroyukim.github.io/blog/)
+
 ## Link
 
 + [golang](https://hiroyukim.github.io/golang/)
@@ -12,7 +16,6 @@
 + [c](https://hiroyukim.github.io/c/)
 + [java](https://hiroyukim.github.io/java/)
 + [rust](https://hiroyukim.github.io/rust/)
-+ [blog](https://hiroyukim.github.io/blog/)
 + [hive](https://hiroyukim.github.io/hive/)
 + [nginx](https://hiroyukim.github.io/nginx/)
 + [algorism](https://hiroyukim.github.io/algorism/)
