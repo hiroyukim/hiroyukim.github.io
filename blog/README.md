@@ -10,3 +10,4 @@
 + [Release procedure for golang](https://hiroyukim.github.io/blog/2018/05/09/)
 + [Personal asciidoctor setup](https://hiroyukim.github.io/blog/2018/05/24/)
 + [I tried using memviz](https://hiroyukim.github.io/blog/2018/06/12/)
++ [If you want to completely delete app in mac](https://hiroyukim.github.io/blog/2018/06/12/delete_mac_app)
