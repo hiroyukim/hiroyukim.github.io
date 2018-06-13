@@ -68,6 +68,7 @@
     + [time.Ticker で遊ぶ](http://text.baldanders.info/golang/ticker/)
     + [Introducing DataViz a data-structure visualization library for Golang](https://medium.com/@Arafat./introducing-dataviz-a-data-structure-visualization-library-for-golang-f6e60663bc9d)
     + [Go 言語の非同期パターン](https://mattn.kaoriya.net/software/lang/go/20180531104907.htm)
+    + [How I write Go HTTP services after seven years](https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack
