@@ -10,3 +10,7 @@
     + [fd](https://github.com/sharkdp/fd)
 + server
     + [htop](https://github.com/hishamhm/htop)
++ reverse
+    + [unix-like reverse engineering framework and commandline tools security](https://github.com/radare/radare2)
++ terminal
+    + [A cross-platform, GPU-accelerated terminal emulator](https://github.com/jwilm/alacritty)

@@ -1,0 +1,5 @@
+## cpu
+
++ Article
+    + [ロジックICで創る 4bitCPU組立キット TTM4](https://www.switch-science.com/catalog/3915/)
+    + [The Effects of CPU Turbo: 768X stddev](https://www.alexgallego.org/perf/compiler/explorer/flatbuffers/smf/2018/06/30/effects-cpu-turbo.html)

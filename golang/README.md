@@ -7,6 +7,9 @@
     + [Why does Go not have assertions?](https://golang.org/doc/faq#assertions)
     + [Where is my favorite helper function for testing?](https://golang.org/doc/faq#testing_framework)
 + Tool
+    + [Build powerful pipelines in any programming language.](https://github.com/gaia-pipeline/gaia)
+    + [Interactive Go interpreter and debugger with REPL, Eval, generics and Lisp-like macros](https://github.com/cosmos72/gomacro)
+    + [Build powerful pipelines in any programming language](https://github.com/gaia-pipeline/gaia)
     + [go-callvis](https://github.com/TrueFurby/go-callvis)
     + [smallnest/gen](https://github.com/smallnest/gen)
     + [memviz](https://github.com/bradleyjkemp/memviz)
@@ -77,8 +80,20 @@
     + [Using context cancellation in Go 💀](https://www.sohamkamani.com/blog/golang/2018-06-17-golang-using-context-cancellation/)
     + [Go言語のプロファイリングツール、pprofのWeb UIがめちゃくちゃ便利なので紹介する](https://medium.com/eureka-engineering/go%E8%A8%80%E8%AA%9E%E3%81%AE%E3%83%97%E3%83%AD%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%84%E3%83%BC%E3%83%AB-pprof%E3%81%AEweb-ui%E3%81%8C%E3%82%81%E3%81%A1%E3%82%83%E3%81%8F%E3%81%A1%E3%82%83%E4%BE%BF%E5%88%A9%E3%81%AA%E3%81%AE%E3%81%A7%E7%B4%B9%E4%BB%8B%E3%81%99%E3%82%8B-6a34a489c9ee)
     + [Go Memory Management](https://povilasv.me/go-memory-management/)
+    + [Go's net/context and http.Handler](https://joeshaw.org/net-context-and-http-handler/)
+    + [Noise: An opinionated, P2P networking stack for decentralized protocols in Go.](https://medium.com/perlin-network/noise-an-opinionated-p2p-networking-stack-for-decentralized-protocols-in-go-bfc6fecf157d)
+    + [Simple Go dependency injection (Part 1)](https://medium.com/@pafortin/simple-go-dependency-injection-part-1-96fd9ba1b7a7)
+    + [Go Config - A pluggable config framework](https://micro.mu/blog/2018/07/04/go-config.html)
+    + [Writing Go Middleware for AWS Lambda](https://www.zachjohnsondev.com/posts/lambda-go-middleware/)
+    + [Network-Programming-with-Go](https://github.com/tumregels/Network-Programming-with-Go)
+    + [Getting to Go: The Journey of Go's Garbage Collector](https://blog.golang.org/ismmkeynote)
+    + [Go言語のFunctional Option Pattern](https://qiita.com/weloan/items/56f1c7792088b5ede136)
+    + [golangの関数のオプション引数を実現する](https://blog.kazu69.net/2018/02/22/golang-functional-options/)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack
 + Algolism
     + [Data-Structures-and-Algorithms](https://github.com/floyernick/Data-Structures-and-Algorithms)
++ YouTube
+    + [Go Programming Language](https://www.youtube.com/watch?v=ADT25tuAx4A)
+        + https://www.infoq.com/presentations/go-programming-language?utm_source=youtube&utm_medium=link&utm_campaign=qcontalks
