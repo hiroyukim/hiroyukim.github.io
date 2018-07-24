@@ -89,6 +89,8 @@
     + [Getting to Go: The Journey of Go's Garbage Collector](https://blog.golang.org/ismmkeynote)
     + [Go言語のFunctional Option Pattern](https://qiita.com/weloan/items/56f1c7792088b5ede136)
     + [golangの関数のオプション引数を実現する](https://blog.kazu69.net/2018/02/22/golang-functional-options/)
+    + [AN INTRODUCTION TO LLVM IN GO](https://felixangell.com/blog/an-introduction-to-llvm-in-go/)
+    + [Golangのエラー処理とpkg/errors](https://deeeet.com/writing/2016/04/25/go-pkg-errors/)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack
