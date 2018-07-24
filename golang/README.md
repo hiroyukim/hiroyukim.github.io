@@ -7,7 +7,6 @@
     + [Why does Go not have assertions?](https://golang.org/doc/faq#assertions)
     + [Where is my favorite helper function for testing?](https://golang.org/doc/faq#testing_framework)
 + Tool
-    + [Build powerful pipelines in any programming language.](https://github.com/gaia-pipeline/gaia)
     + [Interactive Go interpreter and debugger with REPL, Eval, generics and Lisp-like macros](https://github.com/cosmos72/gomacro)
     + [Build powerful pipelines in any programming language](https://github.com/gaia-pipeline/gaia)
     + [go-callvis](https://github.com/TrueFurby/go-callvis)
