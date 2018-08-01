@@ -7,6 +7,7 @@
     + [Why does Go not have assertions?](https://golang.org/doc/faq#assertions)
     + [Where is my favorite helper function for testing?](https://golang.org/doc/faq#testing_framework)
 + Tool
+    + [gotags](https://github.com/jstemmer/gotags)
     + [Interactive Go interpreter and debugger with REPL, Eval, generics and Lisp-like macros](https://github.com/cosmos72/gomacro)
     + [Build powerful pipelines in any programming language](https://github.com/gaia-pipeline/gaia)
     + [go-callvis](https://github.com/TrueFurby/go-callvis)
@@ -28,6 +29,7 @@
         + Delve is a debugger for the Go programming language.
     + [Golang benchmarks used for optimizing code](https://github.com/cornelk/go-benchmark)
     + [tbls](https://github.com/k1LoW/tbls)
+    + [the_platinum_searcher](https://github.com/monochromegane/the_platinum_searcher)
 + Framework
     + [Buffalo](https://gobuffalo.io/en)
 + Manual
@@ -90,6 +92,12 @@
     + [golangの関数のオプション引数を実現する](https://blog.kazu69.net/2018/02/22/golang-functional-options/)
     + [AN INTRODUCTION TO LLVM IN GO](https://felixangell.com/blog/an-introduction-to-llvm-in-go/)
     + [Golangのエラー処理とpkg/errors](https://deeeet.com/writing/2016/04/25/go-pkg-errors/)
+    + [An early peek at Go modules.(20 July 2018)](https://www.komu.engineer/blogs/go-modules-early-peek)
+    + [The Platinum Searcherを5倍高速化するためにやったこと](https://blog.monochromegane.com/blog/2015/12/15/how-to-speed-up-the-platinum-searcher-v2/)
+    + [context.Context is not just for cancelation](https://speakerdeck.com/izumin5210/context-dot-context-is-not-just-for-cancelation)
+    + [Go modules](https://systemdump.io/posts/2018-07-22-go-modules)
+    + [Golangで軽量なSSHサーバを実装する](http://www.hirotsuru.com/entry/2018/07/28/225520)
+    + [Lexical Scanning in Go](https://talks.golang.org/2011/lex.slide#1)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

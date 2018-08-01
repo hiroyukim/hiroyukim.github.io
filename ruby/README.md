@@ -6,3 +6,5 @@
     + [Working With Unix Processes](https://www.jstorimer.com/collections/ebooks/products/working-with-unix-processes)
 + Article
     + [C Compiler written in Ruby](https://speakerdeck.com/south37/c-compiler-written-in-ruby)
+    + [Make Your Ruby Script Confusing](https://www.slideshare.net/tagomoris/make-your-ruby-script-confusing)
+    + [RubyのJITに生成コードのメモリ局所性対策を入れた話](https://k0kubun.hatenablog.com/entry/mjit-compaction)

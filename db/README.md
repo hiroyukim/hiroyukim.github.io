@@ -6,3 +6,10 @@
     + [MySQL の X Protocol/X DevAPI 周りについて調査したのをまとめたののメモ](http://blog.64p.org/entry/2018/07/08/233944)
     + [PostgreSQL 11 検証報告](https://www.sraoss.co.jp/tech-blog/pgsql/pg11report/)
     + [TCP Proxyを書いてPostgreSQLの通信を覗いてみる](https://k1low.hatenablog.com/entry/2018/07/17/083000)
+    + [とあるイルカのデータベース](https://speakerdeck.com/yoku0825/toaruirukafalsedetabesu)
+    + [How to build MySQL 8.0.11 on Mac (and Debug with Visual Studio Code)](http://labs.gree.jp/blog/2018/07/17099/)
+    + [TCP Proxyを書いてMySQLの通信を覗いてみる](https://k1low.hatenablog.com/entry/2018/07/26/083000)
+    + [MySQLのストアドプロシージャ、ファンクション、トリガーのパフォーマンスが悪いのはなぜか](https://yakst.com/ja/posts/5229)
+    + [Tuning InnoDB Primary Keys](https://www.percona.com/blog/2018/07/26/tuning-innodb-primary-keys/)
++ Tool
+    + [Apache Calcite](https://calcite.apache.org/)

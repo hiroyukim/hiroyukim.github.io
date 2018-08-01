@@ -11,5 +11,7 @@
     + [systemd環境でのコアダンプ解析](https://ryochack.hatenablog.com/entry/2018/01/07/014834)
     + [フルスクラッチで作る!x86_64自作OS](http://yuma.ohgami.jp/)
     + [CPU使用率100％のWebサーバをOSのチューニングだけでCPU使用率20%まで改善する](https://hb.matsumoto-r.jp/entry/2016/07/23/000533)
+    + [作って理解するWireGuard](https://speakerdeck.com/fadis/zuo-tuteli-jie-suruwireguard)
 + Tool
     + [Labean is a simple HTTP/HTTPS port knocker for GNU/Linux.](https://github.com/uprt/labean)
+    + [howto_implement_hypervisor](https://github.com/syuu1228/howto_implement_hypervisor)

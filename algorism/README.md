@@ -9,3 +9,8 @@
     + [分散型システム徹底入門 – Part 1.](https://postd.cc/a-thorough-introduction-to-distributed-systems/)
     + [分散型システム徹底入門 – Part 2.](https://postd.cc/a-thorough-introduction-to-distributed-systems-2/)
     + [djbsort is a new software library for sorting arrays of integers. It provides the following features:](https://sorting.cr.yp.to/)
+    + [画像検索 (特定物体認識) — 古典手法、マッチング、深層学習、Kaggle](https://speakerdeck.com/smly/hua-xiang-jian-suo-te-ding-wu-ti-ren-shi-gu-dian-shou-fa-matutingu-shen-ceng-xue-xi-kaggle)
+    + [Statechart](https://scrapbox.io/masui/Statechart)
+    + [分散システム、本当に「正しく」開発できますか？](https://speakerdeck.com/ytaka23/july-tech-festa-2018)
++ Book
+    + [Competitive Programmer's Handbook](https://cses.fi/book/)
