@@ -68,7 +68,6 @@
     + [Golangでのstreamの扱い方を学ぶ](https://christina04.hatenablog.com/entry/2017/01/06/190000)
     + [Heap optimization means speed optimization](https://maruel.ca/post/heap_speed/)
     + [Debugging Latency in Go 1.11](https://medium.com/observability/debugging-latency-in-go-1-11-9f97a7910d68)
-    + [How I write Go HTTP services after seven years](https://medium.com/@matryer/how-i-write-go-http-services-after-seven-years-37c208122831)
     + [ゴルーチンと並行性パターン](https://qiita.com/hayajo/items/4cd75f87e35e60ae11a9)
     + [sync.Pool で楽して高速化](http://yoru9zine.hatenablog.com/entry/2015/12/05/143414)
     + [time.Ticker で遊ぶ](http://text.baldanders.info/golang/ticker/)
@@ -98,6 +97,11 @@
     + [Go modules](https://systemdump.io/posts/2018-07-22-go-modules)
     + [Golangで軽量なSSHサーバを実装する](http://www.hirotsuru.com/entry/2018/07/28/225520)
     + [Lexical Scanning in Go](https://talks.golang.org/2011/lex.slide#1)
+    + [SRE: Debugging Simple Memory Leaks in Go](https://medium.com/dm03514-tech-blog/sre-debugging-simple-memory-leaks-in-go-e0a9e6d63d4d)
+    + [Debugging Latency in Go 1.11](https://medium.com/observability/debugging-latency-in-go-1-11-9f97a7910d68)
+    + [Understanding Go Memory Allocation - Gophercon UK](https://speakerdeck.com/andrestc/understanding-go-memory-allocation-gophercon-uk)
+    + [The Go low-level calling convention on x86-64](https://science.raphael.poss.name/go-calling-convention-x86-64.html)
+    + [A Good Makefile for Go](http://azer.bike/journal/a-good-makefile-for-go/)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

@@ -12,6 +12,11 @@
     + [フルスクラッチで作る!x86_64自作OS](http://yuma.ohgami.jp/)
     + [CPU使用率100％のWebサーバをOSのチューニングだけでCPU使用率20%まで改善する](https://hb.matsumoto-r.jp/entry/2016/07/23/000533)
     + [作って理解するWireGuard](https://speakerdeck.com/fadis/zuo-tuteli-jie-suruwireguard)
+    + [情報システム実験：カーネルハック](http://www.coins.tsukuba.ac.jp/~yas/coins/slab-kernel-2018/)
+    + [エンジニアなら知っておきたい仮想マシンのしくみ](http://gihyo.jp/dev/serial/01/vm_work/0001)
+    + [linuxカーネル内部インターフェースの変更例](https://qiita.com/satoru_takeuchi/items/84ce3f86920a327b5128)
 + Tool
     + [Labean is a simple HTTP/HTTPS port knocker for GNU/Linux.](https://github.com/uprt/labean)
     + [howto_implement_hypervisor](https://github.com/syuu1228/howto_implement_hypervisor)
+    + [Linuxカーネルソースコードを読むツール (1)：cscope編](http://proc-cpuinfo.fixstars.com/2017/05/linux-kernel-reading-tips-cscope/)
+    + [An Introduction to libuv](https://nikhilm.github.io/uvbook/)
