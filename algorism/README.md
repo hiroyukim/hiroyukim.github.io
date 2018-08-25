@@ -14,5 +14,6 @@
     + [分散システム、本当に「正しく」開発できますか？](https://speakerdeck.com/ytaka23/july-tech-festa-2018)
     + [How to make interesting little languages.](http://breuleux.net/blog/language-howto.html)
     + [Google Colab で英日ニューラル翻訳システムを作る手順](https://drive.google.com/file/d/1HCBeC-HwTFk5bctic_T5dSDvXdnBoa2G/view)
+    + [Kaggleで世界11位になったデータ解析手法〜Sansan高際睦起の模範コードに学ぶ](https://employment.en-japan.com/engineerhub/entry/2018/08/24/110000)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)

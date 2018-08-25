@@ -12,5 +12,6 @@
     + [MySQLのストアドプロシージャ、ファンクション、トリガーのパフォーマンスが悪いのはなぜか](https://yakst.com/ja/posts/5229)
     + [Tuning InnoDB Primary Keys](https://www.percona.com/blog/2018/07/26/tuning-innodb-primary-keys/)
     + [リレーショナルデータベースの仕組み (1/3)](https://postd.cc/how-does-a-rdb-work-1/)
+    + [MySQL Workbench VISUAL EXPLAIN でインデックスの挙動を確認する](https://engineering.linecorp.com/ja/blog/detail/355)
 + Tool
     + [Apache Calcite](https://calcite.apache.org/)

@@ -10,3 +10,9 @@
     + [C言語でのコルーチン実装](http://www.spice-elec.com/Z80/multi_task/mult_task02.html)
     + [Coroutines in C](https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html)
     + [Why Is SQLite Coded In C](https://sqlite.org/whyc.html)
+    + [自作Cコンパイラで Ken Thompson のログインハックを再現してみた](http://0x19f.hatenablog.com/entry/2018/08/20/212514)
+    + [Introduction to Flex-SC threads](https://speakerdeck.com/sat/introduction-to-flex-sc-threads)
++ Compiler
+    + [rui314/9cc](https://github.com/rui314/9cc)
+    + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)
+        + tiny self-hosted C compiler.

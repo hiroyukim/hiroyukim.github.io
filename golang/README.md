@@ -7,6 +7,12 @@
     + [Why does Go not have assertions?](https://golang.org/doc/faq#assertions)
     + [Where is my favorite helper function for testing?](https://golang.org/doc/faq#testing_framework)
 + Tool
+    + [xo/xo](https://github.com/xo/xo)
+    + [swaggo/gin-swagger](https://github.com/swaggo/gin-swagger)
+    + [lestrrat-go/server-starter](https://github.com/lestrrat-go/server-starter)
+    + [benhoyt/goawk](https://github.com/benhoyt/goawk)
+    + [oxequa/realize](https://github.com/oxequa/realize)
+        + Golang live reloading
     + [gotags](https://github.com/jstemmer/gotags)
     + [Interactive Go interpreter and debugger with REPL, Eval, generics and Lisp-like macros](https://github.com/cosmos72/gomacro)
     + [Build powerful pipelines in any programming language](https://github.com/gaia-pipeline/gaia)
@@ -102,6 +108,19 @@
     + [Understanding Go Memory Allocation - Gophercon UK](https://speakerdeck.com/andrestc/understanding-go-memory-allocation-gophercon-uk)
     + [The Go low-level calling convention on x86-64](https://science.raphael.poss.name/go-calling-convention-x86-64.html)
     + [A Good Makefile for Go](http://azer.bike/journal/a-good-makefile-for-go/)
+    + [クリーンアーキテクチャの書籍を読んだのでAPIサーバを実装してみた](https://qiita.com/yoshinori_hisakawa/items/f934178d4bd476c8da32)
+    + [Cross Compiling Go apps](https://www.yellowduck.be/posts/cross-compile/)
+    + [golang の channel を使ったテクニックあれこれ](https://mattn.kaoriya.net/software/lang/go/20160706165757.htm)
+    + [GolangのSignalハンドリングを同時に複数実行したらどうなるか](http://sgykfjsm.github.io/blog/2017/09/05/golangfalsesignalhandoringuwotong-shi-nifu-shu-shi-xing-sitaradounaruka/)
+    + [THE GO BLOG 日本語訳](https://www.ymotongpoo.com/works/goblog-ja/)
+    + [Tips for develoepr-friendly testing #golangtokyo](https://speakerdeck.com/izumin5210/tips-for-develoepr-friendly-testing-number-golangtokyo)
+    + [Tour of testing in 2018](https://speakerdeck.com/budougumi0617/tour-of-testing-in-2018)
+    + [外部環境への依存をテストする](https://www.slideshare.net/ShunsukeMaeda/ss-110757746)
+    + [Exploring Error Handling Patterns in Go](https://8thlight.com/blog/kyle-krull/2018/08/13/exploring-error-handling-patterns-in-go.html)
+    + [Create a simple cross-platform desktop game with Go](https://sausheong.github.io/posts/cross-platform-games-with-go/)
+    + [Introduction to Go Modules](https://roberto.selbach.ca/intro-to-go-modules/)
+    + [golang で tensorflow のススメ](https://mattn.kaoriya.net/software/lang/go/20180825013735.htm)
+    + [SQLで羃等にDBスキーマ管理ができるツール「sqldef」を作った](https://k0kubun.hatenablog.com/entry/2018/08/25/114455)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

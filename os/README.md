@@ -15,6 +15,9 @@
     + [情報システム実験：カーネルハック](http://www.coins.tsukuba.ac.jp/~yas/coins/slab-kernel-2018/)
     + [エンジニアなら知っておきたい仮想マシンのしくみ](http://gihyo.jp/dev/serial/01/vm_work/0001)
     + [linuxカーネル内部インターフェースの変更例](https://qiita.com/satoru_takeuchi/items/84ce3f86920a327b5128)
+    + [Freedom-U-SDKで生成したLinuxバイナリを自作RISC-Vシミュレータで実行 (2. Linuxのブート成功)](http://msyksphinz.hatenablog.com/entry/2018/08/19/040000)
+    + [cloneのCLONE_PARENTフラグの挙動を観察する](https://udzura.hatenablog.jp/entry/2018/08/20/163723)
+    + [Linux コンテナの内部を知ろう / OSC 2018 Kyoto](https://speakerdeck.com/tenforward/osc-2018-kyoto)
 + Tool
     + [Labean is a simple HTTP/HTTPS port knocker for GNU/Linux.](https://github.com/uprt/labean)
     + [howto_implement_hypervisor](https://github.com/syuu1228/howto_implement_hypervisor)

@@ -9,3 +9,5 @@
         + [Rust コンパイラの処理の流れを追いたい時は，この関数を起点にしてコード読むと良かった気がする](https://twitter.com/Linda_pp/status/995902597029482496)
     + [Learning SIMD with Rust by finding planets](https://medium.com/@Razican/learning-simd-with-rust-by-finding-planets-b85ccfb724c3)
     + [Rust Pointers for C Programmers](http://blahg.josefsipek.net/?p=580)
+    + [Rustの日本語ドキュメント/Japanese Docs for Rust](https://doc.rust-jp.rs/)
+    + [Rust速習会1.pdf - Speaker Deck](https://speakerdeck.com/qnighy/rustsu-xi-hui-1)
