@@ -14,3 +14,4 @@
 + [A tool to grasp the scale of the source code made with go](https://hiroyukim.github.io/blog/2018/07/03/)
 + [PHP: Indirect modification of overloaded element of %s has no effect](https://hiroyukim.github.io/blog/2018/08/20/)
 + [Golang: Difference between http.Handle and ServeMux](https://hiroyukim.github.io/blog/2018/08/22/)
++ [Where is Golang ServeMux.mu used?](https://hiroyukim.github.io/blog/2018/08/2t/)
