@@ -121,6 +121,7 @@
     + [Introduction to Go Modules](https://roberto.selbach.ca/intro-to-go-modules/)
     + [golang で tensorflow のススメ](https://mattn.kaoriya.net/software/lang/go/20180825013735.htm)
     + [SQLで羃等にDBスキーマ管理ができるツール「sqldef」を作った](https://k0kubun.hatenablog.com/entry/2018/08/25/114455)
+    + [golang プロセスのモニタリングってみんなどうしてるんですかね、という話](http://blog.64p.org/entry/2017/02/22/072920)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack
