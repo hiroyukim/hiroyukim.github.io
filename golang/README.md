@@ -7,6 +7,10 @@
     + [Why does Go not have assertions?](https://golang.org/doc/faq#assertions)
     + [Where is my favorite helper function for testing?](https://golang.org/doc/faq#testing_framework)
 + Tool
+    + [pp](https://github.com/k0kubun/pp)
+    + [gox](https://github.com/mitchellh/gox)
+    + [Doozer](https://github.com/ha/doozerd)
+    + [go-torch](https://github.com/uber/go-torch)
     + [xo/xo](https://github.com/xo/xo)
     + [swaggo/gin-swagger](https://github.com/swaggo/gin-swagger)
     + [lestrrat-go/server-starter](https://github.com/lestrrat-go/server-starter)
@@ -122,6 +126,16 @@
     + [golang で tensorflow のススメ](https://mattn.kaoriya.net/software/lang/go/20180825013735.htm)
     + [SQLで羃等にDBスキーマ管理ができるツール「sqldef」を作った](https://k0kubun.hatenablog.com/entry/2018/08/25/114455)
     + [golang プロセスのモニタリングってみんなどうしてるんですかね、という話](http://blog.64p.org/entry/2017/02/22/072920)
+    + [Go 1.11 の modules・vgo を試す](https://www.wantedly.com/companies/wantedly/post_articles/132270)
+    + [golang標準ライブラリから学ぶタイムゾーンファイルの構造](https://blog.freedom-man.com/golang-timezonefile/)
+    + [Idiomatic Design Patterns in Go](https://docs.google.com/presentation/d/1BzhCRi0VmOj-sJSqzxc1i5GyuNNQG3QPazzkP8NFf2g/edit#slide=id.g410e8305d5_0_271)
+    + [チョットできるGoプログラマーになるための詳解GoDoc](https://qiita.com/shibukawa/items/8c70fdd1972fad76a5ce)
+    + [GopherCon 2018 - Allocator Wrestling](https://about.sourcegraph.com/go/gophercon-2018-allocator-wrestling/)
+    + [GolangでFlame Graphを描く](https://deeeet.com/writing/2016/05/29/go-flame-graph/)
+    + [Awesome Go](https://awesome-go.com/)
+    + [Debugging containerized Go applications](https://blog.jetbrains.com/go/2018/04/30/debugging-containerized-go-applications/)
+    + [GolandでDocker上のサーバーをRemote Debug](https://qiita.com/edelweiss452/items/2013b6f34be8ab6d4abd)
+    + [ユーザが接続先を意識しないSSHプロキシサーバを作った](https://blog.tsurubee.tech/entry/2018/09/01/181634)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

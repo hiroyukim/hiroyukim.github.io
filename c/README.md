@@ -3,6 +3,9 @@
 + gcc
     + [Using and Porting the GNU Compiler Collection (GCC)](http://www.asahi-net.or.jp/~wg5k-ickw/html/online/gcc-2.95.2/gcc_toc.html)
     + [GCC online documentation](https://gcc.gnu.org/onlinedocs/)
++ Tool
+    + [gperftools](https://github.com/gperftools/gperftools)
+    + [Google Perftoolsを導入する](http://msyksphinz.hatenablog.com/entry/2015/08/28/020000)
 + lib
     + [A blazing fast and lightweight C asymmetric coroutine library](https://github.com/hnes/libaco)
 + Article
@@ -12,6 +15,8 @@
     + [Why Is SQLite Coded In C](https://sqlite.org/whyc.html)
     + [自作Cコンパイラで Ken Thompson のログインハックを再現してみた](http://0x19f.hatenablog.com/entry/2018/08/20/212514)
     + [Introduction to Flex-SC threads](https://speakerdeck.com/sat/introduction-to-flex-sc-threads)
+    + [いまさらC言語](https://scrapbox.io/imasaraC/)
+    + [高速化チューニングとそ䛾関連技術２](http://www.r-ccs.riken.jp/r-ccssite/wp-content/uploads/2017/06/tokuronA_17_9_watanabe.pdf)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)
