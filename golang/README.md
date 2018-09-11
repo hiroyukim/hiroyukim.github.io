@@ -7,6 +7,7 @@
     + [Why does Go not have assertions?](https://golang.org/doc/faq#assertions)
     + [Where is my favorite helper function for testing?](https://golang.org/doc/faq#testing_framework)
 + Tool
+    + [go-update](https://github.com/inconshreveable/go-update)
     + [pp](https://github.com/k0kubun/pp)
     + [gox](https://github.com/mitchellh/gox)
     + [Doozer](https://github.com/ha/doozerd)
@@ -136,6 +137,16 @@
     + [Debugging containerized Go applications](https://blog.jetbrains.com/go/2018/04/30/debugging-containerized-go-applications/)
     + [GolandでDocker上のサーバーをRemote Debug](https://qiita.com/edelweiss452/items/2013b6f34be8ab6d4abd)
     + [ユーザが接続先を意識しないSSHプロキシサーバを作った](https://blog.tsurubee.tech/entry/2018/09/01/181634)
+    + [Concurrency in Go Language - Orbs Contributor Series (Tal Kol)](https://www.youtube.com/watch?v=hoACzt8-VXA&t=19s)
+        + youtube
+    + [debugging concurrent Go](https://www.reddit.com/r/golang/comments/9cbx96/debugging_concurrent_go/)
+    + [Go でつくる汎用言語処理系 実装戦略](https://speakerdeck.com/rhysd/go-detukurufan-yong-yan-yu-chu-li-xi-shi-zhuang-zhan-lue)
+    + [GopherCon 2018 - Demystifying Binary Search Tree Algorithms](https://about.sourcegraph.com/go/gophercon-2018-binary-search-tree-algorithms/)
+    + [The Scheduler Saga](https://speakerdeck.com/kavya719/the-scheduler-saga)
+    + [Go言語向けFailure Injectionツール: gofail](https://blog.cybozu.io/entry/2018/09/04/080000)
+    + [GopherCon 2018 - Implementing a Network Protocol in Go](https://about.sourcegraph.com/go/gophercon-2018-implementing-a-network-protocol-in-go/)
+    + [GopherCon 2018 - How to Write a Parser in Go](https://about.sourcegraph.com/go/gophercon-2018-how-to-write-a-parser-in-go/)
+    + [Go http.RoundTripper 実装ガイド](https://qiita.com/tutuming/items/6006e1d8cf94bc40f8e8)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

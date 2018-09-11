@@ -16,5 +16,8 @@
     + [Google Colab で英日ニューラル翻訳システムを作る手順](https://drive.google.com/file/d/1HCBeC-HwTFk5bctic_T5dSDvXdnBoa2G/view)
     + [Kaggleで世界11位になったデータ解析手法〜Sansan高際睦起の模範コードに学ぶ](https://employment.en-japan.com/engineerhub/entry/2018/08/24/110000)
     + [確率的データ構造を使って巨大な集合を定数メモリで近似しよう](https://speakerdeck.com/everpeace/que-lu-de-tetagou-zao-woshi-tuteju-da-naji-he-woding-shu-memoritejin-si-siyou)
+    + [ASTを活用してコードの自動修正に挑戦してみよう](https://blog.cybozu.io/entry/2018/09/07/080000)
+    + [Kaggleで使われた特徴量エンジニアリングとアルゴリズムまとめ](http://kamonohashiperry.com/archives/1054)
+    + [木の上を歩こう](https://speakerdeck.com/hamadu/mu-falseshang-wobu-kou)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)

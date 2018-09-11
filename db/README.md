@@ -14,5 +14,9 @@
     + [リレーショナルデータベースの仕組み (1/3)](https://postd.cc/how-does-a-rdb-work-1/)
     + [MySQL Workbench VISUAL EXPLAIN でインデックスの挙動を確認する](https://engineering.linecorp.com/ja/blog/detail/355)
     + [Load Data Fast!](https://www.slideshare.net/billkarwin/load-data-fast)
+    + [Cloud Spanner のハイレベルアーキテクチャ解説](https://medium.com/google-cloud-jp/cloud-spanner-%E3%81%AE%E3%83%8F%E3%82%A4%E3%83%AC%E3%83%99%E3%83%AB%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%E8%A7%A3%E8%AA%AC-fee62c17f7ed)
+    + [MySQLのクエリの良し悪しはrows_examinedで判断する](https://blog.kamipo.net/entry/2018/03/22/084126)
+    + [RDBアンチパターン](https://speakerdeck.com/soudai/rdbantipatan)
+    + [RDB THE Right Way - builderscon 2018/ RDB_THE_Right_Way](https://speakerdeck.com/soudai/rdb-the-right-way)
 + Tool
     + [Apache Calcite](https://calcite.apache.org/)
