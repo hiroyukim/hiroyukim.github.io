@@ -16,3 +16,4 @@
 + [Golang: Difference between http.Handle and ServeMux](https://hiroyukim.github.io/blog/2018/08/22/)
 + [Where is Golang ServeMux.mu used?](https://hiroyukim.github.io/blog/2018/08/26/)
 + [Go net/http DetectContentType](https://hiroyukim.github.io/blog/2018/09/11/)
++ [Go net/http CanonicalHeaderKey](https://hiroyukim.github.io/blog/2018/09/12/)
