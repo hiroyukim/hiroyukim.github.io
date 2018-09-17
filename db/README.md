@@ -18,5 +18,6 @@
     + [MySQLのクエリの良し悪しはrows_examinedで判断する](https://blog.kamipo.net/entry/2018/03/22/084126)
     + [RDBアンチパターン](https://speakerdeck.com/soudai/rdbantipatan)
     + [RDB THE Right Way - builderscon 2018/ RDB_THE_Right_Way](https://speakerdeck.com/soudai/rdb-the-right-way)
+    + [あなたの知らない データベースのロギングの世界](https://speakerdeck.com/hfm/logging-queries)
 + Tool
     + [Apache Calcite](https://calcite.apache.org/)

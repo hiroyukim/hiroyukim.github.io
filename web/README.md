@@ -15,5 +15,6 @@
     + [ブログサービスのHTTPS化を支えたAWSで作るピタゴラスイッチ](https://speakerdeck.com/aereal/the-construction-of-large-scale-tls-certificates-management-system-with-aws)
     + [ソーシャルゲームが高負荷に陥っているとき、何が起こっているのか](https://speakerdeck.com/takihito/sosiyarugemugagao-fu-he-nixian-tuteirutoki-he-gaqi-kotuteirufalseka)
     + [パスワードレスなユーザー認証時代を迎えるためにサービス開発者がしなければならないこと - builderscon tokyo 2018](https://speakerdeck.com/ritou/ritou-user-authn-builderscon-tokyo-2018)
+    + [Webフロントエンド パフォーマンス改善ハンドブックを公開しました](https://dwango.github.io/articles/web-frontend-performance-handbook/)
 + Tool
     + [envoy](https://github.com/envoyproxy/envoy)

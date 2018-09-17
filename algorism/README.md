@@ -19,5 +19,6 @@
     + [ASTを活用してコードの自動修正に挑戦してみよう](https://blog.cybozu.io/entry/2018/09/07/080000)
     + [Kaggleで使われた特徴量エンジニアリングとアルゴリズムまとめ](http://kamonohashiperry.com/archives/1054)
     + [木の上を歩こう](https://speakerdeck.com/hamadu/mu-falseshang-wobu-kou)
+    + [Choosing the password hashing algorithm](https://github.com/riverrun/comeonin/wiki/Choosing-the-password-hashing-algorithm)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)

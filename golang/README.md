@@ -147,6 +147,9 @@
     + [GopherCon 2018 - Implementing a Network Protocol in Go](https://about.sourcegraph.com/go/gophercon-2018-implementing-a-network-protocol-in-go/)
     + [GopherCon 2018 - How to Write a Parser in Go](https://about.sourcegraph.com/go/gophercon-2018-how-to-write-a-parser-in-go/)
     + [Go http.RoundTripper 実装ガイド](https://qiita.com/tutuming/items/6006e1d8cf94bc40f8e8)
+    + [Running Golang applications inside Docker containers with auto reload](https://mikemadisonweb.github.io/2018/03/06/go-autoreload/)
+    + [Monitoring Golang web apps using Gin and Prometheus](https://banzaicloud.com/blog/monitoring-gin-with-prometheus/)
+    + [CompilerOptimizations](https://github.com/golang/go/wiki/CompilerOptimizations)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack
