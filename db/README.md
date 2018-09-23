@@ -19,5 +19,9 @@
     + [RDBアンチパターン](https://speakerdeck.com/soudai/rdbantipatan)
     + [RDB THE Right Way - builderscon 2018/ RDB_THE_Right_Way](https://speakerdeck.com/soudai/rdb-the-right-way)
     + [あなたの知らない データベースのロギングの世界](https://speakerdeck.com/hfm/logging-queries)
+    + [MySQL道普請便り](https://gihyo.jp/dev/serial/01/mysql-road-construction-news)
+    + [The ultimate text normalizer By MySQL UDF using Golang](https://speakerdeck.com/dproject21/the-ultimate-text-normalizer-by-mysql-udf-using-golang)
+    + [LINEのMySQL運用について](https://www.slideshare.net/linecorp/linemysql)
+    + [Sequel Proを超えるGUIツールが出てきたぞ](https://qiita.com//shunichi_com/items/b07ae8c678aa7c0e2ff6)
 + Tool
     + [Apache Calcite](https://calcite.apache.org/)

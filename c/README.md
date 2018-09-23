@@ -9,6 +9,7 @@
     + [gprof2dot](https://github.com/jrfonseca/gprof2dot)
 + lib
     + [A blazing fast and lightweight C asymmetric coroutine library](https://github.com/hnes/libaco)
+    + [LIBXSMM](https://github.com/hfp/libxsmm)
 + Article
     + [CTFのための gdb/gdb-peda 頻出コマンドのメモ](http://t3rry.hatenablog.com/entry/2017/07/19/010844)
     + [C言語でのコルーチン実装](http://www.spice-elec.com/Z80/multi_task/mult_task02.html)
@@ -18,6 +19,7 @@
     + [Introduction to Flex-SC threads](https://speakerdeck.com/sat/introduction-to-flex-sc-threads)
     + [いまさらC言語](https://scrapbox.io/imasaraC/)
     + [高速化チューニングとそ䛾関連技術２](http://www.r-ccs.riken.jp/r-ccssite/wp-content/uploads/2017/06/tokuronA_17_9_watanabe.pdf)
+    + [ seccamp2018でセルフホストCコンパイラをつくった](https://speakerdeck.com/anqou/seccamp2018deseruhuhosutockonpairawotukututa)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

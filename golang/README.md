@@ -46,6 +46,9 @@
 + Manual
     + [dep docs](https://golang.github.io/dep/docs/introduction.html)
 + library
+    + [pdfcpu](https://github.com/hhrutter/pdfcpu)
+    + [A high-performance goroutine pool for go](https://github.com/panjf2000/ants)
+    + [ratelimit](https://github.com/uber-go/ratelimit)
     + [memmap](https://github.com/bradleyjkemp/memmap)
     + [pop](https://github.com/markbates/pop)
         + migration tool
@@ -150,6 +153,14 @@
     + [Running Golang applications inside Docker containers with auto reload](https://mikemadisonweb.github.io/2018/03/06/go-autoreload/)
     + [Monitoring Golang web apps using Gin and Prometheus](https://banzaicloud.com/blog/monitoring-gin-with-prometheus/)
     + [CompilerOptimizations](https://github.com/golang/go/wiki/CompilerOptimizations)
+    + [Go で Network Programming するためのよもやま話](https://speakerdeck.com/ttakezawa/talk-for-network-programming-with-go)
+    + [Gophercon 2018](https://github.com/duffn/gophercon2018)
+    + [Go言語のInterfaceの考え方、Accept interfaces,return structs](https://qiita.com/weloan/items/de3b1bcabd329ec61709)
+    + [This sample code is MySQL UDF implement using Golang.](https://gist.github.com/dproject21/8269468eedb3021010eb7ed6156e1469)
+    + [Go database/sql tutorial](http://go-database-sql.org/index.html)
+    + [Asynchronous networking @ GopherCon 2018](https://speakerdeck.com/filosottile/asynchronous-networking-at-gophercon-2018)
+    + [Asynchronous Networking Patterns - mercari.go #3](https://speakerdeck.com/codehex/asynchronous-networking-patterns-mercari-dot-go-number-3)
+    + [実装して理解する 配列とスライス](https://docs.google.com/presentation/d/1uqD01huG8G9_l1O6Ruq5GEdxkCuWd4nZXdL2UuLmANQ/edit#slide=id.g42b4906f49_0_0)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

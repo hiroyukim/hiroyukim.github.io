@@ -34,6 +34,12 @@
     + [コンテナ基盤を支えるHashiCorpソフトウェア](https://speakerdeck.com/linyows/hashicorp-softwares-on-container-base)
     + [x86/x64におけるメモリオーダーの話](https://github.com/herumi/misc/blob/master/cpp/fence.md)
     + [64bitUEFIでxv6を動かす方法(xv6-前編)](http://pibvt.hateblo.jp/entry/2018/09/16/004858)
+    + [Evolution of the x86 context switch in Linux](http://www.maizure.org/projects/evolution_x86_context_switch_linux/)
+    + [An open-source x64/x32 debugger for windows.](https://x64dbg.com/#start)
+    + [極めて速いストレージとの付き合い方](https://speakerdeck.com/fadis/ji-metesu-isutorezitofalsefu-kihe-ifang)
+    + [Linuxのプロセススケジューラの歴史](https://speakerdeck.com/sat/linux-sched-history)
+    + [Xbyakの紹介とその周辺](https://www.slideshare.net/herumi/xbyak)
+    + [AVX-512（フォーマット）詳解](https://www.slideshare.net/herumi/avx512)
 + Tool
     + [Labean is a simple HTTP/HTTPS port knocker for GNU/Linux.](https://github.com/uprt/labean)
     + [howto_implement_hypervisor](https://github.com/syuu1228/howto_implement_hypervisor)

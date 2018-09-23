@@ -6,3 +6,4 @@
     + [次世代プロトコル（QUIC etc.）のセキュリティとプライバシー @ #builderscon](http://blog.kazuhooku.com/2018/09/quic-builderscon.html)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
+    + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)
