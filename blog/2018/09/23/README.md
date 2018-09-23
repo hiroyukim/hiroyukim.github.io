@@ -1,0 +1,129 @@
+## Aggregation of RFCs under src of go
+
+### Command
+
+```sh
+git clone https://github.com/golang/go.git
+cd go/
+ag 'RFC ' --heading --numbers src | ruby -ne 'puts /RFC (\d+)/.match($_)' | sort | uniq -c | sort -nr
+```
+
+### Results
+
+
+```
+  43 RFC 7231
+  38 RFC 7230
+  32 RFC 5322
+  29 RFC 3986
+  26 RFC 2047
+  21 RFC 5280
+  17 RFC 7540
+  16 RFC 6265
+  14 RFC 4648
+  12 RFC 2045
+  10 RFC 6874
+   9 RFC 1035
+   8 RFC 1950
+   7 RFC 7232
+   7 RFC 3339
+   7 RFC 1951
+   6 RFC 6532
+   6 RFC 5893
+   6 RFC 5891
+   5 RFC 6724
+   5 RFC 4918
+   5 RFC 3492
+   5 RFC 2782
+   5 RFC 1952
+   4 RFC 7541
+   4 RFC 7233
+   4 RFC 6585
+   4 RFC 5246
+   4 RFC 4346
+   4 RFC 2616
+   4 RFC 2253
+   4 RFC 2246
+   3 RFC 6762
+   3 RFC 5737
+   3 RFC 5321
+   3 RFC 5208
+   3 RFC 4291
+   3 RFC 4007
+   3 RFC 3875
+   3 RFC 3696
+   3 RFC 3279
+   3 RFC 2986
+   3 RFC 2396
+   3 RFC 2231
+   3 RFC 1423
+   3 RFC 1421
+   3 RFC 1122
+   2 RFC 822
+   2 RFC 791
+   2 RFC 7539
+   2 RFC 7534
+   2 RFC 7235
+   2 RFC 6125
+   2 RFC 5952
+   2 RFC 5915
+   2 RFC 5895
+   2 RFC 5842
+   2 RFC 5758
+   2 RFC 5480
+   2 RFC 5077
+   2 RFC 4727
+   2 RFC 4632
+   2 RFC 4492
+   2 RFC 4180
+   2 RFC 3546
+   2 RFC 3174
+   2 RFC 2183
+   2 RFC 2181
+   2 RFC 1521
+   1 RFC 959
+   1 RFC 7766
+   1 RFC 7725
+   1 RFC 7686
+   1 RFC 7538
+   1 RFC 7234
+   1 RFC 7168
+   1 RFC 7159
+   1 RFC 6890
+   1 RFC 6761
+   1 RFC 6555
+   1 RFC 6056
+   1 RFC 5966
+   1 RFC 5892
+   1 RFC 5890
+   1 RFC 5789
+   1 RFC 5234
+   1 RFC 5198
+   1 RFC 4616
+   1 RFC 4366
+   1 RFC 4231
+   1 RFC 4055
+   1 RFC 4035
+   1 RFC 3987
+   1 RFC 3879
+   1 RFC 3849
+   1 RFC 3548
+   1 RFC 3513
+   1 RFC 3280
+   1 RFC 3229
+   1 RFC 3207
+   1 RFC 2821
+   1 RFC 2774
+   1 RFC 2617
+   1 RFC 2554
+   1 RFC 2518
+   1 RFC 2388
+   1 RFC 2308
+   1 RFC 2295
+   1 RFC 2195
+   1 RFC 1929
+   1 RFC 1928
+   1 RFC 1652
+   1 RFC 1321
+   1 RFC 1034
+```

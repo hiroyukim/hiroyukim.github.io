@@ -17,3 +17,4 @@
 + [Where is Golang ServeMux.mu used?](https://hiroyukim.github.io/blog/2018/08/26/)
 + [Go net/http DetectContentType](https://hiroyukim.github.io/blog/2018/09/11/)
 + [Go net/http CanonicalHeaderKey](https://hiroyukim.github.io/blog/2018/09/12/)
++ [Aggregation of RFCs under src of go](https://hiroyukim.github.io/blog/2018/09/23/)
