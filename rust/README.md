@@ -11,3 +11,6 @@
     + [Rust Pointers for C Programmers](http://blahg.josefsipek.net/?p=580)
     + [Rustの日本語ドキュメント/Japanese Docs for Rust](https://doc.rust-jp.rs/)
     + [Rust速習会1.pdf - Speaker Deck](https://speakerdeck.com/qnighy/rustsu-xi-hui-1)
+    + [Understanding Compilers — For Humans (Version 2)](https://towardsdatascience.com/understanding-compilers-for-humans-version-2-157f0edb02dd)
+    + [最速で知る！ プログラミング言語Rustの基本機能とメモリ管理【第二言語としてのRust】](https://employment.en-japan.com/engineerhub/entry/2017/07/10/110000)
+    + [インタプリタを作ってまなぶ Rust らしい書き方](https://yuk1tyd.hatenablog.com/entry/2018/08/03/184806)

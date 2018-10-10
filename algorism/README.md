@@ -20,5 +20,10 @@
     + [Kaggleで使われた特徴量エンジニアリングとアルゴリズムまとめ](http://kamonohashiperry.com/archives/1054)
     + [木の上を歩こう](https://speakerdeck.com/hamadu/mu-falseshang-wobu-kou)
     + [Choosing the password hashing algorithm](https://github.com/riverrun/comeonin/wiki/Choosing-the-password-hashing-algorithm)
+    + [Laravel Collectionの計算量を調べてみた](https://speakerdeck.com/hanhan1978/laravel-collectionfalseji-suan-liang-wodiao-betemita)
+    + [Graph-Reading-Group](https://github.com/shagunsodhani/Graph-Reading-Group)
+    + [決定木の可視化ライブラリ「dtreeviz」が凄かったのでまとめる](http://st-hakky.hatenablog.com/entry/2018/09/30/172910)
+    + [電気通信大学 共通教育部 情報部会](https://joho.g-edu.uec.ac.jp/joho/)
+    + [チュートリアル： 計算機科学者のためのゲーム理論入門](https://jssst2015.wordpress.com/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB/)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)

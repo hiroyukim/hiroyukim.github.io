@@ -16,3 +16,5 @@
     + [A cross-platform, GPU-accelerated terminal emulator](https://github.com/jwilm/alacritty)
 + dba
     + [Triton - A DBA Framework](https://triton.quarkslab.com/)
++ name
+    + [Search how many keywords in GitHub Code by GitHub API.](https://github.com/kyoshidajp/ghkw)

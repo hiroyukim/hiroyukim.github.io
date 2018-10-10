@@ -7,6 +7,9 @@
     + [Why does Go not have assertions?](https://golang.org/doc/faq#assertions)
     + [Where is my favorite helper function for testing?](https://golang.org/doc/faq#testing_framework)
 + Tool
+    + [Biscuit research OS](https://github.com/mit-pdos/biscuit)
+    + [An Go library of synchronization primitives to help make use of hardware transactional memory (HTM)](https://github.com/linux4life798/safetyfast)
+    + [editor](https://github.com/jmigpin/editor)
     + [go-update](https://github.com/inconshreveable/go-update)
     + [pp](https://github.com/k0kubun/pp)
     + [gox](https://github.com/mitchellh/gox)
@@ -46,6 +49,8 @@
 + Manual
     + [dep docs](https://golang.github.io/dep/docs/introduction.html)
 + library
+    + [Detective](https://github.com/sohamkamani/detective)
+    + [ratelimit](https://github.com/uber-go/ratelimit)
     + [pdfcpu](https://github.com/hhrutter/pdfcpu)
     + [A high-performance goroutine pool for go](https://github.com/panjf2000/ants)
     + [ratelimit](https://github.com/uber-go/ratelimit)
@@ -161,6 +166,16 @@
     + [Asynchronous networking @ GopherCon 2018](https://speakerdeck.com/filosottile/asynchronous-networking-at-gophercon-2018)
     + [Asynchronous Networking Patterns - mercari.go #3](https://speakerdeck.com/codehex/asynchronous-networking-patterns-mercari-dot-go-number-3)
     + [実装して理解する 配列とスライス](https://docs.google.com/presentation/d/1uqD01huG8G9_l1O6Ruq5GEdxkCuWd4nZXdL2UuLmANQ/edit#slide=id.g42b4906f49_0_0)
+    + [How a Go Program Compiles down to Machine Code](https://getstream.io/blog/how-a-go-program-compiles-down-to-machine-code/)
+    + [project-layout](https://github.com/golang-standards/project-layout)
+    + [Go Mock Testing](http://www.joeldholmes.com/post/go-mock-testing/)
+    + [pprofでCPU100%になる原因を特定する](https://k1low.hatenablog.com/entry/2018/10/01/083000)
+    + [Golangのエラー処理とpkg/errors](https://deeeet.com/writing/2016/04/25/go-pkg-errors/)
+    + [Scheduling In Go - Part I](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html)
+    + [A UDP server and client in Go](https://ops.tips/blog/udp-client-and-server-in-go/)
+    + [Go × Clean Architectureのサンプル実装](http://nakawatch.hatenablog.com/entry/2018/07/11/181453)
+    + [linux: seq_fileの使い方めも](https://kernhack.hatenablog.com/entry/2018/10/08/004706)
+    + [GoのAPIのテストにおける共通処理](https://medium.com/@timakin/go-api-testing-173b97fb23ec)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

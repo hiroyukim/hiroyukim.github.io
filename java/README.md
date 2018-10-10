@@ -5,3 +5,4 @@
         + Disk-based B+-tree written in Pure Java
 + Article
     + [Apache Hadoop YARNとマルチテナントにおけるリソース管理](https://www.slideshare.net/Cloudera_jp/apache-hadoop-yarn-107568692)
+    + [Javaでつくる本格形態素解析器](https://www.slideshare.net/WorksApplications/java-82794239)

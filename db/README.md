@@ -23,5 +23,8 @@
     + [The ultimate text normalizer By MySQL UDF using Golang](https://speakerdeck.com/dproject21/the-ultimate-text-normalizer-by-mysql-udf-using-golang)
     + [LINEのMySQL運用について](https://www.slideshare.net/linecorp/linemysql)
     + [Sequel Proを超えるGUIツールが出てきたぞ](https://qiita.com//shunichi_com/items/b07ae8c678aa7c0e2ff6)
+    + [ビッグデータ処理データベースの全体像と使い分け 2018年version](https://www.slideshare.net/tetsutarowatanabe/2018version-115735455)
+    + [SQL Join Types Explained – Visualizing SQL Joins and Building on the Classic Venn Diagrams](https://dataschool.com/sql-join-types-explained-visualizing-sql-joins-and-building-on-the-classic-venn-diagrams/)
+    + [Inside PostgreSQL Kernel](https://www.postgresqlinternals.org/)
 + Tool
     + [Apache Calcite](https://calcite.apache.org/)

@@ -7,3 +7,4 @@
     + [TypeScript導入で得られる「変えていく勇気」](https://speakerdeck.com/okunokentaro/the-courage-to-change-by-typescript)
     + [JavaScript のスクリプトインポートを正しく使い分けようという話](https://nhiroki.jp/2018/09/07/javascript-import)
     + [React製のSPAのパフォーマンスチューニング実例](https://recruit-tech.co.jp/blog/2018/09/19/react_spa_performance_tuning/)
+    + [Node.jsでのイベントループの仕組みとタイマーについて](https://blog.hiroppy.me/entry/nodejs-event-loop)

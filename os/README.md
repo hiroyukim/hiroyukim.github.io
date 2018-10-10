@@ -1,6 +1,7 @@
 ## OS
 
 + Article
+    + [Linuxとかカーネル方面のYoutubeチャンネル](https://kernhack.hatenablog.com/entry/2018/08/09/102951)
     + [小さいLinux環境の作り方](https://speakerdeck.com/fadis/xiao-sailinuxhuan-jing-falsezuo-rifang)
     + [minimalなlinuxを作りたい、と思ったんだ](http://raphine.hatenablog.com/entry/2018/02/09/153356)
     + [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
@@ -40,6 +41,13 @@
     + [Linuxのプロセススケジューラの歴史](https://speakerdeck.com/sat/linux-sched-history)
     + [Xbyakの紹介とその周辺](https://www.slideshare.net/herumi/xbyak)
     + [AVX-512（フォーマット）詳解](https://www.slideshare.net/herumi/avx512)
+    + [systemtapでlivepatchする](https://kernhack.hatenablog.com/entry/2018/09/27/022147)
+    + [OSv malloc 日本語版](https://speakerdeck.com/sat/osv-malloc-ri-ben-yu-ban)
+    + [Kosaki - the malloc -](https://togetter.com/li/574262)
+    + [Linux Kernel CVE-2017-18017 の Poc を書いて検証した](https://hiboma.hatenadiary.jp/entry/2018/09/30/231018)
+    + [コンテナのセキュリティを 中身から理解しよう / inside-out-container-and-its-security](https://speakerdeck.com/udzura/inside-out-container-and-its-security)
+    + [Red Hat 認定エンジニア](https://www.redhat.com/ja/services/certification/rhce)
+    + [Red Hat エンタープライズ パフォーマンス・チューニング](https://www.redhat.com/ja/services/training/rh442-red-hat-enterprise-performance-tuning)
 + Tool
     + [Labean is a simple HTTP/HTTPS port knocker for GNU/Linux.](https://github.com/uprt/labean)
     + [howto_implement_hypervisor](https://github.com/syuu1228/howto_implement_hypervisor)
