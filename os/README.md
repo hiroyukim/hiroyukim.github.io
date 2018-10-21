@@ -48,6 +48,10 @@
     + [コンテナのセキュリティを 中身から理解しよう / inside-out-container-and-its-security](https://speakerdeck.com/udzura/inside-out-container-and-its-security)
     + [Red Hat 認定エンジニア](https://www.redhat.com/ja/services/certification/rhce)
     + [Red Hat エンタープライズ パフォーマンス・チューニング](https://www.redhat.com/ja/services/training/rh442-red-hat-enterprise-performance-tuning)
+    + [実践的低レベルプログラミング](https://tanakamura.github.io/pllp/docs/)
+    + [kABIとは何か](https://rheb.hatenablog.com/entry/2018/10/15/140149)
+    + [一週間でなれる！スパコンプログラマ](https://github.com/kaityo256/sevendayshpc)
+    + [カーネルモジュール作成によるlinuxカーネル開発入門 - 第五回 排他制御](https://qiita.com/satoru_takeuchi/items/c7534f5a683f9fdae256)
 + Tool
     + [Labean is a simple HTTP/HTTPS port knocker for GNU/Linux.](https://github.com/uprt/labean)
     + [howto_implement_hypervisor](https://github.com/syuu1228/howto_implement_hypervisor)
@@ -56,3 +60,4 @@
     + [gprof2dot](https://github.com/jrfonseca/gprof2dot)
     + [ctop](https://github.com/bcicen/ctop)
     + [BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more](https://github.com/iovisor/bcc)
+    + [NVIDIA GPUs htop like monitoring tool](https://github.com/Syllo/nvtop)

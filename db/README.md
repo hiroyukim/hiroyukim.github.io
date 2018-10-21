@@ -26,5 +26,8 @@
     + [ビッグデータ処理データベースの全体像と使い分け 2018年version](https://www.slideshare.net/tetsutarowatanabe/2018version-115735455)
     + [SQL Join Types Explained – Visualizing SQL Joins and Building on the Classic Venn Diagrams](https://dataschool.com/sql-join-types-explained-visualizing-sql-joins-and-building-on-the-classic-venn-diagrams/)
     + [Inside PostgreSQL Kernel](https://www.postgresqlinternals.org/)
+    + [クラウド時代の分散データベースを支える技術の応用と進歩](https://kuenishi.hatenadiary.jp/entry/2016/02/10/185648)
+    + [分散データベースの概念](http://otndnld.oracle.co.jp/document/products/oracle10g/102/doc_cd/server.102/B19224-02/ds_concepts.htm)
 + Tool
     + [Apache Calcite](https://calcite.apache.org/)
+    + [Apache Ignite](https://ignite.apache.org/use-cases/database/distributed-database.html)

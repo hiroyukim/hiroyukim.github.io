@@ -17,5 +17,7 @@
     + [パスワードレスなユーザー認証時代を迎えるためにサービス開発者がしなければならないこと - builderscon tokyo 2018](https://speakerdeck.com/ritou/ritou-user-authn-builderscon-tokyo-2018)
     + [Webフロントエンド パフォーマンス改善ハンドブックを公開しました](https://dwango.github.io/articles/web-frontend-performance-handbook/)
     + [大規模環境向けパケット解析ツール「Moloch」を使ってみる](https://knowledge.sakura.ad.jp/18721/)
+    + [WebAssembly Virtual Machine](https://github.com/WAVM/WAVM)
+    + [この DOM がすごい2018: worker-dom](https://mizchi.hatenablog.com/entry/2018/10/18/155448)
 + Tool
     + [envoy](https://github.com/envoyproxy/envoy)

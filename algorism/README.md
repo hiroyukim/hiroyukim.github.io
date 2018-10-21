@@ -25,5 +25,9 @@
     + [決定木の可視化ライブラリ「dtreeviz」が凄かったのでまとめる](http://st-hakky.hatenablog.com/entry/2018/09/30/172910)
     + [電気通信大学 共通教育部 情報部会](https://joho.g-edu.uec.ac.jp/joho/)
     + [チュートリアル： 計算機科学者のためのゲーム理論入門](https://jssst2015.wordpress.com/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB/)
+    + [AtCoderProblems](https://github.com/kenkoooo/AtCoderProblems)
+    + [AtCoder Grand Contest](https://kenkoooo.com/atcoder/)
+    + [Masstree: A cache-friendly mashup of tries and B-trees](https://www.the-paper-trail.org/post/masstree-paper-notes/)
+    + [Raft(分散合意アルゴリズム)について](https://gist.github.com/sile/ad435262c17eb79f133d)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)

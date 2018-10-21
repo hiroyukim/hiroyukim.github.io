@@ -8,3 +8,4 @@
     + [JavaScript のスクリプトインポートを正しく使い分けようという話](https://nhiroki.jp/2018/09/07/javascript-import)
     + [React製のSPAのパフォーマンスチューニング実例](https://recruit-tech.co.jp/blog/2018/09/19/react_spa_performance_tuning/)
     + [Node.jsでのイベントループの仕組みとタイマーについて](https://blog.hiroppy.me/entry/nodejs-event-loop)
+    + [Node.jsにおけるプロトタイプ汚染攻撃とは何か](https://jovi0608.hatenablog.com/entry/2018/10/19/083725)

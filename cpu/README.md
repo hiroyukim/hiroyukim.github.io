@@ -7,5 +7,7 @@
     + [本当にわかる Spectre と Meltdown](https://www.slideshare.net/hktechno/spectre-meltdown-110262623)
     + [琴葉姉妹と学ぶハッキング](http://www.nicovideo.jp/watch/sm33597638)
     + [Linuxがブートできる自作RISC-VシミュレータをGitHubにアップロードした](http://msyksphinz.hatenablog.com/entry/2018/09/12/040000)
+    + [APSで連載しているRISC-V入門全8回がすべて公開されました](http://msyksphinz.hatenablog.com/entry/2018/10/17/040000)
+    + [Towards fearless SIMD](https://raphlinus.github.io/rust/simd/2018/10/19/fearless-simd.html)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)

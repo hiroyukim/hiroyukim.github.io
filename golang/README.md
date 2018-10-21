@@ -7,6 +7,7 @@
     + [Why does Go not have assertions?](https://golang.org/doc/faq#assertions)
     + [Where is my favorite helper function for testing?](https://golang.org/doc/faq#testing_framework)
 + Tool
+    + [rqlite](https://github.com/rqlite/rqlite)
     + [Biscuit research OS](https://github.com/mit-pdos/biscuit)
     + [An Go library of synchronization primitives to help make use of hardware transactional memory (HTM)](https://github.com/linux4life798/safetyfast)
     + [editor](https://github.com/jmigpin/editor)
@@ -49,6 +50,8 @@
 + Manual
     + [dep docs](https://golang.github.io/dep/docs/introduction.html)
 + library
+    + [Muxie is a simple, fast and light but also fully-featured HTTP multiplexer for Go. A router for 2019](https://github.com/kataras/muxie)
+    + [bloomfilter](https://github.com/httpimp/bloomfilter)
     + [Detective](https://github.com/sohamkamani/detective)
     + [ratelimit](https://github.com/uber-go/ratelimit)
     + [pdfcpu](https://github.com/hhrutter/pdfcpu)
@@ -176,6 +179,11 @@
     + [Go × Clean Architectureのサンプル実装](http://nakawatch.hatenablog.com/entry/2018/07/11/181453)
     + [linux: seq_fileの使い方めも](https://kernhack.hatenablog.com/entry/2018/10/08/004706)
     + [GoのAPIのテストにおける共通処理](https://medium.com/@timakin/go-api-testing-173b97fb23ec)
+    + [A deep dive into the OS memory use of a simple Go program](https://utcc.utoronto.ca/~cks/space/blog/programming/GoProgramMemoryUse)
+    + [Go GC](https://engineering.linecorp.com/en/blog/detail/342)
+    + [Golang 1.11 で導入された ListenConfig を使って SO_REUSEPORT を利用する](https://christina04.hatenablog.com/entry/go-so-reuseport)
+    + [Goでnet/httpを使う時のこまごまとした注意](https://qiita.com/ono_matope/items/60e96c01b43c64ed1d18)
+    + [Sharing our Kamailio exporter for Prometheus](https://blog.callr.tech/kamailio-exporter-for-prometheus/)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack
