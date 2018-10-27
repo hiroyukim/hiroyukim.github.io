@@ -19,5 +19,7 @@
     + [大規模環境向けパケット解析ツール「Moloch」を使ってみる](https://knowledge.sakura.ad.jp/18721/)
     + [WebAssembly Virtual Machine](https://github.com/WAVM/WAVM)
     + [この DOM がすごい2018: worker-dom](https://mizchi.hatenablog.com/entry/2018/10/18/155448)
+    + [ISUCON8 本選出題記 あるいはISUCONベンチマーカー負荷調整の歴史](https://sfujiwara.hatenablog.com/entry/2018/10/25/084543)
+    + [Webアプリケーションのベンチマークをとるときに気をつけている10のこと](https://tagomoris.hatenablog.com/entry/2018/10/26/150228)
 + Tool
     + [envoy](https://github.com/envoyproxy/envoy)

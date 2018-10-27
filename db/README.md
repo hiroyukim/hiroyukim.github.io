@@ -28,6 +28,8 @@
     + [Inside PostgreSQL Kernel](https://www.postgresqlinternals.org/)
     + [クラウド時代の分散データベースを支える技術の応用と進歩](https://kuenishi.hatenadiary.jp/entry/2016/02/10/185648)
     + [分散データベースの概念](http://otndnld.oracle.co.jp/document/products/oracle10g/102/doc_cd/server.102/B19224-02/ds_concepts.htm)
+    + [making-kvs-10x-scalable](https://www.slideshare.net/frsyuki/making-kvs-10x-scalable)
+    + [Rust製の分散オブジェクトストレージをOSSとして公開しました](https://dwango.github.io/articles/frugalos/)
 + Tool
     + [Apache Calcite](https://calcite.apache.org/)
     + [Apache Ignite](https://ignite.apache.org/use-cases/database/distributed-database.html)

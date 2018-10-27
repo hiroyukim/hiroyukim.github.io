@@ -52,6 +52,10 @@
     + [kABIとは何か](https://rheb.hatenablog.com/entry/2018/10/15/140149)
     + [一週間でなれる！スパコンプログラマ](https://github.com/kaityo256/sevendayshpc)
     + [カーネルモジュール作成によるlinuxカーネル開発入門 - 第五回 排他制御](https://qiita.com/satoru_takeuchi/items/c7534f5a683f9fdae256)
+    + [ロック（ミューテックス）の再入可能性](https://yshibata.blog.so-net.ne.jp/2018-10-23)
+    + [マルチスレッドのプログラミング](https://docs.oracle.com/cd/E19455-01/806-7118/index.html)
+    + [Red Hat Enterprise Linuxの修正はどのように出荷されるか](https://speakerdeck.com/moriwaka/red-hat-enterprise-linuxfalsexiu-zheng-hadofalseyounichu-he-sareruka)
+    + [負荷テストツール Tsungについて](https://docs.google.com/presentation/d/1djUkX2WfWu79wmjK1voa3sku715ot5dj-kjNumC4kg0/edit#slide=id.g448a2d01d0_0_5)
 + Tool
     + [Labean is a simple HTTP/HTTPS port knocker for GNU/Linux.](https://github.com/uprt/labean)
     + [howto_implement_hypervisor](https://github.com/syuu1228/howto_implement_hypervisor)

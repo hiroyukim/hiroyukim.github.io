@@ -7,6 +7,7 @@
     + [Why does Go not have assertions?](https://golang.org/doc/faq#assertions)
     + [Where is my favorite helper function for testing?](https://golang.org/doc/faq#testing_framework)
 + Tool
+    + [OpenAPI for Go](https://github.com/lestrrat-go/openapi/)
     + [rqlite](https://github.com/rqlite/rqlite)
     + [Biscuit research OS](https://github.com/mit-pdos/biscuit)
     + [An Go library of synchronization primitives to help make use of hardware transactional memory (HTM)](https://github.com/linux4life798/safetyfast)
@@ -185,6 +186,12 @@
     + [Goでnet/httpを使う時のこまごまとした注意](https://qiita.com/ono_matope/items/60e96c01b43c64ed1d18)
     + [Sharing our Kamailio exporter for Prometheus](https://blog.callr.tech/kamailio-exporter-for-prometheus/)
     + [Writing A Compiler In Go](https://compilerbook.com/)
+    + [Graceful upgrades in Go](https://blog.cloudflare.com/graceful-upgrades-in-go/)
+    + [TCP over WebSocket & IAP](https://kazeburo.hatenablog.com/entry/2018/10/22/164546)
+    + [Time-based job scheduler for Apache Mesos](https://github.com/mlowicki/rhythm)
+    + [Rendering a map using Go, Mapbox and OpenStreetMap](https://remy.io/blog/rendering-a-map-using-go-mapbox-and-openstreetmap/)
+    + [golang.org/x/crypto/ssh で固まらないようにする](https://ymmt.hatenablog.com/entry/2018/10/24/172353)
+    + [Securing Your Go REST APIs With JWTs](https://tutorialedge.net/golang/authenticating-golang-rest-api-with-jwts/)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack
