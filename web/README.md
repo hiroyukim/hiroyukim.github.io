@@ -21,5 +21,7 @@
     + [この DOM がすごい2018: worker-dom](https://mizchi.hatenablog.com/entry/2018/10/18/155448)
     + [ISUCON8 本選出題記 あるいはISUCONベンチマーカー負荷調整の歴史](https://sfujiwara.hatenablog.com/entry/2018/10/25/084543)
     + [Webアプリケーションのベンチマークをとるときに気をつけている10のこと](https://tagomoris.hatenablog.com/entry/2018/10/26/150228)
+    + [Web Performance 101](https://3perf.com/talks/web-perf-101/)
+    + [JWT形式を採用したChatWorkのアクセストークンについて](https://creators-note.chatwork.com/entry/2018/09/25/132218)
 + Tool
     + [envoy](https://github.com/envoyproxy/envoy)

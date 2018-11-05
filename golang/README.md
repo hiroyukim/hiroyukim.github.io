@@ -51,6 +51,8 @@
 + Manual
     + [dep docs](https://golang.github.io/dep/docs/introduction.html)
 + library
+    + [Neural Networks written in go](https://github.com/goml/gobrain)
+    + [An extensible MySQL server implementation in Go.](https://github.com/src-d/go-mysql-server)
     + [Muxie is a simple, fast and light but also fully-featured HTTP multiplexer for Go. A router for 2019](https://github.com/kataras/muxie)
     + [bloomfilter](https://github.com/httpimp/bloomfilter)
     + [Detective](https://github.com/sohamkamani/detective)
@@ -192,6 +194,13 @@
     + [Rendering a map using Go, Mapbox and OpenStreetMap](https://remy.io/blog/rendering-a-map-using-go-mapbox-and-openstreetmap/)
     + [golang.org/x/crypto/ssh で固まらないようにする](https://ymmt.hatenablog.com/entry/2018/10/24/172353)
     + [Securing Your Go REST APIs With JWTs](https://tutorialedge.net/golang/authenticating-golang-rest-api-with-jwts/)
+    + [goroutineはなぜ軽量なのか](https://christina04.hatenablog.com/entry/why-goroutine-is-good)
+    + [The Go scheduler](https://morsmachine.dk/go-scheduler)
+    + [Go 1.11 のバグと DNS の障害の合わせ技でハマった件](https://bearmini.hatenablog.com/entry/2018/10/29/162626)
+    + [GolangでJWTの具体的な実装](https://christina04.hatenablog.com/entry/2017/04/15/042646)
+    + [JWTを認証用トークンに使う時に調べたこと](https://christina04.hatenablog.com/entry/2016/06/07/123000)
+    + [Parallel Merge Sort in Go](https://hackernoon.com/parallel-merge-sort-in-go-fe14c1bc006)
+    + [Mid-stack inlining in the Go compiler](https://docs.google.com/presentation/d/1Wcblp3jpfeKwA0Y4FOmj63PW52M_qmNqlQkNaLj0P5o/edit#slide=id.p)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

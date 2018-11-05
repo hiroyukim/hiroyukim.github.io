@@ -8,6 +8,7 @@
     + [GolangでSSHプロキシサーバを実装した](https://speakerdeck.com/tsurubee/golangtesshhurokisisahawoshi-zhuang-sita-6ff62aee-12f3-40f5-9e99-f21c5e169d97)
     + [ネットワーク系演習II：ハイパフォーマンスコンピューティング](https://github.com/fukushimalab/hpc_exercise)
     + [The Illustrated TLS Connection](https://tls.ulfheim.net/)
+    + [QUICの話 (QUICプロトコルの簡単なまとめ)](https://asnokaze.hatenablog.com/entry/2018/10/31/020215)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)

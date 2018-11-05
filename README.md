@@ -33,4 +33,6 @@
 + [poem](https://hiroyukim.github.io/poem/)
 + [emu](https://hiroyukim.github.io/emu/)
 + [game](https://hiroyukim.github.io/game/)
++ [php](https://hiroyukim.github.io/php/)
++ [iot](https://hiroyukim.github.io/iot/)
 

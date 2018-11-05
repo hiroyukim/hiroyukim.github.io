@@ -10,3 +10,6 @@
     + [Node.jsでのイベントループの仕組みとタイマーについて](https://blog.hiroppy.me/entry/nodejs-event-loop)
     + [Node.jsにおけるプロトタイプ汚染攻撃とは何か](https://jovi0608.hatenablog.com/entry/2018/10/19/083725)
     + [大量のテキストを食っても速い Markdown Editor 作った](https://mizchi.hatenablog.com/entry/2018/10/23/221446)
+    + [Node.jsにおけるprototype汚染攻撃への対策](https://techblog.securesky-tech.com/entry/2018/10/31/)
+    + [GNを使ってV8を組み込む](https://qiita.com/erukiti/items/8bfefa4320344f9df067)
+    + [React Conf 2018のKeynoteで発表されたHooks、Concurrent Reactのまとめ](https://blog.cybozu.io/entry/2018/11/02/113000)

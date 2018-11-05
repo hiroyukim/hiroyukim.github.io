@@ -55,7 +55,12 @@
     + [ロック（ミューテックス）の再入可能性](https://yshibata.blog.so-net.ne.jp/2018-10-23)
     + [マルチスレッドのプログラミング](https://docs.oracle.com/cd/E19455-01/806-7118/index.html)
     + [Red Hat Enterprise Linuxの修正はどのように出荷されるか](https://speakerdeck.com/moriwaka/red-hat-enterprise-linuxfalsexiu-zheng-hadofalseyounichu-he-sareruka)
+    + [Mac OSX におけるはりぼてOSの開発環境を（再）整備した話](https://hikalium.com/page/note/20161202.md)
     + [負荷テストツール Tsungについて](https://docs.google.com/presentation/d/1djUkX2WfWu79wmjK1voa3sku715ot5dj-kjNumC4kg0/edit#slide=id.g448a2d01d0_0_5)
+    + [Non-Blocking I/O, I/O Multiplexing, Asynchronous I/Oの区別](https://christina04.hatenablog.com/entry/2017/07/05/005944)
+    + [「30日でできる！ OS自作入門」をMac向けに環境構築する](https://qiita.com/tatsumack/items/491e47c1a7f0d48fc762)
+    + [30日でできる！ OS自作入門 Macで頑張る(環境構築)](https://qiita.com/chojuku/items/fea8adbb63410590e123)
+    + [OSDI 2010〜2018の中で個人的に面白かった論文を雑に一言づつ紹介](http://raphine.hatenablog.com/entry/2018/11/02/195815)
 + Tool
     + [Labean is a simple HTTP/HTTPS port knocker for GNU/Linux.](https://github.com/uprt/labean)
     + [howto_implement_hypervisor](https://github.com/syuu1228/howto_implement_hypervisor)

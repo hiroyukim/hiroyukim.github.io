@@ -30,6 +30,9 @@
     + [分散データベースの概念](http://otndnld.oracle.co.jp/document/products/oracle10g/102/doc_cd/server.102/B19224-02/ds_concepts.htm)
     + [making-kvs-10x-scalable](https://www.slideshare.net/frsyuki/making-kvs-10x-scalable)
     + [Rust製の分散オブジェクトストレージをOSSとして公開しました](https://dwango.github.io/articles/frugalos/)
+    + [MySQL Connector/C の現状](https://methane.hatenablog.jp/entry/2018/10/29/MySQL_Connector/C_%E3%81%AE%E7%8F%BE%E7%8A%B6)
+    + [MySQLのInnoDBプライマリーキーのチューニング](https://yakst.com/ja/posts/5247)
 + Tool
     + [Apache Calcite](https://calcite.apache.org/)
     + [Apache Ignite](https://ignite.apache.org/use-cases/database/distributed-database.html)
+    + [Compile and install MySQL](https://github.com/kamipo/mysql-build)

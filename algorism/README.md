@@ -38,5 +38,8 @@
     + [深層ニューラルネットの積分表現理論](https://t.co/N6FUq0aGMT)
     + [応用線形代数入門](http://vmls-book.stanford.edu/)
     + [統語的曖昧性・普遍性判定問題の決定可能性](https://www.slideshare.net/sinya8282/ss-120746765)
+    + [自律分散協調システム論](http://gc.sfc.keio.ac.jp/cgi/class/class_top.cgi?2007_25902)
+    + [A\*SearchAlgorithmの実装](https://github.com/chakio/ofxAStar)
+    + [線形代数の知識ゼロから始めて行列式「だけ」理解する](http://www.ajimatics.com/entry/2018/10/31/060000)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
