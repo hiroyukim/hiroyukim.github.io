@@ -32,7 +32,11 @@
     + [Rust製の分散オブジェクトストレージをOSSとして公開しました](https://dwango.github.io/articles/frugalos/)
     + [MySQL Connector/C の現状](https://methane.hatenablog.jp/entry/2018/10/29/MySQL_Connector/C_%E3%81%AE%E7%8F%BE%E7%8A%B6)
     + [MySQLのInnoDBプライマリーキーのチューニング](https://yakst.com/ja/posts/5247)
+    + [MySQLインデックスのお手入れの基本](https://yakst.com/ja/posts/4236)
+    + [Analyze PostgreSQL Slowlog with pgBadger](https://elastic-infra.com/blog/analyze-rds-for-postgresql-slowlog/)
+    + [MySQLパフォーマンスチューニングの基本ー実際のトラブルシュートから my.cnf までー/MySQL_Performance_Tuning_Basics_in_OSC_Niigata](https://speakerdeck.com/mamy1326/mysql-performance-tuning-basics-in-osc-niigata)
 + Tool
     + [Apache Calcite](https://calcite.apache.org/)
     + [Apache Ignite](https://ignite.apache.org/use-cases/database/distributed-database.html)
     + [Compile and install MySQL](https://github.com/kamipo/mysql-build)
+    + [innodb_ruby](https://github.com/jeremycole/innodb_ruby)

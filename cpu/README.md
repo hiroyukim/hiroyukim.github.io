@@ -11,5 +11,6 @@
     + [Towards fearless SIMD](https://raphlinus.github.io/rust/simd/2018/10/19/fearless-simd.html)
     + [RISC-Vのハイパーバイザ仕様について調べる(1. ハイパーバイザのモードと主要システムレジスタについて)](http://msyksphinz.hatenablog.com/entry/2018/10/29/040000)
     + [【翻訳】RISC-V ISAにまつわる11の作り話(誤解・勘違い・神話？)](http://msyksphinz.hatenablog.com/entry/2018/02/02/040000)
+    + [PortSmashで学ぶ高性能プロセッサの同時マルチスレッディング](http://msyksphinz.hatenablog.com/entry/2018/11/09/040000)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)

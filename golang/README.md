@@ -7,6 +7,8 @@
     + [Why does Go not have assertions?](https://golang.org/doc/faq#assertions)
     + [Where is my favorite helper function for testing?](https://golang.org/doc/faq#testing_framework)
 + Tool
+    + [A Lightweight fast recursive dns server with dnssec support](https://semihalev.github.io/sdns/)
+    + [Package ql is a pure Go embedded SQL database.](https://github.com/cznic/ql)
     + [OpenAPI for Go](https://github.com/lestrrat-go/openapi/)
     + [rqlite](https://github.com/rqlite/rqlite)
     + [Biscuit research OS](https://github.com/mit-pdos/biscuit)
@@ -51,6 +53,7 @@
 + Manual
     + [dep docs](https://golang.github.io/dep/docs/introduction.html)
 + library
+    + [Use Golang to implement PHP's common built-in functions.](https://github.com/syyongx/php2go)
     + [Neural Networks written in go](https://github.com/goml/gobrain)
     + [An extensible MySQL server implementation in Go.](https://github.com/src-d/go-mysql-server)
     + [Muxie is a simple, fast and light but also fully-featured HTTP multiplexer for Go. A router for 2019](https://github.com/kataras/muxie)
@@ -201,6 +204,8 @@
     + [JWTを認証用トークンに使う時に調べたこと](https://christina04.hatenablog.com/entry/2016/06/07/123000)
     + [Parallel Merge Sort in Go](https://hackernoon.com/parallel-merge-sort-in-go-fe14c1bc006)
     + [Mid-stack inlining in the Go compiler](https://docs.google.com/presentation/d/1Wcblp3jpfeKwA0Y4FOmj63PW52M_qmNqlQkNaLj0P5o/edit#slide=id.p)
+    + [Go言語の並行性を映像化する](https://postd.cc/go_concurrency_visualize/)
+    + [Golang だけでやる機械学習と画像分類](https://mattn.kaoriya.net/software/lang/go/20181108123756.htm)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

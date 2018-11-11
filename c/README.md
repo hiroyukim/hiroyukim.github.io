@@ -23,6 +23,7 @@
     + [全てのCプログラマが未定義な振る舞いについて知っておくべきこと](http://blog-ja.intransient.info/2011/05/c-23.html?m=1)
     + [低レイヤを知りたい人のための Cコンパイラ作成入](https://www.sigbus.info/compilerbook/)
     + [C言語でヒープ領域にある機械語列に実行権限を与え，実行する方法．](http://alphakai.hatenadiary.jp/entry/2018/11/03/164841)
+    + [30日でできるＣコンパイラ自作入門](https://docs.google.com/presentation/d/1p2iD4gRLFP_K0L7vUAhtP3NcSBhx-wK9v4R03oGyJSQ/mobilepresent?slide=id.p)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

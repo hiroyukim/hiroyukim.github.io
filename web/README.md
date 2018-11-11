@@ -23,5 +23,8 @@
     + [Webアプリケーションのベンチマークをとるときに気をつけている10のこと](https://tagomoris.hatenablog.com/entry/2018/10/26/150228)
     + [Web Performance 101](https://3perf.com/talks/web-perf-101/)
     + [JWT形式を採用したChatWorkのアクセストークンについて](https://creators-note.chatwork.com/entry/2018/09/25/132218)
+    + [インターネットコンテンツブロッキングに関するISOCの見解](https://www.isoc.jp/OnlineDocuments/contents_blocking.html)
+    + [マイクロサービス時代の認証と認可 - AWS Dev Day Tokyo 2018 #AWSDevDay](https://www.slideshare.net/daisuke_m/ss-121478137)
+    + [HTTP over QUICと、その名称について (HTTP3について)](https://asnokaze.hatenablog.com/entry/2018/11/06/025016)
 + Tool
     + [envoy](https://github.com/envoyproxy/envoy)

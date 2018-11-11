@@ -61,6 +61,13 @@
     + [「30日でできる！ OS自作入門」をMac向けに環境構築する](https://qiita.com/tatsumack/items/491e47c1a7f0d48fc762)
     + [30日でできる！ OS自作入門 Macで頑張る(環境構築)](https://qiita.com/chojuku/items/fea8adbb63410590e123)
     + [OSDI 2010〜2018の中で個人的に面白かった論文を雑に一言づつ紹介](http://raphine.hatenablog.com/entry/2018/11/02/195815)
+    + [試して理解 Linuxのプロセススケジューラのしくみ](https://speakerdeck.com/sat/shi-siteli-jie-linuxfalsepurosesusukeziyurafalsesikumi)
+    + [詳解 Reliable UDP](https://speakerdeck.com/fadis/xiang-jie-reliable-udp)
+    + [USB3ホストドライバのクラス構成](https://www.slideshare.net/uchan_nos/usb3-host-driver-program-structure)
+    + [AMD EPYCによるDPDKチュートリアル](https://speakerdeck.com/bashow0316/amd-epycniyoru-dpdktiyutoriaru-bd8f13a4-8a54-431b-be87-719015569e33)
+    + [Linuxカーネルの学び方](https://docs.google.com/presentation/d/1h13foqKNBW6Q6x0V70SGvSr4xlPrVsGQ-7J3Gotd9Uk/edit#slide=id.g194a858a32_2_64)
+    + [試して理解 ARMv6 MMU/kernelvm hokuriku4](https://speakerdeck.com/tnishinaga/kernelvm-hokuriku4)
+    + [open()の実装を読んでみる](https://speakerdeck.com/happynote3966/open-falseshi-zhuang-wodu-ndemiru)
 + Tool
     + [Labean is a simple HTTP/HTTPS port knocker for GNU/Linux.](https://github.com/uprt/labean)
     + [howto_implement_hypervisor](https://github.com/syuu1228/howto_implement_hypervisor)

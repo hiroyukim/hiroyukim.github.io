@@ -41,5 +41,6 @@
     + [自律分散協調システム論](http://gc.sfc.keio.ac.jp/cgi/class/class_top.cgi?2007_25902)
     + [A\*SearchAlgorithmの実装](https://github.com/chakio/ofxAStar)
     + [線形代数の知識ゼロから始めて行列式「だけ」理解する](http://www.ajimatics.com/entry/2018/10/31/060000)
+    + [楕円曲線, ペアリング演算ライブラリmclの実装詳解](https://github.com/herumi/opti/blob/master/doc/field-impl.md)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
