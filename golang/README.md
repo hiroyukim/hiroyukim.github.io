@@ -7,6 +7,8 @@
     + [Why does Go not have assertions?](https://golang.org/doc/faq#assertions)
     + [Where is my favorite helper function for testing?](https://golang.org/doc/faq#testing_framework)
 + Tool
+    + [Repository for GopherCon UK 2018 talk on microservices with Go](https://github.com/dlsniper/gopherconuk)
+    + [A Distributed Redis Protocol Compatible NoSQL Database](https://github.com/meitu/titan)
     + [A Lightweight fast recursive dns server with dnssec support](https://semihalev.github.io/sdns/)
     + [Package ql is a pure Go embedded SQL database.](https://github.com/cznic/ql)
     + [OpenAPI for Go](https://github.com/lestrrat-go/openapi/)
@@ -53,6 +55,8 @@
 + Manual
     + [dep docs](https://golang.github.io/dep/docs/introduction.html)
 + library
+    + [A Lua 5.3 engine implemented in Go](https://github.com/Azure/golua)
+    + [bandwidth limiting pipe with collaborative capability](https://github.com/kazeburo/sabo)
     + [Use Golang to implement PHP's common built-in functions.](https://github.com/syyongx/php2go)
     + [Neural Networks written in go](https://github.com/goml/gobrain)
     + [An extensible MySQL server implementation in Go.](https://github.com/src-d/go-mysql-server)
@@ -206,6 +210,15 @@
     + [Mid-stack inlining in the Go compiler](https://docs.google.com/presentation/d/1Wcblp3jpfeKwA0Y4FOmj63PW52M_qmNqlQkNaLj0P5o/edit#slide=id.p)
     + [Go言語の並行性を映像化する](https://postd.cc/go_concurrency_visualize/)
     + [Golang だけでやる機械学習と画像分類](https://mattn.kaoriya.net/software/lang/go/20181108123756.htm)
+    + [ldflagsを使おうとしてハマったこと](https://christina04.hatenablog.com/entry/2016/12/08/101114)
+    + [Go 1.10でGolangのプロファイリングツール pprof のWebUIが入った話](http://blog.keepdata.jp/entry/2018/04/19/102929)
+    + [GoAWK, an AWK interpreter written in Go](https://benhoyt.com/writings/goawk/)
+    + [GoConで発表してきたのでついでにruntime以下の知識をまとめていく #golang](http://niconegoto.hatenadiary.jp/entry/2017/04/11/092810)
+    + [Using Go 1.10 new trace features to debug an integration test](https://medium.com/@cep21/using-go-1-10-new-trace-features-to-debug-an-integration-test-1dc39e4e812d)
+    + [golang製ベンチマークツール『hey』を使ってみた](https://blog.motikan2010.com/entry/2017/01/17/golang%E8%A3%BD%E3%83%99%E3%83%B3%E3%83%81%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%84%E3%83%BC%E3%83%AB%E3%80%8Ehey%E3%80%8F)
+    + [LockOSThread](https://github.com/golang/go/wiki/LockOSThread)
+    + [Golang escape analysis](http://www.agardner.me/golang/garbage/collection/gc/escape/analysis/2015/10/18/go-escape-analysis.html)
+    + [Golang エスケープ解析](https://qiita.com/KoyaFukushi/items/fc532d7dae29381e8186)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

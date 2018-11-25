@@ -21,3 +21,7 @@
     + [Triton - A DBA Framework](https://triton.quarkslab.com/)
 + name
     + [Search how many keywords in GitHub Code by GitHub API.](https://github.com/kyoshidajp/ghkw)
++ aws
+    + [Fast, multi-purpose tool for AWS CloudWatch Logs](https://github.com/TylerBrock/saw)
++ memo
+    + [memo](https://github.com/mattn/memo)

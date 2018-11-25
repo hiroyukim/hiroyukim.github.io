@@ -13,3 +13,4 @@
     + [Node.jsにおけるprototype汚染攻撃への対策](https://techblog.securesky-tech.com/entry/2018/10/31/)
     + [GNを使ってV8を組み込む](https://qiita.com/erukiti/items/8bfefa4320344f9df067)
     + [React Conf 2018のKeynoteで発表されたHooks、Concurrent Reactのまとめ](https://blog.cybozu.io/entry/2018/11/02/113000)
+    + [JavaScriptの入門書を jsprimer.net で公開しました](https://efcl.info/2018/10/26/jsprimer.net/)

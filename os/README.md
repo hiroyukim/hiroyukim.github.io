@@ -68,6 +68,10 @@
     + [Linuxカーネルの学び方](https://docs.google.com/presentation/d/1h13foqKNBW6Q6x0V70SGvSr4xlPrVsGQ-7J3Gotd9Uk/edit#slide=id.g194a858a32_2_64)
     + [試して理解 ARMv6 MMU/kernelvm hokuriku4](https://speakerdeck.com/tnishinaga/kernelvm-hokuriku4)
     + [open()の実装を読んでみる](https://speakerdeck.com/happynote3966/open-falseshi-zhuang-wodu-ndemiru)
+    + [（ネタ）ユーザー空間だけでプリエンプションする](http://raphine.hatenablog.com/entry/2018/11/12/091104)
+    + [AES-NIという加速装置のお話](http://geniee.hatenablog.com/entry/2014/10/03/190000)
+    + [コンテナ未経験新人が学ぶコンテナ技術入門](https://www.slideshare.net/KoheiTokunaga/ss-122754942)
+    + [HermitCore](https://hermitcore.org/)
 + Tool
     + [Labean is a simple HTTP/HTTPS port knocker for GNU/Linux.](https://github.com/uprt/labean)
     + [howto_implement_hypervisor](https://github.com/syuu1228/howto_implement_hypervisor)

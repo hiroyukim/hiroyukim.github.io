@@ -12,5 +12,7 @@
     + [RISC-Vのハイパーバイザ仕様について調べる(1. ハイパーバイザのモードと主要システムレジスタについて)](http://msyksphinz.hatenablog.com/entry/2018/10/29/040000)
     + [【翻訳】RISC-V ISAにまつわる11の作り話(誤解・勘違い・神話？)](http://msyksphinz.hatenablog.com/entry/2018/02/02/040000)
     + [PortSmashで学ぶ高性能プロセッサの同時マルチスレッディング](http://msyksphinz.hatenablog.com/entry/2018/11/09/040000)
+    + [Day 7 : SIMD化](https://github.com/kaityo256/sevendayshpc/blob/master/day7/README.md)
+    + [2018年のRISC-V関係の(私の)講演資料をすべて公開しました](http://msyksphinz.hatenablog.com/entry/2018/11/15/040000)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)

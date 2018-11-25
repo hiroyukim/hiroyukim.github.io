@@ -7,6 +7,7 @@
     + [gperftools](https://github.com/gperftools/gperftools)
     + [Google Perftoolsを導入する](http://msyksphinz.hatenablog.com/entry/2015/08/28/020000)
     + [gprof2dot](https://github.com/jrfonseca/gprof2dot)
+    + [rr](https://rr-project.org/)
 + lib
     + [A blazing fast and lightweight C asymmetric coroutine library](https://github.com/hnes/libaco)
     + [LIBXSMM](https://github.com/hfp/libxsmm)
