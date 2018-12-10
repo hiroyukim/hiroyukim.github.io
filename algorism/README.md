@@ -42,5 +42,7 @@
     + [A\*SearchAlgorithmの実装](https://github.com/chakio/ofxAStar)
     + [線形代数の知識ゼロから始めて行列式「だけ」理解する](http://www.ajimatics.com/entry/2018/10/31/060000)
     + [楕円曲線, ペアリング演算ライブラリmclの実装詳解](https://github.com/herumi/opti/blob/master/doc/field-impl.md)
+    + [メンヘラちゃんと学ぶディープラーニング最新論文](http://deeplearning.hatenablog.com/entry/menhera_chan)
+    + [東京大学の講義](http://ocwx.ocw.u-tokyo.ac.jp/)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)

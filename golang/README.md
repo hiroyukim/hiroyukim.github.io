@@ -7,6 +7,7 @@
     + [Why does Go not have assertions?](https://golang.org/doc/faq#assertions)
     + [Where is my favorite helper function for testing?](https://golang.org/doc/faq#testing_framework)
 + Tool
+    + [Golang terminal emulator from scratch](https://github.com/liamg/aminal/)
     + [Repository for GopherCon UK 2018 talk on microservices with Go](https://github.com/dlsniper/gopherconuk)
     + [A Distributed Redis Protocol Compatible NoSQL Database](https://github.com/meitu/titan)
     + [A Lightweight fast recursive dns server with dnssec support](https://semihalev.github.io/sdns/)
@@ -219,6 +220,13 @@
     + [LockOSThread](https://github.com/golang/go/wiki/LockOSThread)
     + [Golang escape analysis](http://www.agardner.me/golang/garbage/collection/gc/escape/analysis/2015/10/18/go-escape-analysis.html)
     + [Golang エスケープ解析](https://qiita.com/KoyaFukushi/items/fc532d7dae29381e8186)
+    + [Generator Pattern](https://blog.web-apps.tech/generator-pattern/)
+    + [Road to your goroutines](https://speakerdeck.com/monochromegane/road-to-your-goroutines)
+    + [フィードバック制御によるGoroutine起動数の最適化](https://speakerdeck.com/monochromegane/optimization-of-goroutine-numbers-by-feedback-control)
+    + [Goを運用アプリケーションに導入する際のレイヤ構造模索の旅路](https://devblog.thebase.in/entry/2018/11/26/102401)
+    + [Profiling Go Application](https://speakerdeck.com/orisano/profiling-go-application)
+    + [Go言語のFunctional Option Pattern](https://qiita.com/weloan/items/56f1c7792088b5ede136)
+    + [Golang API Testing the HARD way](https://speakerdeck.com/timakin/golang-api-testing-the-hard-way)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

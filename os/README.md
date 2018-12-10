@@ -72,6 +72,8 @@
     + [AES-NIという加速装置のお話](http://geniee.hatenablog.com/entry/2014/10/03/190000)
     + [コンテナ未経験新人が学ぶコンテナ技術入門](https://www.slideshare.net/KoheiTokunaga/ss-122754942)
     + [HermitCore](https://hermitcore.org/)
+    + [月刊 OSASK 01/10号](https://archives.mag2.com/0000081647/20020110093000000.html)
+    + [Linux カーネルおさんぽマップ〜時計編〜 ](https://orumin.blogspot.com/2018/05/linux.html)
 + Tool
     + [Labean is a simple HTTP/HTTPS port knocker for GNU/Linux.](https://github.com/uprt/labean)
     + [howto_implement_hypervisor](https://github.com/syuu1228/howto_implement_hypervisor)
