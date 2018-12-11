@@ -74,6 +74,10 @@
     + [HermitCore](https://hermitcore.org/)
     + [月刊 OSASK 01/10号](https://archives.mag2.com/0000081647/20020110093000000.html)
     + [Linux カーネルおさんぽマップ〜時計編〜 ](https://orumin.blogspot.com/2018/05/linux.html)
+    + [QEMUのトレース機能でOSのデバッグを支援する](http://uchan.hateblo.jp/entry/2018/12/01/080000)
+    + [「30日でできる！OS自作入門」のHaribote OSをラズベリーパイに移植してみた](http://uzusayuu.hatenadiary.jp/entry/2017/02/12/064131)
+    + [SIMD-Visualiser](https://github.com/piotte13/SIMD-Visualiser)
+    + [RustでRISC-V OS自作！はじめの一歩](https://qiita.com/tomoyuki-nakabayashi/items/76f912adb6b7da6030c7)
 + Tool
     + [Labean is a simple HTTP/HTTPS port knocker for GNU/Linux.](https://github.com/uprt/labean)
     + [howto_implement_hypervisor](https://github.com/syuu1228/howto_implement_hypervisor)

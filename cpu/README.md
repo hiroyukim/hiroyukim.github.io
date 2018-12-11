@@ -15,5 +15,6 @@
     + [Day 7 : SIMD化](https://github.com/kaityo256/sevendayshpc/blob/master/day7/README.md)
     + [2018年のRISC-V関係の(私の)講演資料をすべて公開しました](http://msyksphinz.hatenablog.com/entry/2018/11/15/040000)
     + [x86の機械語](https://web.archive.org/web/20120302175520/http://dl.dropbox.com/u/2476414/TechResources/x86_opcodemap_1_a4.pdf)
+    + [Lecture 1: Introduction + Throughput Hardware Review](http://cs348k.stanford.edu/fall18/lecture/introreview)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)

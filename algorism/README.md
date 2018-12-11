@@ -44,5 +44,8 @@
     + [楕円曲線, ペアリング演算ライブラリmclの実装詳解](https://github.com/herumi/opti/blob/master/doc/field-impl.md)
     + [メンヘラちゃんと学ぶディープラーニング最新論文](http://deeplearning.hatenablog.com/entry/menhera_chan)
     + [東京大学の講義](http://ocwx.ocw.u-tokyo.ac.jp/)
+    + [組合せ最適化で最短超文字列問題を解く](https://qiita.com/SaitoTsutomu/items/b24b2e3e4d143e6ba99e)
+    + [機械学習の中身を理解する](https://speakerdeck.com/hamukazu/ji-jie-xue-xi-falsezhong-shen-woli-jie-suru)
+    + [数値解析](http://ocwx.ocw.u-tokyo.ac.jp/course_11404/)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)

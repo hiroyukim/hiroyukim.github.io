@@ -28,5 +28,7 @@
     + [HTTP over QUICと、その名称について (HTTP3について)](https://asnokaze.hatenablog.com/entry/2018/11/06/025016)
     + [A survey of anomaly detection methodologies for web system](https://speakerdeck.com/rrreeeyyy/a-survey-of-anomaly-detection-methodologies-for-web-system)
     + [HTTP/3 explained](https://daniel.haxx.se/http3-explained/)
+    + [認証にまつわるセキュリティの新常識](https://speakerdeck.com/kthrtty/ren-zheng-nimatuwarusekiyuriteifalsexin-chang-shi)
+    + [The new LINE Ads Platform](https://www.slideshare.net/linecorp/the-new-line-ads-platform)
 + Tool
     + [envoy](https://github.com/envoyproxy/envoy)
