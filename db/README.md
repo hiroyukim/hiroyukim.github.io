@@ -36,6 +36,7 @@
     + [Analyze PostgreSQL Slowlog with pgBadger](https://elastic-infra.com/blog/analyze-rds-for-postgresql-slowlog/)
     + [MySQLパフォーマンスチューニングの基本ー実際のトラブルシュートから my.cnf までー/MySQL_Performance_Tuning_Basics_in_OSC_Niigata](https://speakerdeck.com/mamy1326/mysql-performance-tuning-basics-in-osc-niigata)
     + [Ceph - a scalable distributed storage system](https://github.com/ceph/ceph)
+    + [分散ストレージソフトウェアCephとは](https://blog.cybozu.io/entry/2018/12/13/103039)
 + Tool
     + [Apache Calcite](https://calcite.apache.org/)
     + [Apache Ignite](https://ignite.apache.org/use-cases/database/distributed-database.html)

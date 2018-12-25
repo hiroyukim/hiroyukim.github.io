@@ -15,3 +15,7 @@
     + [最速で知る！ プログラミング言語Rustの基本機能とメモリ管理【第二言語としてのRust】](https://employment.en-japan.com/engineerhub/entry/2017/07/10/110000)
     + [インタプリタを作ってまなぶ Rust らしい書き方](https://yuk1tyd.hatenablog.com/entry/2018/08/03/184806)
     + [NLL のおかげで Rust で平衡二分木を実装できた](https://nojima.hatenablog.com/entry/2018/11/20/080000)
+    + [Inside Rust's Async Transform](https://blag.nemo157.com/2018/12/09/inside-rusts-async-transform.html)
+    + [メモリで見るRustの所有権と移動](https://mrsekut.site/?p=3280)
+    + [Rustで書かれたVMM firecrackerを読もう！(1)](https://tomo-wait-for-it-yuki.hatenablog.com/entry/2018/12/12/214332)
+    + [Rustでテキストエディタを作る](https://qiita.com/hatoo@github/items/905a19a98876e7446edf)

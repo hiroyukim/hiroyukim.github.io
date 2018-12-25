@@ -30,5 +30,10 @@
     + [HTTP/3 explained](https://daniel.haxx.se/http3-explained/)
     + [認証にまつわるセキュリティの新常識](https://speakerdeck.com/kthrtty/ren-zheng-nimatuwarusekiyuriteifalsexin-chang-shi)
     + [The new LINE Ads Platform](https://www.slideshare.net/linecorp/the-new-line-ads-platform)
+    + [Web セキュリティ入門 / Introduction to Web Security](https://speakerdeck.com/lmt_swallow/introduction-to-web-security)
+    + [時雨堂 QUIC サーバ 開発ログ](https://gist.github.com/voluntas/7cca63e5ea8fa87942b9ab6d97490593)
+    + [Google Cloud Platform ブログの膨大な情報を自分なりに整頓してみた](https://qiita.com/ao_log/items/47ae92641bbdc0cf8fb1)
+    + [Kubernetesを分かりやすく説明してくれるキャラクター「Captain Kube」や「Phippy」ら、Cloud Native Computing Foundation傘下で公開](https://www.publickey1.jp/blog/18/kubernetescaptain_kubephippycloud_native_computing_foundation.html)
+    + [Google App EngineでGoを動かすときに知っておくべきこと（ソースコード・ビルド編）](https://motemen.hatenablog.com/entry/2016/11/gae-go-building)
 + Tool
     + [envoy](https://github.com/envoyproxy/envoy)

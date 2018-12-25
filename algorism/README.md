@@ -47,5 +47,9 @@
     + [組合せ最適化で最短超文字列問題を解く](https://qiita.com/SaitoTsutomu/items/b24b2e3e4d143e6ba99e)
     + [機械学習の中身を理解する](https://speakerdeck.com/hamukazu/ji-jie-xue-xi-falsezhong-shen-woli-jie-suru)
     + [数値解析](http://ocwx.ocw.u-tokyo.ac.jp/course_11404/)
+    + [01-BFSのちょっと丁寧な解説](https://betrue12.hateblo.jp/entry/2018/12/08/000020)
+    + [Suffix Array](https://qiita.com/flare/items/20439a1db54b367eea70)
+    + [文字列検索アルゴリズムの覚え書き](https://nebuta.hatenablog.jp/entry/20110127/1296115997)
+    + [GabowのEdmonds' Algorithm(一般マッチング O(VElogV))の解説と実装](https://qiita.com/Kutimoti_T/items/5b579773e0a24d650bdf)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)

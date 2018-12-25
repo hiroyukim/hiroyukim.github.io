@@ -27,6 +27,7 @@
     + [30日でできるＣコンパイラ自作入門](https://docs.google.com/presentation/d/1p2iD4gRLFP_K0L7vUAhtP3NcSBhx-wK9v4R03oGyJSQ/mobilepresent?slide=id.p)
     + [自作Cコンパイラのススメ](https://speakerdeck.com/utam0k/zi-zuo-ckonpairafalsesusume)
     + [コンパイラ開発から学ぶ大規模開発 / Large-Scale Development Learned from Compiler Development](https://speakerdeck.com/uoo38/large-scale-development-learned-from-compiler-development)
+    + [C言語でhello worldを書く](https://qiita.com/MysticDoll/items/9fe0991167158aa4e09d)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

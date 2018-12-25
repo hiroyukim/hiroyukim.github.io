@@ -7,6 +7,7 @@
     + [Why does Go not have assertions?](https://golang.org/doc/faq#assertions)
     + [Where is my favorite helper function for testing?](https://golang.org/doc/faq#testing_framework)
 + Tool
+    + [systemboot](https://github.com/systemboot/systemboot)
     + [errcheck checks that you checked errors.](https://github.com/kisielk/errcheck)
     + [Golang terminal emulator from scratch](https://github.com/liamg/aminal/)
     + [Repository for GopherCon UK 2018 talk on microservices with Go](https://github.com/dlsniper/gopherconuk)
@@ -57,6 +58,7 @@
 + Manual
     + [dep docs](https://golang.github.io/dep/docs/introduction.html)
 + library
+    + [A StreamLike, Immutable, Lazy Loading and smart Golang Library to deal with slices.](https://github.com/wesovilabs/koazee)
     + [A Lua 5.3 engine implemented in Go](https://github.com/Azure/golua)
     + [bandwidth limiting pipe with collaborative capability](https://github.com/kazeburo/sabo)
     + [Use Golang to implement PHP's common built-in functions.](https://github.com/syyongx/php2go)
@@ -242,7 +244,19 @@
     + [go runの実行をwrapしてhttp/httpsのrequestを手軽にtraceしたい](https://qiita.com/podhmo/items/b4056243699388b41133)
     + [「たぶんみんな間違えてる golang の HTTP Respose Body の閉じ方」は間違えてる](http://ikawaha.hateblo.jp/entry/2015/06/07/074155)
     + [How to build a simple artificial neural network with Go](https://sausheong.github.io/posts/how-to-build-a-simple-artificial-neural-network-with-go/)
+    + [MTC2018 カンファレンスLPの裏話 〜GraphQL編〜](https://tech.mercari.com/entry/2018/10/24/111227)
     + [Go Meta Linter がサポートするツールまとめ](http://tech.sideci.com/entry/2017/01/10/110000)
+    + [Go + Google Cloud Pub/Sub で GAE SE (gen1) から Publish するときの注意点](https://qiita.com/avvmoto/items/6d9f994cfa157d95bc5a)
+    + [Go Meta Linter がサポートするツールまとめ](http://tech.sideci.com/entry/2017/01/10/110000)
+    + [Go でアプリケーションとクライアントのミドルウェアを作成する方法知ってますか？](https://qiita.com/codehex/items/d3741b66b0ccee7a216d)
+    + [「例外」がないからGo言語はイケてないとかって言ってるヤツが本当にイケてない件](https://qiita.com/Maki-Daisuke/items/80cbc26ca43cca3de4e4)
+    + [golang.tokyo 静的解析Dayでgolang.org/x/tools/go/analysisを使ってみた](https://daisuzu.hatenablog.com/entry/2018/12/08/225147)
+    + [GoのWebアプリケーションのSQLロガーとパフォーマンス分析ツールを作ってみた](https://serinuntius.hatenablog.jp/entry/2018/12/11/001755)
+    + [Go でテキストエディタを開発しよう!!](https://qiita.com/akif999/items/354e9e6fb6cd35aa4801)
+    + [Controlling the Docker Engine from Go](https://medium.com/tarkalabs/controlling-the-docker-engine-in-go-826012f9671c)
+    + [http.RoundTripperでHTTPクライアントを拡張する](https://qiita.com/lufia/items/58f714d663a956dc55cc)
+    + [Try Golang! Google App Engineへのデプロイ時にvendorで困った話](https://medium.com/veltra-engineering/be-careful-when-deploying-golang-app-with-vendor-to-gae-4a12ad12b65f)
+    + [Goのカスタムエラーとその自動生成について](http://akito0107.hatenablog.com/entry/2018/12/14/112717)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

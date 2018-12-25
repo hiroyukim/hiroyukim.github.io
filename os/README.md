@@ -78,6 +78,10 @@
     + [「30日でできる！OS自作入門」のHaribote OSをラズベリーパイに移植してみた](http://uzusayuu.hatenadiary.jp/entry/2017/02/12/064131)
     + [SIMD-Visualiser](https://github.com/piotte13/SIMD-Visualiser)
     + [RustでRISC-V OS自作！はじめの一歩](https://qiita.com/tomoyuki-nakabayashi/items/76f912adb6b7da6030c7)
+    + [BIOS で消耗するな、 UEFI で消耗せよ。](https://neriring.hatenablog.jp/entry/2018/12/07/190016)
+    + [Linuxのsyscallハンドラのエントリポイントがたくさんあるんだが -> 完全に理解した](http://morimolymoly.hateblo.jp/entry/2018/10/17/222035)
+    + [Kubernetesがいかに自動化の考え方を変えたか?](https://deeeet.com/writing/2018/12/13/how-kubernetes-change-our-way-of-automation/)
+    + [FreeBSDのオンラインカーネルデバッグ with QEMU](https://www.utam0k.jp/blog/2018/12/12/freebsd_on-line_debugging/)
 + Tool
     + [Labean is a simple HTTP/HTTPS port knocker for GNU/Linux.](https://github.com/uprt/labean)
     + [howto_implement_hypervisor](https://github.com/syuu1228/howto_implement_hypervisor)
