@@ -50,6 +50,6 @@
     + [01-BFSのちょっと丁寧な解説](https://betrue12.hateblo.jp/entry/2018/12/08/000020)
     + [Suffix Array](https://qiita.com/flare/items/20439a1db54b367eea70)
     + [文字列検索アルゴリズムの覚え書き](https://nebuta.hatenablog.jp/entry/20110127/1296115997)
-    + [GabowのEdmonds' Algorithm(一般マッチング O(VElogV))の解説と実装](https://qiita.com/Kutimoti_T/items/5b579773e0a24d650bdf)
+    + [GabowのEdmonds' Algorithm一般マッチング](https://qiita.com/Kutimoti_T/items/5b579773e0a24d650bdf)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)

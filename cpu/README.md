@@ -17,7 +17,7 @@
     + [x86の機械語](https://web.archive.org/web/20120302175520/http://dl.dropbox.com/u/2476414/TechResources/x86_opcodemap_1_a4.pdf)
     + [Lecture 1: Introduction + Throughput Hardware Review](http://cs348k.stanford.edu/fall18/lecture/introreview)
     + [ARM1 Gate-level Simulation](http://visual6502.org/sim/varm/armgl.html)
-    + [Chiselを使ってCPUを作ろう(14. 2段パイプラインのデザインをGitHubに公開しました)](http://msyksphinz.hatenablog.com/entry/2018/12/08/040000)
+    + [Chiselを使ってCPUを作ろう 14. 2段パイプラインのデザインをGitHubに公開しました](http://msyksphinz.hatenablog.com/entry/2018/12/08/040000)
     + [論理回路考古学のススメ](http://pgate1.s602.xrea.com/LogicCircuitArchitectureArcheology.pdf)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
