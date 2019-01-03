@@ -7,3 +7,8 @@
     + [JITあれこれ](https://keens.github.io/blog/2018/12/01/jitarekore/)
     + [compilium v2](https://hikalium.hatenablog.jp/entry/2018/12/07/210646)
     + [JIT電卓言語を作る](https://qiita.com/snowlt23/items/3ae2ae27726355fe814c)
+    + [rev.ng](https://rev.ng/)
+    + [aqcc のソースコードを読みたい: リンカ編](https://anqou.net/poc/2018/12/21/post-2448/)
+    + [Tutorial: Creating an LLVM Backend for the Cpu0 Architecture](https://jonathan2251.github.io/lbd/index.html)
+    + [Ruby 2.6のJITで実装か検討を行なった最適化集](https://qiita.com/k0kubun/items/e668e272a5817ebe409d)
+    + [できる！　コンパイラ作成の資料まとめ](https://anqou.net/poc/2019/01/03/post-2650/)

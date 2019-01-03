@@ -51,5 +51,7 @@
     + [Suffix Array](https://qiita.com/flare/items/20439a1db54b367eea70)
     + [文字列検索アルゴリズムの覚え書き](https://nebuta.hatenablog.jp/entry/20110127/1296115997)
     + [GabowのEdmonds' Algorithm一般マッチング](https://qiita.com/Kutimoti_T/items/5b579773e0a24d650bdf)
+    + [制御理論としての動的計画法](https://qiita.com/animegazer/items/4158462e5a3efaba9d7b)
+    + [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/?#book)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)

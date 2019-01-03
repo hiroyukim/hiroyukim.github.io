@@ -10,3 +10,6 @@
     + [RubyのJITに生成コードのメモリ局所性対策を入れた話](https://k0kubun.hatenablog.com/entry/mjit-compaction)
     + [簡潔ビットベクトルでRubyをlog N倍速くした](https://techlife.cookpad.com/entry/2018/10/17/115126)
     + [インタプリタ開発者によるRubyの挙動解析への道](https://techlife.cookpad.com/entry/2018/10/26/095920)
+    + [Rubyコア最前線 pixiv inside出張版](https://inside.pixiv.blog/usa/5873)
+    + [メモリを意識したRubyプログラミング](https://techracho.bpsinc.jp/hachi8833/2017_11_30/48130)
+    + [Ruby: mallocでマルチスレッドプログラムのメモリが倍増する理由](https://techracho.bpsinc.jp/hachi8833/2017_12_28/50109)

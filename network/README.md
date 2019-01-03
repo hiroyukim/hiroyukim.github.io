@@ -11,6 +11,8 @@
     + [QUICの話 (QUICプロトコルの簡単なまとめ)](https://asnokaze.hatenablog.com/entry/2018/10/31/020215)
     + [TCP接続の追跡による簡略化したネットワーク依存関係グラフの可視化基盤](https://blog.yuuk.io/entry/2018/mftracer)
     + [無線 LAN の通信品質を見える化する話](https://engineer.dena.jp/2018/12/wireless-lan-quality-visualize.html)
+    + [ネットワークエンジニアが楽しく障害対応するための技術](https://qiita.com/matagawa/items/8213a3dde1a23a93f1eb)
+    + [TLSとQUICハンドシェーク 2018](https://qiita.com/tatsuhiro-t/items/87127af3e77cc9364b8f)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)

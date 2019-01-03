@@ -11,6 +11,7 @@
 + lib
     + [A blazing fast and lightweight C asymmetric coroutine library](https://github.com/hnes/libaco)
     + [LIBXSMM](https://github.com/hfp/libxsmm)
+    + [C-Thread-Pool](https://github.com/Pithikos/C-Thread-Pool)
 + Article
     + [CTFのための gdb/gdb-peda 頻出コマンドのメモ](http://t3rry.hatenablog.com/entry/2017/07/19/010844)
     + [C言語でのコルーチン実装](http://www.spice-elec.com/Z80/multi_task/mult_task02.html)
@@ -28,6 +29,7 @@
     + [自作Cコンパイラのススメ](https://speakerdeck.com/utam0k/zi-zuo-ckonpairafalsesusume)
     + [コンパイラ開発から学ぶ大規模開発 / Large-Scale Development Learned from Compiler Development](https://speakerdeck.com/uoo38/large-scale-development-learned-from-compiler-development)
     + [C言語でhello worldを書く](https://qiita.com/MysticDoll/items/9fe0991167158aa4e09d)
+    + [未定義の動作](http://www.c-lang.org/detail/undefined_behavior.html)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

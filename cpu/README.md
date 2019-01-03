@@ -19,5 +19,8 @@
     + [ARM1 Gate-level Simulation](http://visual6502.org/sim/varm/armgl.html)
     + [Chiselを使ってCPUを作ろう 14. 2段パイプラインのデザインをGitHubに公開しました](http://msyksphinz.hatenablog.com/entry/2018/12/08/040000)
     + [論理回路考古学のススメ](http://pgate1.s602.xrea.com/LogicCircuitArchitectureArcheology.pdf)
+    + [RISC-V documentation transrate to Japanese.](https://github.com/shibatchii/RISC-V)
+    + [ひとりでCPUとエミュレータとコンパイラを作る Advent Calendar 2017](https://qiita.com/advent-calendar/2017/lowlayer)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
+    + [Unicorn](https://www.unicorn-engine.org/docs/)

@@ -37,6 +37,9 @@
     + [MySQLパフォーマンスチューニングの基本ー実際のトラブルシュートから my.cnf までー/MySQL_Performance_Tuning_Basics_in_OSC_Niigata](https://speakerdeck.com/mamy1326/mysql-performance-tuning-basics-in-osc-niigata)
     + [Ceph - a scalable distributed storage system](https://github.com/ceph/ceph)
     + [分散ストレージソフトウェアCephとは](https://blog.cybozu.io/entry/2018/12/13/103039)
+    + [MySQL with InnoDB のインデックスの基礎知識とありがちな間違い](https://techlife.cookpad.com/entry/2017/04/18/092524)
+    + [How to build MySQL 8.0.11 on Mac](https://labs.gree.jp/blog/2018/07/17099/)
+    + [MySQLのリアルタイム監視ツール](https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0086)
 + Tool
     + [Apache Calcite](https://calcite.apache.org/)
     + [Apache Ignite](https://ignite.apache.org/use-cases/database/distributed-database.html)
