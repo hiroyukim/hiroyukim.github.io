@@ -100,6 +100,8 @@
     + [レガシー BIOS が 2020 年で消えたあとの世界](http://uchan.hateblo.jp/entry/2017/12/05/144300)
     + [OS自作入門の入門](http://uchan.hateblo.jp/entry/2018/05/07/233338)
     + [自作エミュレータで自作OSを動かしてみようとした話](http://sksat.hatenablog.com/entry/2016/12/21/231342)
+    + [Linux Performance](http://www.brendangregg.com/linuxperf.html)
+    + [コンテナベース・アプリケーションの設計原則](https://www.redhat.com/cms/managed-files/cl-cloud-native-container-design-whitepaper-f8808kc-201710-a4-ja.pdf)
 + Tool
     + [Labean is a simple HTTP/HTTPS port knocker for GNU/Linux.](https://github.com/uprt/labean)
     + [howto_implement_hypervisor](https://github.com/syuu1228/howto_implement_hypervisor)
@@ -109,3 +111,4 @@
     + [ctop](https://github.com/bcicen/ctop)
     + [BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more](https://github.com/iovisor/bcc)
     + [NVIDIA GPUs htop like monitoring tool](https://github.com/Syllo/nvtop)
+    + [Record the CPU and memory activity of a process](https://github.com/astrofrog/psrecord)

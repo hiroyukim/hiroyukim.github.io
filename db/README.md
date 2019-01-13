@@ -41,6 +41,7 @@
     + [How to build MySQL 8.0.11 on Mac](https://labs.gree.jp/blog/2018/07/17099/)
     + [MySQLのリアルタイム監視ツール](https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0086)
 + Tool
+    + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)
     + [Apache Ignite](https://ignite.apache.org/use-cases/database/distributed-database.html)
     + [Compile and install MySQL](https://github.com/kamipo/mysql-build)

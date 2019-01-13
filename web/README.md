@@ -50,5 +50,9 @@
     + [Universally Unique Lexicographically Sortable Identifier](https://github.com/ulid/spec/blob/master/README.md)
     + [Dockerセキュリティ: 今すぐ役に立つテクニックから，次世代技術まで](https://www.slideshare.net/AkihiroSuda/docker-125002128)
     + [cat するたびに内容が変わるファイル？を作った](https://harasou.jp/2018/12/31/fuse-bindex/)
+    + [技術系の洋書をたらふく読もう！](https://techblog.securesky-tech.com/entry/2018/12/14)
+    + [200,000 Req/sec をさばく広告入札システムを支えるパフォーマンスチューニング術 ](https://www.slideshare.net/hiroiso/200000-reqsec)
+    + [Neco プロジェクトのスキルシート](https://gist.github.com/ymmt2005/bd92296166e52d1beba9df8ac516a9db)
+    + [Gasyori100knock](https://github.com/yoyoyo-yo/Gasyori100knock)
 + Tool
     + [envoy](https://github.com/envoyproxy/envoy)

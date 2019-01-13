@@ -13,3 +13,4 @@
     + [Rubyコア最前線 pixiv inside出張版](https://inside.pixiv.blog/usa/5873)
     + [メモリを意識したRubyプログラミング](https://techracho.bpsinc.jp/hachi8833/2017_11_30/48130)
     + [Ruby: mallocでマルチスレッドプログラムのメモリが倍増する理由](https://techracho.bpsinc.jp/hachi8833/2017_12_28/50109)
+    + [成瀬ゆいさん，Ruby開発の世界に飛び込もう 〜RubyKaigi 2016 基調講演 3日目](http://gihyo.jp/news/report/01/rubykaigi2016/0003)

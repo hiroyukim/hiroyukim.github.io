@@ -16,3 +16,5 @@
     + [JavaScriptの入門書を jsprimer.net で公開しました](https://efcl.info/2018/10/26/jsprimer.net/)
     + [バグハンターのためのクライアントサイドJavaScriptの静的解析](https://no1zy.hatenablog.com/entry/static-analysis-of-javascript-for-bughunters)
     + [worker_threadsを使ったNode.js マルチスレッドプログラミング](http://kakts-tec.hatenablog.com/entry/2018/12/14/005316)
+    + [Babelで書かれたJavaScriptライブラリをTypeScriptへ移行する方法](https://efcl.info/2019/01/09/babel-to-typescript-library/)
+    + [Speeding up spread elements](https://v8.dev/blog/spread-elements)

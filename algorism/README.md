@@ -53,5 +53,9 @@
     + [GabowのEdmonds' Algorithm一般マッチング](https://qiita.com/Kutimoti_T/items/5b579773e0a24d650bdf)
     + [制御理論としての動的計画法](https://qiita.com/animegazer/items/4158462e5a3efaba9d7b)
     + [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/?#book)
+    + [Reading 20: Queues & Locks](http://web.mit.edu/6.005/www/fa14/classes/20-queues-locks/)
+    + [Reading 20, Part 2: Message Passing with Threads & Queues](https://web.mit.edu/6.005/www/fa14/classes/20-queues-locks/message-passing/)
+    + [eisenstein-nlp-notes.pdf](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+    + [動的計画法超入門！ Educational DP Contest の A ～ E 問題の解説と類題集](https://qiita.com/drken/items/dc53c683d6de8aeacf5a)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)

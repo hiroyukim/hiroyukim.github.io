@@ -13,6 +13,7 @@
     + [無線 LAN の通信品質を見える化する話](https://engineer.dena.jp/2018/12/wireless-lan-quality-visualize.html)
     + [ネットワークエンジニアが楽しく障害対応するための技術](https://qiita.com/matagawa/items/8213a3dde1a23a93f1eb)
     + [TLSとQUICハンドシェーク 2018](https://qiita.com/tatsuhiro-t/items/87127af3e77cc9364b8f)
+    + [HTTP and 5G ](https://www.slideshare.net/dynamis/httpp-and-5g-fixed1)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)

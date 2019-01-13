@@ -7,6 +7,7 @@
     + [Why does Go not have assertions?](https://golang.org/doc/faq#assertions)
     + [Where is my favorite helper function for testing?](https://golang.org/doc/faq#testing_framework)
 + Tool
+    + [Generate x86 Assembly with Go](https://github.com/mmcloughlin/avo)
     + [go-containerregistry](https://github.com/google/go-containerregistry/blob/master/cmd/ko/README.md)
     + [systemboot](https://github.com/systemboot/systemboot)
     + [errcheck checks that you checked errors.](https://github.com/kisielk/errcheck)
@@ -278,6 +279,15 @@
     + [Goのtestを理解する in 2018](https://budougumi0617.github.io/2018/08/19/go-testing2018/)
     + [go build をデバッグしてみた](https://codehex.hateblo.jp/entry/2016/12/01/093000)
     + [go-app-builderのソースコードを読む ](https://qiita.com/tenntenn/items/bd0ca3f3897885499cad)
+    + [go listで依存パッケージを一覧する。-tagsで依存パッケージを切り替える #go](https://budougumi0617.github.io/2018/09/21/package-dependencies-with-go-list-and-build-tags/)
+    + [go言語でASTの解析にgo/typesの機能を使うことの威力について](https://pod.hatenablog.com/entry/2018/04/08/204907)
+    + [Go製のCHANGELOGジェネレータを作った](https://blog.wadackel.me/2018/git-chglog/)
+    + [細かすぎて伝わらない「形態素解析器 kagome のメモリ周りの話」を pprof で調べる](http://ikawaha.hateblo.jp/entry/2016/03/25/081136)
+    + [メルカリアッテの実務で使えた、GAE/Goの開発を効率的にする方法](https://www.slideshare.net/takuyaueda967/gaego)
+    + [Introducing HTTP Tracing](https://blog.golang.org/http-tracing)
+    + [Goのnet/httpとKeep-Alive](https://www.sambaiz.net/article/61/)
+    + [Re:golang の http.Client を速くする](https://shogo82148.github.io/blog/2017/01/14/re-golang-dns-cache/)
+    + [Avoiding high GC overhead with large heaps](https://blog.gopheracademy.com/advent-2018/avoid-gc-overhead-large-heaps/)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

@@ -30,6 +30,8 @@
     + [コンパイラ開発から学ぶ大規模開発 / Large-Scale Development Learned from Compiler Development](https://speakerdeck.com/uoo38/large-scale-development-learned-from-compiler-development)
     + [C言語でhello worldを書く](https://qiita.com/MysticDoll/items/9fe0991167158aa4e09d)
     + [未定義の動作](http://www.c-lang.org/detail/undefined_behavior.html)
+    + [Debugging with GDB](https://sourceware.org/gdb/current/onlinedocs/gdb.html)
+    + [ヒープexploitテク総まとめ](https://pastebin.com/mrFNd19w)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)
