@@ -54,5 +54,11 @@
     + [200,000 Req/sec をさばく広告入札システムを支えるパフォーマンスチューニング術 ](https://www.slideshare.net/hiroiso/200000-reqsec)
     + [Neco プロジェクトのスキルシート](https://gist.github.com/ymmt2005/bd92296166e52d1beba9df8ac516a9db)
     + [Gasyori100knock](https://github.com/yoyoyo-yo/Gasyori100knock)
+    + [tail -Fなどの標準出力を一定時間ごとに指定のコマンドに渡し、その実行結果をシーケンシャルに出力するコマンド evry を作った](https://k1low.hatenablog.com/entry/2019/01/15/083000)
+    + [次世代Webカンファレンス 2019：HTTPSセッションが面白かった](https://ozuma.hatenablog.jp/entry/2019/01/15/004415)
+    + [【2019年版】世界最先端の認証認可技術、実装者による『CIBA』解説](https://qiita.com/TakahikoKawasaki/items/9b9616b999d4ce959ba3)
+    + [PKCE: 認可コード横取り攻撃対策のために OAuth サーバーとクライアントが実装すべきこと](https://qiita.com/TakahikoKawasaki/items/00f333c72ed96c4da659)
+    + [Webデバイストラッキング手法の紹介](https://speakerdeck.com/kurochan/webdebaisutoratukingushou-fa-falseshao-jie)
+    + [Selenoid 入門 〜軽量で多機能な Selenium Grid〜](https://www.kaizenprogrammer.com/entry/2019/01/20/191658)
 + Tool
     + [envoy](https://github.com/envoyproxy/envoy)

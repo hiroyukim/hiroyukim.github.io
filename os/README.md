@@ -102,7 +102,11 @@
     + [自作エミュレータで自作OSを動かしてみようとした話](http://sksat.hatenablog.com/entry/2016/12/21/231342)
     + [Linux Performance](http://www.brendangregg.com/linuxperf.html)
     + [コンテナベース・アプリケーションの設計原則](https://www.redhat.com/cms/managed-files/cl-cloud-native-container-design-whitepaper-f8808kc-201710-a4-ja.pdf)
+    + [マルチスレッドとメモリ同期](http://i-saint.hatenablog.com/entry/20101005/1286208402)
+    + [ptraceシステムコール入門 ― プロセスの出力を覗き見してみよう！](https://itchyny.hatenablog.com/entry/2017/07/31/090000)
+    + [Dockerイメージのレイヤー構造について](http://enakai00.hatenablog.com/entry/20140802/1406958412)
 + Tool
+    + [sharkdp/hexyl](https://github.com/sharkdp/hexyl)
     + [Labean is a simple HTTP/HTTPS port knocker for GNU/Linux.](https://github.com/uprt/labean)
     + [howto_implement_hypervisor](https://github.com/syuu1228/howto_implement_hypervisor)
     + [Linuxカーネルソースコードを読むツール (1)：cscope編](http://proc-cpuinfo.fixstars.com/2017/05/linux-kernel-reading-tips-cscope/)

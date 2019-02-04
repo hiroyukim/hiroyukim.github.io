@@ -21,3 +21,5 @@
     + [Rustでテキストエディタを作る](https://qiita.com/hatoo@github/items/905a19a98876e7446edf)
     + [Rust で Erlang 処理系を実装してみている](https://medium.com/@szktty/rust-%E3%81%A7-erlang-%E5%87%A6%E7%90%86%E7%B3%BB%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%97%E3%81%A6%E3%81%BF%E3%81%A6%E3%81%84%E3%82%8B-d5e3edb25b82)
     + [Rustの型推論の概略](https://qnighy.hatenablog.com/entry/2017/06/05/070000)
+    + [The Embedded Rust Book](https://tomoyuki-nakabayashi.github.io/book/intro/index.html)
+    + [Writing an OS in Rust](https://os.phil-opp.com/advanced-paging/)

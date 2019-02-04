@@ -14,6 +14,8 @@
     + [ネットワークエンジニアが楽しく障害対応するための技術](https://qiita.com/matagawa/items/8213a3dde1a23a93f1eb)
     + [TLSとQUICハンドシェーク 2018](https://qiita.com/tatsuhiro-t/items/87127af3e77cc9364b8f)
     + [HTTP and 5G ](https://www.slideshare.net/dynamis/httpp-and-5g-fixed1)
+    + [TCP/IPプロトコルスタック自作入門](https://www.slideshare.net/pandax381/tcpip-105857327)
+    + [ネットワークのテスト自動化に利用できそうなツールまとめ](https://tekunabe.hatenablog.jp/entry/2019/01/16/nw_auto_test_too)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)

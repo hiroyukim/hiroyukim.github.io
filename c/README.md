@@ -32,6 +32,7 @@
     + [未定義の動作](http://www.c-lang.org/detail/undefined_behavior.html)
     + [Debugging with GDB](https://sourceware.org/gdb/current/onlinedocs/gdb.html)
     + [ヒープexploitテク総まとめ](https://pastebin.com/mrFNd19w)
+    + [お手軽に使える高速なSSE4.2専用文字検索ライブラリ](https://blog.cybozu.io/entry/2016/08/25/080000)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

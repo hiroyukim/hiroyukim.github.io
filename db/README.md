@@ -40,6 +40,10 @@
     + [MySQL with InnoDB のインデックスの基礎知識とありがちな間違い](https://techlife.cookpad.com/entry/2017/04/18/092524)
     + [How to build MySQL 8.0.11 on Mac](https://labs.gree.jp/blog/2018/07/17099/)
     + [MySQLのリアルタイム監視ツール](https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0086)
+    + [Dive into MySQL Error](https://speakerdeck.com/yoku0825/dive-into-mysql-error-yapc-tokyobaziyon)
+    + [CMU Advanced Database Systems - 01 In-Memory Databases](https://www.youtube.com/watch?v=m72mt4VN9ik)
+        + youtube
+    + [分散ストレージソフトウェアCephとは](https://blog.cybozu.io/entry/2018/12/13/103039)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)
