@@ -44,6 +44,7 @@
     + [CMU Advanced Database Systems - 01 In-Memory Databases](https://www.youtube.com/watch?v=m72mt4VN9ik)
         + youtube
     + [分散ストレージソフトウェアCephとは](https://blog.cybozu.io/entry/2018/12/13/103039)
+    + [初めてのMySQLパフォーマンスチューニングーデータベースは怖くない！](https://speakerdeck.com/mamy1326/mysql-performance-tuning-basics-in-db-study-chugoku-chiho)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

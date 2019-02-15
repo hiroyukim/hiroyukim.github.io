@@ -57,6 +57,9 @@
     + [Reading 20, Part 2: Message Passing with Threads & Queues](https://web.mit.edu/6.005/www/fa14/classes/20-queues-locks/message-passing/)
     + [eisenstein-nlp-notes.pdf](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
     + [動的計画法超入門！ Educational DP Contest の A ～ E 問題の解説と類題集](https://qiita.com/drken/items/dc53c683d6de8aeacf5a)
+    + [AtCoder＠Pythonを始めて1ヶ月が経ちました](https://koyanagihitoshi.hatenablog.com/entry/2019/01/26/002112)
+    + [動的型のメリットは「決断の遅延」かもしれない](http://blog.practical-scheme.net/shiro/20110719-dynamic-typing)
+    + [プログラマの採用面接で聞かれる、データ構造とアルゴリズムに関する50以上の質問](https://postd.cc/50-data-structure-and-algorithms-interview-questions-for-programmers/)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

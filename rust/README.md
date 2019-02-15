@@ -23,3 +23,5 @@
     + [Rustの型推論の概略](https://qnighy.hatenablog.com/entry/2017/06/05/070000)
     + [The Embedded Rust Book](https://tomoyuki-nakabayashi.github.io/book/intro/index.html)
     + [Writing an OS in Rust](https://os.phil-opp.com/advanced-paging/)
+    + [Lock-free Rust: Crossbeam in 2019](https://stjepang.github.io/2019/01/29/lock-free-rust-crossbeam-in-2019.html)
+    + [Learning Rust via Advent of Code](https://www.forrestthewoods.com/blog/learning-rust-via-advent-of-code/)

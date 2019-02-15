@@ -105,6 +105,12 @@
     + [マルチスレッドとメモリ同期](http://i-saint.hatenablog.com/entry/20101005/1286208402)
     + [ptraceシステムコール入門 ― プロセスの出力を覗き見してみよう！](https://itchyny.hatenablog.com/entry/2017/07/31/090000)
     + [Dockerイメージのレイヤー構造について](http://enakai00.hatenablog.com/entry/20140802/1406958412)
+    + [プロセスアタッチ系の話](https://gist.github.com/shiv3/107f2467d069efc600e6)
+    + [コンテナ技術入門 - 仮想化との違いを知り、要素技術を触って学ぼう](https://employment.en-japan.com/engineerhub/entry/2019/02/05/103000)
+    + [OSSコラム](http://www.intellilink.co.jp/article/column/oss/index.html)
+    + [Understanding the Memory Layout of Linux Executables](https://gist.github.com/CMCDragonkai/10ab53654b2aa6ce55c11cfc5b2432a4)
+    + [ptraceシステムコール入門 ― プロセスの出力を覗き見してみよう！](https://itchyny.hatenablog.com/entry/2017/07/31/090000)
+    + [Linuxのファイルディスクリプタをハックする](https://qiita.com/tajima_taso/items/7e696944cb521958e63d)
 + Tool
     + [sharkdp/hexyl](https://github.com/sharkdp/hexyl)
     + [Labean is a simple HTTP/HTTPS port knocker for GNU/Linux.](https://github.com/uprt/labean)

@@ -33,6 +33,8 @@
     + [Debugging with GDB](https://sourceware.org/gdb/current/onlinedocs/gdb.html)
     + [ヒープexploitテク総まとめ](https://pastebin.com/mrFNd19w)
     + [お手軽に使える高速なSSE4.2専用文字検索ライブラリ](https://blog.cybozu.io/entry/2016/08/25/080000)
+    + [GCCで関数呼び出しのコールグラフを生成する方法](https://blog.daisukeyamashita.com/post/800.html)
+    + [GraphvizでC関数のcallgraphを描く](http://d.hatena.ne.jp/takuma104/20090321/1237659444)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

@@ -60,5 +60,6 @@
     + [PKCE: 認可コード横取り攻撃対策のために OAuth サーバーとクライアントが実装すべきこと](https://qiita.com/TakahikoKawasaki/items/00f333c72ed96c4da659)
     + [Webデバイストラッキング手法の紹介](https://speakerdeck.com/kurochan/webdebaisutoratukingushou-fa-falseshao-jie)
     + [Selenoid 入門 〜軽量で多機能な Selenium Grid〜](https://www.kaizenprogrammer.com/entry/2019/01/20/191658)
+    + [OpenCensus + Stackdriver Trace で分散トレース上にログを表示する](https://ymotongpoo.hatenablog.com/entry/2019/02/12/084732)
 + Tool
     + [envoy](https://github.com/envoyproxy/envoy)
