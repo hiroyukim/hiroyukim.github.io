@@ -21,6 +21,7 @@
     + [論理回路考古学のススメ](http://pgate1.s602.xrea.com/LogicCircuitArchitectureArcheology.pdf)
     + [RISC-V documentation transrate to Japanese.](https://github.com/shibatchii/RISC-V)
     + [ひとりでCPUとエミュレータとコンパイラを作る Advent Calendar 2017](https://qiita.com/advent-calendar/2017/lowlayer)
+    + [アウトオブオーダ実行の詳細を勉強する場合の資料には"Understanding the detailed Architecture of AMD's 64 bit Core"がとても良い](http://msyksphinz.hatenablog.com/entry/2019/02/08/040000)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)

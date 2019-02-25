@@ -111,6 +111,9 @@
     + [Understanding the Memory Layout of Linux Executables](https://gist.github.com/CMCDragonkai/10ab53654b2aa6ce55c11cfc5b2432a4)
     + [ptraceシステムコール入門 ― プロセスの出力を覗き見してみよう！](https://itchyny.hatenablog.com/entry/2017/07/31/090000)
     + [Linuxのファイルディスクリプタをハックする](https://qiita.com/tajima_taso/items/7e696944cb521958e63d)
+    + [Linux Kernel Getting io_uring To Deliver Fast & Efficient I/O](https://www.phoronix.com/scan.php?page=news_item&px=Linux-io_uring-Fast-Efficient)
+    + [dynamic_debugはどのようにソースコードの行数、関数名などを読み取っているのか](https://kernhack.hatenablog.com/entry/2019/02/16/130758)
+    + [Linuxカーネルソースの減量](https://speakerdeck.com/sat/linuxkanerusosufalsejian-liang)
 + Tool
     + [sharkdp/hexyl](https://github.com/sharkdp/hexyl)
     + [Labean is a simple HTTP/HTTPS port knocker for GNU/Linux.](https://github.com/uprt/labean)

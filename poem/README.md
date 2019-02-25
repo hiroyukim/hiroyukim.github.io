@@ -6,3 +6,4 @@
     + [ピクサーの作品に秘められた物語を書くための22の法則](https://gigazine.net/news/20130320-pixar-22-rules-of-storytelling/)
     + [本物のプログラマはPascalを使わない](https://dajya-ranger.com/software/real-programmers-dont-use-pascal/)
     + [Strategies for Essay Writing](https://writingcenter.fas.harvard.edu/pages/strategies-essay-writing)
+    + [役立つコードレビュー　8つのヒント](https://postd.cc/8-tips-for-great-code-reviews/)

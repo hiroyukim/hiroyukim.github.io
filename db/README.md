@@ -45,6 +45,7 @@
         + youtube
     + [分散ストレージソフトウェアCephとは](https://blog.cybozu.io/entry/2018/12/13/103039)
     + [初めてのMySQLパフォーマンスチューニングーデータベースは怖くない！](https://speakerdeck.com/mamy1326/mysql-performance-tuning-basics-in-db-study-chugoku-chiho)
+    + [Parallel Queryの概要](https://masahikosawada.github.io//2019/02/14/Overview-Of-Parallel-Query/)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

@@ -61,5 +61,6 @@
     + [Webデバイストラッキング手法の紹介](https://speakerdeck.com/kurochan/webdebaisutoratukingushou-fa-falseshao-jie)
     + [Selenoid 入門 〜軽量で多機能な Selenium Grid〜](https://www.kaizenprogrammer.com/entry/2019/01/20/191658)
     + [OpenCensus + Stackdriver Trace で分散トレース上にログを表示する](https://ymotongpoo.hatenablog.com/entry/2019/02/12/084732)
+    + [WebAuthnでパスワードレスなサイトを作る。安全なオンライン認証を導入するFIDOの基本](https://employment.en-japan.com/engineerhub/entry/2019/02/13/103000)
 + Tool
     + [envoy](https://github.com/envoyproxy/envoy)
