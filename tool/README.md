@@ -9,6 +9,7 @@
 + file/dir
     + [fd](https://github.com/sharkdp/fd)
     + [Ultimate Plumber is a tool for writing Linux pipes with instant live preview](https://github.com/akavel/up)
+    + [A ncurses file manager written in C with vim like keybindings](https://github.com/mananapr/cfiles)
 + server
     + [htop](https://github.com/hishamhm/htop)
 + reverse

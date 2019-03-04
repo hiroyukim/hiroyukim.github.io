@@ -114,6 +114,12 @@
     + [Linux Kernel Getting io_uring To Deliver Fast & Efficient I/O](https://www.phoronix.com/scan.php?page=news_item&px=Linux-io_uring-Fast-Efficient)
     + [dynamic_debugはどのようにソースコードの行数、関数名などを読み取っているのか](https://kernhack.hatenablog.com/entry/2019/02/16/130758)
     + [Linuxカーネルソースの減量](https://speakerdeck.com/sat/linuxkanerusosufalsejian-liang)
+    + [自作OSでは価値を生み出せないと思っていた過去の自分へ](http://raphine.hatenablog.com/entry/2019/02/18/204551)
+    + [Linuxのforkシステムコールをハックする](https://qiita.com/tajima_taso/items/d3c8d516fe8995613c67)
+    + [Linuxのpipeの実装を見てみる](https://kernhack.hatenablog.com/entry/2014/05/31/190317)
+    + [Point of no C3 | Linux Kernel Exploitation - Part 0](https://0x00sec.org/t/point-of-no-c3-linux-kernel-exploitation-part-0/11585)
+    + [解説つきKernelソースコード](http://www.oldlinux.org/download/ECLK-5.0-WithCover.pdf)
+    + [Evolution of the x86 context switch in Linux](https://www.maizure.org/projects/evolution_x86_context_switch_linux/)
 + Tool
     + [sharkdp/hexyl](https://github.com/sharkdp/hexyl)
     + [Labean is a simple HTTP/HTTPS port knocker for GNU/Linux.](https://github.com/uprt/labean)

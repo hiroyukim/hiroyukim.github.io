@@ -8,6 +8,7 @@
     + [Google Perftoolsを導入する](http://msyksphinz.hatenablog.com/entry/2015/08/28/020000)
     + [gprof2dot](https://github.com/jrfonseca/gprof2dot)
     + [rr](https://rr-project.org/)
+    + [Modular visual interface for GDB in Python](https://github.com/cyrus-and/gdb-dashboard)
 + lib
     + [A blazing fast and lightweight C asymmetric coroutine library](https://github.com/hnes/libaco)
     + [LIBXSMM](https://github.com/hfp/libxsmm)
@@ -36,6 +37,7 @@
     + [GCCで関数呼び出しのコールグラフを生成する方法](https://blog.daisukeyamashita.com/post/800.html)
     + [GraphvizでC関数のcallgraphを描く](http://d.hatena.ne.jp/takuma104/20090321/1237659444)
     + [FIO22-C. プロセスを生成する前にファイルをクローズする](https://www.jpcert.or.jp/sc-rules/c-fio22-c.html)
+    + [main()関数の前には何があるのか](https://www.atmarkit.co.jp/ait/series/5503/)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)
