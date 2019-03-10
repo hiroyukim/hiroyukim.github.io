@@ -329,6 +329,14 @@
     + [Go言語のヒープに確保するデータの初期化コストについて調べてみた](https://ryochack.hatenablog.com/entry/2014/06/08/225606)
     + [Goでアロケーションに気をつけたコードを書く方法](http://dsas.blog.klab.org/archives/52191778.html)
     + [Goのエラーハンドリング](https://docs.google.com/presentation/d/1wbEaKX9z5vyEonTt6qfnIjDICZk3nDHdG_Ky0gRXyXw/edit#slide=id.g4204ea1550_1_336)
+    + [Goのbufio.Scannerは入力データの1行の長さが一定以上になるとスキャンをやめてしまう](https://mickey24.hatenablog.com/entry/bufio_scanner_line_length)
+    + [TinyGoで始める組み込みプログラミング](https://tech.144lab.com/entry/tinygo)
+    + [Goのnet/httpとKeep-Alive](https://www.sambaiz.net/article/61/)
+    + [TCP接続を集約表示するlstfでNetlinkにより実行速度が1.6倍になった](https://memo.yuuk.io/entry/2018/06/18/003157)
+    + [Goを読んでDockerの抽象構文木の構造をサクッと理解する](https://qiita.com/po3rin/items/a3934f47b5e390acfdfd)
+    + [Go言語でTCPやソケット通信を多重化，高速化するsmux\(ソケットマルチプレクサ\)をつくった](https://blog.monochromegane.com/blog/2018/05/03/smux/)
+    + [Go 言語における Singleton Pattern](https://text.baldanders.info/golang/singleton-pattern/)
+    + [階層化 Error パッケージ “xerrors” を試してみる](https://text.baldanders.info/golang/xerrors/)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

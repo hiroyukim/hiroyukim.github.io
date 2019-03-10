@@ -64,5 +64,8 @@
     + [WebAuthnでパスワードレスなサイトを作る。安全なオンライン認証を導入するFIDOの基本](https://employment.en-japan.com/engineerhub/entry/2019/02/13/103000)
     + [YOW! 2018 Brendan Gregg - Cloud Performance Root Cause Analysis at Netflix](https://www.youtube.com/watch?v=03EC8uA30Pw&feature=youtu.be)
         + youtube
+    + [形で始めるサーバーレス設計](https://aws.amazon.com/jp/serverless/patterns/serverless-pattern/)
+    + [React製のSPAのパフォーマンスチューニング実例](https://recruit-tech.co.jp/blog/2018/09/19/react_spa_performance_tuning/)
+    + [日本語大規模SNS+Webコーパスによる単語分散表現モデルの公開 : hottoSNS-w2vの配布](https://github.com/hottolink/hottoSNS-w2v)
 + Tool
     + [envoy](https://github.com/envoyproxy/envoy)

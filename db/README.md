@@ -48,6 +48,9 @@
     + [PostgreSQLは20年間どのようにfsyncを間違って使っていたか - 聴講メモ -](https://masahikosawada.github.io/2019/02/17/PostgreSQL-fsync-issue/)
     + [Parallel Queryの概要](https://masahikosawada.github.io//2019/02/14/Overview-Of-Parallel-Query/)
     + [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
+    + [B+Tree index structures in InnoDB](https://blog.jcole.us/2013/01/10/btree-index-structures-in-innodb/)
+    + [時系列データベースという概念をクラウドの技で再構築する](https://blog.yuuk.io/entry/the-rebuild-of-tsdb-on-cloud)
+    + [PostgreSQL11 設定パラメーター解体新書 / PostgreSQL 11 parameter](https://speakerdeck.com/ester41/postgresql-11-parameter)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)
