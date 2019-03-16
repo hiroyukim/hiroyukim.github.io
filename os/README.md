@@ -120,6 +120,12 @@
     + [Point of no C3 | Linux Kernel Exploitation - Part 0](https://0x00sec.org/t/point-of-no-c3-linux-kernel-exploitation-part-0/11585)
     + [解説つきKernelソースコード](http://www.oldlinux.org/download/ECLK-5.0-WithCover.pdf)
     + [Evolution of the x86 context switch in Linux](https://www.maizure.org/projects/evolution_x86_context_switch_linux/)
+    + [intro_x86-64](https://gitlab.com/mcmfb/intro_x86-64)
+    + [The sad state of font rendering on Linux](https://pandasauce.org/post/linux-fonts/)
+    + [mallocの動作を追いかける(環境変数編)](https://qiita.com/kaityo256/items/fc9a27d0df1371246951)
+    + [Introduction to Computer Organization: ARM Assembly Language Using the Raspberry Pi](http://bob.cs.sonoma.edu/IntroCompOrg-RPi/intro-co-rpi.html)
+    + [SystemTap ノススメ](http://www.intellilink.co.jp/article/column/oss14.html)
+    + [SystemTap Examples](https://sourceware.org/systemtap/examples/keyword-index.html)
 + Tool
     + [sharkdp/hexyl](https://github.com/sharkdp/hexyl)
     + [Labean is a simple HTTP/HTTPS port knocker for GNU/Linux.](https://github.com/uprt/labean)

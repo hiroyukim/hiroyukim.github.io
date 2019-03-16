@@ -39,6 +39,7 @@
     + [GraphvizでC関数のcallgraphを描く](http://d.hatena.ne.jp/takuma104/20090321/1237659444)
     + [FIO22-C. プロセスを生成する前にファイルをクローズする](https://www.jpcert.or.jp/sc-rules/c-fio22-c.html)
     + [main()関数の前には何があるのか](https://www.atmarkit.co.jp/ait/series/5503/)
+    + [cmake-examples](https://github.com/pr0g/cmake-examples)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

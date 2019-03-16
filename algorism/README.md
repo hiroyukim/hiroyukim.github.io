@@ -62,6 +62,8 @@
     + [プログラマの採用面接で聞かれる、データ構造とアルゴリズムに関する50以上の質問](https://postd.cc/50-data-structure-and-algorithms-interview-questions-for-programmers/)
     + [Comparing Meta-Compilation Approaches for Self-Optimizing Interpreters](https://stefan-marr.de/papers/oopsla-marr-ducasse-meta-tracing-vs-partial-evaluation/)
     + [ざっくりわかった気になるモダンGC入門](https://blog.cybozu.io/entry/2018/05/29/080000)
+    + [EMアルゴリズム徹底解説](https://qiita.com/kenmatsu4/items/59ea3e5dfa3d4c161efb)
+    + [📓Solutions to Introduction to Algorithms](https://github.com/gzc/CLRS)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

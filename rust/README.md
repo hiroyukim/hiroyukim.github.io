@@ -28,3 +28,4 @@
     + [Work in progress firewall for Linux syscalls, written in Rust](https://github.com/polaris64/syswall)
     + [Implications of Rewriting a Browser Component in Rust](https://hacks.mozilla.org/2019/02/rewriting-a-browser-component-in-rust/)
     + [An experimental next-generation Electron-based text editor](https://github.com/atom/xray)
+    + [A Quick Look at Trait Objects in Rust](https://tratt.net/laurie/blog/entries/a_quick_look_at_trait_objects_in_rust.html)

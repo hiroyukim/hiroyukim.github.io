@@ -18,3 +18,6 @@
     + [worker_threadsを使ったNode.js マルチスレッドプログラミング](http://kakts-tec.hatenablog.com/entry/2018/12/14/005316)
     + [Babelで書かれたJavaScriptライブラリをTypeScriptへ移行する方法](https://efcl.info/2019/01/09/babel-to-typescript-library/)
     + [Speeding up spread elements](https://v8.dev/blog/spread-elements)
+    + [Node.jsセキュリティ](https://speakerdeck.com/hasegawayosuke/node-dot-jssekiyuritei)
+    + [Node.js Performance 改善ガイド](https://yosuke-furukawa.hatenablog.com/entry/2017/12/05/125517)
+    + [JIT-less V8](https://v8.dev/blog/jitless)

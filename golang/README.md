@@ -337,6 +337,12 @@
     + [Go言語でTCPやソケット通信を多重化，高速化するsmux\(ソケットマルチプレクサ\)をつくった](https://blog.monochromegane.com/blog/2018/05/03/smux/)
     + [Go 言語における Singleton Pattern](https://text.baldanders.info/golang/singleton-pattern/)
     + [階層化 Error パッケージ “xerrors” を試してみる](https://text.baldanders.info/golang/xerrors/)
+    + [Go K/V Databases Benchmark](https://medium.com/@smallnest/go-k-v-databases-benchmark-cd051279ef22)
+    + [Debugging Latency in Go 1.11](https://medium.com/observability/debugging-latency-in-go-1-11-9f97a7910d68)
+    + [GoStaticAnalysis](https://github.com/gostaticanalysis)
+    + [The State of Caching in Go](https://blog.dgraph.io/post/caching-in-go/)
+    + [ A toy Go compiler with LLVM](https://docs.google.com/presentation/d/e/2PACX-1vSXVZ2l-BYUeuQ6fLgCH5oGfKeXTsYB360Z0N3xe77WxGatqfUG2XOoOef4gzzQFJT14Ps7gaa-BOmx/pub?slide=id.g33148270ac_0_143)
+    + [go-simple-expression-eval](https://github.com/Meyhem/go-simple-expression-eval)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

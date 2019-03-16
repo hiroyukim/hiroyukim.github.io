@@ -67,5 +67,8 @@
     + [形で始めるサーバーレス設計](https://aws.amazon.com/jp/serverless/patterns/serverless-pattern/)
     + [React製のSPAのパフォーマンスチューニング実例](https://recruit-tech.co.jp/blog/2018/09/19/react_spa_performance_tuning/)
     + [日本語大規模SNS+Webコーパスによる単語分散表現モデルの公開 : hottoSNS-w2vの配布](https://github.com/hottolink/hottoSNS-w2v)
+    + [High-loaded systems developer contest](https://highloadcup.ru/en/main/)
+    + [Stackdriver Traceと分散トレーシングフレームワークOpenCensusで処理時間を可視化する](https://soichisumi.net/2018/12/stackdriver-trace-opencensus/)
+    + [分散トレーシング技術について](https://www.slideshare.net/td-nttcom/open-tracingjaeger)
 + Tool
     + [envoy](https://github.com/envoyproxy/envoy)
