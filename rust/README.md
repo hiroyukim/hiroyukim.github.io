@@ -29,3 +29,5 @@
     + [Implications of Rewriting a Browser Component in Rust](https://hacks.mozilla.org/2019/02/rewriting-a-browser-component-in-rust/)
     + [An experimental next-generation Electron-based text editor](https://github.com/atom/xray)
     + [A Quick Look at Trait Objects in Rust](https://tratt.net/laurie/blog/entries/a_quick_look_at_trait_objects_in_rust.html)
+    + [RISC Vに従うCPUの上で動作するOSをRustで書く](https://moraprogramming.hateblo.jp/entry/2019/03/17/165802)
+    + [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)

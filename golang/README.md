@@ -61,6 +61,7 @@
 + Manual
     + [dep docs](https://golang.github.io/dep/docs/introduction.html)
 + library
+    + [bitcask](https://prologic.github.io/bitcask/)
     + [A StreamLike, Immutable, Lazy Loading and smart Golang Library to deal with slices.](https://github.com/wesovilabs/koazee)
     + [A Lua 5.3 engine implemented in Go](https://github.com/Azure/golua)
     + [bandwidth limiting pipe with collaborative capability](https://github.com/kazeburo/sabo)

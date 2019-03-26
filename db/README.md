@@ -51,6 +51,8 @@
     + [B+Tree index structures in InnoDB](https://blog.jcole.us/2013/01/10/btree-index-structures-in-innodb/)
     + [時系列データベースという概念をクラウドの技で再構築する](https://blog.yuuk.io/entry/the-rebuild-of-tsdb-on-cloud)
     + [PostgreSQL11 設定パラメーター解体新書 / PostgreSQL 11 parameter](https://speakerdeck.com/ester41/postgresql-11-parameter)
+    + [InnoDB Page Merging and Page Splitting](https://www.percona.com/blog/2017/04/10/innodb-page-merging-and-page-splitting/)
+    + [MySQLのクエリの良し悪しはrows_examinedで判断する](https://blog.kamipo.net/entry/2018/03/22/084126)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)
