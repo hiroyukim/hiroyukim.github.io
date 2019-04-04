@@ -40,6 +40,7 @@
     + [FIO22-C. プロセスを生成する前にファイルをクローズする](https://www.jpcert.or.jp/sc-rules/c-fio22-c.html)
     + [main()関数の前には何があるのか](https://www.atmarkit.co.jp/ait/series/5503/)
     + [cmake-examples](https://github.com/pr0g/cmake-examples)
+    + [CMake Advent Calendar 2014](https://qiita.com/advent-calendar/2014/cmake)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

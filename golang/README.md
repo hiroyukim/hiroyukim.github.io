@@ -344,6 +344,8 @@
     + [The State of Caching in Go](https://blog.dgraph.io/post/caching-in-go/)
     + [ A toy Go compiler with LLVM](https://docs.google.com/presentation/d/e/2PACX-1vSXVZ2l-BYUeuQ6fLgCH5oGfKeXTsYB360Z0N3xe77WxGatqfUG2XOoOef4gzzQFJT14Ps7gaa-BOmx/pub?slide=id.g33148270ac_0_143)
     + [go-simple-expression-eval](https://github.com/Meyhem/go-simple-expression-eval)
+    + [Using Go Modules](https://blog.golang.org/using-go-modules)
+    + [最近のGo Modulesプラクティス ~ ghqユーザーの場合も添えて](http://www.songmu.jp/riji/entry/2019-03-28-go-modules.html)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

@@ -70,5 +70,9 @@
     + [High-loaded systems developer contest](https://highloadcup.ru/en/main/)
     + [Stackdriver Traceと分散トレーシングフレームワークOpenCensusで処理時間を可視化する](https://soichisumi.net/2018/12/stackdriver-trace-opencensus/)
     + [分散トレーシング技術について](https://www.slideshare.net/td-nttcom/open-tracingjaeger)
+    + [クックパッドがgRPCを採用するまで サービス間通信で抱えていた課題と、RubyでgRPCを運用するための工夫](https://logmi.jp/tech/articles/320715)
+    + [A live programming environment specialized for data structure programming](https://github.com/prg-titech/Kanon)
+    + [KubernetesロードバランサーのMetalLBを導入した話(Necoプロジェクト体験入部)](https://blog.cybozu.io/entry/2019/03/25/093000)
+    + [Standardizing WASI: A system interface to run WebAssembly outside the web](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)
 + Tool
     + [envoy](https://github.com/envoyproxy/envoy)

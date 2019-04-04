@@ -65,6 +65,7 @@
     + [EMアルゴリズム徹底解説](https://qiita.com/kenmatsu4/items/59ea3e5dfa3d4c161efb)
     + [📓Solutions to Introduction to Algorithms](https://github.com/gzc/CLRS)
     + [AtCoder Problems](https://beta.kenkoooo.com/atcoder/#/table)
+    + [A simple mark-sweep garbage collector in C](https://github.com/munificent/mark-sweep)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

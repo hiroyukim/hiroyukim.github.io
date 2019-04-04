@@ -31,3 +31,6 @@
     + [A Quick Look at Trait Objects in Rust](https://tratt.net/laurie/blog/entries/a_quick_look_at_trait_objects_in_rust.html)
     + [RISC Vに従うCPUの上で動作するOSをRustで書く](https://moraprogramming.hateblo.jp/entry/2019/03/17/165802)
     + [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
+    + [Redox](https://www.redox-os.org/)
++ book
+    + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)

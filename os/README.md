@@ -126,6 +126,11 @@
     + [Introduction to Computer Organization: ARM Assembly Language Using the Raspberry Pi](http://bob.cs.sonoma.edu/IntroCompOrg-RPi/intro-co-rpi.html)
     + [SystemTap ノススメ](http://www.intellilink.co.jp/article/column/oss14.html)
     + [SystemTap Examples](https://sourceware.org/systemtap/examples/keyword-index.html)
+    + [カーネルから見る OCIランタイム](https://speakerdeck.com/kazuki_onishi/kanerukarajian-ru-ocirantaimu)
+    + [Linux Kernel ~ 同期機構 ~](https://k-onishi.hatenablog.jp/entry/2019/03/10/000311)
+    + [Linux スケジューラーのコア実装とシステムコール](https://qiita.com/nhiroki/items/2fa7bb048118145b00cd)
+    + [様々なUNIX環境のecho.cの比較](https://cpplover.blogspot.com/2013/04/unixechoc.html)
+    + [Linux Kernel ~ 時間管理とタイマ割り込み ~](https://k-onishi.hatenablog.jp/entry/2019/03/26/001740)
 + Tool
     + [sharkdp/hexyl](https://github.com/sharkdp/hexyl)
     + [Labean is a simple HTTP/HTTPS port knocker for GNU/Linux.](https://github.com/uprt/labean)

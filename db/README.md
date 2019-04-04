@@ -53,6 +53,10 @@
     + [PostgreSQL11 設定パラメーター解体新書 / PostgreSQL 11 parameter](https://speakerdeck.com/ester41/postgresql-11-parameter)
     + [InnoDB Page Merging and Page Splitting](https://www.percona.com/blog/2017/04/10/innodb-page-merging-and-page-splitting/)
     + [MySQLのクエリの良し悪しはrows_examinedで判断する](https://blog.kamipo.net/entry/2018/03/22/084126)
+    + [Make and Learn RDBMS](https://speakerdeck.com/yui_knk/make-and-learn-rdbms)
+    + [SQLのWHERE句の処理を理解する](https://taityo-diary.hatenablog.jp/entry/2017/01/27/073020)
+    + [Database Internel Architecture: SQLite](https://architecture-database.blogspot.com/2019/03/database-internel-architecture-sqlite.html)
+    + [Btree Indexing in Databases: SQLite](https://architecture-database.blogspot.com/2019/03/btree-indexing-in-databases-sqlite.html)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)
