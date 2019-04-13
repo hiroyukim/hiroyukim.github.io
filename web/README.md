@@ -74,5 +74,6 @@
     + [A live programming environment specialized for data structure programming](https://github.com/prg-titech/Kanon)
     + [KubernetesロードバランサーのMetalLBを導入した話(Necoプロジェクト体験入部)](https://blog.cybozu.io/entry/2019/03/25/093000)
     + [Standardizing WASI: A system interface to run WebAssembly outside the web](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)
+    + [Announcing Lucet: Fastly’s native WebAssembly compiler and runtime](https://www.fastly.com/blog/announcing-lucet-fastly-native-webassembly-compiler-runtime)
 + Tool
     + [envoy](https://github.com/envoyproxy/envoy)

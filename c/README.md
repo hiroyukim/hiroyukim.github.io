@@ -41,6 +41,7 @@
     + [main()関数の前には何があるのか](https://www.atmarkit.co.jp/ait/series/5503/)
     + [cmake-examples](https://github.com/pr0g/cmake-examples)
     + [CMake Advent Calendar 2014](https://qiita.com/advent-calendar/2014/cmake)
+    + [why GNU grep is fast](https://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

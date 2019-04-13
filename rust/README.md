@@ -32,5 +32,7 @@
     + [RISC Vに従うCPUの上で動作するOSをRustで書く](https://moraprogramming.hateblo.jp/entry/2019/03/17/165802)
     + [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
     + [Redox](https://www.redox-os.org/)
+    + [はじめてのCLion+IntelliJ Rust](https://blog.jetbrains.com/jp/2019/03/22/1797)
+    + [IntelliJ Rust](https://intellij-rust.github.io/)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
