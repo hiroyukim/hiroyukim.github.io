@@ -57,6 +57,9 @@
     + [SQLのWHERE句の処理を理解する](https://taityo-diary.hatenablog.jp/entry/2017/01/27/073020)
     + [Database Internel Architecture: SQLite](https://architecture-database.blogspot.com/2019/03/database-internel-architecture-sqlite.html)
     + [Btree Indexing in Databases: SQLite](https://architecture-database.blogspot.com/2019/03/btree-indexing-in-databases-sqlite.html)
+    + [SQLite Frontend Internal Architecture](https://architecture-database.blogspot.com/2019/03/sqlite-frontend-internal-architecture.html)
+    + [Database Internel Architecture: SQLite](https://architecture-database.blogspot.com/2019/03/database-internel-architecture-sqlite.html)
+    + [Transparent Data Encryption for Databases](https://architecture-database.blogspot.com/2019/03/transparent-data-encryption-for.html)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

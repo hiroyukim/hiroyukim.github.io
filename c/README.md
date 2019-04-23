@@ -42,6 +42,10 @@
     + [cmake-examples](https://github.com/pr0g/cmake-examples)
     + [CMake Advent Calendar 2014](https://qiita.com/advent-calendar/2014/cmake)
     + [why GNU grep is fast](https://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html)
+    + [gdbを使ってsegmentation faultを調べる](http://yuyubu.hatenablog.com/entry/2019/04/06/gdb%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6segmentation_fault%E3%82%92%E8%AA%BF%E3%81%B9%E3%82%8B)
+    + [MakefileをCMakeLists.txtに置き換える](https://www.hiroom2.com/2016/09/07/makefile%E3%82%92cmakelists-txt%E3%81%AB%E7%BD%AE%E3%81%8D%E6%8F%9B%E3%81%88%E3%82%8B/)
+    + [zipパーサに関するメモ](http://syohex.hatenablog.com/entry/2017/10/04/015408)
+    + [川合のプログラミング言語自作（ライブラリ自作）のためのアイデア#0001](http://essen.osask.jp/?idea0001)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

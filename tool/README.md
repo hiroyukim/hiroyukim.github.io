@@ -18,6 +18,7 @@
     + [A cross-platform, GPU-accelerated terminal emulator](https://github.com/jwilm/alacritty)
     + [tmuxを効率よく使って開発を爆速にする最高の設定](https://qiita.com/yuki_ycino/items/ef5e6b63c8f9af2f03c0)
     + [A Terminal Emulator based on UWP and web technologies.](https://github.com/felixse/FluentTerminal)
+    + [Terminal log analysis tools](https://github.com/antonmedv/red)
 + dba
     + [Triton - A DBA Framework](https://triton.quarkslab.com/)
 + name

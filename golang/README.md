@@ -7,6 +7,9 @@
     + [Why does Go not have assertions?](https://golang.org/doc/faq#assertions)
     + [Where is my favorite helper function for testing?](https://golang.org/doc/faq#testing_framework)
 + Tool
+    + [The Go kernel for Jupyter notebooks and nteract.](https://github.com/gopherdata/gophernotes)
+    + [go-pairplot](https://github.com/mattn/go-pairplot)
+    + [Size visualization of Go executables using D3](https://github.com/knz/go-binsize-viz)
     + [Enhance Golang source code debugging with useful information instead of panic.](https://github.com/snwfdhmp/errlog)
     + [Generate x86 Assembly with Go](https://github.com/mmcloughlin/avo)
     + [go-containerregistry](https://github.com/google/go-containerregistry/blob/master/cmd/ko/README.md)
@@ -347,6 +350,14 @@
     + [Using Go Modules](https://blog.golang.org/using-go-modules)
     + [最近のGo Modulesプラクティス ~ ghqユーザーの場合も添えて](http://www.songmu.jp/riji/entry/2019-03-28-go-modules.html)
     + [Go 2018 Survey Results](https://blog.golang.org/survey2018-results)
+    + [JSON Schema や JSON から Go の struct を生成する](https://qiita.com/aaharu/items/ed578fc0e3e42dbcc4b4)
+    + [context.WithCancel, WithTimeout で知っておいた方が良いこと](https://christina04.hatenablog.com/entry/tips-for-context-with-cancel_1)
+    + [ゴールーチンとチャネルによる並行処理 参加メモ](https://budougumi0617.github.io/2018/04/19/golangtokyo-14-goroutine/)
+    + [いまさら聞けないselectあれこれ](https://www.slideshare.net/lestrrat/select-66633666)
+    + [golang で N 個の chan を同時に待つ](https://mattn.kaoriya.net/software/lang/go/20140729142954.htm)
+    + [sqlrows is a static code analyzer which helps uncover bugs by reporting a diagnostic for mistakes of sql.Rows usage.](https://github.com/gostaticanalysis/sqlrows)
+    + [GoでくつるLinuxコンテナ](https://gist.github.com/hayajo/ca9ba2b13154f260d4b00774e1f509e2)
+    + [Optimizing Go code without a blindfold](https://docs.google.com/presentation/d/1cUVp8OuzOW4lzClsiptgacW7nSFkcgvhLRVAOgVPpYg/edit#slide=id.g550f852d27_228_0)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

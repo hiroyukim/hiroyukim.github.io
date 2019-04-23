@@ -18,6 +18,8 @@
     + [ネットワークのテスト自動化に利用できそうなツールまとめ](https://tekunabe.hatenablog.jp/entry/2019/01/16/nw_auto_test_too)
     + [TCP各バージョンの輻輳制御の比較](http://www.net.c.dendai.ac.jp/~yutaro/)
     + [tcpdumpで理解するTCPのコネクション](https://qiita.com/keikmobile/items/93cf6dc5b95019c6a442)
+    + [SYN packet handling in the wild](https://blog.cloudflare.com/syn-packet-handling-in-the-wild/)
+    + [HTTP/3のヘッダ圧縮仕様QPACKについて](https://asnokaze.hatenablog.com/entry/2019/04/08/020017)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)

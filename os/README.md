@@ -131,7 +131,11 @@
     + [Linux スケジューラーのコア実装とシステムコール](https://qiita.com/nhiroki/items/2fa7bb048118145b00cd)
     + [様々なUNIX環境のecho.cの比較](https://cpplover.blogspot.com/2013/04/unixechoc.html)
     + [Linux Kernel ~ 時間管理とタイマ割り込み ~](https://k-onishi.hatenablog.jp/entry/2019/03/26/001740)
+    + [Linux Kernel ~ ソフトウェアタイマと遅延処理 ~](https://k-onishi.hatenablog.jp/entry/2019/04/05/000512)
+    + [あなたのネットワークスタック正しく設定されていますか？](https://qiita.com/micchie/items/b99e496e0a3469605c78)
+    + [io_uring IO interface](https://lwn.net/Articles/776230/)
 + Tool
+    + [ELKDAT: easy linux kernel development and test tool](https://github.com/satoru-takeuchi/elkdat)
     + [sharkdp/hexyl](https://github.com/sharkdp/hexyl)
     + [Labean is a simple HTTP/HTTPS port knocker for GNU/Linux.](https://github.com/uprt/labean)
     + [howto_implement_hypervisor](https://github.com/syuu1228/howto_implement_hypervisor)
