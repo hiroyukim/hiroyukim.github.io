@@ -46,6 +46,7 @@
     + [MakefileをCMakeLists.txtに置き換える](https://www.hiroom2.com/2016/09/07/makefile%E3%82%92cmakelists-txt%E3%81%AB%E7%BD%AE%E3%81%8D%E6%8F%9B%E3%81%88%E3%82%8B/)
     + [zipパーサに関するメモ](http://syohex.hatenablog.com/entry/2017/10/04/015408)
     + [川合のプログラミング言語自作（ライブラリ自作）のためのアイデア#0001](http://essen.osask.jp/?idea0001)
+    + [セルフホスティングCコンパイラを書いた](https://ryooooooga.hateblo.jp/entry/2019/04/14/162547)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

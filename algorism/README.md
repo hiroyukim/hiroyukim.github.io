@@ -69,6 +69,10 @@
     + [AtCoder の過去問で仮想コンテストを開けるサイト](https://not-522.appspot.com/)
     + [UTF-8のコードポイントはどうやって高速に数えるか](https://qiita.com/saka1_p/items/ff49d981cfd56f3588cc)
     + [大量のテキストからランダムに少数の行を抽出したい](http://sucrose.hatenablog.com/entry/2014/01/11/004615)
+    + [AtCoderとHighLoad Cupによるスキルアップ術 - ISUCON予選突破を目指して](https://matsuu.hatenablog.com/entry/2019/04/16/230038)
+    + [アルゴリズムとデータ構造から理解するRedis](https://speakerdeck.com/kawasy/learn-redis-from-internal-algorithms-and-data-structures)
+    + [ゲームAI -基礎編- 『知識表現と影響マップ』](http://tech.cygames.co.jp/archives/2272/)
+    + [コーディング面接対策のために解きたいLeetCode 60問](https://1kohei1.com/leetcode/)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

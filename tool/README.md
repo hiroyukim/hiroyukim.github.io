@@ -6,12 +6,14 @@
 + Network
     + [lsofgraph](https://github.com/zevv/lsofgraph)
     + [HTTPie](https://httpie.org/)
+    + [A terminal UI for tshark, inspired by Wireshark](https://github.com/gcla/termshark)
 + file/dir
     + [fd](https://github.com/sharkdp/fd)
     + [Ultimate Plumber is a tool for writing Linux pipes with instant live preview](https://github.com/akavel/up)
     + [A ncurses file manager written in C with vim like keybindings](https://github.com/mananapr/cfiles)
 + server
     + [htop](https://github.com/hishamhm/htop)
+    + [A visualizer for CRONTAB](https://github.com/takumakanari/cronv)
 + reverse
     + [unix-like reverse engineering framework and commandline tools security](https://github.com/radare/radare2)
 + terminal

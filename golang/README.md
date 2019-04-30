@@ -7,6 +7,7 @@
     + [Why does Go not have assertions?](https://golang.org/doc/faq#assertions)
     + [Where is my favorite helper function for testing?](https://golang.org/doc/faq#testing_framework)
 + Tool
+    + [A Go dependency graph visualization tool](https://github.com/kisielk/godepgraph)
     + [The Go kernel for Jupyter notebooks and nteract.](https://github.com/gopherdata/gophernotes)
     + [go-pairplot](https://github.com/mattn/go-pairplot)
     + [Size visualization of Go executables using D3](https://github.com/knz/go-binsize-viz)
@@ -358,6 +359,17 @@
     + [sqlrows is a static code analyzer which helps uncover bugs by reporting a diagnostic for mistakes of sql.Rows usage.](https://github.com/gostaticanalysis/sqlrows)
     + [GoでくつるLinuxコンテナ](https://gist.github.com/hayajo/ca9ba2b13154f260d4b00774e1f509e2)
     + [Optimizing Go code without a blindfold](https://docs.google.com/presentation/d/1cUVp8OuzOW4lzClsiptgacW7nSFkcgvhLRVAOgVPpYg/edit#slide=id.g550f852d27_228_0)
+    + [GoのコードからPlantUMLコードを生成する静的解析ツールを作っている](https://i101330.hatenablog.com/entry/2019/04/14/205522)
+    + [Help me understand Go 1.9 sync.Map "LoadOrStore" method.](https://www.reddit.com/r/golang/comments/6o0i2y/help_me_understand_go_19_syncmap_loadorstore/)
+    + [Golangで大きなcsvのインポートを速くする](https://blog.yudppp.com/posts/csv_fast_upload/)
+    + [goumlでgoプロジェクトのUML図を出力する](https://qiita.com/rubyu/items/d78470be2ddd9e86ebb5)
+    + [Goで不確定要素に依存する場合のテストを書く](https://qiita.com/yoskeoka/items/dad2cc3a6f40c414b9fc)
+    + [Go 並行処理やり直し](https://docs.google.com/presentation/d/1y-umyxAEa0JVhIJOvdBIg_5wthXd8UjDiU9mJp6LpqA/edit#slide=id.p)
+    + [CicleCI2.1でgo modのデータを共有しながら複数ジョブを実行する](https://budougumi0617.github.io/2019/04/21/ci_go_with_multiple_jobs_on_circleci/)
+    + [パッケージのimport pathを好みのURLにする](https://qiita.com/lufia/items/8f3cc32f26168702e2f4)
+    + [Zipの内部で使うアルゴリズムを独自のものに切り替える](https://qiita.com/shibukawa/items/67ef687cc28b6a6e56ed)
+    + [GoでのAPI開発現場のアーキテクチャ実装事例](https://speakerdeck.com/hgsgtk/go-api-architecture-practical-example)
+    + [GoLandでgoldenファイルを用いたユニットテストを書く](https://khigashigashi.hatenablog.com/entry/2019/04/27/150230)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

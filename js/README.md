@@ -21,3 +21,4 @@
     + [Node.jsセキュリティ](https://speakerdeck.com/hasegawayosuke/node-dot-jssekiyuritei)
     + [Node.js Performance 改善ガイド](https://yosuke-furukawa.hatenablog.com/entry/2017/12/05/125517)
     + [JIT-less V8](https://v8.dev/blog/jitless)
+    + [がんばらないTypeScript](https://employment.en-japan.com/engineerhub/entry/2019/04/16/103000)

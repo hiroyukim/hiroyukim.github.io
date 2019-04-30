@@ -23,6 +23,7 @@
     + [ひとりでCPUとエミュレータとコンパイラを作る Advent Calendar 2017](https://qiita.com/advent-calendar/2017/lowlayer)
     + [アウトオブオーダ実行の詳細を勉強する場合の資料には"Understanding the detailed Architecture of AMD's 64 bit Core"がとても良い](http://msyksphinz.hatenablog.com/entry/2019/02/08/040000)
     + [汎用ロジックのみで実用的なCPUを作る方法](https://retrof.sakura.ne.jp/)
+    + [MKL-DNNで学ぶIntel CPUの最適化手法](https://blog.cybozu.io/entry/2019/04/15/170000)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)

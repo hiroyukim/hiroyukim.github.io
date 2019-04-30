@@ -13,3 +13,4 @@
     + [Ruby 2.6のJITで実装か検討を行なった最適化集](https://qiita.com/k0kubun/items/e668e272a5817ebe409d)
     + [できる！　コンパイラ作成の資料まとめ](https://anqou.net/poc/2019/01/03/post-2650/)
     + [電卓を作ってみよう](https://woodyzootopia.github.io/2019/01/%E9%9B%BB%E5%8D%93%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86/)
+    + [Loop Fusion, Loop Distribution and Their Place in the Loop Optimization Pipeline](https://llvm.org/devmtg/2019-04/slides/TechTalk-Barton-Loop_fusion_loop_distribution_and_their_place_in_the_loop_optimization_pipeline.pdf)

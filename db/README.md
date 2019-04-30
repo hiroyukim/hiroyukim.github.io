@@ -60,6 +60,8 @@
     + [SQLite Frontend Internal Architecture](https://architecture-database.blogspot.com/2019/03/sqlite-frontend-internal-architecture.html)
     + [Database Internel Architecture: SQLite](https://architecture-database.blogspot.com/2019/03/database-internel-architecture-sqlite.html)
     + [Transparent Data Encryption for Databases](https://architecture-database.blogspot.com/2019/03/transparent-data-encryption-for.html)
+    + [PostgreSQLの内部構造―プロセスやメモリの流れ，特徴的な機能のしくみ](http://gihyo.jp/dev/feature/01/dex_postgresql/0002)
+    + [履歴を持つデータの設計](https://speakerdeck.com/kawasima/lu-li-wochi-tudetafalseshe-ji)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)
