@@ -34,5 +34,6 @@
     + [Redox](https://www.redox-os.org/)
     + [はじめてのCLion+IntelliJ Rust](https://blog.jetbrains.com/jp/2019/03/22/1797)
     + [IntelliJ Rust](https://intellij-rust.github.io/)
+    + [Rustのモジュールを詳細に理解する](https://qnighy.hatenablog.com/entry/2019/05/06/190000)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)

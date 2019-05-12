@@ -14,6 +14,7 @@
     + [LIBXSMM](https://github.com/hfp/libxsmm)
     + [C-Thread-Pool](https://github.com/Pithikos/C-Thread-Pool)
     + [A small regex implementation in C](https://github.com/kokke/tiny-regex-c)
+    + [Klib: a Generic Library in C](https://github.com/attractivechaos/klib)
 + Article
     + [CTFのための gdb/gdb-peda 頻出コマンドのメモ](http://t3rry.hatenablog.com/entry/2017/07/19/010844)
     + [C言語でのコルーチン実装](http://www.spice-elec.com/Z80/multi_task/mult_task02.html)
@@ -47,6 +48,7 @@
     + [zipパーサに関するメモ](http://syohex.hatenablog.com/entry/2017/10/04/015408)
     + [川合のプログラミング言語自作（ライブラリ自作）のためのアイデア#0001](http://essen.osask.jp/?idea0001)
     + [セルフホスティングCコンパイラを書いた](https://ryooooooga.hateblo.jp/entry/2019/04/14/162547)
+    + [C/C++ ソースコードタグシステム lctags の紹介](https://qiita.com/dwarfJP/items/982ef7ee3f3bfd435156)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

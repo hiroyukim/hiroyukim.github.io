@@ -144,6 +144,9 @@
     + [端末の神秘を解き明かす](https://qiita.com/aosho235/items/24bf88462811eccbdec8)
     + [Learn where some of the network sysctl variables fit into the Linux/Kernel network flow](https://github.com/leandromoreira/linux-network-performance-parameters)
     + [Linux Kernel ~ メモリ管理 ~](https://k-onishi.hatenablog.jp/entry/2019/04/28/200833)
+    + [たのしい組み込みCMake](https://qiita.com/tnishinaga/items/c01dfd5f43e446653cd1)
+    + [コンテナはなぜ安全（または安全でない）なのか](https://sil.hatenablog.com/entry/why-container-is-secure)
+    + [Elixir Cross Referencer](https://elixir.bootlin.com/linux/latest/source)
 + Tool
     + [ELKDAT: easy linux kernel development and test tool](https://github.com/satoru-takeuchi/elkdat)
     + [sharkdp/hexyl](https://github.com/sharkdp/hexyl)

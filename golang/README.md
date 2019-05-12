@@ -7,6 +7,7 @@
     + [Why does Go not have assertions?](https://golang.org/doc/faq#assertions)
     + [Where is my favorite helper function for testing?](https://golang.org/doc/faq#testing_framework)
 + Tool
+    + [NES emulator written in golang](https://github.com/ichikaway/goNES)
     + [A Go dependency graph visualization tool](https://github.com/kisielk/godepgraph)
     + [The Go kernel for Jupyter notebooks and nteract.](https://github.com/gopherdata/gophernotes)
     + [go-pairplot](https://github.com/mattn/go-pairplot)
@@ -370,6 +371,7 @@
     + [Zipの内部で使うアルゴリズムを独自のものに切り替える](https://qiita.com/shibukawa/items/67ef687cc28b6a6e56ed)
     + [GoでのAPI開発現場のアーキテクチャ実装事例](https://speakerdeck.com/hgsgtk/go-api-architecture-practical-example)
     + [GoLandでgoldenファイルを用いたユニットテストを書く](https://khigashigashi.hatenablog.com/entry/2019/04/27/150230)
+    + [Go言語のio.Pipeでファイルを効率よくアップロードする方法](https://medium.com/eureka-engineering/file-uploads-in-go-with-io-pipe-75519dfa647b)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

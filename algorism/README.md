@@ -73,6 +73,9 @@
     + [アルゴリズムとデータ構造から理解するRedis](https://speakerdeck.com/kawasy/learn-redis-from-internal-algorithms-and-data-structures)
     + [ゲームAI -基礎編- 『知識表現と影響マップ』](http://tech.cygames.co.jp/archives/2272/)
     + [コーディング面接対策のために解きたいLeetCode 60問](https://1kohei1.com/leetcode/)
+    + [Sorting Algorithm Cheat Sheet](https://www.interviewcake.com/sorting-algorithm-cheat-sheet)
+    + [トポロジカルソートと強連結成分分解でWikipediaの特定カテゴリー配下のページをすべて取得する](http://ksksksks2.hatenadiary.jp/entry/20190504/1556938044)
+    + [DataStructures and Algorithms in C/C++](https://github.com/amitbansal7/Data-Structures-and-Algorithms)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

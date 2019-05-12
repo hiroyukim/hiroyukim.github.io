@@ -62,6 +62,9 @@
     + [Transparent Data Encryption for Databases](https://architecture-database.blogspot.com/2019/03/transparent-data-encryption-for.html)
     + [PostgreSQLの内部構造―プロセスやメモリの流れ，特徴的な機能のしくみ](http://gihyo.jp/dev/feature/01/dex_postgresql/0002)
     + [履歴を持つデータの設計](https://speakerdeck.com/kawasima/lu-li-wochi-tudetafalseshe-ji)
+    + [Encyclopedia of Database Systems](https://link.springer.com/referencework/10.1007%2F978-1-4614-8265-9)
+    + [Distributed Systems 3rd edition](https://www.distributed-systems.net/index.php/books/distributed-systems-3rd-edition-2017/)
+    + [MySQL InnoDB Sorted Index Builds](https://www.percona.com/blog/2019/05/08/mysql-innodb-sorted-index-builds/)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)
