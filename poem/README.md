@@ -11,3 +11,5 @@
     + [ソフトウェアエンジニアの成長カーブ](https://yshibata.blog.so-net.ne.jp/2013-10-10)
     + [うまくフィードバックをもらうためのTips](http://konifar-zatsu.hatenadiary.jp/entry/2019/04/03/182930)
     + [The mythical 10x programmer](http://antirez.com/news/112)
+    + [プログラマの実力は経験だけであがらないことがレベル格差につながる](http://nowokay.hatenablog.com/entry/20121010/1349838665)
+    + [プログラマが勉強すること](http://nowokay.hatenablog.com/entry/20140228/1393568286)

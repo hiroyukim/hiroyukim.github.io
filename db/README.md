@@ -65,6 +65,8 @@
     + [Encyclopedia of Database Systems](https://link.springer.com/referencework/10.1007%2F978-1-4614-8265-9)
     + [Distributed Systems 3rd edition](https://www.distributed-systems.net/index.php/books/distributed-systems-3rd-edition-2017/)
     + [MySQL InnoDB Sorted Index Builds](https://www.percona.com/blog/2019/05/08/mysql-innodb-sorted-index-builds/)
+    + [Aurora - クラウド時代のDBアーキテクチャ](https://mrasu.hatenablog.jp/entry/2019/04/29/143206)
+    + [デッドロック検出におけるknotとcycleの違いについて](http://yuyubu.hatenablog.com/entry/2018/11/12/%E3%83%87%E3%83%83%E3%83%89%E3%83%AD%E3%83%83%E3%82%AF%E6%A4%9C%E5%87%BA%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8Bknot%E3%81%A8cycle%E3%81%AE%E9%81%95%E3%81%84%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

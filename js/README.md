@@ -22,3 +22,4 @@
     + [Node.js Performance 改善ガイド](https://yosuke-furukawa.hatenablog.com/entry/2017/12/05/125517)
     + [JIT-less V8](https://v8.dev/blog/jitless)
     + [がんばらないTypeScript](https://employment.en-japan.com/engineerhub/entry/2019/04/16/103000)
+    + [reactの基礎と設計パターン](https://speakerdeck.com/dragontaro/reactfalseji-chu-toshe-ji-patan)

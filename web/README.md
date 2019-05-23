@@ -75,6 +75,11 @@
     + [KubernetesロードバランサーのMetalLBを導入した話(Necoプロジェクト体験入部)](https://blog.cybozu.io/entry/2019/03/25/093000)
     + [Standardizing WASI: A system interface to run WebAssembly outside the web](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)
     + [Announcing Lucet: Fastly’s native WebAssembly compiler and runtime](https://www.fastly.com/blog/announcing-lucet-fastly-native-webassembly-compiler-runtime)
+    + [XSS1000本ノックを支える技術](https://speakerdeck.com/yagihashoo/a-talk-about-xss-thousand-knocks-shibuya-dot-xss-techtalk-number-10)
+    + [ブラウザセキュリティ機能は バイパスされる為にある](https://speakerdeck.com/shhnjk/burauzasekiyuriteiji-neng-ha-baipasusareruwei-niaru)
+    + [JSでDoSる](https://speakerdeck.com/masatokinugawa/shibuya-dot-xss-techtalk-number-11)
+    + [Build your own WebAssembly Compiler](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
 + Tool
+    + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)
     + [Terraformer](https://github.com/GoogleCloudPlatform/terraformer)

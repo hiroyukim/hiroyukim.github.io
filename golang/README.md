@@ -7,6 +7,9 @@
     + [Why does Go not have assertions?](https://golang.org/doc/faq#assertions)
     + [Where is my favorite helper function for testing?](https://golang.org/doc/faq#testing_framework)
 + Tool
+    + [Terminal based dashboard.](https://github.com/mum4k/termdash)
+    + [test accelerator for appengine/go](https://github.com/favclip/testerator)
+    + [Gameboy.Live is a Gameboy emulator](https://github.com/HFO4/gameboy.live)
     + [NES emulator written in golang](https://github.com/ichikaway/goNES)
     + [A Go dependency graph visualization tool](https://github.com/kisielk/godepgraph)
     + [The Go kernel for Jupyter notebooks and nteract.](https://github.com/gopherdata/gophernotes)
@@ -372,6 +375,14 @@
     + [GoでのAPI開発現場のアーキテクチャ実装事例](https://speakerdeck.com/hgsgtk/go-api-architecture-practical-example)
     + [GoLandでgoldenファイルを用いたユニットテストを書く](https://khigashigashi.hatenablog.com/entry/2019/04/27/150230)
     + [Go言語のio.Pipeでファイルを効率よくアップロードする方法](https://medium.com/eureka-engineering/file-uploads-in-go-with-io-pipe-75519dfa647b)
+    + [Go による機械学習 推論フレームワークの最新動向 2019](https://qiita.com/mattn/items/b01f9bb5c2fa3678734a)
+    + [詳解 google-cloud-go/spanner — セッション管理編](https://medium.com/google-cloud-jp/%E8%A9%B3%E8%A7%A3-google-cloud-go-spanner-%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E7%AE%A1%E7%90%86%E7%B7%A8-d805750edc75)
+    + [Inside the Go Playground](https://blog.golang.org/playground)
+    + [The Go Playground](https://go.googlesource.com/playground)
+    + [エラー設計について](https://docs.google.com/presentation/d/1JIdZ4IVW2D3kEFUtWSvHNes3r3ykojGuUAQAnhmEVs0/edit#slide=id.g4204ea1550_1_336)
+    + [Goによる外部プロセス起動ベストプラクティス及びtimeoutパッケージ徹底解決](http://songmu.github.io/slides/gocon2019-spring/#0)
+    + [Hacking Go Compiler Internals](https://speakerdeck.com/moriyoshi/hacking-go-compiler-internals-2nd-season)
+    + [GoでAPIサーバをはやくつくる](https://speakerdeck.com/juntaki/godeapisabawohayakutukuru)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

@@ -22,6 +22,7 @@
     + [HTTP/3のヘッダ圧縮仕様QPACKについて](https://asnokaze.hatenablog.com/entry/2019/04/08/020017)
     + [データセンター内で使う BGP の基礎知識](https://blog.cybozu.io/entry/bgp-basics)
     + [QUICの暗号化と鍵の導出について](https://asnokaze.hatenablog.com/entry/2019/04/22/000927)
+    + [ルーター自作本を試す環境をnetnsの仮想ネットワークで実現する](https://cipepser.hatenablog.com/entry/2018/06/09/004657)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)

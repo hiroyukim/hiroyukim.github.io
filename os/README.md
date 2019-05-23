@@ -147,7 +147,10 @@
     + [たのしい組み込みCMake](https://qiita.com/tnishinaga/items/c01dfd5f43e446653cd1)
     + [コンテナはなぜ安全（または安全でない）なのか](https://sil.hatenablog.com/entry/why-container-is-secure)
     + [Elixir Cross Referencer](https://elixir.bootlin.com/linux/latest/source)
+    + [xv6 OS x86](https://github.com/mit-pdos/xv6-public)
+    + [Running WebAssembly on the Kernel](https://medium.com/wasmer/running-webassembly-on-the-kernel-8e04761f1d8e)
 + Tool
+    + [A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI](https://github.com/knqyf263/trivy)
     + [ELKDAT: easy linux kernel development and test tool](https://github.com/satoru-takeuchi/elkdat)
     + [sharkdp/hexyl](https://github.com/sharkdp/hexyl)
     + [Labean is a simple HTTP/HTTPS port knocker for GNU/Linux.](https://github.com/uprt/labean)

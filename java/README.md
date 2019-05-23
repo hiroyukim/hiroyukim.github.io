@@ -9,3 +9,5 @@
     + [段階的に理解する Java 例外処理](https://qiita.com/ts7i/items/d7f6c1cd5a14e55943d4)
     + [CMS GC おさらい](http://cco.hatenablog.jp/entry/2014/12/01/162240)
     + [8 コンカレント・マーク・スイープ(CMS)コレクタ](https://docs.oracle.com/javase/jp/8/docs/technotes/guides/vm/gctuning/cms.html)
+    + [JVM Ecosystem Survey 2019](https://snyk.io/blog/jvm-ecosystem-survey-2019/)
+    + [LINEのOpenJDK導入レポート：互換性の確認から注意事項まで](https://engineering.linecorp.com/ja/blog/line-open-jdk/)

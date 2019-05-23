@@ -76,6 +76,9 @@
     + [Sorting Algorithm Cheat Sheet](https://www.interviewcake.com/sorting-algorithm-cheat-sheet)
     + [トポロジカルソートと強連結成分分解でWikipediaの特定カテゴリー配下のページをすべて取得する](http://ksksksks2.hatenadiary.jp/entry/20190504/1556938044)
     + [DataStructures and Algorithms in C/C++](https://github.com/amitbansal7/Data-Structures-and-Algorithms)
+    + [ドラクエ4風のAIバトルを深層学習で作ってみた](https://qiita.com/stakemura/items/c447b3989a2455072bf0)
+    + [Awesome decision tree research papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
+    + [はじめての機械学習と TensorFlow](https://docs.google.com/presentation/d/1aWaI-h8Qhc3D3SC0arNYrx595__QH27dW6pXQ70zogg/edit#slide=id.g4df0e15d61_0_709)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)
