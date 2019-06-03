@@ -50,6 +50,7 @@
     + [セルフホスティングCコンパイラを書いた](https://ryooooooga.hateblo.jp/entry/2019/04/14/162547)
     + [C/C++ ソースコードタグシステム lctags の紹介](https://qiita.com/dwarfJP/items/982ef7ee3f3bfd435156)
     + [A modern, browser-based frontend to gdb](https://www.gdbgui.com/)
+    + [Compiling C to WebAssembly without Emscripten](https://dassur.ma/things/c-to-webassembly/)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

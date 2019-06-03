@@ -79,6 +79,10 @@
     + [ドラクエ4風のAIバトルを深層学習で作ってみた](https://qiita.com/stakemura/items/c447b3989a2455072bf0)
     + [Awesome decision tree research papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
     + [はじめての機械学習と TensorFlow](https://docs.google.com/presentation/d/1aWaI-h8Qhc3D3SC0arNYrx595__QH27dW6pXQ70zogg/edit#slide=id.g4df0e15d61_0_709)
+    + [DL4コンテンツ公開ページ](https://weblab.t.u-tokyo.ac.jp/dl4us/)
+    + [UTokyo Open Course Ware](https://ocwx.ocw.u-tokyo.ac.jp/course-search/)
+    + [小型 AI コンピュータ NVIDIA Jetson Nano 開発者キットのセットアップ](https://qiita.com/tsutof/items/66e68c75b462c4faf1cb)
+    + [あなたの知らない ハッシュテーブルの世界](https://www.dropbox.com/s/pjclo2z8xd9065o/%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E3%83%8F%E3%83%83%E3%82%B7%E3%83%A5%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%81%AE%E4%B8%96%E7%95%8C.pptx?dl=0)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

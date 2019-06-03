@@ -7,6 +7,7 @@
     + [Why does Go not have assertions?](https://golang.org/doc/faq#assertions)
     + [Where is my favorite helper function for testing?](https://golang.org/doc/faq#testing_framework)
 + Tool
+    + [gomove is a utility to help you move golang packages by automatically changing the import paths from the old one to new one.](https://github.com/KSubedi/gomove)
     + [Terminal based dashboard.](https://github.com/mum4k/termdash)
     + [test accelerator for appengine/go](https://github.com/favclip/testerator)
     + [Gameboy.Live is a Gameboy emulator](https://github.com/HFO4/gameboy.live)
@@ -383,6 +384,9 @@
     + [Goによる外部プロセス起動ベストプラクティス及びtimeoutパッケージ徹底解決](http://songmu.github.io/slides/gocon2019-spring/#0)
     + [Hacking Go Compiler Internals](https://speakerdeck.com/moriyoshi/hacking-go-compiler-internals-2nd-season)
     + [GoでAPIサーバをはやくつくる](https://speakerdeck.com/juntaki/godeapisabawohayakutukuru)
+    + [Gocon 2019 spring 発表資料まとめ](https://mom0tomo.github.io/post/gocon_2019_spring/)
+    + [Go API Validation error handling](https://speakerdeck.com/hgsgtk/go-api-validation-error-handling)
+    + [Kubernetes のソースコードとの付き合い方](https://speakerdeck.com/daikurosawa/kubernetes-source-code-reading)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

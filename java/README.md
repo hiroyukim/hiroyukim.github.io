@@ -11,3 +11,4 @@
     + [8 コンカレント・マーク・スイープ(CMS)コレクタ](https://docs.oracle.com/javase/jp/8/docs/technotes/guides/vm/gctuning/cms.html)
     + [JVM Ecosystem Survey 2019](https://snyk.io/blog/jvm-ecosystem-survey-2019/)
     + [LINEのOpenJDK導入レポート：互換性の確認から注意事項まで](https://engineering.linecorp.com/ja/blog/line-open-jdk/)
+    + [STM の設計と進化](https://www.dropbox.com/s/wqje7nnn0zoacl9/STM%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E9%80%B2%E5%8C%96_.pptx?dl=0)

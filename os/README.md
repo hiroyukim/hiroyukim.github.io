@@ -149,6 +149,12 @@
     + [Elixir Cross Referencer](https://elixir.bootlin.com/linux/latest/source)
     + [xv6 OS x86](https://github.com/mit-pdos/xv6-public)
     + [Running WebAssembly on the Kernel](https://medium.com/wasmer/running-webassembly-on-the-kernel-8e04761f1d8e)
+    + [キャッシュメモリの恩恵をてっとりばやく体感する](https://qiita.com/NaOHaq/items/55573f088d0b1d3b0dc6)
+    + [dockerignore talk](https://speakerdeck.com/orisano/dockerignore-talk)
+    + [irqbalanceによるCPUへの割り込み処理の負荷分散について調べてみた](https://www.denet.ad.jp/technology/2018/09/irqbalancecpu.html)
+    + [Linuxのポーリング処理のコードを読んでみよう　〜初期化編〜](http://syuu1228.hatenablog.com/entry/20101017/1287265711)
+    + [Linux kernelをUnikernelのライブラリ化する](https://retrage01.hateblo.jp/entry/2019/05/30/232623)
+    + [x64 UEFI 対応 OS 自作入門 ～実機で動作する OS を作ってみよう～](https://github.com/tenpoku1000/tenpoku-book)
 + Tool
     + [A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI](https://github.com/knqyf263/trivy)
     + [ELKDAT: easy linux kernel development and test tool](https://github.com/satoru-takeuchi/elkdat)
@@ -162,3 +168,4 @@
     + [BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more](https://github.com/iovisor/bcc)
     + [NVIDIA GPUs htop like monitoring tool](https://github.com/Syllo/nvtop)
     + [Record the CPU and memory activity of a process](https://github.com/astrofrog/psrecord)
+    + [CR0.CD manipulate Linux Kernel Module as a proc filesystem](https://github.com/alphaKAI/cr0cd)

@@ -23,3 +23,4 @@
     + [JIT-less V8](https://v8.dev/blog/jitless)
     + [がんばらないTypeScript](https://employment.en-japan.com/engineerhub/entry/2019/04/16/103000)
     + [reactの基礎と設計パターン](https://speakerdeck.com/dragontaro/reactfalseji-chu-toshe-ji-patan)
+    + [BigInt: Integers as big as you want in JavaScrip](https://webengineshackfest.org/2017/slides/bigint-integers-as-big-as-you-want-in-javascript-by-daniel-ehrenberg.pdf)

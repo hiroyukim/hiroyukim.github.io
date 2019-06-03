@@ -13,3 +13,5 @@
     + [The mythical 10x programmer](http://antirez.com/news/112)
     + [プログラマの実力は経験だけであがらないことがレベル格差につながる](http://nowokay.hatenablog.com/entry/20121010/1349838665)
     + [プログラマが勉強すること](http://nowokay.hatenablog.com/entry/20140228/1393568286)
+    + [最高のエンジニアになる方法](https://codehex.hateblo.jp/entry/2019/04/28/110000)
+    + [コンピュータ・サイエンスやりたくなって1年ちょっとコツコツやってる/やったことたち](https://dekotech.dekokun.info/entry/2019/05/22/135330)
