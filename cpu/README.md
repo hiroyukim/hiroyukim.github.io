@@ -24,6 +24,8 @@
     + [アウトオブオーダ実行の詳細を勉強する場合の資料には"Understanding the detailed Architecture of AMD's 64 bit Core"がとても良い](http://msyksphinz.hatenablog.com/entry/2019/02/08/040000)
     + [汎用ロジックのみで実用的なCPUを作る方法](https://retrof.sakura.ne.jp/)
     + [MKL-DNNで学ぶIntel CPUの最適化手法](https://blog.cybozu.io/entry/2019/04/15/170000)
+    + [分岐予測の簡単な歴史 – Part 1](https://postd.cc/branch-prediction-2/)
+    + [『CPUの創りかた』のTD4をブレッドボードで作った話。](https://yousay0704.hatenablog.com/entry/2018/08/28/122331)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)

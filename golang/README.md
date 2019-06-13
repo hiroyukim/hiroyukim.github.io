@@ -387,6 +387,10 @@
     + [Gocon 2019 spring 発表資料まとめ](https://mom0tomo.github.io/post/gocon_2019_spring/)
     + [Go API Validation error handling](https://speakerdeck.com/hgsgtk/go-api-validation-error-handling)
     + [Kubernetes のソースコードとの付き合い方](https://speakerdeck.com/daikurosawa/kubernetes-source-code-reading)
+    + [Let's build a SQL parser in Go!](https://marianogappa.github.io/software/2019/06/05/lets-build-a-sql-parser-in-go/)
+    + [Don't defer Close() on writable files](https://www.joeshaw.org/dont-defer-close-on-writable-files/)
+    + [A visual guide to Go Memory Allocator from scratch (Golang)](https://blog.ankuranand.com/2019/02/20/a-visual-guide-to-golang-memory-allocator-from-ground-up/)
+    + [Go 製ソフトウェアでメモリ使用量の多い関数を特定する](https://blog.cybozu.io/entry/2019/06/11/170000)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

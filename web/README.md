@@ -82,6 +82,7 @@
     + [gas-webpagetestで パフォーマンス計測を始めよう](https://speakerdeck.com/howdy39/get-started-measuring-performance-with-gas-webpagetest)
     + [Cephalocon Barcelona 2019 現地レポート 1日目](https://blog.cybozu.io/entry/2019/05/20/125049)
     + [Webサービス開発とSPAの認証の話](https://speakerdeck.com/corocn/spa-and-identity)
+    + [マイクロサービスにおける決済トランザクション管理](https://tech.mercari.com/entry/2019/06/07/155849)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

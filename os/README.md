@@ -155,6 +155,8 @@
     + [Linuxのポーリング処理のコードを読んでみよう　〜初期化編〜](http://syuu1228.hatenablog.com/entry/20101017/1287265711)
     + [Linux kernelをUnikernelのライブラリ化する](https://retrage01.hateblo.jp/entry/2019/05/30/232623)
     + [x64 UEFI 対応 OS 自作入門 ～実機で動作する OS を作ってみよう～](https://github.com/tenpoku1000/tenpoku-book)
+    + [eBPF and XDP for Processing Packets at Bare-metal Speed](https://sematext.com/blog/ebpf-and-xdp-for-processing-packets-at-bare-metal-speed/)
+    + [ftraceとperf probeの環境構築](https://memo.yuuk.io/entry/2019/06/09/190137)
 + Tool
     + [A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI](https://github.com/knqyf263/trivy)
     + [ELKDAT: easy linux kernel development and test tool](https://github.com/satoru-takeuchi/elkdat)

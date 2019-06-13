@@ -51,6 +51,9 @@
     + [C/C++ ソースコードタグシステム lctags の紹介](https://qiita.com/dwarfJP/items/982ef7ee3f3bfd435156)
     + [A modern, browser-based frontend to gdb](https://www.gdbgui.com/)
     + [Compiling C to WebAssembly without Emscripten](https://dassur.ma/things/c-to-webassembly/)
+    + [GLFWによるOpenGL入門](http://marina.sys.wakayama-u.ac.jp/~tokoi/GLFWdraft.pdf)
+    + [高速化チューニングとその関連技術１](https://speakerdeck.com/kaityo256/how-to-debug)
+    + [高速化チューニングとその関連技術2](https://speakerdeck.com/kaityo256/how-to-optimize)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

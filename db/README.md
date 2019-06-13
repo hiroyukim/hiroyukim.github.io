@@ -68,6 +68,7 @@
     + [Aurora - クラウド時代のDBアーキテクチャ](https://mrasu.hatenablog.jp/entry/2019/04/29/143206)
     + [デッドロック検出におけるknotとcycleの違いについて](http://yuyubu.hatenablog.com/entry/2018/11/12/%E3%83%87%E3%83%83%E3%83%89%E3%83%AD%E3%83%83%E3%82%AF%E6%A4%9C%E5%87%BA%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8Bknot%E3%81%A8cycle%E3%81%AE%E9%81%95%E3%81%84%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
     + [MySQLのコネクションハンドリングとスケーリング](https://yakst.com/ja/posts/5444)
+    + [MySQLのリアルタイムモニタリングツールを作った話](https://www.slideshare.net/kenken0807/mysql-149112359)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

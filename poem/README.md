@@ -15,3 +15,4 @@
     + [プログラマが勉強すること](http://nowokay.hatenablog.com/entry/20140228/1393568286)
     + [最高のエンジニアになる方法](https://codehex.hateblo.jp/entry/2019/04/28/110000)
     + [コンピュータ・サイエンスやりたくなって1年ちょっとコツコツやってる/やったことたち](https://dekotech.dekokun.info/entry/2019/05/22/135330)
+    + [納得感のある決定事項の共有方法](http://konifar-zatsu.hatenadiary.jp/entry/2019/06/03/120437)

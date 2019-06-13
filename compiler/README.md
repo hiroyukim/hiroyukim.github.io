@@ -14,4 +14,7 @@
     + [できる！　コンパイラ作成の資料まとめ](https://anqou.net/poc/2019/01/03/post-2650/)
     + [電卓を作ってみよう](https://woodyzootopia.github.io/2019/01/%E9%9B%BB%E5%8D%93%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86/)
     + [Loop Fusion, Loop Distribution and Their Place in the Loop Optimization Pipeline](https://llvm.org/devmtg/2019-04/slides/TechTalk-Barton-Loop_fusion_loop_distribution_and_their_place_in_the_loop_optimization_pipeline.pdf)
+    + [整数を419378回インクリメントするとMacのg++が死ぬ](https://qiita.com/kaityo256/items/6b5715b213e955d44f55)
     + [The Make-A-Lisp Process](https://github.com/kanaka/mal/blob/master/process/guide.md)
+    + [定数配列がからんだ定数畳み込み最適化](https://qiita.com/kaityo256/items/bf9712559c9cd2ce4e2c)
+    + [コンパイラ講義資料リンク集](https://qiita.com/Serenade/items/076b7eedee9af8102651)
