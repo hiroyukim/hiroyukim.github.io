@@ -15,3 +15,4 @@
     + [Ruby: mallocでマルチスレッドプログラムのメモリが倍増する理由](https://techracho.bpsinc.jp/hachi8833/2017_12_28/50109)
     + [成瀬ゆいさん，Ruby開発の世界に飛び込もう 〜RubyKaigi 2016 基調講演 3日目](http://gihyo.jp/news/report/01/rubykaigi2016/0003)
     + [YARV Maniacs 【第 2 回】 VM ってなんだろう](https://magazine.rubyist.net/articles/0007/0007-YarvManiacs.html)
+    + [パイプライン演算子の歴史](https://mametter.hatenablog.com/entry/2019/06/15/192311)

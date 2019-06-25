@@ -23,6 +23,9 @@
     + [データセンター内で使う BGP の基礎知識](https://blog.cybozu.io/entry/bgp-basics)
     + [QUICの暗号化と鍵の導出について](https://asnokaze.hatenablog.com/entry/2019/04/22/000927)
     + [ルーター自作本を試す環境をnetnsの仮想ネットワークで実現する](https://cipepser.hatenablog.com/entry/2018/06/09/004657)
+    + [LinuxのBPF : (1) パケットフィルタ](http://mmi.hatenablog.com/entry/2016/08/01/031233)
+    + [A Highly Scalable User-level TCP Stack for Multicore Systems](https://shader.kaist.edu/mtcp/)
+    + [作って理解するWireGuard](https://speakerdeck.com/fadis/zuo-tuteli-jie-suruwireguard)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)

@@ -70,6 +70,7 @@
 + Manual
     + [dep docs](https://golang.github.io/dep/docs/introduction.html)
 + library
+    + [Determine if it is a similar image using average hash.](https://github.com/po3rin/gosimimg)
     + [bitcask](https://prologic.github.io/bitcask/)
     + [A StreamLike, Immutable, Lazy Loading and smart Golang Library to deal with slices.](https://github.com/wesovilabs/koazee)
     + [A Lua 5.3 engine implemented in Go](https://github.com/Azure/golua)
@@ -391,6 +392,11 @@
     + [Don't defer Close() on writable files](https://www.joeshaw.org/dont-defer-close-on-writable-files/)
     + [A visual guide to Go Memory Allocator from scratch (Golang)](https://blog.ankuranand.com/2019/02/20/a-visual-guide-to-golang-memory-allocator-from-ground-up/)
     + [Go 製ソフトウェアでメモリ使用量の多い関数を特定する](https://blog.cybozu.io/entry/2019/06/11/170000)
+    + [Using go/analysis to write a custom linter](https://arslan.io/2019/06/13/using-go-analysis-to-write-a-custom-linter/)
+    + [The complete guide to Go net/http timeouts](https://blog.cloudflare.com/the-complete-guide-to-golang-net-http-timeouts/)
+    + [Google Kubernetes Engine上のGoアプリケーションでのHTTPリクエストを行う方法](https://tech.mercari.com/entry/2019/06/14/131933)
+    + [Go: Context and Cancellation by Propagation](https://medium.com/@blanchon.vincent/go-context-and-cancellation-by-propagation-7a808bbc889c)
+    + [堅牢なTCPサーバを作るために - katsubushiの知見から/kamakura.go#5](https://speakerdeck.com/fujiwara3/kamakura-dot-go-number-5)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

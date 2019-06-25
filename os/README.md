@@ -157,7 +157,12 @@
     + [x64 UEFI 対応 OS 自作入門 ～実機で動作する OS を作ってみよう～](https://github.com/tenpoku1000/tenpoku-book)
     + [eBPF and XDP for Processing Packets at Bare-metal Speed](https://sematext.com/blog/ebpf-and-xdp-for-processing-packets-at-bare-metal-speed/)
     + [ftraceとperf probeの環境構築](https://memo.yuuk.io/entry/2019/06/09/190137)
+    + [TCP接続を集約表示するlstfにプロセス情報を表示するオプションを追加](https://memo.yuuk.io/entry/2019/06/14/151927)
+    + [A PC Emulator implemented by WebAssembly](https://github.com/neri/vpc)
+    + [mimalloc is a compact general purpose allocator with excellent performance.](https://github.com/microsoft/mimalloc)
+    + [高負荷システムでNVMeデバイス使用時のfstrimとdiscard mount optionの話](https://tagomoris.hatenablog.com/entry/2019/06/24/110537)
 + Tool
+    + [High-level tracing language for Linux eBPF](https://github.com/iovisor/bpftrace)
     + [A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI](https://github.com/knqyf263/trivy)
     + [ELKDAT: easy linux kernel development and test tool](https://github.com/satoru-takeuchi/elkdat)
     + [sharkdp/hexyl](https://github.com/sharkdp/hexyl)
@@ -171,3 +176,4 @@
     + [NVIDIA GPUs htop like monitoring tool](https://github.com/Syllo/nvtop)
     + [Record the CPU and memory activity of a process](https://github.com/astrofrog/psrecord)
     + [CR0.CD manipulate Linux Kernel Module as a proc filesystem](https://github.com/alphaKAI/cr0cd)
+    + [Valgrind](http://www.valgrind.org/)
