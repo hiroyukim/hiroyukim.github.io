@@ -161,6 +161,11 @@
     + [A PC Emulator implemented by WebAssembly](https://github.com/neri/vpc)
     + [mimalloc is a compact general purpose allocator with excellent performance.](https://github.com/microsoft/mimalloc)
     + [高負荷システムでNVMeデバイス使用時のfstrimとdiscard mount optionの話](https://tagomoris.hatenablog.com/entry/2019/06/24/110537)
+    + [続・WASMでPCエミュレータ作った。](https://neriring.hatenablog.jp/entry/2019/06/23/234654)
+    + [現代のコンピュータにおける 自作OS事情](https://docs.google.com/presentation/d/1mbLk70RKi-ExLzb78WosCu5DujpQN2K7B9iSbUGRXq4/edit#slide=id.p)
+    + [VM命令ディスパッチ手法: Context Threading](https://qiita.com/k0kubun/items/5ea46cff73feb870f1ae)
+    + [お手軽Kubernetesクラスタ作成ツール "kind"の紹介](https://blog.cybozu.io/entry/2019/07/03/170000)
+    + [一週間でなれる！スパコンプログラマ](https://github.com/kaityo256/sevendayshpc)
 + Tool
     + [High-level tracing language for Linux eBPF](https://github.com/iovisor/bpftrace)
     + [A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI](https://github.com/knqyf263/trivy)

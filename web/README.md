@@ -85,6 +85,9 @@
     + [マイクロサービスにおける決済トランザクション管理](https://tech.mercari.com/entry/2019/06/07/155849)
     + [Regular Expression Matching with a Trigram Index](https://swtch.com/~rsc/regexp/regexp4.html)
     + [システム設計入門](https://github.com/donnemartin/system-design-primer/blob/master/README-ja.md)
+    + [開発者向けの基盤をつくる](https://speakerdeck.com/tcnksm/kai-fa-zhe-xiang-kefalseji-pan-wotukuru)
+    + [【永久保存版】Gitのあらゆるトラブルが解決する神ノウハウ集を翻訳した](https://blog.labot.jp/entry/2019/07/01/183204)
+    + [NLB + Fluentd の構成でファイルディスクリプタが枯渇する謎の現象を解消した話](https://tech.repro.io/entry/2019/07/03/090000)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

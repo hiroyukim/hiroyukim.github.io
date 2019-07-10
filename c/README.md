@@ -15,6 +15,7 @@
     + [C-Thread-Pool](https://github.com/Pithikos/C-Thread-Pool)
     + [A small regex implementation in C](https://github.com/kokke/tiny-regex-c)
     + [Klib: a Generic Library in C](https://github.com/attractivechaos/klib)
+    + [mimalloc](https://github.com/microsoft/mimalloc)
 + Article
     + [CTFのための gdb/gdb-peda 頻出コマンドのメモ](http://t3rry.hatenablog.com/entry/2017/07/19/010844)
     + [C言語でのコルーチン実装](http://www.spice-elec.com/Z80/multi_task/mult_task02.html)
@@ -54,6 +55,7 @@
     + [GLFWによるOpenGL入門](http://marina.sys.wakayama-u.ac.jp/~tokoi/GLFWdraft.pdf)
     + [高速化チューニングとその関連技術１](https://speakerdeck.com/kaityo256/how-to-debug)
     + [高速化チューニングとその関連技術2](https://speakerdeck.com/kaityo256/how-to-optimize)
+    + [.soや.dylibや.aファイル、共有ライブラリなどについて調べてみた](https://kanonji.hatenadiary.com/entry/20121018/1350538932)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

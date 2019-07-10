@@ -16,3 +16,4 @@
     + [成瀬ゆいさん，Ruby開発の世界に飛び込もう 〜RubyKaigi 2016 基調講演 3日目](http://gihyo.jp/news/report/01/rubykaigi2016/0003)
     + [YARV Maniacs 【第 2 回】 VM ってなんだろう](https://magazine.rubyist.net/articles/0007/0007-YarvManiacs.html)
     + [パイプライン演算子の歴史](https://mametter.hatenablog.com/entry/2019/06/15/192311)
+    + [セルフホストで学ぶJVM入門](https://k0kubun.hatenablog.com/entry/jjvm)
