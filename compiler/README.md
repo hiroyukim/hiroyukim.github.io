@@ -18,3 +18,4 @@
     + [The Make-A-Lisp Process](https://github.com/kanaka/mal/blob/master/process/guide.md)
     + [定数配列がからんだ定数畳み込み最適化](https://qiita.com/kaityo256/items/bf9712559c9cd2ce4e2c)
     + [コンパイラ講義資料リンク集](https://qiita.com/Serenade/items/076b7eedee9af8102651)
+    + [Who's afraid of a big bad optimizing compiler?](https://lwn.net/SubscriberLink/793253/6ff74ecfb804c410/)

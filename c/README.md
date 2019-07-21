@@ -4,6 +4,8 @@
     + [Using and Porting the GNU Compiler Collection (GCC)](http://www.asahi-net.or.jp/~wg5k-ickw/html/online/gcc-2.95.2/gcc_toc.html)
     + [GCC online documentation](https://gcc.gnu.org/onlinedocs/)
 + Tool
+    + [mtrace](https://en.wikipedia.org/wiki/Mtrace)
+    + [A power tool to debug memory-related issues](https://github.com/yanqi27/core_analyzer)
     + [gperftools](https://github.com/gperftools/gperftools)
     + [Google Perftoolsを導入する](http://msyksphinz.hatenablog.com/entry/2015/08/28/020000)
     + [gprof2dot](https://github.com/jrfonseca/gprof2dot)
@@ -56,6 +58,9 @@
     + [高速化チューニングとその関連技術１](https://speakerdeck.com/kaityo256/how-to-debug)
     + [高速化チューニングとその関連技術2](https://speakerdeck.com/kaityo256/how-to-optimize)
     + [.soや.dylibや.aファイル、共有ライブラリなどについて調べてみた](https://kanonji.hatenadiary.com/entry/20121018/1350538932)
+    + [3.2.4 Allocation Debugging](https://www.gnu.org/software/libc/manual/html_node/Allocation-Debugging.html)
+    + [自分がコンパイルしていないライブラリの中をGDBで追跡する](https://doss.eidos.ic.i.u-tokyo.ac.jp/html/gdb_step_into_libraries.html)
+    + [Decoded: GNU coreutils](https://www.maizure.org/projects/decoded-gnu-coreutils/index.html)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

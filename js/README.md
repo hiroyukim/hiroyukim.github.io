@@ -24,3 +24,5 @@
     + [がんばらないTypeScript](https://employment.en-japan.com/engineerhub/entry/2019/04/16/103000)
     + [reactの基礎と設計パターン](https://speakerdeck.com/dragontaro/reactfalseji-chu-toshe-ji-patan)
     + [BigInt: Integers as big as you want in JavaScrip](https://webengineshackfest.org/2017/slides/bigint-integers-as-big-as-you-want-in-javascript-by-daniel-ehrenberg.pdf)
+    + [Teaching-focused digital circuit simulator](https://github.com/tilk/digitaljs)
+    + [QuickJS Javascript Engine](https://bellard.org/quickjs/)

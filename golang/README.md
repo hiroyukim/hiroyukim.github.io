@@ -7,6 +7,7 @@
     + [Why does Go not have assertions?](https://golang.org/doc/faq#assertions)
     + [Where is my favorite helper function for testing?](https://golang.org/doc/faq#testing_framework)
 + Tool
+    + [The lazier way to manage everything docker](https://github.com/jesseduffield/lazydocker)
     + [gomove is a utility to help you move golang packages by automatically changing the import paths from the old one to new one.](https://github.com/KSubedi/gomove)
     + [Terminal based dashboard.](https://github.com/mum4k/termdash)
     + [test accelerator for appengine/go](https://github.com/favclip/testerator)
@@ -70,6 +71,7 @@
 + Manual
     + [dep docs](https://golang.github.io/dep/docs/introduction.html)
 + library
+    + [Tracing golang HTTP request latency](https://github.com/tcnksm/go-httpstat)
     + [Determine if it is a similar image using average hash.](https://github.com/po3rin/gosimimg)
     + [bitcask](https://prologic.github.io/bitcask/)
     + [A StreamLike, Immutable, Lazy Loading and smart Golang Library to deal with slices.](https://github.com/wesovilabs/koazee)
@@ -397,6 +399,15 @@
     + [Google Kubernetes Engine上のGoアプリケーションでのHTTPリクエストを行う方法](https://tech.mercari.com/entry/2019/06/14/131933)
     + [Go: Context and Cancellation by Propagation](https://medium.com/@blanchon.vincent/go-context-and-cancellation-by-propagation-7a808bbc889c)
     + [堅牢なTCPサーバを作るために - katsubushiの知見から/kamakura.go#5](https://speakerdeck.com/fujiwara3/kamakura-dot-go-number-5)
+    + [GolangでAPI Clientを実装する](https://deeeet.com/writing/2016/11/01/go-api-client/)
+    + [高速にGo言語のCLIツールをつくるcli-initというツールをつくった](https://deeeet.com/writing/2014/06/22/cli-init/)
+    + [モノレポ（mono repository）内でgoのmoduleを相対パスで利用する方法](http://chidakiyo.hatenablog.com/entry/2019/07/04/%E3%83%A2%E3%83%8E%E3%83%AC%E3%83%9D%EF%BC%88mono_repository%EF%BC%89%E5%86%85%E3%81%A7go%E3%81%AEmodule%E3%82%92%E7%9B%B8%E5%AF%BE%E3%83%91%E3%82%B9%E3%81%A7%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B)
+    + [マイクロサービス時代 のHTTPクライアントの作り方](https://speakerdeck.com/line_developers/how-we-build-our-http-client-for-microservice)
+    + [google/wireを使った Goらしいアーキテクチャへの取り組み](https://speakerdeck.com/budougumi0617/gocon-fukuoka-2019-summer)
+    + [Goでツールを量産する僕の方法](https://junkyard.song.mu/slides/gocon2019-fukuoka/#0)
+    + [Chrome as a service in Go](https://speakerdeck.com/codehex/chrome-as-a-service-in-go)
+    + [Goで作る大量プロセス管理機構](https://speakerdeck.com/ktam1219/godezuo-ruda-liang-purosesuguan-li-ji-gou)
+    + [Cost-effective Go Unit Test thinking and practices](https://speakerdeck.com/hgsgtk/cost-effective-go-unit-test-thinking-and-practices)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

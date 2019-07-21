@@ -26,6 +26,8 @@
     + [LinuxのBPF : (1) パケットフィルタ](http://mmi.hatenablog.com/entry/2016/08/01/031233)
     + [A Highly Scalable User-level TCP Stack for Multicore Systems](https://shader.kaist.edu/mtcp/)
     + [作って理解するWireGuard](https://speakerdeck.com/fadis/zuo-tuteli-jie-suruwireguard)
+    + [転びながらもネットワーク処理をソフトウェアで自作していく話](https://speakerdeck.com/mabuchin/zhuan-binagaramonetutowakuchu-li-wo-sohutoueadezi-zuo-siteikuhua)
+    + [セキュリティ特化なパケット解析のトレーニング](https://academy.gns3.com/p/wireshark-packet-analysis-and-ethical-hacking-core-skills)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)

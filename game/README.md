@@ -6,3 +6,4 @@
     + [ルールズ・オブ・プレイ　――ゲームデザインの基礎](http://www.newgamesorder.jp/games/rulesofplay)
     + [Nintendo Switch Emulator](https://github.com/yuzu-emu/yuzu)
     + [Mozilla ゲーム開発](https://developer.mozilla.org/ja/docs/Games)
+    + [Pillman boot sector game, a yellow thing eats pills and is chased by monsters.](https://github.com/nanochess/Pillman)

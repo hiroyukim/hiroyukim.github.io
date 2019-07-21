@@ -27,6 +27,8 @@
     + [分岐予測の簡単な歴史 – Part 1](https://postd.cc/branch-prediction-2/)
     + [『CPUの創りかた』のTD4をブレッドボードで作った話。](https://yousay0704.hatenablog.com/entry/2018/08/28/122331)
     + [AMDがZen 2で採用した現在最強の分岐予測「TAGE」](https://pc.watch.impress.co.jp/docs/column/kaigai/1192296.html)
+    + [フリップフロップ(flip-flop)回路](https://www.youtube.com/watch?v=wohc5GQXSUU)
+        + youtube
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)

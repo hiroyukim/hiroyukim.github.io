@@ -87,6 +87,10 @@
     + [non-blockingの意味するところ](https://kumagi.hatenadiary.org/entry/20101222/1293028345)
     + [DFS (深さ優先探索) 超入門！ 〜 グラフ・アルゴリズムの世界への入口 〜【前編】](https://qiita.com/drken/items/4a7869c5e304883f539b)
     + [NP問題における決定問題とはなにか](http://yuyubu.hatenablog.com/entry/2019/06/18/decision-problem)
+    + [algorithm-visualizer](https://algorithm-visualizer.org/)
+    + [de Bruijn Graph を使った de novo アセンブリの発想がすごい件](http://hoxo-m.hatenablog.com/entry/20100930/p1)
+    + [動的計画法を実現する代数〜トロピカル演算でグラフの最短経路を計算する〜](https://qiita.com/lotz/items/094bffd77b24e37bf20e)
+    + [講義 #1 コンピュータサイエンス入門概要](https://www.youtube.com/watch?v=sz9r80i3VzA&list=PLqX1hzBNwl2oMJqjuPylcf8aAQFSGCWQr&index=2&t=0s)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)
