@@ -29,6 +29,7 @@
     + [AMDがZen 2で採用した現在最強の分岐予測「TAGE」](https://pc.watch.impress.co.jp/docs/column/kaigai/1192296.html)
     + [フリップフロップ(flip-flop)回路](https://www.youtube.com/watch?v=wohc5GQXSUU)
         + youtube
+    + [implemented SNES on an FPGA](https://github.com/pgate1/SNES_on_FPGA)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)

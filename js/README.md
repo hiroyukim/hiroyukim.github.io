@@ -26,3 +26,5 @@
     + [BigInt: Integers as big as you want in JavaScrip](https://webengineshackfest.org/2017/slides/bigint-integers-as-big-as-you-want-in-javascript-by-daniel-ehrenberg.pdf)
     + [Teaching-focused digital circuit simulator](https://github.com/tilk/digitaljs)
     + [QuickJS Javascript Engine](https://bellard.org/quickjs/)
+    + [jsvu is the JavaScript (engine) Version Updater.](https://github.com/GoogleChromeLabs/jsvu)
+    + [Emscripten & WebAssembly night !! #8 まとめ](https://togetter.com/li/1379978)

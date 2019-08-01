@@ -28,6 +28,7 @@
     + [作って理解するWireGuard](https://speakerdeck.com/fadis/zuo-tuteli-jie-suruwireguard)
     + [転びながらもネットワーク処理をソフトウェアで自作していく話](https://speakerdeck.com/mabuchin/zhuan-binagaramonetutowakuchu-li-wo-sohutoueadezi-zuo-siteikuhua)
     + [セキュリティ特化なパケット解析のトレーニング](https://academy.gns3.com/p/wireshark-packet-analysis-and-ethical-hacking-core-skills)
+    + [HTTP のプライオリティが大きく変わろうとしている話（その他 IETF 105 雑感）](http://blog.kazuhooku.com/2019/07/http-ietf-105.html)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)

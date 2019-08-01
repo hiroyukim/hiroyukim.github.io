@@ -89,7 +89,11 @@
     + [【永久保存版】Gitのあらゆるトラブルが解決する神ノウハウ集を翻訳した](https://blog.labot.jp/entry/2019/07/01/183204)
     + [NLB + Fluentd の構成でファイルディスクリプタが枯渇する謎の現象を解消した話](https://tech.repro.io/entry/2019/07/03/090000)
     + [低レイテンシと安定性を生むアーキテクチャ - SSPの現場に学ぶ、高可用性のつくり方](https://employment.en-japan.com/engineerhub/entry/2019/07/12/103000)
+    + [Kubernetesアプリケーションの開発、デバッグを高速化するツール、Telepresenceの紹介](https://blog.cybozu.io/entry/2019/07/19/150000)
+    + [回復性の高いMicroservicesアーキテクチャを支える技術](https://tech.mercari.com/entry/2018/12/23/150000)
+    + [分散キャッシュサーバーのSplitBrainの再現とその調査](https://techblog.zozo.com/entry/jdg_splitbrain)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)
     + [Terraformer](https://github.com/GoogleCloudPlatform/terraformer)
+    + [OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.](https://github.com/cube2222/octosql)

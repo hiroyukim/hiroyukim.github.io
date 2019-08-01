@@ -36,5 +36,6 @@
     + [IntelliJ Rust](https://intellij-rust.github.io/)
     + [Rustのモジュールを詳細に理解する](https://qnighy.hatenablog.com/entry/2019/05/06/190000)
     + [A memory profiler for Linux](https://github.com/nokia/memory-profiler)
+    + [How to speed up the Rust compiler in 2019](https://blog.mozilla.org/nnethercote/2019/07/17/how-to-speed-up-the-rust-compiler-in-2019/)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)

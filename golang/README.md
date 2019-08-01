@@ -408,6 +408,9 @@
     + [Chrome as a service in Go](https://speakerdeck.com/codehex/chrome-as-a-service-in-go)
     + [Goで作る大量プロセス管理機構](https://speakerdeck.com/ktam1219/godezuo-ruda-liang-purosesuguan-li-ji-gou)
     + [Cost-effective Go Unit Test thinking and practices](https://speakerdeck.com/hgsgtk/cost-effective-go-unit-test-thinking-and-practices)
+    + [Goのバイナリに静的ファイルを埋め込むツール assets-life を書いた](https://shogo82148.github.io/blog/2019/07/24/assets-life/)
+    + [Golangを用いた様々な計算の高速化](https://qiita.com/tutuz/items/057452fbbe9a5ae26d37)
+    + [Writing delightful HTTP middleware in Go](https://doordash.engineering/2019/07/22/writing-delightful-http-middlewares-in-go/)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

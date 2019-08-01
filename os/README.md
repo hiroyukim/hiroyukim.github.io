@@ -177,6 +177,16 @@
         + youtube
     + [自分用にLinuxカーネルのBuildbot + LAVAでCI環境を作るめも](https://kernhack.hatenablog.com/entry/2019/07/14/162724)
     + [mimalloc のメモリ管理](https://qiita.com/methane/items/e88901b7392c10cee2c9)
+    + [The Linux Kernel API](https://www.kernel.org/doc/html/latest/core-api/kernel-api.html)
+    + [低レイヤーな人のためのディープラーニング](https://speakerdeck.com/fadis/di-reiyanaren-falsetamefalsedeipuraningu)
+    + [カーネル空間ですべてのプロセスを動かすには -TAL, SFI, Wasmとか - カーネル/VM探検隊15](https://www.slideshare.net/TakayaSaeki/kernelvm15-run-procinkernel)
+    + [入門WebAssemblyBinaryFormat.pdf](https://speakerdeck.com/mysticdoll/ru-men-webassemblybinaryformat)
+    + [Compilation Database によるカーネル開発支援](https://slides.com/wataash/kernel-compiledb#/)
+    + [Hello World in coreboot](https://speakerdeck.com/d0iasm/hello-world-in-coreboot-9bdb3d94-d092-4a60-bb19-360f7fb777df)
+    + [Understanding Docker container escapes](https://blog.trailofbits.com/2019/07/19/understanding-docker-container-escapes/)
+    + [OCIv2？！軽量高速なイケてる次世代イメージ仕様の最新動向を抑えよう！](https://www.slideshare.net/KoheiTokunaga/ociv2)
+    + [歴史から紐解くLinuxカーネルのコンテナ機能 / CNDT2019](https://speakerdeck.com/tenforward/cndt2019?slide=3)
+    + [x86上のLinuxとFreeBSDにおいて、メモリキャッシュを無効にするカーネルモジュールを書いた話](http://alphakai.hatenadiary.jp/entry/2019/07/24/214110)
 + Tool
     + [BIOS Simulator Center](https://download.lenovo.com/bsco/index.html)
     + [High-level tracing language for Linux eBPF](https://github.com/iovisor/bpftrace)
@@ -194,3 +204,4 @@
     + [Record the CPU and memory activity of a process](https://github.com/astrofrog/psrecord)
     + [CR0.CD manipulate Linux Kernel Module as a proc filesystem](https://github.com/alphaKAI/cr0cd)
     + [Valgrind](http://www.valgrind.org/)
+    + [Sandboxed kernel mode WebAssembly runtime](https://github.com/wasmerio/kernel-wasm)

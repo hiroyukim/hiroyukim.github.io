@@ -12,3 +12,4 @@
     + [gRPC を使って1万接続を達成するまでの話](https://medium.com/wandbox-org/grpc-%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A61%E4%B8%87%E6%8E%A5%E7%B6%9A%E3%82%92%E9%81%94%E6%88%90%E3%81%99%E3%82%8B%E3%81%BE%E3%81%A7%E3%81%AE%E8%A9%B1-cf5cd310a71d)
     + [Custom memory allocators in C++ to improve the performance of dynamic memory allocation](https://github.com/mtrebi/memory-allocators)
     + [Open-sourcing F14 for faster, more memory-efficient hash tables](https://code.fb.com/developer-tools/f14/)
+    + [Modern C++ Parallel Task Programming Library](https://github.com/cpp-taskflow/cpp-taskflow)

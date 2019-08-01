@@ -61,6 +61,8 @@
     + [3.2.4 Allocation Debugging](https://www.gnu.org/software/libc/manual/html_node/Allocation-Debugging.html)
     + [自分がコンパイルしていないライブラリの中をGDBで追跡する](https://doss.eidos.ic.i.u-tokyo.ac.jp/html/gdb_step_into_libraries.html)
     + [Decoded: GNU coreutils](https://www.maizure.org/projects/decoded-gnu-coreutils/index.html)
+    + [pthread_once が嫌いすぎて再実装した話](http://blog.kazuhooku.com/2019/07/pthreadonce.html)
+    + [Race Condition vs. Data Race](https://blog.regehr.org/archives/490)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)
