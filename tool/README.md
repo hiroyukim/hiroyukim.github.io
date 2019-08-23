@@ -7,6 +7,7 @@
     + [lsofgraph](https://github.com/zevv/lsofgraph)
     + [HTTPie](https://httpie.org/)
     + [A terminal UI for tshark, inspired by Wireshark](https://github.com/gcla/termshark)
+    + [The ZMap Project](https://zmap.io/)
 + file/dir
     + [fd](https://github.com/sharkdp/fd)
     + [Ultimate Plumber is a tool for writing Linux pipes with instant live preview](https://github.com/akavel/up)

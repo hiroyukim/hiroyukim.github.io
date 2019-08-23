@@ -187,6 +187,7 @@
     + [OCIv2？！軽量高速なイケてる次世代イメージ仕様の最新動向を抑えよう！](https://www.slideshare.net/KoheiTokunaga/ociv2)
     + [歴史から紐解くLinuxカーネルのコンテナ機能 / CNDT2019](https://speakerdeck.com/tenforward/cndt2019?slide=3)
     + [x86上のLinuxとFreeBSDにおいて、メモリキャッシュを無効にするカーネルモジュールを書いた話](http://alphakai.hatenadiary.jp/entry/2019/07/24/214110)
+    + [bootOS is a monolithic operating system in 512 bytes of x86 machine code.](https://github.com/nanochess/bootOS)
 + Tool
     + [BIOS Simulator Center](https://download.lenovo.com/bsco/index.html)
     + [High-level tracing language for Linux eBPF](https://github.com/iovisor/bpftrace)

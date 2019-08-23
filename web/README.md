@@ -92,6 +92,8 @@
     + [Kubernetesアプリケーションの開発、デバッグを高速化するツール、Telepresenceの紹介](https://blog.cybozu.io/entry/2019/07/19/150000)
     + [回復性の高いMicroservicesアーキテクチャを支える技術](https://tech.mercari.com/entry/2018/12/23/150000)
     + [分散キャッシュサーバーのSplitBrainの再現とその調査](https://techblog.zozo.com/entry/jdg_splitbrain)
+    + [参考になるコードスレ](https://news.ycombinator.com/item?id=20556336)
+    + [Apache Kafkaで発生した原因不明のパフォーマンス低下と、それを解決するためにやったこと](https://logmi.jp/tech/articles/321613)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

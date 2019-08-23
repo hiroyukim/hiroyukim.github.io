@@ -411,6 +411,11 @@
     + [Goのバイナリに静的ファイルを埋め込むツール assets-life を書いた](https://shogo82148.github.io/blog/2019/07/24/assets-life/)
     + [Golangを用いた様々な計算の高速化](https://qiita.com/tutuz/items/057452fbbe9a5ae26d37)
     + [Writing delightful HTTP middleware in Go](https://doordash.engineering/2019/07/22/writing-delightful-http-middlewares-in-go/)
+    + [Why Generics?](https://blog.golang.org/why-generics)
+    + [Go ランタイムのデバッグをサポートする環境変数](https://qiita.com/mattn/items/e613c1f8575580f98194)
+    + [ゲームボーイエミュレータをGo言語で書いた](https://blog.bokuweb.me/entry/gopher-boy)
+    + [Go Modules and Proxy Walkthrough](https://speakerdeck.com/ktr_0731/go-modules-and-proxy-walkthrough-515ee291-bab5-4eb0-861d-9b0c0ca0050b)
+    + [Go programming language secure coding practices guide](https://github.com/OWASP/Go-SCP)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

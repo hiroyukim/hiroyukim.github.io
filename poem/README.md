@@ -18,3 +18,4 @@
     + [納得感のある決定事項の共有方法](http://konifar-zatsu.hatenadiary.jp/entry/2019/06/03/120437)
     + [プログラマーを30年間やってきた経験から学んだことまとめ](https://gigazine.net/news/20190621-things-i-learnt-the-hard-way/)
     + [著名なOSSがどのように構成され、何故そのように作ったかを解説する「The Architecture of Open Source Applications」がすごい!!](https://qiita.com/linkqotto/items/9b1e60473d4b4a2d42c4)
+    + [【転職エントリ】Googleに入社します](https://note.mu/neko_chan0214/n/n3a64bc1e1412)
