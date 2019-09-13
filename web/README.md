@@ -94,6 +94,8 @@
     + [分散キャッシュサーバーのSplitBrainの再現とその調査](https://techblog.zozo.com/entry/jdg_splitbrain)
     + [参考になるコードスレ](https://news.ycombinator.com/item?id=20556336)
     + [Apache Kafkaで発生した原因不明のパフォーマンス低下と、それを解決するためにやったこと](https://logmi.jp/tech/articles/321613)
+    + [System Design for Tech Interviews](https://www.hiredintech.com/courses/system-design)
+    + [体系的に学ぶモダン Web セキュリティ](https://speakerdeck.com/lmt_swallow/learn-modern-web-security-systematically)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

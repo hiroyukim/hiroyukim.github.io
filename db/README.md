@@ -72,6 +72,7 @@
     + [PostgreSQLクエリ実行の基礎知識 ～Explainを読み解こう～](https://www.slideshare.net/MikiShimogai/postgre-sql-explain)
     + [MySQLパフォーマンスチューニングTIPS](https://speakerdeck.com/yoshiakiyamasaki/mysqlpahuomansutiyuningutips)
     + [実行計画の話](https://speakerdeck.com/soudai/shi-xing-ji-hua-falsehua)
+    + [Webアプリケーションが今こそ知るべき、 RDBMSのパフォーマンスチューニングの勘所 / Basic-of-RDB](https://speakerdeck.com/soudai/basic-of-rdb?slide=61)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

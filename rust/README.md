@@ -37,5 +37,8 @@
     + [Rustのモジュールを詳細に理解する](https://qnighy.hatenablog.com/entry/2019/05/06/190000)
     + [A memory profiler for Linux](https://github.com/nokia/memory-profiler)
     + [How to speed up the Rust compiler in 2019](https://blog.mozilla.org/nnethercote/2019/07/17/how-to-speed-up-the-rust-compiler-in-2019/)
+    + [Profile-guided optimization](https://blog.rust-lang.org/2019/08/15/Rust-1.37.0.html#profile-guided-optimization)
+    + [Rust Profiling with DTrace and FlameGraph on OSX](http://carol-nichols.com/2017/04/20/rust-profiling-with-dtrace-on-osx/)
+    + [How Rust optimizes async/await ](https://tmandry.gitlab.io/blog/posts/optimizing-await-1/)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)

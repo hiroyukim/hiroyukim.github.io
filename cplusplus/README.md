@@ -13,3 +13,5 @@
     + [Custom memory allocators in C++ to improve the performance of dynamic memory allocation](https://github.com/mtrebi/memory-allocators)
     + [Open-sourcing F14 for faster, more memory-efficient hash tables](https://code.fb.com/developer-tools/f14/)
     + [Modern C++ Parallel Task Programming Library](https://github.com/cpp-taskflow/cpp-taskflow)
+    + [Beginner's guide for C++](https://github.com/EzoeRyou/cpp-intro)
+    + [The (not so) hidden cost of sharing code between iOS and Android](https://blogs.dropbox.com/tech/2019/08/the-not-so-hidden-cost-of-sharing-code-between-ios-and-android/)
