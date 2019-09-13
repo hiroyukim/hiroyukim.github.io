@@ -20,3 +20,5 @@
     + [コンパイラ講義資料リンク集](https://qiita.com/Serenade/items/076b7eedee9af8102651)
     + [Who's afraid of a big bad optimizing compiler?](https://lwn.net/SubscriberLink/793253/6ff74ecfb804c410/)
     + [LLVMのEFI Byte Codeバックエンドを作る](https://retrage01.hateblo.jp/entry/2019/07/20/135237)
+    + [https://godbolt.org/](https://godbolt.org/)
+    + [コンパイラをつくってみよう](https://speakerdeck.com/dqneo/how-to-make-a-compiler)

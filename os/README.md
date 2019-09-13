@@ -190,6 +190,8 @@
     + [bootOS is a monolithic operating system in 512 bytes of x86 machine code.](https://github.com/nanochess/bootOS)
     + [「asm volatile」におけるvolatileの効果](http://uchan.hateblo.jp/entry/2019/08/15/090028)
     + [A Heavily Commented Linux Kernel Source Code](http://oldlinux.org/download/ECLK-5.0-WithCover.pdf)
+    + [コンテナ技術入門 - 仮想化との違いを知り、要素技術を触って学ぼう](https://employment.en-japan.com/engineerhub/entry/2019/02/05/103000)
+    + [#76: XPC: Architectural Support for Secure and Efficient Cross Process Call](https://misreading.chat/2019/08/22/76-xpc-architectural-support-for-secure-and-efficient-cross-process-call/)
 + Tool
     + [BIOS Simulator Center](https://download.lenovo.com/bsco/index.html)
     + [High-level tracing language for Linux eBPF](https://github.com/iovisor/bpftrace)

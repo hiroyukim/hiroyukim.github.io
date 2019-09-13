@@ -91,6 +91,8 @@
     + [de Bruijn Graph を使った de novo アセンブリの発想がすごい件](http://hoxo-m.hatenablog.com/entry/20100930/p1)
     + [動的計画法を実現する代数〜トロピカル演算でグラフの最短経路を計算する〜](https://qiita.com/lotz/items/094bffd77b24e37bf20e)
     + [講義 #1 コンピュータサイエンス入門概要](https://www.youtube.com/watch?v=sz9r80i3VzA&list=PLqX1hzBNwl2oMJqjuPylcf8aAQFSGCWQr&index=2&t=0s)
+    + [An introduction to Linear programming](https://speakerdeck.com/umepon/an-introduction-to-linear-programming)
+    + [対戦ゲームに学ぶ、フレームワークの設計技法とAIのアルゴリズム入門](https://note.mu/qsona/n/n137733801fd0)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

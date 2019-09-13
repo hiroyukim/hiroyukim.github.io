@@ -96,6 +96,10 @@
     + [Apache Kafkaで発生した原因不明のパフォーマンス低下と、それを解決するためにやったこと](https://logmi.jp/tech/articles/321613)
     + [System Design for Tech Interviews](https://www.hiredintech.com/courses/system-design)
     + [体系的に学ぶモダン Web セキュリティ](https://speakerdeck.com/lmt_swallow/learn-modern-web-security-systematically)
+    + [分散システム内の関係性に着目したObservabilityツール](https://speakerdeck.com/yuukit/observability-tool-focused-on-relationship-in-distributed-systems)
+    + [Visual Studio Code入門](https://dotinstall.com/lessons/basic_vscode)
+    + [Web API に秩序を与える Protocol Buffers](https://speakerdeck.com/south37/protocol-buffers-for-web-api-number-builderscon)
+    + [形式手法を使って、 発見しにくいバグを一網打尽にしよう](https://speakerdeck.com/hoddy3190/xing-shi-shou-fa-woshi-tute-fa-jian-sinikuibaguwo-wang-da-jin-nisiyou)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

@@ -9,3 +9,4 @@
     + [Vim に VOICEROID で喋らせた](https://www.kaoriya.net/blog/2018/12/23/)
     + [Vim本体のソースコードの読みはじめかた仮](http://rbtnn.hateblo.jp/entry/2019/03/24/054919)
     + [Vim compiled to WebAssembly](https://speakerdeck.com/rhysd/vim-compiled-to-webassembly)
+    + [vim入門](https://dotinstall.com/lessons/basic_vim)

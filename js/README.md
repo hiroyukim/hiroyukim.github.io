@@ -28,3 +28,6 @@
     + [QuickJS Javascript Engine](https://bellard.org/quickjs/)
     + [jsvu is the JavaScript (engine) Version Updater.](https://github.com/GoogleChromeLabs/jsvu)
     + [Emscripten & WebAssembly night !! #8 まとめ](https://togetter.com/li/1379978)
+    + [内部実装から読み解くNode.js(v11.0.0) Eventloop](https://qiita.com/darai0512/items/b52d06bc467b4567e631)
+    + [JavaScript Promiseの本](https://azu.github.io/promises-book/)
+    + [Node.jsでのイベントループの仕組みとタイマーについて](https://blog.hiroppy.me/entry/nodejs-event-loop)

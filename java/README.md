@@ -14,3 +14,4 @@
     + [STM の設計と進化](https://www.dropbox.com/s/wqje7nnn0zoacl9/STM%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E9%80%B2%E5%8C%96_.pptx?dl=0)
     + [最近のJava Webフレームワーク](https://speakerdeck.com/kishida/java-web-framework-ccc-2019-spr)
     + [JVM Language Summit 2019(JVMLS) day 2](https://nowokay.hatenablog.com/entry/2019/07/31/203018)
+    + [改めて学ぶContracts](https://speakerdeck.com/tommykw/gai-metexue-hucontracts)

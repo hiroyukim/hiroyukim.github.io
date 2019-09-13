@@ -40,5 +40,7 @@
     + [Profile-guided optimization](https://blog.rust-lang.org/2019/08/15/Rust-1.37.0.html#profile-guided-optimization)
     + [Rust Profiling with DTrace and FlameGraph on OSX](http://carol-nichols.com/2017/04/20/rust-profiling-with-dtrace-on-osx/)
     + [How Rust optimizes async/await ](https://tmandry.gitlab.io/blog/posts/optimizing-await-1/)
+    + [Thoughts on Rust bloat](https://raphlinus.github.io/rust/2019/08/21/rust-bloat.html)
+    + [ターミナル用 UTF-8 テキストエディタを Rust でスクラッチからつくった](https://rhysd.hatenablog.com/entry/2019/08/29/091753)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
