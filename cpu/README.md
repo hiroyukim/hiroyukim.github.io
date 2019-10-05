@@ -30,6 +30,7 @@
     + [フリップフロップ(flip-flop)回路](https://www.youtube.com/watch?v=wohc5GQXSUU)
         + youtube
     + [implemented SNES on an FPGA](https://github.com/pgate1/SNES_on_FPGA)
+    + [2019年のこれまでに発表したRISC-V関連の発表資料をすべてアップロードしました](http://msyksphinz.hatenablog.com/entry/2019/09/19/040000)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)

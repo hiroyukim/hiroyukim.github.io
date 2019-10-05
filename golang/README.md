@@ -7,6 +7,7 @@
     + [Why does Go not have assertions?](https://golang.org/doc/faq#assertions)
     + [Where is my favorite helper function for testing?](https://golang.org/doc/faq#testing_framework)
 + Tool
+    + [JVM implementation by Go](https://github.com/DQNEO/gojvm)
     + [The lazier way to manage everything docker](https://github.com/jesseduffield/lazydocker)
     + [gomove is a utility to help you move golang packages by automatically changing the import paths from the old one to new one.](https://github.com/KSubedi/gomove)
     + [Terminal based dashboard.](https://github.com/mum4k/termdash)

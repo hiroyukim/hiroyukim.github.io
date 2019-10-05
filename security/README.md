@@ -6,3 +6,4 @@
     + [angr+bingraphvisで実行パス差分ビューワを作ってみる](https://qiita.com/RKX1209/items/560374e7edf35213bc9a)
     + [セキュリティ・キャンプ全国大会２０１６　解析トラック　３Ｄ](http://i-love.sakura.ne.jp/The_OOM_CTF.html)
     + [2018年度の問題](http://kozos.jp/seccon/seccon2018.html)
+    + [SSRF基礎](https://speakerdeck.com/hasegawayosuke/ssrfji-chu)

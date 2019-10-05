@@ -192,6 +192,11 @@
     + [A Heavily Commented Linux Kernel Source Code](http://oldlinux.org/download/ECLK-5.0-WithCover.pdf)
     + [コンテナ技術入門 - 仮想化との違いを知り、要素技術を触って学ぼう](https://employment.en-japan.com/engineerhub/entry/2019/02/05/103000)
     + [#76: XPC: Architectural Support for Secure and Efficient Cross Process Call](https://misreading.chat/2019/08/22/76-xpc-architectural-support-for-secure-and-efficient-cross-process-call/)
+    + [Building libc++ for toy OS](https://www.slideshare.net/uchan_nos/building-libcxxformyos)
+    + [Introduction to Kubernetes](https://cybozu.github.io/introduction-to-kubernetes/)
+    + [linuxでsystem callを足したいときに読む文書](https://github.com/torvalds/linux/blob/master/Documentation/process/adding-syscalls.rst)
+    + [Using linux-fincore to Check Linux Page Cache Usage](https://www.percona.com/blog/2019/08/29/using-linux-fincore-to-check-linux-page-cache-usage/)
+    + [LinuxカーネルをCLionでデバッグする](http://knqyf263.hatenablog.com/entry/2019/07/01/152643)
 + Tool
     + [BIOS Simulator Center](https://download.lenovo.com/bsco/index.html)
     + [High-level tracing language for Linux eBPF](https://github.com/iovisor/bpftrace)

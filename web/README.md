@@ -100,6 +100,9 @@
     + [Visual Studio Code入門](https://dotinstall.com/lessons/basic_vscode)
     + [Web API に秩序を与える Protocol Buffers](https://speakerdeck.com/south37/protocol-buffers-for-web-api-number-builderscon)
     + [形式手法を使って、 発見しにくいバグを一網打尽にしよう](https://speakerdeck.com/hoddy3190/xing-shi-shou-fa-woshi-tute-fa-jian-sinikuibaguwo-wang-da-jin-nisiyou)
+    + [はじめてのGraphQLスキーマ設計](https://speakerdeck.com/rikuson298/hazimetefalsegraphqlsukimashe-ji)
+    + [分析の基礎（モデリング）/ Basics of analysis ~modeling~](https://speakerdeck.com/brainpadpr/basics-of-analysis-modeling)
+    + [Google Engineering Practices Documentation](https://github.com/google/eng-practices)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

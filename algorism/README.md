@@ -93,6 +93,12 @@
     + [講義 #1 コンピュータサイエンス入門概要](https://www.youtube.com/watch?v=sz9r80i3VzA&list=PLqX1hzBNwl2oMJqjuPylcf8aAQFSGCWQr&index=2&t=0s)
     + [An introduction to Linear programming](https://speakerdeck.com/umepon/an-introduction-to-linear-programming)
     + [対戦ゲームに学ぶ、フレームワークの設計技法とAIのアルゴリズム入門](https://note.mu/qsona/n/n137733801fd0)
+    + [ヒープをわかりやすく解説してみた](https://medium.com/@yasufumy/data-structure-heap-ecfd0989e5be)
+    + [【画像45枚あり】フーリエ変換を宇宙一わかりやすく解説してみる](https://www.yukisako.xyz/entry/fourier-transform)
+    + [響け！動的計画法 (DP) 入門〜個人的まとめ](https://speakerdeck.com/motacapla/xiang-ke-dong-de-ji-hua-fa-dp-ru-men-ge-ren-de-matome)
+    + [The first step self made full text search](https://speakerdeck.com/ryook/the-first-step-self-made-full-text-search)
+    + [Kaggle初心者による総まとめ！基礎〜コンペの種類まで徹底解説](https://aizine.ai/kaggle-03-0917/)
+    + [Rustで始める競技プログラミング](https://speakerdeck.com/minaminao/rustdeshi-merujing-ji-puroguramingu)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

@@ -42,5 +42,6 @@
     + [How Rust optimizes async/await ](https://tmandry.gitlab.io/blog/posts/optimizing-await-1/)
     + [Thoughts on Rust bloat](https://raphlinus.github.io/rust/2019/08/21/rust-bloat.html)
     + [ターミナル用 UTF-8 テキストエディタを Rust でスクラッチからつくった](https://rhysd.hatenablog.com/entry/2019/08/29/091753)
+    + [A modern shell written in Rust](https://github.com/nushell/nushell)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)

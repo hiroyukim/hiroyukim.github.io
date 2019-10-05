@@ -15,3 +15,4 @@
     + [Modern C++ Parallel Task Programming Library](https://github.com/cpp-taskflow/cpp-taskflow)
     + [Beginner's guide for C++](https://github.com/EzoeRyou/cpp-intro)
     + [The (not so) hidden cost of sharing code between iOS and Android](https://blogs.dropbox.com/tech/2019/08/the-not-so-hidden-cost-of-sharing-code-between-ios-and-android/)
+    + [C++コルーチン拡張メモ](https://qiita.com/yohhoy/items/aeb3c01d02d0f640c067)
