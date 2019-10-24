@@ -1,5 +1,7 @@
 ## Tool
 
++ build
+    + [CMake言語の基本構造](https://qiita.com/mrk_21/items/3c35787418fbfce42103)
 + Manual
     + [doxygen](http://www.stack.nl/~dimitri/doxygen/)
     + [Graphviz](https://www.graphviz.org/)

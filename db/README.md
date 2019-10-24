@@ -73,6 +73,8 @@
     + [MySQLパフォーマンスチューニングTIPS](https://speakerdeck.com/yoshiakiyamasaki/mysqlpahuomansutiyuningutips)
     + [実行計画の話](https://speakerdeck.com/soudai/shi-xing-ji-hua-falsehua)
     + [Webアプリケーションが今こそ知るべき、 RDBMSのパフォーマンスチューニングの勘所 / Basic-of-RDB](https://speakerdeck.com/soudai/basic-of-rdb?slide=61)
+    + [RDBMS in Action](https://speakerdeck.com/saiya_moebius/rdbms-in-action)
+    + [Replay MySQL Queries from network packets](https://github.com/tom--bo/mysql-query-replayer)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

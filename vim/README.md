@@ -10,3 +10,4 @@
     + [Vim本体のソースコードの読みはじめかた仮](http://rbtnn.hateblo.jp/entry/2019/03/24/054919)
     + [Vim compiled to WebAssembly](https://speakerdeck.com/rhysd/vim-compiled-to-webassembly)
     + [vim入門](https://dotinstall.com/lessons/basic_vim)
+    + [Vimで技術書を執筆する環境 with Re:VIEW + RedPen + prh](http://www.tokoro.me/posts/vim-review/)

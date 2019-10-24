@@ -103,6 +103,10 @@
     + [はじめてのGraphQLスキーマ設計](https://speakerdeck.com/rikuson298/hazimetefalsegraphqlsukimashe-ji)
     + [分析の基礎（モデリング）/ Basics of analysis ~modeling~](https://speakerdeck.com/brainpadpr/basics-of-analysis-modeling)
     + [Google Engineering Practices Documentation](https://github.com/google/eng-practices)
+    + [How to collect and manage all of your multi-line logs](https://www.datadoghq.com/blog/multiline-logging-guide/)
+    + [HTTP/2 時代の コネクションの切り方](http://www.mew.org/~kazu/material/2019-graceful-close.pdf)
+    + [システム全体の暗号化ポリシー設定](https://speakerdeck.com/moriwaka/sisutemuquan-ti-falsean-hao-hua-porisishe-ding)
+    + [システム設計入門](https://github.com/donnemartin/system-design-primer/blob/master/README-ja.md)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

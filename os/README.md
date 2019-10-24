@@ -197,6 +197,11 @@
     + [linuxでsystem callを足したいときに読む文書](https://github.com/torvalds/linux/blob/master/Documentation/process/adding-syscalls.rst)
     + [Using linux-fincore to Check Linux Page Cache Usage](https://www.percona.com/blog/2019/08/29/using-linux-fincore-to-check-linux-page-cache-usage/)
     + [LinuxカーネルをCLionでデバッグする](http://knqyf263.hatenablog.com/entry/2019/07/01/152643)
+    + [Linuxでabort()がまれにクラッシュする](https://qa.atmarkit.co.jp/q/2115)
+    + [ping コマンドの file capability（2）](https://tenforward.hatenablog.com/entry/2019/09/29/154346)
+    + [カーネルモジュール作成によるlinuxカーネル開発入門 - 第一回 hello world](https://qiita.com/satoru_takeuchi/items/83c8e2f38176d2724f48)
+    + [The Adventures of OS](http://osblog.stephenmarz.com/)
+    + [UNIKRAFT](https://xenproject.org/developers/teams/unikraft/)
 + Tool
     + [BIOS Simulator Center](https://download.lenovo.com/bsco/index.html)
     + [High-level tracing language for Linux eBPF](https://github.com/iovisor/bpftrace)

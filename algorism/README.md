@@ -99,6 +99,9 @@
     + [The first step self made full text search](https://speakerdeck.com/ryook/the-first-step-self-made-full-text-search)
     + [Kaggle初心者による総まとめ！基礎〜コンペの種類まで徹底解説](https://aizine.ai/kaggle-03-0917/)
     + [Rustで始める競技プログラミング](https://speakerdeck.com/minaminao/rustdeshi-merujing-ji-puroguramingu)
+    + [データサイエンス講義](https://ocw.tsukuba.ac.jp/data-science/)
+    + [Two Way algorithm](http://www-igm.univ-mlv.fr/~lecroq/string/node26.html)
+    + [BFS Euler Tour](https://niuez.hatenablog.com/entry/2019/10/05/002503)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

@@ -64,6 +64,7 @@
     + [pthread_once が嫌いすぎて再実装した話](http://blog.kazuhooku.com/2019/07/pthreadonce.html)
     + [Race Condition vs. Data Race](https://blog.regehr.org/archives/490)
     + [わずか16KB! WebAssemblyで動くミニC言語オフラインコンパイラ＆インタプリタ webci0](https://fukuno.jig.jp/2581)
+    + [クロージャがどのように実装されているかCで解説](http://craftinginterpreters.com/closures.html)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

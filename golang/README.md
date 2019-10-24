@@ -7,6 +7,7 @@
     + [Why does Go not have assertions?](https://golang.org/doc/faq#assertions)
     + [Where is my favorite helper function for testing?](https://golang.org/doc/faq#testing_framework)
 + Tool
+    + [Toxiproxy](https://github.com/Shopify/toxiproxy)
     + [JVM implementation by Go](https://github.com/DQNEO/gojvm)
     + [The lazier way to manage everything docker](https://github.com/jesseduffield/lazydocker)
     + [gomove is a utility to help you move golang packages by automatically changing the import paths from the old one to new one.](https://github.com/KSubedi/gomove)
@@ -72,6 +73,7 @@
 + Manual
     + [dep docs](https://golang.github.io/dep/docs/introduction.html)
 + library
+    + [色付きの usage が出せる flag パッケージ](https://github.com/relastle/colorflag)
     + [Tracing golang HTTP request latency](https://github.com/tcnksm/go-httpstat)
     + [Determine if it is a similar image using average hash.](https://github.com/po3rin/gosimimg)
     + [bitcask](https://prologic.github.io/bitcask/)
@@ -426,6 +428,9 @@
     + [jqのGo実装 gojq を作りました！ ― スタックマシン型インタープリタによるイテレータセマンティクスの実装](https://itchyny.hatenablog.com/entry/2019/08/26/090000)
     + [Go言語のためのキャッシュライブラリを作った](https://qiita.com/goccy/items/5f3a9c18a7ef25f09338)
     + [Using GitHub Actions with Go](https://presstige.io/p/Using-GitHub-Actions-with-Go-2ca9744b531f4f21bdae9976d1ccbb58)
+    + [Minimal metrics for Go](https://github.com/zserge/metric)
+    + [Go Time – Episode #100](https://changelog.com/gotime/100)
+    + [Go で実装する Grapheme Cluster を基に文字を数えるバリデーション](https://codehex.hateblo.jp/entry/2019/09/30/100000)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

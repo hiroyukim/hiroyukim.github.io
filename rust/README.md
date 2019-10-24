@@ -43,5 +43,11 @@
     + [Thoughts on Rust bloat](https://raphlinus.github.io/rust/2019/08/21/rust-bloat.html)
     + [ターミナル用 UTF-8 テキストエディタを Rust でスクラッチからつくった](https://rhysd.hatenablog.com/entry/2019/08/29/091753)
     + [A modern shell written in Rust](https://github.com/nushell/nushell)
+    + [Rustで始める競技プログラミング](https://speakerdeck.com/minaminao/rustdeshi-merujing-ji-puroguramingu)
+    + [DNS-over-HTTPサーバ(proxy)のRust実装](https://github.com/jedisct1/rust-doh)
+    + [nix によるシステムプログラミング](https://yuk1tyd.hatenablog.com/entry/2017/12/23/114449)
+    + [os指定で記述](https://doc.rust-lang.org/stable/book/conditional-compilation.html)
+    + [a modern and extensible pixel editor implemented in rust](https://cloudhead.io/rx/)
+    + [Application level tracing for Rust](https://github.com/tokio-rs/tracing)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
