@@ -202,6 +202,9 @@
     + [カーネルモジュール作成によるlinuxカーネル開発入門 - 第一回 hello world](https://qiita.com/satoru_takeuchi/items/83c8e2f38176d2724f48)
     + [The Adventures of OS](http://osblog.stephenmarz.com/)
     + [UNIKRAFT](https://xenproject.org/developers/teams/unikraft/)
+    + [カーネルパッチを書いてみようとした話](https://exoskeleton.dev/linux/kernel/hack-1.md)
+    + [Linux FoundationがLinuxカーネル開発者になりたい人向けの初心者向けガイド](https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/)
+    + [コンテナユーザなら誰もが使っているランタイム「runc」を俯瞰する](https://medium.com/nttlabs/runc-overview-263b83164c98)
 + Tool
     + [BIOS Simulator Center](https://download.lenovo.com/bsco/index.html)
     + [High-level tracing language for Linux eBPF](https://github.com/iovisor/bpftrace)

@@ -107,6 +107,9 @@
     + [HTTP/2 時代の コネクションの切り方](http://www.mew.org/~kazu/material/2019-graceful-close.pdf)
     + [システム全体の暗号化ポリシー設定](https://speakerdeck.com/moriwaka/sisutemuquan-ti-falsean-hao-hua-porisishe-ding)
     + [システム設計入門](https://github.com/donnemartin/system-design-primer/blob/master/README-ja.md)
+    + [ロードバランサ再入門](https://www.slideshare.net/ryuichitakashima3/ss-72343772)
+    + [ninja がビルドで全然 CPU を使ってくれないと言われて調査した話](https://randomascii.wordpress.com/2019/10/20/63-cores-blocked-by-seven-instructions/)
+    + [How to Write Good Documentation](https://www.sohamkamani.com/blog/how-to-write-good-documentation/)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

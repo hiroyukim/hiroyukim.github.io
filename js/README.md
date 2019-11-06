@@ -31,3 +31,4 @@
     + [内部実装から読み解くNode.js(v11.0.0) Eventloop](https://qiita.com/darai0512/items/b52d06bc467b4567e631)
     + [JavaScript Promiseの本](https://azu.github.io/promises-book/)
     + [Node.jsでのイベントループの仕組みとタイマーについて](https://blog.hiroppy.me/entry/nodejs-event-loop)
+    + [JavaScript Promiseの本 v2リリース、ES2015+に対応、Async Functionの章を追加](https://efcl.info/2019/10/23/promises-book-v2/)

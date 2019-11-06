@@ -102,6 +102,8 @@
     + [データサイエンス講義](https://ocw.tsukuba.ac.jp/data-science/)
     + [Two Way algorithm](http://www-igm.univ-mlv.fr/~lecroq/string/node26.html)
     + [BFS Euler Tour](https://niuez.hatenablog.com/entry/2019/10/05/002503)
+    + [数としての赤黒木](https://www.m3tech.blog/entry/2019/10/21/110000)
+    + [An In-Depth Look at the Splatoon 2 Ranking System](https://www.jethroacademictutoring.com/blog/an-in-depth-look-at-the-splatoon-2-ranking-system/)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

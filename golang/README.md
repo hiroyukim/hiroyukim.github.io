@@ -431,6 +431,7 @@
     + [Minimal metrics for Go](https://github.com/zserge/metric)
     + [Go Time – Episode #100](https://changelog.com/gotime/100)
     + [Go で実装する Grapheme Cluster を基に文字を数えるバリデーション](https://codehex.hateblo.jp/entry/2019/09/30/100000)
+    + [DBMSをGoで実装してみた](https://buildersbox.corp-sansan.com/entry/2019/10/24/110000)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

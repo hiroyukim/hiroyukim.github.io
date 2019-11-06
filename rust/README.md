@@ -49,5 +49,9 @@
     + [os指定で記述](https://doc.rust-lang.org/stable/book/conditional-compilation.html)
     + [a modern and extensible pixel editor implemented in rust](https://cloudhead.io/rx/)
     + [Application level tracing for Rust](https://github.com/tokio-rs/tracing)
+    + [スタック伸ばせる crate](https://docs.rs/stacker/0.1.6/stacker/)
+    + [A cat(1) clone with wings.](https://github.com/sharkdp/bat)
+    + [Rust で書き直さなくても簡単に C のコードを直接扱えるぜという話](http://adventures.michaelfbryan.com/posts/how-not-to-riir/)
+    + [はじめてのCLion+IntelliJ Rust](https://blog.jetbrains.com/jp/2019/03/22/1797)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
