@@ -104,6 +104,7 @@
     + [BFS Euler Tour](https://niuez.hatenablog.com/entry/2019/10/05/002503)
     + [数としての赤黒木](https://www.m3tech.blog/entry/2019/10/21/110000)
     + [An In-Depth Look at the Splatoon 2 Ranking System](https://www.jethroacademictutoring.com/blog/an-in-depth-look-at-the-splatoon-2-ranking-system/)
+    + [タイムスタンプの再発見と「いわゆるブロックチェーン」](https://medium.com/@ShinichiroMatsuo/%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%81%AE%E5%86%8D%E7%99%BA%E8%A6%8B%E3%81%A8-%E3%81%84%E3%82%8F%E3%82%86%E3%82%8B%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3-85abb13bdf0e)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

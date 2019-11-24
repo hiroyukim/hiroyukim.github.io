@@ -75,6 +75,7 @@
     + [Webアプリケーションが今こそ知るべき、 RDBMSのパフォーマンスチューニングの勘所 / Basic-of-RDB](https://speakerdeck.com/soudai/basic-of-rdb?slide=61)
     + [RDBMS in Action](https://speakerdeck.com/saiya_moebius/rdbms-in-action)
     + [Replay MySQL Queries from network packets](https://github.com/tom--bo/mysql-query-replayer)
+    + [秒速で10億レコードを処理する話](http://kaigai.hatenablog.com/entry/2019/10/31/230256)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

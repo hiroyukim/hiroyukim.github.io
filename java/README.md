@@ -16,3 +16,4 @@
     + [JVM Language Summit 2019(JVMLS) day 2](https://nowokay.hatenablog.com/entry/2019/07/31/203018)
     + [改めて学ぶContracts](https://speakerdeck.com/tommykw/gai-metexue-hucontracts)
     + [JVM上で動くWebアプリケーションがリソースを食いつぶす原因を探るためにやったこと](https://backlog.com/ja/blog/java-virtual-machine-system-performance-survey/)
+    + [Javaなら「この書き方がベスト」と信じて書ける - きしだなおきに聞く、Javaのこれまでとこれから](https://employment.en-japan.com/engineerhub/entry/2019/10/29/103000)

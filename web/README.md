@@ -110,6 +110,10 @@
     + [ロードバランサ再入門](https://www.slideshare.net/ryuichitakashima3/ss-72343772)
     + [ninja がビルドで全然 CPU を使ってくれないと言われて調査した話](https://randomascii.wordpress.com/2019/10/20/63-cores-blocked-by-seven-instructions/)
     + [How to Write Good Documentation](https://www.sohamkamani.com/blog/how-to-write-good-documentation/)
+    + [インフラのボトルネックについて知る](https://tikasan.hatenablog.com/entry/2018/06/05/082728)
+    + [Googleが作った分散アプリケーション基盤、Borgの論文を読み解く -その1-](https://inductor.hatenablog.com/entry/2019/10/30/010839)
+    + [VCLのトランスパイルの概要](https://docs.google.com/presentation/d/1Q9QqZr46gQpaGGwDeyen06DeeXfa8u1KIBDPklEVKxQ/edit#slide=id.p)
+    + [The Architecture of Open Source Applications 日本語訳](https://github.com/m-takagi/aosa-ja)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

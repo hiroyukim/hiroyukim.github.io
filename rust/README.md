@@ -1,5 +1,7 @@
 ## Rust
 
++ tool
+    + [cargo-call-stack](https://lib.rs/crates/cargo-call-stack)
 + documents
     + [プログラミング言語Rust: 2nd Editionの日本語版PDF](https://y-yu.github.io/trpl-2nd-pdf/book.pdf)
 + browser
@@ -53,5 +55,18 @@
     + [A cat(1) clone with wings.](https://github.com/sharkdp/bat)
     + [Rust で書き直さなくても簡単に C のコードを直接扱えるぜという話](http://adventures.michaelfbryan.com/posts/how-not-to-riir/)
     + [はじめてのCLion+IntelliJ Rust](https://blog.jetbrains.com/jp/2019/03/22/1797)
+    + [Secure Coding Practice in Rust](https://speakerdeck.com/osuke/secure-coding-practice-in-rust)
+    + [The Hitchhiker's Guide to Servo Contributor](https://speakerdeck.com/cybai/the-hitchhikers-guide-to-servo-contributor)
+    + [Web-based Data Visualization with Rust and WebAssembly](https://speakerdeck.com/likr/web-based-data-visualization-with-rust-and-webassembly)
+    + [Rustによる数値計算の現状と課題](https://docs.google.com/presentation/d/1iujcfg2y3CMMgEO8BvX2__w_dbl4zQWQrK3ULaStD4E/edit#slide=id.p)
+    + [Making an opinionated Web framework](https://speakerdeck.com/qnighy/making-an-opinionated-web-framework)
+    + [Fuzzing Rust Text Editor](https://speakerdeck.com/rhysd/fuzzing-rust-text-editor)
+    + [rust.tokyo のまとめ・感想](https://mizchi.hatenablog.com/entry/2019/10/27/022804)
+    + [Visualizing your rust code using graphviz](https://jonathansteyfkens.com/posts/visualizing-rust.html)
+    + [Formatting Graphviz output (.dot files)](https://rust-lang.github.io/rustc-guide/compiler-debugging.html#formatting-graphviz-output-dot-files)
+    + [A new arguably faster implementation of Apache Spark from scratch in Rust](https://github.com/rajasekarv/native_spark)
+    + [A modern shell written in Rust](https://github.com/nushell/nushell)
+    + [Rustのderiveはあまり頭がよくない](https://qnighy.hatenablog.com/entry/2017/06/01/070000)
+    + [RustでRISC-Vの命令セットシミュレータを作ったので(いちおう)公開する](http://msyksphinz.hatenablog.com/entry/2019/11/05/040000)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
