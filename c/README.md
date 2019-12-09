@@ -65,6 +65,10 @@
     + [Race Condition vs. Data Race](https://blog.regehr.org/archives/490)
     + [わずか16KB! WebAssemblyで動くミニC言語オフラインコンパイラ＆インタプリタ webci0](https://fukuno.jig.jp/2581)
     + [クロージャがどのように実装されているかCで解説](http://craftinginterpreters.com/closures.html)
+    + [A high performance WebAssembly interpreter](https://github.com/wasm3/wasm3)
+    + [glibcをgdbで追う](https://medium.com/@kmasuda050/debug-glibc-with-gdb-8e7564a5cf68)
+    + [musl libc](http://www.musl-libc.org/)
+    + [Beej's Quick Guide to GDB](http://beej.us/guide/bggdb/)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

@@ -33,6 +33,8 @@
     + [2019年のこれまでに発表したRISC-V関連の発表資料をすべてアップロードしました](http://msyksphinz.hatenablog.com/entry/2019/09/19/040000)
     + [「はじめて読む486」の実行環境を、FreeDOS+QEMU+OpenWatcomでつくる](http://tomoyukim.hatenablog.com/entry/2019/10/18/131607)
     + [RISC-Vとx86のsystem callの内部実装の違い(xv6を例に)](http://cstmize.hatenablog.jp/entry/2019/10/01/RISC-V%E3%81%A8x86%E3%81%AEsystem_call%E3%81%AE%E5%86%85%E9%83%A8%E5%AE%9F%E8%A3%85%E3%81%AE%E9%81%95%E3%81%84%28xv6%E3%82%92%E4%BE%8B%E3%81%AB%29)
+    + [簡単な32bit CPUを自作した(MIPSのサブセット)](https://qiita.com/kamaboko123/items/d588f1b92f6c3749389e)
+    + [どうしていまFPGAなのか、そしてFPGAとは何か?](https://news.mynavi.jp/kikaku/software_fpga-1/)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)

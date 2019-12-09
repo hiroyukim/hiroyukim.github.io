@@ -110,6 +110,11 @@
     + [ロードバランサ再入門](https://www.slideshare.net/ryuichitakashima3/ss-72343772)
     + [ninja がビルドで全然 CPU を使ってくれないと言われて調査した話](https://randomascii.wordpress.com/2019/10/20/63-cores-blocked-by-seven-instructions/)
     + [How to Write Good Documentation](https://www.sohamkamani.com/blog/how-to-write-good-documentation/)
+    + [lambroll と bash layer で気軽に Lambda shell script を実行する](https://sfujiwara.hatenablog.com/entry/2019/11/14/090538)
+    + [分散トレーシングの技術選定・OSS 貢献, Stackdriver Trace での性能可視化・改善](https://speakerdeck.com/saiya_moebius/distributed-tracing-case-study)
+    + [ブラウザレンダリングの仕組み](https://qiita.com/goemp/items/91dcc8b50d7a61ce98bc?utm_content=buffere8d37&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+    + [git blameでプルリクエストの番号を表示する](http://blog.kazuhooku.com/2017/12/git-blame.html)
+    + [WebReplay](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/WebReplay#Architecture)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

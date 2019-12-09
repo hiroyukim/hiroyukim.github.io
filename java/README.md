@@ -16,3 +16,5 @@
     + [JVM Language Summit 2019(JVMLS) day 2](https://nowokay.hatenablog.com/entry/2019/07/31/203018)
     + [改めて学ぶContracts](https://speakerdeck.com/tommykw/gai-metexue-hucontracts)
     + [JVM上で動くWebアプリケーションがリソースを食いつぶす原因を探るためにやったこと](https://backlog.com/ja/blog/java-virtual-machine-system-performance-survey/)
+    + [Java をクラッシュさせて遊んでみよう！](https://www.slideshare.net/YujiSoftware/java-196869151)
+    + [Javaの起動時間といかに戦うか ](https://speakerdeck.com/kishida/how-to-fight-against-java-warmup-time)

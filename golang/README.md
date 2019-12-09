@@ -432,6 +432,16 @@
     + [Go Time – Episode #100](https://changelog.com/gotime/100)
     + [Go で実装する Grapheme Cluster を基に文字を数えるバリデーション](https://codehex.hateblo.jp/entry/2019/09/30/100000)
     + [DBMSをGoで実装してみた](https://buildersbox.corp-sansan.com/entry/2019/10/24/110000)
+    + [Continuous Profiling and Go](https://medium.com/@tvii/continuous-profiling-and-go-6c0ab4d2504b)
+    + [Same as fmt.Errorf but with stack trace.](https://github.com/romanyx/stack)
+    + [Analyzing Golang Executables](https://www.pnfsoftware.com/blog/analyzing-golang-executables/)
+    + [GitHub Actionsを使ってGoプロジェクトのCI/CD及びカバレッジ計測をおこなう](https://songmu.jp/riji/entry/2019-11-14-go-github-actions.html)
+    + [A modern UNIX ed (line editor) clone written in Go](https://github.com/prologic/ed)
+    + [Experimental system call tracer for Linux x86-64, written in Go](https://github.com/agis/gtrace)
+    + [とにかく要素一覧の取得が高速な、要素が削除可能であるリストを実装する](https://qiita.com/imoty/items/a45dfa8b4963f3f86df8)
+    + [Goでつくるdaemon処理レシピ集](https://qiita.com/mtskhs/items/ebdfecd802507404d436)
+    + [io.Readerをすこれ](https://qiita.com/ktnyt/items/8ede94469ba8b1399b12)
+    + [time.Ticker で遊ぶ](https://text.baldanders.info/golang/ticker/)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

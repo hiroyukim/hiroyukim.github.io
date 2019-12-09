@@ -19,6 +19,7 @@
     + [A visualizer for CRONTAB](https://github.com/takumakanari/cronv)
 + reverse
     + [unix-like reverse engineering framework and commandline tools security](https://github.com/radare/radare2)
+    + [Sourcetrail - free and open-source interactive source explorer](https://github.com/CoatiSoftware/Sourcetrail)
 + terminal
     + [A cross-platform, GPU-accelerated terminal emulator](https://github.com/jwilm/alacritty)
     + [tmuxを効率よく使って開発を爆速にする最高の設定](https://qiita.com/yuki_ycino/items/ef5e6b63c8f9af2f03c0)

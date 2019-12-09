@@ -23,3 +23,4 @@
     + [https://godbolt.org/](https://godbolt.org/)
     + [コンパイラをつくってみよう](https://speakerdeck.com/dqneo/how-to-make-a-compiler)
     + [大学院生のためのLLVM](https://postd.cc/llvm-for-grad-students/)
+    + [コンパイラのいじめかた ](https://speakerdeck.com/kaityo256/how-to-fight-the-compiler)

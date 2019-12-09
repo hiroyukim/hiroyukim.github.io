@@ -104,6 +104,12 @@
     + [BFS Euler Tour](https://niuez.hatenablog.com/entry/2019/10/05/002503)
     + [数としての赤黒木](https://www.m3tech.blog/entry/2019/10/21/110000)
     + [An In-Depth Look at the Splatoon 2 Ranking System](https://www.jethroacademictutoring.com/blog/an-in-depth-look-at-the-splatoon-2-ranking-system/)
+    + [様々なrate limitアルゴリズム](https://christina04.hatenablog.com/entry/rate-limiting-algorithm)
+    + [Suffix Trieを使って文字列マッチングする](https://blog.shibayu36.org/entry/2017/01/08/223716)
+    + [ヘネシーパターソン定量的アプローチ その役割と 最終エディションに至るまでの 日本語訳の経](http://riscv-association.jp/wp-content/uploads/2019/10/RISC-V-Day2019J-TUAT.pdf)
+    + [Lock-Free Hopscotch Hashing](https://arxiv.org/abs/1911.03028)
+    + [やる夫で学ぶ機械学習シリーズ](https://tkengo.github.io/blog/2016/06/06/yaruo-machine-learning0/)
+    + [Creating a Bloom Filter with Go](https://medium.com/@meeusdylan/creating-a-bloom-filter-with-go-7d4e8d944cfa)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)
