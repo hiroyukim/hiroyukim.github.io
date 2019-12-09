@@ -110,6 +110,7 @@
     + [Lock-Free Hopscotch Hashing](https://arxiv.org/abs/1911.03028)
     + [やる夫で学ぶ機械学習シリーズ](https://tkengo.github.io/blog/2016/06/06/yaruo-machine-learning0/)
     + [Creating a Bloom Filter with Go](https://medium.com/@meeusdylan/creating-a-bloom-filter-with-go-7d4e8d944cfa)
+    + [タイムスタンプの再発見と「いわゆるブロックチェーン」](https://medium.com/@ShinichiroMatsuo/%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%81%AE%E5%86%8D%E7%99%BA%E8%A6%8B%E3%81%A8-%E3%81%84%E3%82%8F%E3%82%86%E3%82%8B%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3-85abb13bdf0e)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

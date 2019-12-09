@@ -115,6 +115,10 @@
     + [ブラウザレンダリングの仕組み](https://qiita.com/goemp/items/91dcc8b50d7a61ce98bc?utm_content=buffere8d37&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
     + [git blameでプルリクエストの番号を表示する](http://blog.kazuhooku.com/2017/12/git-blame.html)
     + [WebReplay](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/WebReplay#Architecture)
+    + [インフラのボトルネックについて知る](https://tikasan.hatenablog.com/entry/2018/06/05/082728)
+    + [Googleが作った分散アプリケーション基盤、Borgの論文を読み解く -その1-](https://inductor.hatenablog.com/entry/2019/10/30/010839)
+    + [VCLのトランスパイルの概要](https://docs.google.com/presentation/d/1Q9QqZr46gQpaGGwDeyen06DeeXfa8u1KIBDPklEVKxQ/edit#slide=id.p)
+    + [The Architecture of Open Source Applications 日本語訳](https://github.com/m-takagi/aosa-ja)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

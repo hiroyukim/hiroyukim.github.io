@@ -18,3 +18,4 @@
     + [JVM上で動くWebアプリケーションがリソースを食いつぶす原因を探るためにやったこと](https://backlog.com/ja/blog/java-virtual-machine-system-performance-survey/)
     + [Java をクラッシュさせて遊んでみよう！](https://www.slideshare.net/YujiSoftware/java-196869151)
     + [Javaの起動時間といかに戦うか ](https://speakerdeck.com/kishida/how-to-fight-against-java-warmup-time)
+    + [Javaなら「この書き方がベスト」と信じて書ける - きしだなおきに聞く、Javaのこれまでとこれから](https://employment.en-japan.com/engineerhub/entry/2019/10/29/103000)

@@ -215,6 +215,11 @@
     + [Dockerfile に HEALTHCHECK を設定すると「ヘルスチェック機能」が使えるようになる](https://kakakakakku.hatenablog.com/entry/2019/11/22/094832)
     + [unameコマンドから始めるデバッグ＆カーネルハック入門](https://kernhack.hatenablog.com/entry/2019/12/01/120907)
     + [Rookの概要とRook-Ceph](http://ututaq.hatenablog.com/entry/rook/01)
+    + [Linux Kernel: rtnl_mutex を長時間 ロックして刺さった状態を観察する](https://hiboma.hatenadiary.jp/entry/2019/10/29/123455)
+    + [Linuxカーネルをgdbでデバッグ（またはディストリビューションのカーネルを使うときは当たってるパッチにも注意しよう）](https://kernhack.hatenablog.com/entry/2018/12/01/004021)
+    + [htop explained](https://peteris.rocks/blog/htop/)
+    + [Destroying x86_64 instruction decoders with differential fuzzing](https://blog.trailofbits.com/2019/10/31/destroying-x86_64-instruction-decoders-with-differential-fuzzing/)
+    + [Rook (ver 1.1) に入門する](https://techstep.hatenablog.com/entry/2019/10/20/221150)
 + Tool
     + [BIOS Simulator Center](https://download.lenovo.com/bsco/index.html)
     + [High-level tracing language for Linux eBPF](https://github.com/iovisor/bpftrace)
