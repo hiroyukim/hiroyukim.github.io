@@ -76,6 +76,7 @@
     + [RDBMS in Action](https://speakerdeck.com/saiya_moebius/rdbms-in-action)
     + [Replay MySQL Queries from network packets](https://github.com/tom--bo/mysql-query-replayer)
     + [秒速で10億レコードを処理する話](http://kaigai.hatenablog.com/entry/2019/10/31/230256)
+    + [MySQLクライアントでの非同期処理概略](http://blog.kimuradb.com/?eid=877580)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

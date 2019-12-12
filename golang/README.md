@@ -457,6 +457,9 @@
     + [Goに無名関数の糖衣構文いれたらどうなるの？](https://speakerdeck.com/yuroyoro/considering-the-introduction-of-the-anonymous-function-syntax-sugar-into-go)
     + [GoでCUEのバリデーション機能を利用しつつ、.cue/.json/.yaml形式の設定ファイルを読み込む](https://future-architect.github.io/articles/20191030/)
     + [Goのtestを理解する in 2019](https://budougumi0617.github.io/2019/10/30/go-testing2019/)
+    + [GoでCount-min sketchを実装する](https://cipepser.hatenablog.com/entry/go-sketch)
+    + [Goの静的解析ツールで実装コードだけを走査する](https://qiita.com/ichiban@github/items/893863b315642dcb8a14)
+    + [Go 1.13時代のエラー実装者のお作法](https://qiita.com/shibukawa/items/e633e426a6e67ea2e830)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

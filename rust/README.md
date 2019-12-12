@@ -92,5 +92,8 @@
     + [A modern shell written in Rust](https://github.com/nushell/nushell)
     + [Rustのderiveはあまり頭がよくない](https://qnighy.hatenablog.com/entry/2017/06/01/070000)
     + [RustでRISC-Vの命令セットシミュレータを作ったので(いちおう)公開する](http://msyksphinz.hatenablog.com/entry/2019/11/05/040000)
+    + [Rust Advent Calendar 2019 1日目 Rust の非同期プログラミングモデルはランタイム観点だと Go のそれに似ている](https://keno-ss.hatenadiary.org/entry/2019/12/01/235828)
+    + [Rustのturbofishを理解する](https://keens.github.io/blog/2019/12/03/rustnoturbofishworikaisuru/)
+    + [Rust の Deref と DerefMut で継承ができると思わない](https://gist.github.com/topecongiro/1a2506be2bb0f879d211b8a80e0bdaaf)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)

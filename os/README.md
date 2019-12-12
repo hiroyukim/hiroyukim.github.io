@@ -220,6 +220,7 @@
     + [htop explained](https://peteris.rocks/blog/htop/)
     + [Destroying x86_64 instruction decoders with differential fuzzing](https://blog.trailofbits.com/2019/10/31/destroying-x86_64-instruction-decoders-with-differential-fuzzing/)
     + [Rook (ver 1.1) に入門する](https://techstep.hatenablog.com/entry/2019/10/20/221150)
+    + [Cephの紹介](http://ututaq.hatenablog.com/entry/rook/02)
 + Tool
     + [BIOS Simulator Center](https://download.lenovo.com/bsco/index.html)
     + [High-level tracing language for Linux eBPF](https://github.com/iovisor/bpftrace)

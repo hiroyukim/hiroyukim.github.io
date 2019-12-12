@@ -119,6 +119,7 @@
     + [Googleが作った分散アプリケーション基盤、Borgの論文を読み解く -その1-](https://inductor.hatenablog.com/entry/2019/10/30/010839)
     + [VCLのトランスパイルの概要](https://docs.google.com/presentation/d/1Q9QqZr46gQpaGGwDeyen06DeeXfa8u1KIBDPklEVKxQ/edit#slide=id.p)
     + [The Architecture of Open Source Applications 日本語訳](https://github.com/m-takagi/aosa-ja)
+    + [nginx と Envoy の設定を比較して学べる「Migrating from NGINX to Envoy Proxy」を試した](https://kakakakakku.hatenablog.com/entry/2019/12/02/064849)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)
