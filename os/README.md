@@ -221,6 +221,13 @@
     + [Destroying x86_64 instruction decoders with differential fuzzing](https://blog.trailofbits.com/2019/10/31/destroying-x86_64-instruction-decoders-with-differential-fuzzing/)
     + [Rook (ver 1.1) に入門する](https://techstep.hatenablog.com/entry/2019/10/20/221150)
     + [Cephの紹介](http://ututaq.hatenablog.com/entry/rook/02)
+    + [ext4とoverlayfsのシステムコール速度の比較をしようとした](https://udzura.hatenablog.jp/entry/2019/12/03/191431)
+    + [Linux perfで快適に計測するためのtips](https://qiita.com/k0kubun/items/b094c4b9bd4fe0027a48)
+    + [Linuxでスレッドごとに固有のIDを発行できないか](https://udzura.hatenablog.jp/entry/2019/11/05/180957)
+    + [Linux Kernel: cgroup, sysfs, kobject, uevent についての調べ物 - (3) slub_memcg_sysfs ブートパラメータについて](https://hiboma.hatenadiary.jp/entry/2019/12/03/211525)
+    + [Linux Kernel: cgroup 削除後も残り続ける slab キャッシュ についての調べ物](https://hiboma.hatenadiary.jp/entry/2019/12/04/150718)
+    + [分散システムの耐障害性テストの取り組み](https://blog.cybozu.io/entry/2018/09/06/080000)
+    + [ゼロから始めるKubernetes Controller](https://speakerdeck.com/govargo/under-the-kubernetes-controller-36f9b71b-9781-4846-9625-23c31da93014)
 + Tool
     + [BIOS Simulator Center](https://download.lenovo.com/bsco/index.html)
     + [High-level tracing language for Linux eBPF](https://github.com/iovisor/bpftrace)

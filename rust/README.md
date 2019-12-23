@@ -2,6 +2,8 @@
 
 + tool
     + [cargo-call-stack](https://lib.rs/crates/cargo-call-stack)
+    + [cargo-node](https://github.com/FloVanGH/cargo-node)
+    + [The Rust UI-Toolkit.](https://github.com/redox-os/orbtk)
 + documents
     + [プログラミング言語Rust: 2nd Editionの日本語版PDF](https://y-yu.github.io/trpl-2nd-pdf/book.pdf)
 + browser
@@ -95,5 +97,25 @@
     + [Rust Advent Calendar 2019 1日目 Rust の非同期プログラミングモデルはランタイム観点だと Go のそれに似ている](https://keno-ss.hatenadiary.org/entry/2019/12/01/235828)
     + [Rustのturbofishを理解する](https://keens.github.io/blog/2019/12/03/rustnoturbofishworikaisuru/)
     + [Rust の Deref と DerefMut で継承ができると思わない](https://gist.github.com/topecongiro/1a2506be2bb0f879d211b8a80e0bdaaf)
+    + [Rustで動的ライブラリに依存しないLinuxコマンドを作成する方法](https://qiita.com/sile/items/e9d331b3b06565728d1d)
+    + [Rustでバイト列を扱う時のtips](https://keens.github.io/blog/2016/12/01/rustdebaitoretsuwoatsukautokinotips/)
+    + [行列の足し算で学ぶRustのエラーハンドリング](https://qiita.com/es__135/items/5a4121de7f5eaa3f4973)
+    + [Rustで構文木の実装を考える](https://qiita.com/dalance/items/709afbbb473257bdd649)
+    + [cargo publishできないRustプロジェクト](https://qiita.com/dalance/items/12c56e07971cfc3ac06c)
+    + [crates.ioにクレートを公開するまで](https://qiita.com/tasshi/items/169c372b5230e0bd8b14)
+    + [Rustで最短経路を見つけよう](https://www.forcia.com/blog/001409.html)
+    + [Rustの&strや&\[T\]はどこを参照しているのか](https://qiita.com/Kogia_sima/items/88920a2a14448ef4dbe3)
+    + [Rust初心者がRustで全文検索サーバを作ってみた](https://qiita.com/mosuka/items/3517ef4a1eb07fa2661f)
+    + [Implementing pid1 with Rust and async/await](https://tech.fpcomplete.com/rust/pid1)
+    + [Rustの関数/メソッド呼び出しに関する評価順序と糖衣構文について](https://qiita.com/0ncorhynchus/items/63d2eb4e6ae905b8e423)
+    + [itertoolsの紹介](https://keens.github.io/blog/2019/12/06/itertoolsnoshoukai/)
+    + [dieselでselectするカラムを1箇所にまとめる](https://keens.github.io/blog/2019/12/07/dieseldeselectsurukaramuwo1tsunimatomeru/)
+    + [RustでCPS変換が簡単になったよという話](https://keens.github.io/blog/2019/12/07/rustdecpshenkangakantanninattayotoiuhanashi/)
+    + [QUIC written in Rust](https://github.com/mozilla/neqo)
+    + [RustのLinux muslターゲット （その1：Linux向けのポータブルなバイナリを作る）](https://blog.rust-jp.rs/tatsuya6502/posts/2019-12-statically-linked-binary/)
+    + [Rust+nomでバイナリ(bmpファイル)を読もう](https://qiita.com/garkimasera/items/03ef1c2d2099e0b5ba53)
+    + [Rustの `Arc` を読む(1): Arc/Rcの基本](https://qiita.com/qnighy/items/4bbbb20e71cf4ae527b9)
+    + [Rust製の組み込みOS『Tock』について調べてみた](http://sksat.hatenablog.com/entry/2019/12/09/200229)
+    + [Rustマクロのバックトレースをnightly版で確認する](https://qiita.com/tetuyosi39/items/ac8639dbb12c304b91de)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)

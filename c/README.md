@@ -69,6 +69,7 @@
     + [glibcをgdbで追う](https://medium.com/@kmasuda050/debug-glibc-with-gdb-8e7564a5cf68)
     + [musl libc](http://www.musl-libc.org/)
     + [Beej's Quick Guide to GDB](http://beej.us/guide/bggdb/)
+    + [Creating a Rootkit to Learn C](https://h0mbre.github.io/Learn-C-By-Creating-A-Rootkit/)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

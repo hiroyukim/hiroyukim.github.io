@@ -111,6 +111,11 @@
     + [やる夫で学ぶ機械学習シリーズ](https://tkengo.github.io/blog/2016/06/06/yaruo-machine-learning0/)
     + [Creating a Bloom Filter with Go](https://medium.com/@meeusdylan/creating-a-bloom-filter-with-go-7d4e8d944cfa)
     + [タイムスタンプの再発見と「いわゆるブロックチェーン」](https://medium.com/@ShinichiroMatsuo/%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%81%AE%E5%86%8D%E7%99%BA%E8%A6%8B%E3%81%A8-%E3%81%84%E3%82%8F%E3%82%86%E3%82%8B%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3-85abb13bdf0e)
+    + [Proximity search：列挙アルゴリズムの新たな構築手法](https://qiita.com/921603/items/6b03cd12dd4c520007b8)
+    + [群ラベル制約付き最短路問題](https://ygussany.hatenablog.com/entry/2019/12/04/000000)
+    + [超過状態を考慮する桁DP](https://yuppe19.bitbucket.io/ketadp_adv.html)
+    + [IDA\*探索(pattern database)でパズルを解く](https://qiita.com/TsuMakoto/items/7cb49607ce0d146c6697)
+    + [最適化問題：単体法アルゴリズムの理論](https://note.com/kaneshin/n/nb964ce64266d)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

@@ -73,6 +73,7 @@
 + Manual
     + [dep docs](https://golang.github.io/dep/docs/introduction.html)
 + library
+    + [sqldb-logger](https://github.com/simukti/sqldb-logger)
     + [色付きの usage が出せる flag パッケージ](https://github.com/relastle/colorflag)
     + [Tracing golang HTTP request latency](https://github.com/tcnksm/go-httpstat)
     + [Determine if it is a similar image using average hash.](https://github.com/po3rin/gosimimg)
@@ -460,6 +461,22 @@
     + [GoでCount-min sketchを実装する](https://cipepser.hatenablog.com/entry/go-sketch)
     + [Goの静的解析ツールで実装コードだけを走査する](https://qiita.com/ichiban@github/items/893863b315642dcb8a14)
     + [Go 1.13時代のエラー実装者のお作法](https://qiita.com/shibukawa/items/e633e426a6e67ea2e830)
+    + [GolangのVendoringをCIでキャッシュしたときの話](https://nandehu.com/blog/golang-ci-vendoring/)
+    + [Go Modules時代の静的解析](https://qiita.com/nakario/items/737177a9472d7ac9c2fd)
+    + [OWASP/Go-SCPを読んでセキュアプログラミングとGoを学ぶ](https://budougumi0617.github.io/2019/12/04/introduce_go-scp/)
+    + [`*sql.DB` を観察する](https://www.wantedly.com/companies/wantedly/post_articles/197571)
+    + [Repositoryによる抽象化の理想と現実](https://speakerdeck.com/sonatard/ideal-and-reality-of-abstraction-by-repository)
+    + [Rewrite Go error handling using AST transformation](https://speakerdeck.com/int128/rewrite-go-error-handling-using-ast-transformation)
+    + [GoのORM、SQLBoilerのススメ](https://suzan2go.hatenablog.com/entry/2019/12/04/224049)
+    + [複数のGoroutineをWaitGroup（ErrGroup）で制御する](https://blog.toshimaru.net/goroutine-with-waitgroup/)
+    + [インライン展開でGoをのぞいてみる](https://speakerdeck.com/tutuz/check-inline-expansion-with-go)
+    + [Debugging code generation in Go](https://rakyll.org/codegen/)
+    + [A Closer Look at Go’s sync Package](https://medium.com/@teivah/a-closer-look-at-go-sync-package-9f4e4a28c35a)
+    + [Go でトランザクションをフルスクラッチで実装した](https://kawasin73.hatenablog.com/entry/2019/12/06/213928)
+    + [GOPATHを掃除してGo Modulesに移行しよう](https://techblog.kayac.com/migration-gopath-to-go-modules)
+    + [【Golang+VCR】外部APIとの通信を保存してテストに使用する話](https://yyh-gl.github.io/tech-blog/blog/golang-vcr/)
+    + [dive into iota: iotaはいつ誰が管理しているのか？](https://www.uniuniunicode.com/posts/2019/12/iota/)
+    + [Go言語の静的解析の仕組みについて調べた](https://qiita.com/wawoon/items/e5d830c91f8cffd9a732)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

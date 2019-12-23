@@ -25,3 +25,8 @@
     + [大学院生のためのLLVM](https://postd.cc/llvm-for-grad-students/)
     + [コンパイラのいじめかた ](https://speakerdeck.com/kaityo256/how-to-fight-the-compiler)
     + [My First Language Frontend with LLVM Tutorial](https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html)
+    + [GCCとLLVMの内部比較](http://www.cr.ie.u-ryukyu.ac.jp/slides/OSC2018/slide.html)
+    + [コンパイル時計算完全に理解した](http://takesako.hatenablog.com/entry/2019/12/04/231647)
+    + [累積レジスタ割付による仮想マシンの高速化](https://abo-junghichi.hatenablog.jp/entry/2019/11/14/001142)
+    + [LLVMのAttributorというパス](http://uenoku.hatenablog.com/entry/2019/12/06/215715)
+    + [実行プログラム作成基盤をフルスクラッチで書いた](https://drumato.hatenablog.com/entry/2019/12/08/000000)

@@ -3,9 +3,11 @@
 + analyze
     + [Static analysis tools for all programming languages](https://github.com/mre/awesome-static-analysis)
     + [Universal Ctags](https://ctags.io/)
+    + [Sourcetrail × macOS × VSCodeを試してみた話](https://qiita.com/mgsk_2/items/b2da73ffbf77a72671a8)
 + build
     + [CMake言語の基本構造](https://qiita.com/mrk_21/items/3c35787418fbfce42103)
     + [cmake tuorialその4:ファイル生成,インストーラーのビルド等](https://yuyubu-sub.hateblo.jp/entry/2019/12/02/cmake)
+    + [cmake tutorialその6:ジェネレーター式](https://yuyubu-sub.hateblo.jp/entry/2019/12/06/cmake6)
 + Manual
     + [doxygen](http://www.stack.nl/~dimitri/doxygen/)
     + [Graphviz](https://www.graphviz.org/)
