@@ -116,6 +116,8 @@
     + [超過状態を考慮する桁DP](https://yuppe19.bitbucket.io/ketadp_adv.html)
     + [IDA\*探索(pattern database)でパズルを解く](https://qiita.com/TsuMakoto/items/7cb49607ce0d146c6697)
     + [最適化問題：単体法アルゴリズムの理論](https://note.com/kaneshin/n/nb964ce64266d)
+    + [O(n^2), again, now in WMI](https://randomascii.wordpress.com/2019/12/08/on2-again-now-in-wmi/)
+    + [高度合成数を高速に列挙する2つのアルゴリズム](https://qiita.com/convexineq/items/e3d599cb9f91a73f936d)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

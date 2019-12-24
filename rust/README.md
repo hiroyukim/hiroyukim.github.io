@@ -4,6 +4,8 @@
     + [cargo-call-stack](https://lib.rs/crates/cargo-call-stack)
     + [cargo-node](https://github.com/FloVanGH/cargo-node)
     + [The Rust UI-Toolkit.](https://github.com/redox-os/orbtk)
++ library
+    + [this crate determines if it is a similar image using average hash algorism.](https://github.com/po3rin/simimgrs)
 + documents
     + [プログラミング言語Rust: 2nd Editionの日本語版PDF](https://y-yu.github.io/trpl-2nd-pdf/book.pdf)
 + browser
@@ -117,5 +119,9 @@
     + [Rustの `Arc` を読む(1): Arc/Rcの基本](https://qiita.com/qnighy/items/4bbbb20e71cf4ae527b9)
     + [Rust製の組み込みOS『Tock』について調べてみた](http://sksat.hatenablog.com/entry/2019/12/09/200229)
     + [Rustマクロのバックトレースをnightly版で確認する](https://qiita.com/tetuyosi39/items/ac8639dbb12c304b91de)
+    + [Rustのターミナル操作crateいろいろ](https://meganehouser.github.io/2019-12-11_rust-terminal-crates.html)
+    + [Rust製JVMを作成した話](https://slides.com/rchaser53/copy-of#/)
+    + [話題のGUIツールキットOrbtkを読む](https://keens.github.io/slide/wadainoguitsu_rukittoorbtkwoyomu/)
+    + [Rustスマートポインタ比較表](https://qiita.com/qnighy/items/4e7b9b93e7146306d20a)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)

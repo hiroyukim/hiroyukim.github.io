@@ -477,6 +477,12 @@
     + [【Golang+VCR】外部APIとの通信を保存してテストに使用する話](https://yyh-gl.github.io/tech-blog/blog/golang-vcr/)
     + [dive into iota: iotaはいつ誰が管理しているのか？](https://www.uniuniunicode.com/posts/2019/12/iota/)
     + [Go言語の静的解析の仕組みについて調べた](https://qiita.com/wawoon/items/e5d830c91f8cffd9a732)
+    + [VSCode + golangでの快適な補完について自分なりにまとめてみた](https://qiita.com/akinobufujii/items/50d605ecf22daa3309cb)
+    + [GoのプロジェクトのDIをWireを使ってシンプルに](https://qiita.com/momotaro98/items/0b75a37048833dd6d324)
+    + [Goのタイマー time.Timer の作法](https://qiita.com/makiuchi-d/items/e1024e3abbd0d71e1fcf)
+    + [Go で RDBMS のいろんな Utility を作ってみた](https://blog.akito0107.dev/content?name=sql_utilities)
+    + [Go の strings.Index の内部実装と Rabin-Karp アルゴリズム](https://qiita.com/po3rin/items/07d51249629390a6201a)
+    + [Goにおけるライブラリのカスタマイズ性の活用](https://shiimaxx.hatenablog.com/entry/go-library-customize)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

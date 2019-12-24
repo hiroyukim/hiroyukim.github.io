@@ -120,6 +120,7 @@
     + [VCLのトランスパイルの概要](https://docs.google.com/presentation/d/1Q9QqZr46gQpaGGwDeyen06DeeXfa8u1KIBDPklEVKxQ/edit#slide=id.p)
     + [The Architecture of Open Source Applications 日本語訳](https://github.com/m-takagi/aosa-ja)
     + [nginx と Envoy の設定を比較して学べる「Migrating from NGINX to Envoy Proxy」を試した](https://kakakakakku.hatenablog.com/entry/2019/12/02/064849)
+    + [今後は「データ指向アプリケーションデザイン」を考えよう](https://rheb.hatenablog.com/entry/data-intensive-application)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)
