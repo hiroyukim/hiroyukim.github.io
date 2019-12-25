@@ -228,6 +228,13 @@
     + [Linux Kernel: cgroup 削除後も残り続ける slab キャッシュ についての調べ物](https://hiboma.hatenadiary.jp/entry/2019/12/04/150718)
     + [分散システムの耐障害性テストの取り組み](https://blog.cybozu.io/entry/2018/09/06/080000)
     + [ゼロから始めるKubernetes Controller](https://speakerdeck.com/govargo/under-the-kubernetes-controller-36f9b71b-9781-4846-9625-23c31da93014)
+    + [CRIUをラップしてより簡単にプロセスのチェックポイント/リストアをするツールを作った話](https://udzura.hatenablog.jp/entry/2019/12/12/223933)
+    + [Cloud Native Data Center Networking超入門](https://speakerdeck.com/kurochan/cloud-native-data-center-networkingchao-ru-men)
+    + [システムコールとLinuxカーネルのソース](http://www.coins.tsukuba.ac.jp/~yas/coins/os2-2010/2010-12-07/)
+    + [CとRustで一から作るマイクロカーネルOS](https://seiya.me/writing-a-microkernel-from-scratch)
+    + [virtiofsについて](https://qiita.com/tmsn/items/120c6c2fb07cf32d2147)
+    + [linux procfs 徹底入門](https://www.kimullaa.com/entry/2019/12/15/075138)
+    + [マイクロカーネルとL4について](http://nullpo-head.hateblo.jp/entry/2019/12/15/184016)
 + Tool
     + [BIOS Simulator Center](https://download.lenovo.com/bsco/index.html)
     + [High-level tracing language for Linux eBPF](https://github.com/iovisor/bpftrace)

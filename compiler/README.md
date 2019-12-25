@@ -30,3 +30,4 @@
     + [累積レジスタ割付による仮想マシンの高速化](https://abo-junghichi.hatenablog.jp/entry/2019/11/14/001142)
     + [LLVMのAttributorというパス](http://uenoku.hatenablog.com/entry/2019/12/06/215715)
     + [実行プログラム作成基盤をフルスクラッチで書いた](https://drumato.hatenablog.com/entry/2019/12/08/000000)
+    + [Hello World くらいしかできない言語のアセンブラをつくる](https://qiita.com/mitsuchi/items/767544d6ca044cbcc9c4)

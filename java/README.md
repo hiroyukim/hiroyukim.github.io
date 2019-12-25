@@ -19,3 +19,4 @@
     + [Java をクラッシュさせて遊んでみよう！](https://www.slideshare.net/YujiSoftware/java-196869151)
     + [Javaの起動時間といかに戦うか ](https://speakerdeck.com/kishida/how-to-fight-against-java-warmup-time)
     + [Javaなら「この書き方がベスト」と信じて書ける - きしだなおきに聞く、Javaのこれまでとこれから](https://employment.en-japan.com/engineerhub/entry/2019/10/29/103000)
+    + [SpringBootの起動を高速化する](https://qiita.com/kaneuchi_0202/items/aae4c255b61cac09358d)

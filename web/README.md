@@ -121,6 +121,10 @@
     + [The Architecture of Open Source Applications 日本語訳](https://github.com/m-takagi/aosa-ja)
     + [nginx と Envoy の設定を比較して学べる「Migrating from NGINX to Envoy Proxy」を試した](https://kakakakakku.hatenablog.com/entry/2019/12/02/064849)
     + [今後は「データ指向アプリケーションデザイン」を考えよう](https://rheb.hatenablog.com/entry/data-intensive-application)
+    + [ERDをPlantUML形式で自動生成するツールを作った](https://sue445.hatenablog.com/entry/2019/12/12/234648)
+    + [マンガでわかる！CTFとは](https://www.netagent.co.jp/study/blog/easy/20191212.html?fbclid=IwAR0FHZU5wIuw-4srrlkUX8A4NlnhoHVOf-Jm9QYSMxITlH2DbcOIdebq62I)
+    + [Athena: Our automated build health management system](https://blogs.dropbox.com/tech/2019/05/athena-our-automated-build-health-management-system/)
+    + [SchemaSpy を使って自動で ER 図生成してみた](https://tech.mercari.com/entry/2018/05/25/133818)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

@@ -70,6 +70,7 @@
     + [musl libc](http://www.musl-libc.org/)
     + [Beej's Quick Guide to GDB](http://beej.us/guide/bggdb/)
     + [Creating a Rootkit to Learn C](https://h0mbre.github.io/Learn-C-By-Creating-A-Rootkit/)
+    + [Tutorial - Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

@@ -17,3 +17,4 @@
     + [YARV Maniacs 【第 2 回】 VM ってなんだろう](https://magazine.rubyist.net/articles/0007/0007-YarvManiacs.html)
     + [パイプライン演算子の歴史](https://mametter.hatenablog.com/entry/2019/06/15/192311)
     + [セルフホストで学ぶJVM入門](https://k0kubun.hatenablog.com/entry/jjvm)
+    + [RubyでJVMを実装してみる](https://speakerdeck.com/daikimiura/implement-jvm-with-ruby)

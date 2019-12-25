@@ -78,6 +78,7 @@
     + [秒速で10億レコードを処理する話](http://kaigai.hatenablog.com/entry/2019/10/31/230256)
     + [MySQLクライアントでの非同期処理概略](http://blog.kimuradb.com/?eid=877580)
     + [Dive into Binary logs](https://tombo2.hatenablog.com/entry/2019/12/09/190337)
+    + [Why databases use ordered indexes but programming uses hash tables about | archive](https://www.evanjones.ca/ordered-vs-unordered-indexes.html) 
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

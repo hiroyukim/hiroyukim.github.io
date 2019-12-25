@@ -20,3 +20,5 @@
     + [著名なOSSがどのように構成され、何故そのように作ったかを解説する「The Architecture of Open Source Applications」がすごい!!](https://qiita.com/linkqotto/items/9b1e60473d4b4a2d42c4)
     + [【転職エントリ】Googleに入社します](https://note.mu/neko_chan0214/n/n3a64bc1e1412)
     + [Federal plain language guidelines](https://plainlanguage.gov/guidelines/)
+    + [OSSで結果を出す方法](https://speakerdeck.com/knu/ossdejie-guo-wochu-sufang-fa)
+    + [無能な同僚と働くということ。](http://before11.hatenablog.com/entry/2019/12/16/081427)

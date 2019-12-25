@@ -483,6 +483,18 @@
     + [Go で RDBMS のいろんな Utility を作ってみた](https://blog.akito0107.dev/content?name=sql_utilities)
     + [Go の strings.Index の内部実装と Rabin-Karp アルゴリズム](https://qiita.com/po3rin/items/07d51249629390a6201a)
     + [Goにおけるライブラリのカスタマイズ性の活用](https://shiimaxx.hatenablog.com/entry/go-library-customize)
+    + [内部実装から理解するsingleflight](https://qiita.com/Tommy_/items/60f331a58ab7130d7990)
+    + [ノリで使っていたGoLandをちゃんと使う](https://tech.gunosy.io/entry/goland-osusume-benri-features)
+    + [Goのsingleflight packageの紹介](https://qiita.com/nsega/items/fb515ece4e691af0858a)
+    + [GoはネットワークI/Oをどう実現しているか](https://i101330.hatenablog.com/entry/2019/12/03/113645)
+    + [fmt.Scannerを使う](https://qiita.com/tomocy/items/63900f8a77082580ad4b)
+    + [golang.org/x/sync/singleflightで重複呼び出しを排除する](https://qiita.com/lufia/items/e413e511ed64220e7b85)
+    + [chan chan は意外と美味しい](https://qiita.com/hogedigo/items/15af273176599307a2b2)
+    + [OpenTelemetryパッケージに見るpluginパッケージの利用方法](https://qiita.com/shibukawa/items/a12340ebb57bf21b819d)
+    + [sqlxでJOINした時に複数のstructをScanするためのライブラリを作った](https://qiita.com/Tsuzu/items/7dd8ebb261660e0acd4b)
+    + [GoのGCを10分で学ぼう](https://qiita.com/gold-kou/items/4431d3dd41606d41732b)
+    + [結局goのmigrationツールは何を使えばよいのか](https://qiita.com/mergit/items/d7c542f742a845545a77)
+    + [ERD(Entity Relationship Diagram)を記述するための erd-go と周辺ツールを作りました](https://qiita.com/kaishuu0123/items/9f52fa3ab1ea31132993)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack
