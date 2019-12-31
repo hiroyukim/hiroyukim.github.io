@@ -495,6 +495,12 @@
     + [GoのGCを10分で学ぼう](https://qiita.com/gold-kou/items/4431d3dd41606d41732b)
     + [結局goのmigrationツールは何を使えばよいのか](https://qiita.com/mergit/items/d7c542f742a845545a77)
     + [ERD(Entity Relationship Diagram)を記述するための erd-go と周辺ツールを作りました](https://qiita.com/kaishuu0123/items/9f52fa3ab1ea31132993)
+    + [GoのコードからPlantUMLコードを生成する静的解析ツールを作っている](https://i101330.hatenablog.com/entry/2019/04/14/205522)
+    + [Goのテンプレートをちゃんと使ってみる](https://qiita.com/rock619/items/925575c2878b131a16b5)
+    + [Go言語で扱えるデータフレーム厳選4つ](https://qiita.com/mattn/items/71027a6f8fc720eead6e)
+    + [time.Timer#Reset() の正しい使い方](https://www.kaoriya.net/blog/2019/12/19/)
+    + [goでスタティックバイナリを生成する方法](https://iguchitomokatsu.com/posts/how-to-make-static-binary-of-golang/)
+    + [golang.org/x/text/message でi18n対応を行う](https://tech.fusic.co.jp/posts/2019-12-22-i18n-go/)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

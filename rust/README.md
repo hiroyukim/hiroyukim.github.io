@@ -138,5 +138,13 @@
     + [Rust で DOS](https://exoskeleton.dev/lowlevel/embedded/embed-1.md)
     + [Rustの `Arc` を読む(3): Rcを読む発展編](https://qiita.com/qnighy/items/5e673b2d74e5b01a6c8d)
     + [Stable Rustでベンチマークを統計的に評価する](https://qiita.com/termoshtt/items/b3129c473b1becef5878)
+    + [hyper v0.13.0 の make_service_fn と service_fn とは何か](https://qiita.com/pione30/items/3b58e8ba4d6756ce9542)
+    + [Rust no-stdのasync完全理解を目指そう！](https://tomo-wait-for-it-yuki.hatenablog.com/entry/2019/12/17/073126)
+    + [RustによるIntel SGXプログラミングとSDKの内部実装](https://qiita.com/Osuke/items/5e30132a7789955105d6)
+    + [Rustでシンプルなロードバランサーを作成してみた](https://qiita.com/rchaser53/items/5b69b717ae07220daed9)
+    + [Rustで巨大な整数を扱う](https://qiita.com/mHALr/items/f8dec6bfb6583862ed0a)
+    + [RustのLLVM IRでプログラム分析ことはじめ](https://toyamaguchi.hatenablog.com/entry/2019/12/22/080000)
+    + [RustでWebAssemblyインタプリタ作った話](https://qiita.com/kgtkr/items/f4b3e2d83c7067f3cfcb)
+    + [tokioで外部コマンド実行](https://qiita.com/Kumassy/items/3fb3e52729e375efd5ed)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)

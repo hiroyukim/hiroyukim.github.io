@@ -125,6 +125,8 @@
     + [マンガでわかる！CTFとは](https://www.netagent.co.jp/study/blog/easy/20191212.html?fbclid=IwAR0FHZU5wIuw-4srrlkUX8A4NlnhoHVOf-Jm9QYSMxITlH2DbcOIdebq62I)
     + [Athena: Our automated build health management system](https://blogs.dropbox.com/tech/2019/05/athena-our-automated-build-health-management-system/)
     + [SchemaSpy を使って自動で ER 図生成してみた](https://tech.mercari.com/entry/2018/05/25/133818)
+    + [OpenCensusとhttptrace.ClientTraceを使ってHTTPリクエストのlatencyを可視化する](https://journal.lampetty.net/entry/opencensus-httptrace)
+    + [Avoiding dropped connections in nginx containers with “STOPSIGNAL SIGQUIT”](https://ubuntu.com/blog/avoiding-dropped-connections-in-nginx-containers-with-stopsignal-sigquit)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

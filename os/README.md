@@ -235,6 +235,9 @@
     + [virtiofsについて](https://qiita.com/tmsn/items/120c6c2fb07cf32d2147)
     + [linux procfs 徹底入門](https://www.kimullaa.com/entry/2019/12/15/075138)
     + [マイクロカーネルとL4について](http://nullpo-head.hateblo.jp/entry/2019/12/15/184016)
+    + [Linuxカーネルがx86 microcodeを扱う処理について](https://qiita.com/akachochin/items/ae91efec12297fd05c0b)
+    + [Linuxカーネルのロックダウン機構を試してみる](https://qiita.com/furandon_pig/items/5473afb2244fbc4aa029)
+    + [1870件以上のカーネルの不具合修正に貢献した再現用プログラムを自動生成する試験自動化技術](https://qiita.com/fujiihda/items/e86c46c003cceb703a9c)
 + Tool
     + [BIOS Simulator Center](https://download.lenovo.com/bsco/index.html)
     + [High-level tracing language for Linux eBPF](https://github.com/iovisor/bpftrace)

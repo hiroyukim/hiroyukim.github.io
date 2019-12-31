@@ -126,6 +126,11 @@
     + [すごいTrie](https://qiita.com/minaminao/items/caf6d8147c7e70b6ae63)
     + [赤黒木の本質](https://qiita.com/kgoto/items/b15b9a494deae010d660)
     + [SAT/SMTソルバの仕組み](https://www.slideshare.net/sakai/satsmt)
+    + [Fréchet距離の計算アルゴリズム](https://qiita.com/takilog/items/9dba1db42fe6f75587df)
+    + [Lock-free入門](https://kumagi.com/lockfree.pdf)
+    + [ハッシュチェーン、それは歴史を抱え込みながら成長していくデータ構造](https://qiita.com/Akazawa_Naoki/items/727b17c1798b44fdf2af)
+    + [ドロネー三角形分割の期待最速アルゴリズム](https://qiita.com/tsukasa__diary/items/a835c17e5bf4935636c4)
+    + [モンテカルロ法による探索](https://qiita.com/allowfirm/items/44c4bd487abe2d08414b)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)
