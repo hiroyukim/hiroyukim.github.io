@@ -22,3 +22,5 @@
     + [Federal plain language guidelines](https://plainlanguage.gov/guidelines/)
     + [OSSで結果を出す方法](https://speakerdeck.com/knu/ossdejie-guo-wochu-sufang-fa)
     + [無能な同僚と働くということ。](http://before11.hatenablog.com/entry/2019/12/16/081427)
+    + [コーディングインタビューの対策とその意義 (1/2)](https://en9.hatenablog.com/entry/2019/12/22/134613)
+    + [やる夫で学ぶディジタル信号処理](http://www.ic.is.tohoku.ac.jp/~swk/lecture/yaruodsp/main.html)

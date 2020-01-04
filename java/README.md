@@ -20,3 +20,4 @@
     + [Javaの起動時間といかに戦うか ](https://speakerdeck.com/kishida/how-to-fight-against-java-warmup-time)
     + [Javaなら「この書き方がベスト」と信じて書ける - きしだなおきに聞く、Javaのこれまでとこれから](https://employment.en-japan.com/engineerhub/entry/2019/10/29/103000)
     + [SpringBootの起動を高速化する](https://qiita.com/kaneuchi_0202/items/aae4c255b61cac09358d)
+    + [Androidプロジェクト内の未使用のリソースを削除するgradle pluginを作りました](http://konifar.hatenablog.com/entry/2018/05/13/125311)

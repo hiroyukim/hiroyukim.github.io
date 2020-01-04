@@ -238,6 +238,9 @@
     + [Linuxカーネルがx86 microcodeを扱う処理について](https://qiita.com/akachochin/items/ae91efec12297fd05c0b)
     + [Linuxカーネルのロックダウン機構を試してみる](https://qiita.com/furandon_pig/items/5473afb2244fbc4aa029)
     + [1870件以上のカーネルの不具合修正に貢献した再現用プログラムを自動生成する試験自動化技術](https://qiita.com/fujiihda/items/e86c46c003cceb703a9c)
+    + [確率的並行ファジング](https://bstlab.hatenablog.com/entry/2019/12/24/010133)
+    + [「しくみがわかるkubernetes」を読んだ](http://satoru-takeuchi.hatenablog.com/entry/2019/02/17/094255)
+    + [Killing a process and all of its descendants](http://morningcoffee.io/killing-a-process-and-all-of-its-descendants.html)
 + Tool
     + [BIOS Simulator Center](https://download.lenovo.com/bsco/index.html)
     + [High-level tracing language for Linux eBPF](https://github.com/iovisor/bpftrace)

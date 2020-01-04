@@ -35,6 +35,7 @@
     + [RISC-Vとx86のsystem callの内部実装の違い(xv6を例に)](http://cstmize.hatenablog.jp/entry/2019/10/01/RISC-V%E3%81%A8x86%E3%81%AEsystem_call%E3%81%AE%E5%86%85%E9%83%A8%E5%AE%9F%E8%A3%85%E3%81%AE%E9%81%95%E3%81%84%28xv6%E3%82%92%E4%BE%8B%E3%81%AB%29)
     + [簡単な32bit CPUを自作した(MIPSのサブセット)](https://qiita.com/kamaboko123/items/d588f1b92f6c3749389e)
     + [どうしていまFPGAなのか、そしてFPGAとは何か?](https://news.mynavi.jp/kikaku/software_fpga-1/)
+    + [本当に私の人生を変えた技術書10選](https://msyksphinz.hatenablog.com/entry/2019/12/28/040000)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)

@@ -32,6 +32,8 @@
     + [When TCP sockets refuse to die](https://blog.cloudflare.com/when-tcp-sockets-refuse-to-die/)
     + [The Maturing of QUIC](https://www.fastly.com/blog/maturing-of-quic)
     + [Ncatをつかおう](https://speakerdeck.com/hayajo/use-ncat)
+    + [Tiny TCP/IP protocol stack for lectures](https://github.com/pandax381/microps)
+    + [Every byte of a TLS connection explained and reproduced.](https://tls.ulfheim.net/)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)

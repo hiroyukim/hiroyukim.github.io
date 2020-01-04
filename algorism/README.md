@@ -131,6 +131,9 @@
     + [ハッシュチェーン、それは歴史を抱え込みながら成長していくデータ構造](https://qiita.com/Akazawa_Naoki/items/727b17c1798b44fdf2af)
     + [ドロネー三角形分割の期待最速アルゴリズム](https://qiita.com/tsukasa__diary/items/a835c17e5bf4935636c4)
     + [モンテカルロ法による探索](https://qiita.com/allowfirm/items/44c4bd487abe2d08414b)
+    + [数値計算の研究をしている学生が"数値計算に潜むとんでもないリスク"について話してみる](https://qiita.com/2754github/items/26a18fe01c8ad221f0ba)
+    + [文字列辞書のいろんな実装方法](https://qiita.com/kampersanda/items/8c7deabfc9b00f994d3e)
+    + [コーディング面接対策のために解きたいLeetCode 60問](https://1kohei1.com/leetcode/)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

@@ -33,3 +33,5 @@
     + [Node.jsでのイベントループの仕組みとタイマーについて](https://blog.hiroppy.me/entry/nodejs-event-loop)
     + [JavaScript Promiseの本 v2リリース、ES2015+に対応、Async Functionの章を追加](https://efcl.info/2019/10/23/promises-book-v2/)
     + [2019 Javascript engine 俯瞰](http://abcdef.gets.b6n.ch/entry/2019/12/11/121840)
+    + [TypeScript で書く React コンポーネントを基礎から理解する](https://qiita.com/sangotaro/items/3ea63110517a1b66745b)
+    + [実践 Off the main thread](https://yosuke-furukawa.hatenablog.com/entry/2019/12/31/050438)

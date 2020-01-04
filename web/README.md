@@ -127,6 +127,7 @@
     + [SchemaSpy を使って自動で ER 図生成してみた](https://tech.mercari.com/entry/2018/05/25/133818)
     + [OpenCensusとhttptrace.ClientTraceを使ってHTTPリクエストのlatencyを可視化する](https://journal.lampetty.net/entry/opencensus-httptrace)
     + [Avoiding dropped connections in nginx containers with “STOPSIGNAL SIGQUIT”](https://ubuntu.com/blog/avoiding-dropped-connections-in-nginx-containers-with-stopsignal-sigquit)
+    + [Reversing a real-world 249 bytes backdoor!](https://anee.me/reversing-a-real-world-249-bytes-backdoor-aadd876c0a32)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

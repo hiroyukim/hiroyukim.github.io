@@ -18,3 +18,4 @@
     + [パイプライン演算子の歴史](https://mametter.hatenablog.com/entry/2019/06/15/192311)
     + [セルフホストで学ぶJVM入門](https://k0kubun.hatenablog.com/entry/jjvm)
     + [RubyでJVMを実装してみる](https://speakerdeck.com/daikimiura/implement-jvm-with-ruby)
+    + [Ruby 2.7のここがすごい！ パターンマッチ、コンパクションGCなどをリリースマネージャーに聞いた](https://employment.en-japan.com/engineerhub/entry/2019/12/26/103000)

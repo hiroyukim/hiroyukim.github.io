@@ -18,6 +18,7 @@
     + [A small regex implementation in C](https://github.com/kokke/tiny-regex-c)
     + [Klib: a Generic Library in C](https://github.com/attractivechaos/klib)
     + [mimalloc](https://github.com/microsoft/mimalloc)
+    + [Simple, zero-dependency garbage collection for C](https://github.com/mkirchner/gc)
 + Article
     + [CTFのための gdb/gdb-peda 頻出コマンドのメモ](http://t3rry.hatenablog.com/entry/2017/07/19/010844)
     + [C言語でのコルーチン実装](http://www.spice-elec.com/Z80/multi_task/mult_task02.html)
@@ -71,6 +72,7 @@
     + [Beej's Quick Guide to GDB](http://beej.us/guide/bggdb/)
     + [Creating a Rootkit to Learn C](https://h0mbre.github.io/Learn-C-By-Creating-A-Rootkit/)
     + [Tutorial - Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
+    + [Asyncify を使ってみた](https://qiita.com/chikoski/items/ed78aace5452a94a49d5)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

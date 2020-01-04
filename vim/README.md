@@ -11,3 +11,5 @@
     + [Vim compiled to WebAssembly](https://speakerdeck.com/rhysd/vim-compiled-to-webassembly)
     + [vim入門](https://dotinstall.com/lessons/basic_vim)
     + [Vimで技術書を執筆する環境 with Re:VIEW + RedPen + prh](http://www.tokoro.me/posts/vim-review/)
+    + [vim-lsp の導入コストを下げるプラグイン vim-lsp-settings を書いた。](https://qiita.com/mattn/items/e62b9f16bc487a271a7f)
+    + [Vim をモダンな IDE に変える LSP の設定Add Star](https://mattn.kaoriya.net/software/vim/20191231213507.htm)

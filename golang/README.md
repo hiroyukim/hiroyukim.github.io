@@ -501,6 +501,13 @@
     + [time.Timer#Reset() の正しい使い方](https://www.kaoriya.net/blog/2019/12/19/)
     + [goでスタティックバイナリを生成する方法](https://iguchitomokatsu.com/posts/how-to-make-static-binary-of-golang/)
     + [golang.org/x/text/message でi18n対応を行う](https://tech.fusic.co.jp/posts/2019-12-22-i18n-go/)
+    + [Go で Go を build して Go を Go で開発しよう](https://qiita.com/akif999/items/0b1b5e3ab75756447f9c)
+    + [スタックによるキューの実装と、キューによるスタックの実装](https://qiita.com/maebaru/items/579afe3c30edc143968d)
+    + [testingだけで完結するmockを作る #Golang](https://qiita.com/maitaketurn/items/2618e9ecd68852a0a83b)
+    + [Goで祝日を判定するライブラリまとめ](https://qiita.com/fist0/items/4fed94f32050fc490b1d)
+    + [Go runtimeの内部実装を覗きながら、チャンネルのことを知る](https://qiita.com/zreactor/items/1cef0c7ba31aac5402bb)
+    + [GOの静的解析ツールを簡単に使うためのエコシステムについて考える #GOLANG](https://tenntenn.dev/ja/posts/analysis-ecosystem/)
+    + [近年取り組んでいるメッセージ指向パターンの紹介](https://qiita.com/MiCHiLU/items/977adc303be8663d1aae)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack
