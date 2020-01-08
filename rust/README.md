@@ -5,6 +5,7 @@
     + [cargo-node](https://github.com/FloVanGH/cargo-node)
     + [The Rust UI-Toolkit.](https://github.com/redox-os/orbtk)
     + [Crate mml](https://adjivas.github.io/ml/mml/)
+    + [Terminal bandwidth utilization tool](https://github.com/imsnif/bandwhich)
 + library
     + [this crate determines if it is a similar image using average hash algorism.](https://github.com/po3rin/simimgrs)
 + documents
@@ -163,5 +164,8 @@
     + [Rustの `Arc` を読む(4): アトミック変数とメモリ順序](https://qiita.com/qnighy/items/b3b728adf5e4a3f1a841)
     + [Rustの `Arc` を読む(5): Arcを読む](https://qiita.com/qnighy/items/35db580a139d21f38410)
     + [A command-line shell like fish, but (aims to be) compatible with Bash.](https://seiya.me/nsh/)
+    + [A service manager that is able to run "traditional" systemd services, written in rust](https://github.com/KillingSpark/rustysd)
+    + [Rust を読み書きできるようになるための，公式の問題集](https://github.com/rust-lang/rustlings)
+    + [A x86 bootloader written in Rust.](https://github.com/ellbrid/krabs)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)

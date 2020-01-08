@@ -508,6 +508,7 @@
     + [Go runtimeの内部実装を覗きながら、チャンネルのことを知る](https://qiita.com/zreactor/items/1cef0c7ba31aac5402bb)
     + [GOの静的解析ツールを簡単に使うためのエコシステムについて考える #GOLANG](https://tenntenn.dev/ja/posts/analysis-ecosystem/)
     + [近年取り組んでいるメッセージ指向パターンの紹介](https://qiita.com/MiCHiLU/items/977adc303be8663d1aae)
+    + [GoのGCを10分で学ぼう](https://qiita.com/gold-kou/items/4431d3dd41606d41732b)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

@@ -134,6 +134,8 @@
     + [数値計算の研究をしている学生が"数値計算に潜むとんでもないリスク"について話してみる](https://qiita.com/2754github/items/26a18fe01c8ad221f0ba)
     + [文字列辞書のいろんな実装方法](https://qiita.com/kampersanda/items/8c7deabfc9b00f994d3e)
     + [コーディング面接対策のために解きたいLeetCode 60問](https://1kohei1.com/leetcode/)
+    + [Smoothsort](https://www.keithschwarz.com/smoothsort/)
+    + [マイクロソフトリサーチの研究者らによる，データサイエンス・機械学習の基礎となる数理的な側面を解説した教科書](https://www.cs.cornell.edu/jeh/book.pdf)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

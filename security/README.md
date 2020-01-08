@@ -7,3 +7,7 @@
     + [セキュリティ・キャンプ全国大会２０１６　解析トラック　３Ｄ](http://i-love.sakura.ne.jp/The_OOM_CTF.html)
     + [2018年度の問題](http://kozos.jp/seccon/seccon2018.html)
     + [SSRF基礎](https://speakerdeck.com/hasegawayosuke/ssrfji-chu)
+    + [SANSのHoliday Hack Challenge](https://holidayhackchallenge.com/2019/)
+    + [https://picoctf.com/](https://picoctf.com/)
+    + [ゲームセキュリティ再考 ～チーターとの終わりなき戦い～](https://www.ninjastars-net.com/entry/2019/03/15/090000)
+    + [SSH Pentesting Guide](https://community.turgensec.com/ssh-hacking-guide/)

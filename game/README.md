@@ -8,3 +8,4 @@
     + [Mozilla ゲーム開発](https://developer.mozilla.org/ja/docs/Games)
     + [Pillman boot sector game, a yellow thing eats pills and is chased by monsters.](https://github.com/nanochess/Pillman)
     + [https://en.wikipedia.org/wiki/Core_War#Redcode](https://en.wikipedia.org/wiki/Core_War#Redcode)
+    + [夏休み自由研究「ゲームレビュー」の書き方](https://jp.ign.com/games/37727/feature/)
