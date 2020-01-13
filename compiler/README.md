@@ -33,3 +33,4 @@
     + [Hello World くらいしかできない言語のアセンブラをつくる](https://qiita.com/mitsuchi/items/767544d6ca044cbcc9c4)
     + [LLVM Backend の紹介](https://www.slideshare.net/AkiraMaruoka/llvm-backend)
     + [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj)
+    + [低レイヤを知りたい人のためのCコンパイラ作成入門](https://www.sigbus.info/compilerbook)
