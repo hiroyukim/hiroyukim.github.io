@@ -3,6 +3,7 @@
 ## Blog
 
 + [blog](https://hiroyukim.github.io/blog/)
++ [twitter](https://hiroyukim.github.io/twitter/)
 
 ## Link
 
