@@ -1,6 +1,49 @@
 # twitter
 
-# 2020/02/14
+## 2020/02/14
+
+- [C言語から0番地へアクセスする方法についての個人的まとめ - /var/log/hikalium](https://hikalium.hatenablog.jp/entry/2020/02/15/120942)
+- [使いやすさを重視したHTMLスクレイピングライブラリを作った - 純粋関数型雑記帳](https://tanakh.hatenablog.com/entry/2020/02/13/000833)
+- [CentOSのcpコマンドで強制的にファイルを上書きする - Qiita](https://qiita.com/owlbeck/items/6752a6f1b3fb58d0cb17)
+- [Defining and Instantiating Structs - The Rust Programming Language](https://doc.rust-lang.org/book/ch05-01-defining-structs.html#using-the-field-init-shorthand-when-variables-and-fields-have-the-same-name)
+- [ システム出力の仕組みと管理](https://exoskeleton.dev/linux/troubleshoot/trblst-2.md)
+- [ペネトレーションテスト超入門  by 大和セキュリティ - connpass](https://ksec.connpass.com/event/163525/)
+- [HTTPS state の仕様を追う](https://nhiroki.jp/2020/02/13/spec-https-state)
+- [この書籍について · JavaScript Primer #jsprimer](https://jsprimer.net/)
+- [fuzzy finderであるfzfを導入して楽しく検索してみる - 雑なメモ書き](https://hiroyukim.hatenablog.com/entry/2020/02/13/122411)
+- [RISC-V勉強会@Tokyo 2020 02/28 - connpass](https://risc-v.connpass.com/event/166749/?utm_campaign=event_publish_to_follower&utm_source=notifications&utm_medium=twitter)
+- [RustでOption値やResult値を上手に扱う - Qiita](https://qiita.com/tatsuya6502/items/cd41599291e2e5f38a4a)
+- [Chrome 80が密かに呼び寄せる地獄 ～ SameSite属性のデフォルト変更を調べてみた - Qiita](https://htn.to/4ceXm22UUE)
+- [エラーハンドリング](https://doc.rust-jp.rs/the-rust-programming-language-ja/1.6/book/error-handling.html)
+- [GitHub - evanw/esbuild: An extremely fast JavaScript bundler and minifier](https://github.com/evanw/esbuild/)
+- [React Conf Japan](https://reactconf.jp/2020/)
+- [\[B! gitlab\] スケールする組織を支えるドキュメンテーションの技術を”GitLab Handbook”から学ぶ｜Anno Takahiro｜note](https://b.hatena.ne.jp/entry/s/note.com/takahiroanno/n/n62b962e021d6)
+- [GitHub - jmhobbs/party-gopher: Dancing Gopher + Party Parrot = P A R T Y  G O P H E R](https://github.com/jmhobbs/party-gopher)
+- [TWiR quote of the week - community - The Rust Programming Language Forum](https://users.rust-lang.org/t/twir-quote-of-the-week/328/815)
+- [ToDoBot - Slack-native TODOs right in your Home Tab](https://htn.to/PWNaj1qKnF)
+- [GitHub - manateelazycat/emacs-application-framework: Emacs application framework](https://github.com/manateelazycat/emacs-application-framework)
+- [GitHub - junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)
+- [Compare Revisions · golang/go Wiki · GitHub](https://github.com/golang/go/wiki/CompilerOptimizations/_compare/01a106809f81dd96aad68e197fa80d97f345279e...e01d8b81aed3663fb422ba08c80695d977166f9c)
+- [Home :: TinyGo - Go on Microcontrollers and WASM](https://htn.to/3LEGgPg7UB)
+- [GitHub - kkoomen/vim-doge: (Do)cumentation (Ge)nerator 15+ languages 📚 Generate proper code documentation skeletons with a single keypress. ⚡️🔥](https://github.com/kkoomen/vim-doge#readme)
+- [Embulk &amp; Digdag Meetup 2020｜IT勉強会ならTECH PLAY［テックプレイ］](https://techplay.jp/event/767288)
+- [デブサミ2020、講演関連資料まとめ：CodeZine（コードジン）](http://dlvr.it/RPwyYX)
+- [WebAssembly Summit 2020 Notes · GitHub](https://gist.github.com/bushidocodes/19663642453c918d7868bf1ac5a563a4)
+- [Using Alpine can make Python Docker builds 50× slower](https://htn.to/4yNoYrC8Uq)
+- [Fedora CoreOS](https://getfedora.org/coreos/)
+- [Subscription required \[LWN.net\]](https://lwn.net/Articles/811528/)
+- [GitHub - google/tcmalloc](https://htn.to/WnK8KEeWAg)
+- [Linuxのファイルシステム「Btrfs」を5年間使用した記録 - GIGAZINE](https://htn.to/3vspfTU5tG)
+- [JavaScript Primerのサブタイトルを考える · Issue #865 · asciidwango/js-primer · GitHub](https://github.com/asciidwango/js-primer/issues/865#issuecomment-586300508)
+- [GitHub - dalance/procs: A modern replacement for ps written in Rust](https://htn.to/62BSvj5mj3)
+- [DeepSource: Continuous Quality and Security as a Service](https://htn.to/4g5BVHR8Eq)
+- [「Pentestit」というLab環境で遊んでみた ｜ Developers.IO](https://htn.to/3H1jFfAjDo)
+- [最新のブラウザで変わるCookieの取り扱いやPrivacyの考え方 - Speaker Deck](https://htn.to/3kj1gMxRNt)
+- [グラフニューラルネットワークとグラフ組合せ問題](https://www.slideshare.net/joisino/ss-227753830)
+- [Welcome to LWN.net \[LWN.net\]](http://LWN.net)
+- [ラ　　　ズ　　　ピ　　　ッ　　　ピ　　　2　　　0　　　2　　　0（Raspberry Pi 4とかの話）/ 20200125-osc20os-rpi - Speaker Deck](https://htn.to/wCg5Uy3Rng)
+
+## 2020/02/14
 
 - [使いやすさを重視したHTMLスクレイピングライブラリを作った - 純粋関数型雑記帳](https://tanakh.hatenablog.com/entry/2020/02/13/000833)
 - [Introduction - The Rust Programming Language](https://doc.rust-lang.org/book/ch00-00-introduction.html#ferris)
@@ -59,7 +102,7 @@
 - [Biodiversity Heritage Library’s albums | Flickr](https://www.flickr.com/photos/biodivlibrary/albums)
 - [Deep Learning by deeplearning.ai | Coursera](https://www.coursera.org/specializations/deep-learning)
 
-# 2020/02/09
+## 2020/02/09
 
 - [文字列](https://doc.rust-jp.rs/the-rust-programming-language-ja/1.6/book/strings.html)
 - [Rust: Raw string literals - rahul thakoor](https://rahul-thakoor.github.io/rust-raw-string-literals/)
@@ -104,7 +147,7 @@
 - [技術文書を書く際の、心技体＜改訂版＞](https://www.slideshare.net/takahirokubo7792/ss-83640605/19)
 - [逆FM音源 - Speaker Deck](https://speakerdeck.com/fadis/ni-fmyin-yuan)
 
-# 2020/02/06
+## 2020/02/06
 
 - [diffの動作原理を知る～どのようにして差分を導き出すのか：一般記事｜gihyo.jp … 技術評論社](https://gihyo.jp/dev/column/01/prog/2011/diff_sd200906)
 - [ECMAScript® 2020 Language Specification](https://tc39.es/ecma262/#sec-execution-contexts)
