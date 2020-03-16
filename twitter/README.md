@@ -1,5 +1,39 @@
 # twitter
 
+## 2020/03/16
+
+- [Out of the Box Dynamic Dispatch — Llogiq on stuff](https://llogiq.github.io/2020/03/14/ootb.html)
+- [Java Documentation - Get Started](https://docs.oracle.com/en/java/)
+- [PDFから「使える」テキストを取り出す（第3回） - golden-luckyの日記](https://golden-lucky.hatenablog.com/entry/2019/12/03/144020)
+- [PDFから「使える」テキストを取り出す（第1回） - golden-luckyの日記](https://golden-lucky.hatenablog.com/entry/2019/12/01/001701)
+- [C++ 書籍 - C++ の歩き方 | CppMap](https://cppmap.github.io/learn/books/#_2)
+- [Getting Started - Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
+- [OAuth 2.0 / OpenID Connect の Hybrid Flow への向き合い方 - r-weblife](https://ritou.hatenablog.com/entry/2020/03/12/114702)
+- [SCEでPS1互換エミュレータを開発した | STORYS.JP（ストーリーズ）](https://storys.jp/story/3458)
+- [RustのFutureとそのRunnerを作ってみた | κeenのHappy Hacκing Blog](https://keens.github.io/blog/2019/07/07/rustnofuturetosonorunnerwotsukuttemita/)
+- [Announcing Rust 1.42.0 | Rust Blog](https://blog.rust-lang.org/2020/03/12/Rust-1.42.html)
+- [ その名も fcopy 、不屈のコピーだ - 標準愚痴出力](http://zetamatta.hatenablog.com/entry/2020/03/11/155318)
+- [許可を求めるな謝罪せよの源流、グレース・ホッパー - kawaguti’s diary](https://kawaguti.hateblo.jp/entry/2018/08/19/070501)
+- [AWS、コンテナに最適化したLinuxベースのOS「Bottlerocket」をオープンソースで公開 － Publickey](https://www.publickey1.jp/blog/20/awslinuxosbottlerocket.html)
+- [This Week in Rust is looking for a new maintainer. | Inside Rust Blog](https://blog.rust-lang.org/inside-rust/2020/03/13/twir-new-lead.html)
+- [GitHub - tkmc/486: 『はじめて読む486』のサンプルプログラム集です。](https://github.com/tkmc/486)
+- [cpu-internals/README.md at master · LordNoteworthy/cpu-internals · GitHub](https://github.com/LordNoteworthy/cpu-internals/blob/master/README.md)
+- [strings, bytes: improve IndexAny and LastIndexAny performance · golang/go@3af92ac · GitHub](https://github.com/golang/go/commit/3af92acb9f6bf68bfba2bebb0fe11367f4442761)
+- [unameコマンドから始めるカーネルハック入門 - masami256 - BOOTH](https://booth.pm/ja/items/1897709)
+- [Data Types - The Rust Programming Language](https://doc.rust-lang.org/book/ch03-02-data-types.html#integer-overflow)
+- [FPGAで4bitのCPUをつくる：ラムダ算術騎士修道会](https://techbookfest.org/product/5424617074196480)
+- [kubectl完全逆引きリファレンス：すべてがM(icro)になる](https://techbookfest.org/product/5767351924424704)
+- [Big Sky :: Go 言語の非同期パターン](https://mattn.kaoriya.net/software/lang/go/20180531104907.htm)
+- [作って分かる！x86_64機械語入門：へにゃぺんて](https://techbookfest.org/product/5184806291767296)
+- [Cranelift backend for rustc · Issue #257 · rust-lang/compiler-team · GitHub](https://github.com/rust-lang/compiler-team/issues/257)
+- [GitHub - bottlerocket-os/bottlerocket: An operating system designed for hosting containers](https://github.com/bottlerocket-os/bottlerocket)
+- [\\[B! rust\\] Rustで書いたWebAssemblyインタプリタ上でGoで書いたゲームボーイエミュレータを動かした - undefined](https://b.hatena.ne.jp/entry/s/blog.bokuweb.me/entry/wasm)
+- [オフィスで他人に邪魔されずに「フロー状態」を生み出す1人用ポッド｜WIRED.jp](http://bit.ly/2wANdub)
+- [BPF Performance Tools: Linux System and Application Observability (book)](http://www.brendangregg.com/blog/2019-07-15/bpf-performance-tools-book.html)
+- [新しいスキルを習得するときに意識すべき｢ブレインチェーン｣とは？ | ライフハッカー［日本版］](https://www.lifehacker.jp/2019/11/201882_what-to-teach-kids-instead-of-practice-makes-perfect.html)
+- [PHP: PHP マニュアル - Manual ](https://www.php.net/manual/ja/index.php)
+- [正規表現入門\u3000星の高さを求めて](https://www.slideshare.net/sinya8282/ss-32629428)
+
 ## 2020/03/12
 
 - [debuginfod（elfutils debuginfo サーバー）の概要 - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/introducing-debuginfod)
