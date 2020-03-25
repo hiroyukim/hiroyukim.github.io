@@ -1,5 +1,34 @@
 # twitter
 
+## 2020/03/25
+
+- [WiresharkのDissectorを使った独自プロトコル解析をやさしく解説してみました - DARK MATTER](https://io.cyberdefense.jp/entry/wireshark_lua_original_dissector)
+- [論理学集中講義をYouTubeライブ配信したので、メモ - 論理学FAQのブログ](https://takuro-logic.hatenablog.com/entry/2020/03/22/234227)
+- [自作OS、始まります！ #6 - 個人用雑記](https://reiya-prog.hatenablog.com/entry/2020/03/19/113722)
+- [Traits: Defining Shared Behavior - The Rust Programming Language](https://doc.rust-lang.org/book/ch10-02-traits.html#returning-types-that-implement-traits)
+- [自作GoコンパイラでGOPATHに対応しました - DQNEO fm | stand.fm](https://stand.fm/episodes/5e6f86776a89600a1dcfeaee)
+- [C++20 の新機能 - C++ の歩き方 | CppMap](https://cppmap.github.io/standardization/cpp20/#p0553r4)
+- [2020年はsystemd-homedの登場でLinuxのユーザー管理が大きく変わるぞ - Qiita](https://qiita.com/onokatio/items/dbae4afe7fabd2602545)
+- [IoPLMaterials | Materials for the class “Implementation of Programming Languages” in Kyoto University.](https://kuis-isle3sw.github.io/IoPLMaterials/)
+- [はじめに - Embedded Rust Techniques](https://tomoyuki-nakabayashi.github.io/embedded-rust-techniques/)
+- [GitHub - k0kubun/perf-profile: Profiling C code with Linux perf made easy](https://github.com/k0kubun/perf-profile)
+- [go - The Go Programming Language](https://golang.org/cmd/go/#hdr-Compile_packages_and_dependencies)
+- [端末何台持てる？ 実機テストにおけるAndroidバージョンの選び方：Thunder Claw](https://techbookfest.org/product/5723595166711808)
+- [RustのFutureとそのRunnerを作ってみた | κeenのHappy Hacκing Blog](https://keens.github.io/blog/2019/07/07/rustnofuturetosonorunnerwotsukuttemita/)
+- [Japan Rook Meetup #2 - connpass](https://rook.connpass.com/event/160657/)
+- [GitHub - samuelyuan/OpenBiohazard2: Open source re-implementation of the original Resident Evil 2 / Biohazard 2](https://github.com/samuelyuan/OpenBiohazard2)
+- [std::matches - Rust](https://doc.rust-lang.org/stable/std/macro.matches.html)
+- [    ソーシャルゲームを支える「リアルタイムサーバー」の作り方 - ログミーTech](https://logmi.jp/tech/articles/322569)
+- [GitHub - denisidoro/navi: An interactive cheatsheet tool for the command-line](https://github.com/denisidoro/navi)
+- [GitHub - lupoDharkael/flameshot: Powerful yet simple to use screenshot software](https://github.com/lupoDharkael/flameshot)
+- [GitHub - remeh/diago: Diago is a visualization tool for CPU profiles and heap snapshots generated with `pprof`.](https://github.com/remeh/diago)
+- [\\[B! PostgreSQL\\] 実録パフォーマンス改善 - 高速化のためアーキテクチャやアルゴリズム選択から見直すSansanの事例 #エンジニアHub - エンジニアHub｜若手Webエンジニアのキャリアを考える！](https://b.hatena.ne.jp/entry/s/employment.en-japan.com/engineerhub/entry/2019/07/16/103000)
+- [接続辞書と日本語入力 - 増井俊之](https://scrapbox.io/masui/%E6%8E%A5%E7%B6%9A%E8%BE%9E%E6%9B%B8%E3%81%A8%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%85%A5%E5%8A%9B)
+- [How to distribute Signed HTTP Exchanges (SXG)](https://web.dev/how-to-distribute-signed-http-exchanges/)
+- [Software Engineer - Jobs at Apple](https://jobs.apple.com/en-us/details/200144575/software-engineer)
+- [systemdエッセンシャル / systemd-intro - Speaker Deck](https://bit.ly/2WBeV90)
+- [Textbooks | What We Publish | Cambridge Core](https://www.cambridge.org/core/what-we-publish/textbooks)
+
 ## 2020/03/16
 
 - [Out of the Box Dynamic Dispatch — Llogiq on stuff](https://llogiq.github.io/2020/03/14/ootb.html)
