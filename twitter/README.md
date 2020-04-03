@@ -1,5 +1,37 @@
 # twitter
 
+## 2020/04/03
+
+
+- [もしかしたらコードメトリクスこそが、僕たちを救ってくれるかもしれない。 - Qiita](https://qiita.com/gakuri/items/a6855b871918816ab416)
+- [\\[翻訳\\] ①プログラマになる方法（\x26amp;#34;How I\x26amp;#39;m Becoming a Programmer\x26amp;#34;: Lonestar Elixir 2020 Speaker Talks: Dave Thomas) - Qiita](https://qiita.com/piacerex/items/4880f72e9c9dad0fb6bc)
+- [Page not Found | MIT OpenCourseWare | Free Online Course Materials](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/Python)
+- [オートマトン理論再考](https://www.jstage.jst.go.jp/article/jssst/34/3/34_3_3/_article/-char/ja/)
+- [std::matches - Rust](https://doc.rust-lang.org/stable/std/macro.matches.html)
+- [Traits: Defining Shared Behavior - The Rust Programming Language](https://doc.rust-lang.org/book/ch10-02-traits.html#returning-types-that-implement-traits)
+- [wain/n_queens.c at master · rhysd/wain · GitHub](https://github.com/rhysd/wain/blob/master/examples/n_queens.c)
+- [自作OS、始まります！ #6 - 個人用雑記](https://reiya-prog.hatenablog.com/entry/2020/03/19/113722)
+- [BPF Performance Toolsを読んだ感想 - go_vargoのブログ](https://go-vargo.hatenablog.com/entry/2020/03/29/210304)
+- [xv6が動くRISC-Vエミュレータを作った | d0iasm.io](https://d0iasm.github.io/blog/risc-v/2020/04/02/xv6-on-my-riscv-emulator.html)
+- [アルゴリズムビジュアル大事典](https://yutaka-watanobe.github.io/star-aida/books/)
+- [はじめに - Embedded Rust Techniques](https://tomoyuki-nakabayashi.github.io/embedded-rust-techniques/)
+- [IoPLMaterials | Materials for the class “Implementation of Programming Languages” in Kyoto University.](https://kuis-isle3sw.github.io/IoPLMaterials/)
+- [GitHub - samuelyuan/OpenBiohazard2: Open source re-implementation of the original Resident Evil 2 / Biohazard 2](https://github.com/samuelyuan/OpenBiohazard2)
+- [論理学集中講義をYouTubeライブ配信したので、メモ - 論理学FAQのブログ](https://takuro-logic.hatenablog.com/entry/2020/03/22/234227)
+- [GitHub - ushitora-anqou/write-your-llvm-backend: 手を動かせばできるLLVMバックエンド チュートリアル（WIP）](https://github.com/ushitora-anqou/write-your-llvm-backend)
+- [GitHub - rhysd/wain: wain: WebAssembly INterpreter from scratch in Safe Rust with zero dependencies](https://github.com/rhysd/wain)
+- [ Rust についてのメモ](https://exoskeleton.dev/proglang/rust/)
+- [GitHub - remeh/diago: Diago is a visualization tool for CPU profiles and heap snapshots generated with `pprof`.](https://github.com/remeh/diago)
+- [GitHub - k0kubun/perf-profile: Profiling C code with Linux perf made easy](https://github.com/k0kubun/perf-profile)
+- [RPC is Not Dead: Rise, Fall and the Rise of Remote Procedure Calls](http://dist-prog-book.com/chapter/1/rpc.html)
+- [Serverless連載3: Goでサーバーレス用の検索エンジンwatertowerを作ってみました | Future Tech Blog - フューチャーアーキテクト](https://future-architect.github.io/articles/20200327/)
+- [Async/Await | Writing an OS in Rust](https://os.phil-opp.com/async-await/)
+- [接続辞書と日本語入力 - 増井俊之](https://scrapbox.io/masui/%E6%8E%A5%E7%B6%9A%E8%BE%9E%E6%9B%B8%E3%81%A8%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%85%A5%E5%8A%9B)
+- [Software Engineer - Jobs at Apple](https://jobs.apple.com/en-us/details/200144575/software-engineer)
+- [systemdエッセンシャル / systemd-intro - Speaker Deck](https://bit.ly/2WBeV90)
+- [go - The Go Programming Language](https://golang.org/cmd/go/#hdr-Compile_packages_and_dependencies)
+- [\\[B! PostgreSQL\\] 実録パフォーマンス改善 - 高速化のためアーキテクチャやアルゴリズム選択から見直すSansanの事例 #エンジニアHub - エンジニアHub｜若手Webエンジニアのキャリアを考える！](https://b.hatena.ne.jp/entry/s/employment.en-japan.com/engineerhub/entry/2019/07/16/103000)
+
 ## 2020/03/25
 
 - [WiresharkのDissectorを使った独自プロトコル解析をやさしく解説してみました - DARK MATTER](https://io.cyberdefense.jp/entry/wireshark_lua_original_dissector)
