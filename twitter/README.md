@@ -1,5 +1,39 @@
 # twitter
 
+## 2020/04/14
+
+
+- [Traits: Defining Shared Behavior - The Rust Programming Language](https://doc.rust-lang.org/book/ch10-02-traits.html#returning-types-that-implement-traits)
+- [BPF Performance Toolsを読んだ感想 - go_vargoのブログ](https://go-vargo.hatenablog.com/entry/2020/03/29/210304)
+- [JavaScript Primer - 迷わないための入門書 #jsprimer](https://jsprimer.net/)
+- [論理学集中講義をYouTubeライブ配信したので、メモ - 論理学FAQのブログ](https://takuro-logic.hatenablog.com/entry/2020/03/22/234227)
+- [セルフホスト可能なCコンパイラを書く – GitHub 出張所 – プログラム関係のブログはここに](https://nkon.github.io/Compiler/)
+- [もしかしたらコードメトリクスこそが、僕たちを救ってくれるかもしれない。 - Qiita](https://qiita.com/gakuri/items/a6855b871918816ab416)
+- [アルゴリズムビジュアル大事典](https://yutaka-watanobe.github.io/star-aida/books/)
+- [SHAKYO.io | Code typing practice platform / Practice makes perfect.](https://SHAKYO.io)
+- [Google - Site Reliability Engineering](https://landing.google.com/sre/books/)
+- [はじめに - Embedded Rust Techniques](https://tomoyuki-nakabayashi.github.io/embedded-rust-techniques/)
+- [最小限のELF | κeenのHappy Hacκing Blog](https://keens.github.io/blog/2020/04/12/saishougennoelf/)
+- [xv6が動くRISC-Vエミュレータを作った | d0iasm.io](https://d0iasm.github.io/blog/risc-v/2020/04/02/xv6-on-my-riscv-emulator.html)
+- [Serverless連載3: Goでサーバーレス用の検索エンジンwatertowerを作ってみました | Future Tech Blog - フューチャーアーキテクト](https://future-architect.github.io/articles/20200327/)
+- [AMDはなぜ資金面で圧倒的に勝ると思われるIntelを凌駕するCPUを開発できるのでしょうか？に対するAkihiro Itoさんの回答 - Quora](https://jp.quora.com/AMD-ha-naze-shikin-men-de-attouteki-ni-masaru-to-omoi-wareru-Intel-wo-ryouga-suru-CPU-wo-kaihatsu-dekiru-node-shou-ka/answers/207102983?ch=2)
+- [For-Range 構文の話 — プログラミング言語 Go | text.Baldanders.info](https://text.baldanders.info/golang/for-range-statement/)
+- [ Rust についてのメモ](https://exoskeleton.dev/proglang/rust/)
+- [プログラミング言語大全：書籍案内｜技術評論社](http://gihyo.jp/book/2020/978-4-297-11347-6)
+- [YouTube](https://youtu.be/ctR4U44V2VQ)
+- [GitHub - ushitora-anqou/write-your-llvm-backend: 手を動かせばできるLLVMバックエンド チュートリアル（WIP）](https://github.com/ushitora-anqou/write-your-llvm-backend)
+- [GitHub - remeh/diago: Diago is a visualization tool for CPU profiles and heap snapshots generated with `pprof`.](https://github.com/remeh/diago)
+- [GitHub - rhysd/wain: WebAssembly implementation from scratch in Safe Rust with zero dependencies](https://github.com/rhysd/wain)
+- [Async/Await | Writing an OS in Rust](https://os.phil-opp.com/async-await/)
+- [RPC is Not Dead: Rise, Fall and the Rise of Remote Procedure Calls](http://dist-prog-book.com/chapter/1/rpc.html)
+- [Rustの実装について。tokio::sync::RwLockを試してみてください · Issue #1 · ynaka81/in_memory_db_comparison · GitHub](https://github.com/ynaka81/in_memory_db_comparison/issues/1)
+- [GitHub - samuelyuan/OpenBiohazard2: Open source re-implementation of the original Resident Evil 2 / Biohazard 2](https://github.com/samuelyuan/OpenBiohazard2)
+- [Software Engineer - Jobs at Apple](https://jobs.apple.com/en-us/details/200144575/software-engineer)
+- [systemdエッセンシャル / systemd-intro - Speaker Deck](https://bit.ly/2WBeV90)
+- [Page not Found | MIT OpenCourseWare | Free Online Course Materials](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/Python)
+- [オートマトン理論再考](https://www.jstage.jst.go.jp/article/jssst/34/3/34_3_3/_article/-char/ja/)
+- [Quark Puzzle | S\x26amp;#39;Cool LAB](https://scoollab.web.cern.ch/quark-puzzle)
+
 ## 2020/04/03
 
 
