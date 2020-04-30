@@ -1,5 +1,34 @@
 # twitter
 
+## 2020/04/30
+
+
+- [Google - Site Reliability Engineering](https://landing.google.com/sre/books/)
+- [Storing Lists of Values with Vectors - The Rust Programming Language](https://doc.rust-lang.org/book/ch08-01-vectors.html#using-an-enum-to-store-multiple-types)
+- [Ruby の開発版に右代入演算子とエンドレスメソッド定義構文が入った - Secret Garden(Instrumental)](http://secret-garden.hatenablog.com/entry/2020/04/10/195207)
+- [最小限のELF | κeenのHappy Hacκing Blog](https://keens.github.io/blog/2020/04/12/saishougennoelf/)
+- [rust-analyzerの紹介 | κeenのHappy Hacκing Blog](https://keens.github.io/slide/rust_analyzernoshoukai/)
+- [軽量なインデックス機構を用いた全文検索ツールの高速化の検討 · THINKING MEGANE](https://blog.monochromegane.com/blog/2020/04/29/wsa6_sifter/)
+- [ビット演算（ビットボード）によるライフゲーム高速化](http://vivi.dyndns.org/tech/games/LifeGame.html)
+- [クラスメソッド発「やってみた」系技術メディア | Developers.IO](http://Developers.IO)
+- [For-Range 構文の話 — プログラミング言語 Go | text.Baldanders.info](https://text.baldanders.info/golang/for-range-statement/)
+- [テキストエディタを作る – GitHub 出張所 – プログラム関係のブログはここに](https://nkon.github.io/Texteditor/)
+- [ Rust で DOS](https://exoskeleton.dev/lowlevel/embedded/embed-1.md)
+- [作業 - YouTube](https://youtu.be/ctR4U44V2VQ)
+- [misc/fence.md at master · herumi/misc · GitHub](https://github.com/herumi/misc/blob/master/cpp/fence.md)
+- [GitHub - kuwana-kb/ddd-in-rust: 「ドメイン駆動設計入門」の実装パターンをRustで再現する](https://github.com/kuwana-kb/ddd-in-rust)
+- [GitHub - rhysd/tinyjson: Simple JSON parser/generator for Rust](https://github.com/rhysd/tinyjson)
+- [GitHub - KOBA789/keyboard-from-scratch: Cookpad Spring Internship 2019 自作キーボードコース 講義資料](https://github.com/KOBA789/keyboard-from-scratch)
+- [Lab — CS-3210, Spring 2020 1 documentation](https://tc.gts3.org/cs3210/2020/spring/lab.html)
+- [GitHub - lestrrat-go/iter: Iterator tools](https://github.com/lestrrat-go/iter)
+- [Sergio Benitez - Who Am I?](https://sergio.bz/)
+- [Rustの実装について。tokio::sync::RwLockを試してみてください · Issue #1 · ynaka81/in_memory_db_comparison · GitHub](https://github.com/ynaka81/in_memory_db_comparison/issues/1)
+- [SIMD化とは何か / Basics of SIMD - Speaker Deck](https://speakerdeck.com/kaityo256/basics-of-simd)
+- [Rustのasync/awaitとスケジューラの話 / rust-async-await - Speaker Deck](https://speakerdeck.com/osuke/rust-async-await)
+- [RustでDDD - Speaker Deck](https://speakerdeck.com/kuwanakb/rustdeddd)
+- [11章のコードをActix-Web 2.0.0に移植する by KeenS · Pull Request #2 · ghmagazine/rustbook · GitHub](https://github.com/ghmagazine/rustbook/pull/2)
+- [Quark Puzzle | S\x26amp;#39;Cool LAB](https://scoollab.web.cern.ch/quark-puzzle)
+
 ## 2020/04/14
 
 
