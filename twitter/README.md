@@ -1,5 +1,44 @@
 # twitter
 
+## 2020/05/21
+
+
+- [これからは git restore を使ってみようかな - Mitsuyuki.Shiiba](https://bufferings.hatenablog.com/entry/2020/05/01/013451)
+- [今年こそは自宅で運動を始めたい人のためのFreeleticsガイド(2020年版) - 科学と非科学の迷宮](https://shiumachi.hatenablog.com/entry/2020/01/26/174818)
+- [CSP(コンテンツセキュリティポリシー)について調べてみた - SSTエンジニアブログ](https://techblog.securesky-tech.com/entry/2020/05/21/)
+- [Rustで組込みプログラミングや自作OS作成をするには | 己の不学を恥じる](https://garasubo.github.io/hexo/2020/05/06/rust-os.html#.XrO5m_i5GqZ.twitter)
+- [Dynamic Polymorphism with Metaclasses and Code Injection with Sy Brand - YouTube](https://www.youtube.com/watch?v=drt3yXI-fqk)
+- [rust-analyzerの紹介 | κeenのHappy Hacκing Blog](https://keens.github.io/slide/rust_analyzernoshoukai/)
+- [YouTube](https://youtu.be/vnDiFSzisxE)
+- [x86マシン語700行! bootBASICを64bit MacOS版として移植、返ってきたvtl「rvtl-amd64\u0008 for MacOS」 #asm #x86 / 福野泰介の一日一創 / Create every day by Taisuke Fukuno](https://fukuno.jig.jp/2853)
+- [ビット演算（ビットボード）によるライフゲーム高速化](http://vivi.dyndns.org/tech/games/LifeGame.html)
+- [【競プロノート】グラフを Rust で実装してみる - Don\x26amp;#39;t Repeat Yourself](https://yuk1tyd.hatenablog.com/entry/2020/01/30/004406)
+- [Next Few Years](https://rust-analyzer.github.io/blog/2020/05/18/next-few-years.html)
+- [MobileHackerz再起動日記: 1万円台激安網膜投影美麗HMDで快適寝転びWork from Park！](http://blog.mobilehackerz.jp/2020/05/1hmdwork-from-park.html)
+- [lock3 / clang · GitLab](https://gitlab.com/lock3/clang)
+- [semantic/semantic-rust at master · github/semantic · GitHub](https://github.com/github/semantic/tree/master/semantic-rust)
+- [Goで子プロセスを確実にKillする方法 | makiuchi-d.github.io](http://makiuchi-d.github.io/2020/05/10/go-kill-child-process.ja.html)
+- [Infra Study Meetup #2 レポ｜Naoki Oketani｜note](https://note.com/oke_py/n/nc53bf88986ba)
+- [GitHub - takahirox/riscv-rust: RISC-V processor emulator written in Rust+WASM](https://github.com/takahirox/riscv-rust)
+- [myso/design.md at master · cybozu-go/myso · GitHub](https://github.com/cybozu-go/myso/blob/master/docs/design.md)
+- [GitHub - kuwana-kb/ddd-in-rust: 「ドメイン駆動設計入門」の実装パターンをRustで再現する](https://github.com/kuwana-kb/ddd-in-rust)
+- [軽量なインデックス機構を用いた全文検索ツールの高速化の検討 · THINKING MEGANE](https://blog.monochromegane.com/blog/2020/04/29/wsa6_sifter/)
+- [misc/fence.md at master · herumi/misc · GitHub](https://github.com/herumi/misc/blob/master/cpp/fence.md)
+- [using rr with rust · GitHub](https://gist.github.com/spacejam/15f27007c0b1bcc1d6b4c9169b18868c)
+- [GitHub - makiuchi-d/arelo: a simple auto reload utility](https://github.com/makiuchi-d/arelo)
+- [rustc performance data](https://perf.rust-lang.org/)
+- [GitHub - rhysd/tinyjson: Simple JSON parser/generator for Rust](https://github.com/rhysd/tinyjson)
+- [Lab — CS-3210, Spring 2020 1 documentation](https://tc.gts3.org/cs3210/2020/spring/lab.html)
+- [プログラミング学習用のJetBrains Academyが新型コロナ対応で無料開放  |  TechCrunch Japan](https://jp.techcrunch.com/2020/05/04/2020-05-01-jetbrains-academy-for-learning-code-launches-for-free-during-covid-19-pandemic/)
+- [RustでDDD - Speaker Deck](https://speakerdeck.com/kuwanakb/rustdeddd)
+- [「VM 時代の開発とKubernetes による Cloud Native な開発のこれから」Infra Study Meetup #2 / infrastudy2-k8s - Speaker Deck](https://speakerdeck.com/masayaaoyama/infrastudy2-k8s)
+- [Sergio Benitez - Who Am I?](https://sergio.bz/)
+- [Rustのasync/awaitとスケジューラの話 / rust-async-await - Speaker Deck](https://speakerdeck.com/osuke/rust-async-await)
+- [                    Sponsors - Rust Programming Language                ](http://rust-lang.org/sponsors)
+- [11章のコードをActix-Web 2.0.0に移植する by KeenS · Pull Request #2 · ghmagazine/rustbook · GitHub](https://github.com/ghmagazine/rustbook/pull/2)
+- [Compile with stable Rust · Issue #19 · SergioBenitez/Rocket · GitHub](https://github.com/SergioBenitez/Rocket/issues/19)
+- [SIMD化とは何か / Basics of SIMD - Speaker Deck](https://speakerdeck.com/kaityo256/basics-of-simd)
+
 ## 2020/04/30
 
 
