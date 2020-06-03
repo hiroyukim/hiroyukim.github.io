@@ -1,5 +1,46 @@
 # twitter
 
+## 2020/06/03
+
+
+- [同期エンジンの心臓部を書き換える](https://navi.dropbox.jp/rewriting-the-heart-of-our-sync-engine)
+- [メールアドレスをハッシュ化したものを公開してもよいのか - しまたろさんの掃き溜め](https://simatech.hatenablog.com/entry/2020/06/01/232323)
+- [#とある魔術の禁書目録 電車 - BWHのイラスト - pixiv](https://www.pixiv.net/artworks/81639719)
+- [RubyMineの設定メモ - すがブロ](http://sugamasao.hatenablog.com/entry/2020/06/02/230352)
+- [自動テストに限界を感じた私がなぜ形式手法に魅了されたのか - 若くない何かの悩み](https://orgachem.hatenablog.com/entry/2020/05/28/101543)
+- [CPU律速なRuby/Pythonコードはデフォルト設定のdocker上で遅くなる - まめめも](https://mametter.hatenablog.com/entry/2020/05/23/032650)
+- [CSP(コンテンツセキュリティポリシー)について調べてみた - SSTエンジニアブログ](https://techblog.securesky-tech.com/entry/2020/05/21/)
+- [x86マシン語700行! bootBASICを64bit MacOS版として移植、返ってきたvtl「rvtl-amd64\u0008 for MacOS」 #asm #x86 / 福野泰介の一日一創 / Create every day by Taisuke Fukuno](https://fukuno.jig.jp/2853)
+- [ Rust で Profile-Guided Optimization やってみた - はやくプログラムになりたい](https://rhysd.hatenablog.com/entry/2020/06/01/204423)
+- [DBMの設計と実装 その14 スキップデータベースの書式 - 豪鬼メモ](https://mikio.hatenablog.com/entry/2020/05/22/163012)
+- [RustのHashMapはentryが便利 | κeenのHappy Hacκing Blog](https://keens.github.io/blog/2020/05/23/rustnohashmaphaentrygabenri/)
+- [「数理論理学」解説 1.1節～1.5節 - YouTube](https://www.youtube.com/watch?v=Jzk0ph84YHQ)
+- [Dynamic Polymorphism with Metaclasses and Code Injection with Sy Brand - YouTube](https://www.youtube.com/watch?v=drt3yXI-fqk)
+- [Goで子プロセスを確実にKillする方法 | makiuchi-d.github.io](http://makiuchi-d.github.io/2020/05/10/go-kill-child-process.ja.html)
+- [using rr with rust · GitHub](https://gist.github.com/spacejam/15f27007c0b1bcc1d6b4c9169b18868c)
+- [Rustで組込みプログラミングや自作OS作成をするには | 己の不学を恥じる](https://garasubo.github.io/hexo/2020/05/06/rust-os.html#.XrO5m_i5GqZ.twitter)
+- [Next Few Years](https://rust-analyzer.github.io/blog/2020/05/18/next-few-years.html)
+- [【競プロノート】グラフを Rust で実装してみる - Don\x26amp;#39;t Repeat Yourself](https://yuk1tyd.hatenablog.com/entry/2020/01/30/004406)
+- [reddit: the front page of the internet](https://www.reddit.com/r/rust/comments/836oxt/has_anyone_done_a_rust_rewrite_of_lessmoremost/)
+- [GitHub - trishume/syntect: Rust library for syntax highlighting using Sublime Text syntax definitions.](https://github.com/trishume/syntect)
+- [myso/design.md at master · cybozu-go/myso · GitHub](https://github.com/cybozu-go/myso/blob/master/docs/design.md)
+- [lock3 / clang · GitLab](https://gitlab.com/lock3/clang)
+- [GitHub - rust-lang/unsafe-code-guidelines: Home for the Unsafe Code Guidelines working group.](https://github.com/rust-lang/unsafe-code-guidelines)
+- [GitHub - w3reality/wasm-mt: A multithreading library for Rust and WebAssembly](https://github.com/w3reality/wasm-mt)
+- [GitHub - dandavison/delta: A syntax-highlighter for git and diff output](https://github.com/dandavison/delta)
+- [GitHub - makiuchi-d/arelo: a simple auto reload utility](https://github.com/makiuchi-d/arelo)
+- [rustc performance data](https://perf.rust-lang.org/)
+- [Infra Study Meetup #2 レポ｜Naoki Oketani｜note](https://note.com/oke_py/n/nc53bf88986ba)
+- [GitHub - takahirox/riscv-rust: RISC-V processor emulator written in Rust+WASM](https://github.com/takahirox/riscv-rust)
+- [Notes on a smaller Rust](https://boats.gitlab.io/blog/post/notes-on-a-smaller-rust/)
+- [Ringbahn: a safe, ergonomic API for io-uring in Rust](https://boats.gitlab.io/blog/post/ringbahn/)
+- [GitHub - sharkdp/hyperfine: A command-line benchmarking tool](https://github.com/sharkdp/hyperfine#export-results)
+- [「VM 時代の開発とKubernetes による Cloud Native な開発のこれから」Infra Study Meetup #2 / infrastudy2-k8s - Speaker Deck](https://speakerdeck.com/masayaaoyama/infrastudy2-k8s)
+- [GraphQL で変わったこと・変わらなかったこと / graphql changing and unchanging - Speaker Deck](https://speakerdeck.com/qsona/graphql-changing-and-unchanging)
+- [MySQL 8.0に負けないテストの作り方(仮) - Speaker Deck](https://speakerdeck.com/yoku0825/mysql-8-dot-0nifu-kenaitesutofalsezuo-rifang-jia)
+- [Nick Groenen, Site Reliability Engineer at Castor EDC](http://nick.groenen.me)
+- [ネットワークでなぜ遅延が生じるのか](https://www.slideshare.net/mobile/junkato1272/ss-70431661)
+
 ## 2020/05/21
 
 
