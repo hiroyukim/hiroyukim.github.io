@@ -1,5 +1,43 @@
 # twitter
 
+## 2020/07/25
+
+- [RISC-V Vector Extension v0.9のCSR仕様2 - FPGA開発日記](https://msyksphinz.hatenablog.com/entry/2020/07/26/040000)
+- [AppEngineの旧Log APIを脱却したい話 - Mercari Engineering Blog](https://tech.mercari.com/entry/2019/05/22/122803)
+- [人生で何度目かのダブル配列TRIEを書いた - Qiita](https://qiita.com/ikawaha/items/edb4e18960ae6e4babc3)
+- [Go by Example](https://gobyexample.com/)
+- [2020年7月、Ruby 2.7 を gdb で追う時のメモ - ローファイ日記](https://udzura.hatenablog.jp/entry/2020/07/20/184203)
+- [CLion を使って MySQL のビルド＆デバッグを行う - それが僕には楽しかったんです。](https://rabbitfoot141.hatenablog.com/entry/2020/07/25/161510)
+- [Introducing the Cloud Development Kit for Terraform (Preview) | AWS Developer Blog](https://aws.amazon.com/blogs/developer/introducing-the-cloud-development-kit-for-terraform-preview/)
+- [QEMUに入門してみる(9. QEMUでの詳細トレースの出し方) - FPGA開発日記](https://msyksphinz.hatenablog.com/entry/2020/07/16/000000)
+- [Elixir Examples](https://elixir-examples.github.io/)
+- [第2回 uchan C++ 講習会 前半 - ニコニコ動画](https://www.nicovideo.jp/watch/sm37219618?nicorepotwitter_upload_video)
+- [?֣Σϡ??ͣϣңűǲ?ť?��ף?ǯ?֤꿷?ã͡????????ˡ֤????Ԥ??��??????? - ?饤?֥ɥ??˥塼??](https://news.livedoor.com/article/detail/18586118/)
+- [\\[B! テスト\\] テストを自動化するのをやめ、自動テストを作ろう - Speaker Deck](https://b.hatena.ne.jp/entry?url=https%3A%2F%2Fspeakerdeck.com%2Ftsuemura%2Ftesutowozi-dong-hua-surufalsewoyame-zi-dong-tesutowozuo-rou&utm_campaign=bookmark_share&utm_content=speakerdeck.com&utm_medium=social&utm_source=twitter&utm_term=%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%20%E3%83%86%E3%82%B9%E3%83%88)
+- [GitHub - brandonskerritt/RustScan: Faster Nmap Scanning with Rust](https://github.com/brandonskerritt/RustScan)
+- [GitHub - overdrivenpotato/rust-psp: Rust on PSP. Panic and allocation support. Access PSP system libraries.](https://github.com/overdrivenpotato/rust-psp)
+- [GitHub - mozilla/grcov: Rust tool to collect and aggregate code coverage data for multiple source files](https://github.com/mozilla/grcov)
+- [hasegaw blog: サーバーさんに本気を出してもらうために憶えておきたい設定項目](http://d.ballade.jp/2014/05/how-to-get-high-performance.html)
+- [Systems Performance: Enterprise and the Cloud, 2nd Edition](http://www.brendangregg.com/blog/2020-07-15/systems-performance-2nd-edition.html)
+- [Linuxカーネルが難しい？Rustで実装しよう！. 「カーネル開発者になりたい！」 | by FUJITA Tomonori | nttlabs | Jul, 2020 | Medium](https://medium.com/nttlabs/linux-kernel-module-with-rust-d5363c2f9085)
+- [Stabilizable subset of const generics · Issue #332 · rust-lang/compiler-team · GitHub](https://github.com/rust-lang/compiler-team/issues/332)
+- [データ競合とhappens-before関係 - YouTube](https://youtu.be/1dzu0cpVHys)
+- [Subclassing Gtk widgets in Rust | Tech Notes](https://www.figuiere.net/technotes/notes/tn002/)
+- [Inclusive Speaker Orientation (LFC101) - Linux Foundation - Training](https://training.linuxfoundation.org/training/inclusive-speaker-orientation/)
+- [最短経路の双対と差分制約 - 西尾泰和のScrapbox](https://scrapbox.io/nishio/%E6%9C%80%E7%9F%AD%E7%B5%8C%E8%B7%AF%E3%81%AE%E5%8F%8C%E5%AF%BE%E3%81%A8%E5%B7%AE%E5%88%86%E5%88%B6%E7%B4%84)
+- [Longman Dictionary of Contemporary English | LDOCE](https://www.ldoceonline.com)
+- [個人開発OSSでバーンアウトしないために - Google スライド](https://docs.google.com/presentation/d/e/2PACX-1vQ10LqQJEBldltJVmVtm-PCR4_O30AsiExtNAlc85hs9xR1DypoKYblUYViMwhwJhVfID5m1bHz8hsW/pub?start=false&loop=false&delayms=3000)
+- [Kindleストア、技術書などが50%OFFになる高額書籍キャンペーンを実施：CodeZine（コードジン）](http://dlvr.it/RbkB8B)
+- [jqで二つのJSONの同一性を確かめる - grep Tips \\*](https://www.greptips.com/posts/1280/)
+- [Container Storage Interface のすべて](https://www.slideshare.net/llamerada-jp/container-storage-interface)
+- [json-diff  -  npm](https://www.npmjs.com/package/json-diff)
+- [みんなのIMAPを可視化する / Visualize IMAP Everybody - Speaker Deck](https://speakerdeck.com/linyows/visualize-imap-everybody)
+- [Goの文字列置換とその実装 - Speaker Deck](https://speakerdeck.com/po3rin/gofalsewen-zi-lie-zhi-huan-tosofalseshi-zhuang)
+- [Programming RbBCC - Speaker Deck](https://speakerdeck.com/udzura/programming-rbbcc)
+- [ビット演算の基礎と応用 / Bit Operations - Speaker Deck](https://speakerdeck.com/kaityo256/bit-operations)
+- [Add built in PSP target by overdrivenpotato · Pull Request #72062 · rust-lang/rust · GitHub](https://github.com/rust-lang/rust/pull/72062/)
+- [?E?F?\\[?u?}?X?^?\\[/?Q?\\[???V???b?v1983 E?V???b?v](http://1983.jp/j/Au23)
+- [Compile with stable Rust · Issue #19 · SergioBenitez/Rocket · GitHub](https://github.com/SergioBenitez/Rocket/issues/19)
 ## 2020/07/14
 
 
