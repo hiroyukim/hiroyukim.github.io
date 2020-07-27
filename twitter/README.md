@@ -36,8 +36,8 @@
 - [Programming RbBCC - Speaker Deck](https://speakerdeck.com/udzura/programming-rbbcc)
 - [ビット演算の基礎と応用 / Bit Operations - Speaker Deck](https://speakerdeck.com/kaityo256/bit-operations)
 - [Add built in PSP target by overdrivenpotato · Pull Request #72062 · rust-lang/rust · GitHub](https://github.com/rust-lang/rust/pull/72062/)
-- [?E?F?\\[?u?}?X?^?\\[/?Q?\\[???V???b?v1983 E?V???b?v](http://1983.jp/j/Au23)
 - [Compile with stable Rust · Issue #19 · SergioBenitez/Rocket · GitHub](https://github.com/SergioBenitez/Rocket/issues/19)
+
 ## 2020/07/14
 
 
