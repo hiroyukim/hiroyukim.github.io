@@ -2,7 +2,7 @@
 
 ## Memo
 
-+ [goland shortcut](https://hiroyukim.github.io/goland_shortcut)
++ [goland shortcut](https://hiroyukim.github.io/goland_shortcut/)
 
 ## Blog
 
