@@ -27,7 +27,6 @@
 - [最短経路の双対と差分制約 - 西尾泰和のScrapbox](https://scrapbox.io/nishio/%E6%9C%80%E7%9F%AD%E7%B5%8C%E8%B7%AF%E3%81%AE%E5%8F%8C%E5%AF%BE%E3%81%A8%E5%B7%AE%E5%88%86%E5%88%B6%E7%B4%84)
 - [Longman Dictionary of Contemporary English | LDOCE](https://www.ldoceonline.com)
 - [個人開発OSSでバーンアウトしないために - Google スライド](https://docs.google.com/presentation/d/e/2PACX-1vQ10LqQJEBldltJVmVtm-PCR4_O30AsiExtNAlc85hs9xR1DypoKYblUYViMwhwJhVfID5m1bHz8hsW/pub?start=false&loop=false&delayms=3000)
-- [Kindleストア、技術書などが50%OFFになる高額書籍キャンペーンを実施：CodeZine（コードジン）](http://dlvr.it/RbkB8B)
 - [jqで二つのJSONの同一性を確かめる - grep Tips ](https://www.greptips.com/posts/1280/)
 - [Container Storage Interface のすべて](https://www.slideshare.net/llamerada-jp/container-storage-interface)
 - [json-diff  -  npm](https://www.npmjs.com/package/json-diff)
