@@ -28,7 +28,7 @@
 - [Longman Dictionary of Contemporary English | LDOCE](https://www.ldoceonline.com)
 - [個人開発OSSでバーンアウトしないために - Google スライド](https://docs.google.com/presentation/d/e/2PACX-1vQ10LqQJEBldltJVmVtm-PCR4_O30AsiExtNAlc85hs9xR1DypoKYblUYViMwhwJhVfID5m1bHz8hsW/pub?start=false&loop=false&delayms=3000)
 - [Kindleストア、技術書などが50%OFFになる高額書籍キャンペーンを実施：CodeZine（コードジン）](http://dlvr.it/RbkB8B)
-- [jqで二つのJSONの同一性を確かめる - grep Tips \\*](https://www.greptips.com/posts/1280/)
+- [jqで二つのJSONの同一性を確かめる - grep Tips ](https://www.greptips.com/posts/1280/)
 - [Container Storage Interface のすべて](https://www.slideshare.net/llamerada-jp/container-storage-interface)
 - [json-diff  -  npm](https://www.npmjs.com/package/json-diff)
 - [みんなのIMAPを可視化する / Visualize IMAP Everybody - Speaker Deck](https://speakerdeck.com/linyows/visualize-imap-everybody)
