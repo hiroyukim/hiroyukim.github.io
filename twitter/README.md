@@ -12,7 +12,6 @@
 - [QEMUに入門してみる(9. QEMUでの詳細トレースの出し方) - FPGA開発日記](https://msyksphinz.hatenablog.com/entry/2020/07/16/000000)
 - [Elixir Examples](https://elixir-examples.github.io/)
 - [第2回 uchan C++ 講習会 前半 - ニコニコ動画](https://www.nicovideo.jp/watch/sm37219618?nicorepotwitter_upload_video)
-- [?֣Σϡ??ͣϣңűǲ?ť?��ף?ǯ?֤꿷?ã͡????????ˡ֤????Ԥ??��??????? - ?饤?֥ɥ??˥塼??](https://news.livedoor.com/article/detail/18586118/)
 - [\\[B! テスト\\] テストを自動化するのをやめ、自動テストを作ろう - Speaker Deck](https://b.hatena.ne.jp/entry?url=https%3A%2F%2Fspeakerdeck.com%2Ftsuemura%2Ftesutowozi-dong-hua-surufalsewoyame-zi-dong-tesutowozuo-rou&utm_campaign=bookmark_share&utm_content=speakerdeck.com&utm_medium=social&utm_source=twitter&utm_term=%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%20%E3%83%86%E3%82%B9%E3%83%88)
 - [GitHub - brandonskerritt/RustScan: Faster Nmap Scanning with Rust](https://github.com/brandonskerritt/RustScan)
 - [GitHub - overdrivenpotato/rust-psp: Rust on PSP. Panic and allocation support. Access PSP system libraries.](https://github.com/overdrivenpotato/rust-psp)
