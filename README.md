@@ -1,5 +1,9 @@
 # hiroyukim.github.io
 
+## Memo
+
++ [goland shortcut](https://hiroyukim.github.io/goland_shortcut)
+
 ## Blog
 
 + [blog](https://hiroyukim.github.io/blog/)
