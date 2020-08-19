@@ -1,5 +1,37 @@
 # twitter
 
+## 2020/08/19
+
+
+- [Capability URLsをBearer Tokenと捉えた場合のJWT適用の可能性 - r-weblife](https://ritou.hatenablog.com/entry/2020/08/13/000328)
+- [実践 Rustプログラミング入門 初田 直也(著/文) - 秀和システム | 版元ドットコム](https://www.hanmoto.com/bd/isbn/9784798061702)
+- [API Meetup Online #3で限定公開URL（Capability URLs）について話をしてきました。 | フューチャー技術ブログ](https://future-architect.github.io/articles/20200809/)
+- [Lombok - IntelliJ IDEAのLombok Pluginによる操作 - 覚えたら書く](https://blog.y-yuki.net/entry/2016/11/20/000000)
+- [最適化コンパイラへのいざない (1) - Qiita](https://qiita.com/uint256_t/items/abda5583ce31cd842698)
+- [apache - Why do HTTP servers forbid underscores in HTTP header names - Stack Overflow](https://stackoverflow.com/questions/22856136/why-do-http-servers-forbid-underscores-in-http-header-names)
+- [コネクションプールのチューニング - Qiita](https://qiita.com/methane/items/ccd3fd856b02b06c9452)
+- [calc.cpp · GitHub](https://gist.github.com/maekawatoshiki/6918b83f3b6c5c381b6296237d18d0a5)
+- [DEEEER Simulator: Your Average Everyday Deer Game on Steam](http://store.steampowered.com/app/1018800)
+- [Incident Management With Datadog | Datadog](https://www.datadoghq.com/ja/blog/incident-response-with-datadog/)
+- [RustConf 2020 - Thursday, August 20 - Beaming to Screens Across the Globe](https://rustconf.com/about)
+- [Lua Scripting in LLDB](https://jonasdevlieghere.com/lua-scripting-in-lldb/)
+- [coil/Makefile at master · cybozu-go/coil · GitHub](https://github.com/cybozu-go/coil/blob/master/v2/Makefile)
+- [GitHub - rung/training-exploit-fundamentals: For training of \x26amp;#34;Exploitation Fundamentals\x26amp;#34;](https://github.com/rung/training-exploit-fundamentals)
+- [\\[B! rust\\] Single Page Applications using Rust](https://b.hatena.ne.jp/entry?url=http%3A%2F%2Fwww.sheshbabu.com%2Fposts%2Frust-wasm-yew-single-page-application%2F&utm_campaign=bookmark_share&utm_content=www.sheshbabu.com&utm_medium=social&utm_source=twitter&utm_term=%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%20Rust)
+- [GitHub - techreagan/vue-nodejs-youtube-clone: This is the frontend (VueJS) of the Youtube clone called VueTube.](https://github.com/techreagan/vue-nodejs-youtube-clone)
+- [プログラミング言語「Rust」、Linuxカーネルでの採用の道を模索（ZDNet Japan） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/80f403c10593b35ed7e5b16808278ae4cf80d6b7)
+- [Rust Playground](https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=c4c4d3dfb0c338e10e678a29be846532)
+- [Ruby でデバッグする ruby_jard というツールが凄まじくすごい - Secret Garden(Instrumental)](https://ift.tt/3kyoNKd)
+- [Enum representations · Serde](https://serde.rs/enum-representations.html)
+- [Pitfalls and Common Mistakes | NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls/?highlight=disappearing%20http%20headers#missing-disappearing-http-headers)
+- [OED Text Visualizer (beta)](https://oed-text-visualizer.oxfordlanguages.com/)
+- [最適化コンパイラへのいざない (4) プログラムの構造 - Qiita](https://qiita.com/uint256_t/items/7d4556cb8f5997b9e95c)
+- [Donate now | Mozilla へ寄付](https://donate.mozilla.org/ja/)
+- [Advanced Testing with Go - Speaker Deck](https://speakerdeck.com/mitchellh/advanced-testing-with-go)
+- [Architecture of Consoles | A Practical Analysis](https://www.copetti.org/projects/consoles/)
+- [PHPで100万件バッチ回したら死ねる - Speaker Deck](https://speakerdeck.com/tanakahisateru/phpde100mo-jian-batutihui-sitarasi-neru)
+- [JetBrains Academy - Learn programming by building your own apps](https://hyperskill.org/knowledge-map/521?v=table)
+
 ## 2020/08/11
 
 
