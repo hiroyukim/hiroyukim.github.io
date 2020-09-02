@@ -1,5 +1,47 @@
 # twitter
 
+## 2020/09/02
+
+
+- [Introducing GitHub Container Registry - The GitHub Blog](https://github.blog/2020-09-01-introducing-github-container-registry/)
+- [分散ユーザー管理システム「etcdpasswd」の紹介 - Cybozu Inside Out | サイボウズエンジニアのブログ](https://blog.cybozu.io/entry/2018/10/05/080000)
+- [Rust 1.46を早めに深掘り - OPTiM TECH BLOG](https://tech-blog.optim.co.jp/entry/2020/08/28/080000)
+- [OSSエンジニアを1年やってみた所感 - knqyf263\x26amp;#39;s blog](https://knqyf263.hatenablog.com/entry/2020/08/28/074749)
+- [おたかん: \x26amp;#34;\x26amp;#34; - :don:](https://mstdn.maud.io/@Otakan951/104782313399852191)
+- [Go言語でのテストの並列化 〜t.Parallel()メソッドを理解する〜 | メルカリエンジニアリング](https://engineering.mercari.com/blog/entry/how_to_use_t_parallel/)
+- [「プログラミング言語Go完全入門」の「完全」公開のお知らせ | メルカリエンジニアリング](https://engineering.mercari.com/blog/entry/goforbeginners/)
+- [go-daemonとgoのos.StartProcess()のコードを読んでみた · hnakamur\x26amp;#39;s blog](https://hnakamur.github.io/blog/2016/04/23/go-daemon-and-golang-os-startprocess-code-reading/)
+- [小さいMLの型推論機を書いた - TypoTypoTypo](https://watiko.net/2020/08/20/mini-ml-type-inference/)
+- [\\[B! github\\] Introducing GitHub Container Registry - The GitHub Blog](https://b.hatena.ne.jp/entry?url=https%3A%2F%2Fgithub.blog%2F2020-09-01-introducing-github-container-registry%2F&utm_campaign=bookmark_share&utm_content=github.blog&utm_medium=social&utm_source=twitter&utm_term=%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%20github)
+- [Rust に様々なスクリプト言語を組み込む - Möbius Flyer](https://blog.alprosys.com/2020/08/30/rust-script-binders-exercise/)
+- [Promiseをthrowするのはなぜ天才的デザインなのか - Qiita](https://qiita.com/uhyo/items/255760315ca61544fe33)
+- [Compiling a Lisp: Overture | Max Bernstein](https://bernsteinbear.com/blog/compiling-a-lisp-0/)
+- [GitHub - ntex-rs/ntex: framework for composable networking services](https://github.com/ntex-rs/ntex)
+- [SIGMAカメラ同人誌『飛びこめ！！沼 02』｜安倍吉俊｜note](https://note.com/abfly/n/n22ff4cbbe5e5)
+- [Remote debug via GDB/gdbserver - Help | CLion](https://www.jetbrains.com/help/clion/remote-debug-via-gdb-gdbserver.html)
+- [GitHub - o8vm/krabs: An x86 bootloader written in Rust.](https://github.com/o8vm/krabs)
+- [私と2つのページング物語. 皆さんはページングについてどんな印象をお持ちですか？私がページングと出会ったのは… | by おとよ | mixi developers | Medium](https://medium.com/mixi-developers/my-paging-story-e56effb3d6ab)
+- [Docker Composeを使用してSpring Bootアプリケーションを実行およびデバッグする - ヘルプ | IntelliJ IDEA](https://pleiades.io/help/idea/run-and-debug-a-spring-boot-application-using-docker-compose.html)
+- [セルフホストできるCコンパイラを作ってみた - Qiita](https://qiita.com/pocari/items/d272e87274a1486298bc)
+- [CLion 2020.2 の新機能](https://www.jetbrains.com/ja-jp/clion/whatsnew/)
+- [shinjuku.rs:ruruby - Google スライド](https://docs.google.com/presentation/d/1RFJvhJRhK18l_Qe-k3nju-TxOmwKtAxXa6q05ca-UzY/edit#slide=id.g94717b4852_0_28)
+- [Rust でトレイトオブジェクトと enum のディスパッチ速度比較 - Qiita](https://qiita.com/carrotflakes/items/896ce7f49931c64a2954)
+- [maguro.dev](http://maguro.dev)
+- [AWS Lambda ではじめる Rust - Speaker Deck](https://speakerdeck.com/helloyuk13/aws-lambda-dehazimeru-rust)
+- [【連載】世界一わかりみが深いコンテナ \x26amp;amp; Docker入門 〜 その6:Dockerのファイルシステムってどうなってるの？ 〜 | SIOS Tech. Lab](https://tech-lab.sios.jp/archives/21103)
+- [システム監視、何からはじめる？ / What is the first step for system monitoring? - Speaker Deck](https://speakerdeck.com/takumanakagame/what-is-the-first-step-for-system-monitoring)
+- [B-tree variantsの調査\u3000 - tom__bo’s Blog](https://tombo2.hatenablog.com/entry/2020/08/23/212607)
+- [Version number bumped to 3.0.0 from 2.8.0 (tentative). · ruby/ruby@21c62fb · GitHub](https://github.com/ruby/ruby/commit/21c62fb670b1646c5051a46d29081523cd782f11)
+- [世界ロケット列伝\u3000徹底解剖！ロケットエンジン【第六回ひじき祭】 - ニコニコ動画](https://nicovideo.jp/watch/sm37405562)
+- [GitHub - zoetrope/etcd-book](https://github.com/zoetrope/etcd-book)
+- [Debugging a Go application inside a Docker container – GoLand Blog | JetBrains](https://blog.jetbrains.com/go/2020/05/06/debugging-a-go-application-inside-a-docker-container/)
+- [The Zig Programming Language](https://ziglang.org/)
+- [AGC047A - 西尾泰和のScrapbox](https://scrapbox.io/nishio/AGC047A)
+- [Debugging containerized Go applications – GoLand Blog | JetBrains](https://blog.jetbrains.com/go/2018/04/30/debugging-containerized-go-applications/)
+- [Const guid by rylev · Pull Request #279 · microsoft/winrt-rs · GitHub](https://github.com/microsoft/winrt-rs/pull/279#issuecomment-668436700)
+- [リモート・デバッグ - ヘルプ | RubyMine](https://pleiades.io/help/ruby/remote-debugging.html)
+- [GDB リモートデバッグ - ヘルプ | CLion](https://pleiades.io/help/clion/remote-debug.html#debug-shared-libs)
+
 ## 2020/08/19
 
 
