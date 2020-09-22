@@ -1,5 +1,52 @@
 # twitter
 
+## 2020/09/22
+
+
+- [Next.js + Electron がとても簡単になっていた | Zenn](https://zenn.dev/erukiti/articles/933fc127f751aef45b4f)
+- [GitHubリポジトリでZennのコンテンツを管理する | Zenn](https://zenn.dev/zenn/articles/connect-to-github)
+- [AtCoder Library (ACL) - AtCoder](https://atcoder.jp/posts/517)
+- [aclib05 - essen-wiki](http://essen.osask.jp/?aclib05)
+- [aclib09 - essen-wiki](http://essen.osask.jp/?aclib09)
+- [TypeScript(React)+Pythonの開発環境を、VS Codeを使って整える方法 | MoT Lab (Mobility Technologies Tech Blog)](https://lab.mo-t.com/blog/vscode-typescript-python)
+- [How npm3 Works | How npm Works](https://npm.github.io/how-npm-works-docs/npm3/how-npm3-works.html)
+- [Launching the 2020 State of Rust Survey | Rust Blog](https://blog.rust-lang.org/2020/09/10/survey-launch.html)
+- [Binary Translation型エミュレータを作る(ストア命令の実装) - FPGA開発日記](https://msyksphinz.hatenablog.com/entry/2020/09/11/040000)
+- [JSエコシステムぶらり探訪(目次) - Qiita](https://qiita.com/qnighy/items/16fdd8e58309a1f706a0)
+- [Docker Desktop for Windows from Msys2 | Zenn](https://zenn.dev/koron/articles/6dd4c866557a6eb7fef9)
+- [JSエコシステムぶらり探訪(2): Node.jsとCommonJS modules - Qiita](https://qiita.com/qnighy/items/067dd47c48b96e772a4e)
+- [RustでwasmでWebWorkerでTypescriptな開発 - Qiita](https://qiita.com/Yasu-umi/items/e787bc5b50d54d9ecc94)
+- [Rubyの開発を支える技術 - クックパッド開発者ブログ](https://techlife.cookpad.com/entry/2020/09/08/090000)
+- [JSエコシステムぶらり探訪(1): 原初のJavaScript - Qiita](https://qiita.com/qnighy/items/fc19f328cf36fc28658c)
+- [Binary Translation型のエミュレータを作る(条件分岐命令の実装) - FPGA開発日記](https://msyksphinz.hatenablog.com/entry/2020/09/08/040000)
+- [本物の golang を... 本物の Gopher を、お見せしますよ。 - Qiita](https://qiita.com/mattn/items/b7889e3c036b408ae8bd)
+- [Release v1.4.0: Support Go Modules for testdata · gostaticanalysis/skeleton · GitHub](https://github.com/gostaticanalysis/skeleton/releases/tag/v1.4.0)
+- [空のディレクトリを維持するための、 .gitkeep と .gitignore の使い分け - Qiita](https://bit.ly/32Rc5z9)
+- [AddyOsmani.com - Visualize Data Structures in VSCode](https://addyosmani.com/blog/visualize-data-structures-vscode/)
+- [\\[B! node.js\\] node.js のメトリクスの計測、ベンチマークの改善、Docker イメージの絞り方を勉強した - mizdev](https://b.hatena.ne.jp/entry?url=https%3A%2F%2Fmizchi.dev%2F202009192222-study-nodejs-benchmark&utm_campaign=bookmark_share&utm_content=mizchi.dev&utm_medium=social&utm_source=twitter&utm_term=%E6%9A%AE%E3%82%89%E3%81%97)
+- [SePIA timers | 技術書典](https://techbookfest.org/organization/5178957062209536)
+- [VS Code Dev Container Guidebook：74th](https://techbookfest.org/product/4696850535809024)
+- [RustのLT会 Shinjuku.rs #12 @オンライン - connpass](https://forcia.connpass.com/event/187287/)
+- [GitHub - uzimaru0000/clumsy: clumsy is a clone of git implemented in rust.](https://github.com/uzimaru0000/clumsy)
+- [GitHub - simonwhitaker/gibo: Easy access to gitignore boilerplates](https://github.com/simonwhitaker/gibo)
+- [GitHub - sanposhiho/easydebug: Go: add debug statements after store values 📝](https://github.com/sanposhiho/easydebug)
+- [go - The Go Programming Language](https://golang.org/cmd/go/)
+- [OpenJDKのC++コードを、CLionでデバッグする - Fight the Future](https://www.sakatakoichi.com/entry/openjdkclion)
+- [Git - Advanced Merging](https://git-scm.com/book/en/v2/Git-Tools-Advanced-Merging)
+- [GitHub - CircleCI-Public/circleci-cli: Use CircleCI from the command line](https://github.com/CircleCI-Public/circleci-cli)
+- [CircleCI のローカル CLI の使用 - CircleCI](https://circleci.com/docs/ja/2.0/local-cli/)
+- [ Reading Readability - Backnumbers: Steps to Phantasien](https://bn.dodgson.org/bn/2011/04/17/)
+- [軽量なインデックス機構を用いた全文検索ツールの高速化の検討/wsa6_sifter - Speaker Deck](https://speakerdeck.com/monochromegane/wsa6-sifter?slide=16)
+- [Zero To Production In Rust](https://www.zero2prod.com/)
+- [テストコードが増えるとバグは減るのだろうか？ / Does more test code mean fewer bugs? - Speaker Deck](https://speakerdeck.com/ahiru/does-more-test-code-mean-fewer-bugs)
+- [#JetBrainsIDEテクニック – オススメプラグイン: Power Mode II | 株式会社サムライズム](https://samuraism.com/2020/09/06/11733)
+- [#JetBrainsIDEテクニック – オススメプラグイン: Rainbow Brackets | 株式会社サムライズム](https://samuraism.com/2020/09/12/11789)
+- [\\[Q\x26amp;amp;A\\] Go言語のパッケージ名 (URLもどき) がコンパイラによって処理されるときの正確なルールが知りたい - Qiita](https://qiita.com/qnighy/questions/bd41e92420d8ef133b18)
+- [My Favorite Rust Function Signature | Brandon\x26amp;#39;s Website](https://www.brandonsmith.ninja/blog/favorite-rust-function)
+- [Longcat, the internet meme icon, dies aged 18 - CNET](https://cnet.co/3ckbhpz)
+- [V8 CPUとメモリのプロファイリング - ヘルプ | WebStorm](https://pleiades.io/help/webstorm/v8-cpu-and-memory-profiling.html)
+- [Fast git by mattn · Pull Request #937 · junegunn/vim-plug · GitHub](https://github.com/junegunn/vim-plug/pull/937)
+
 ## 2020/09/14
 
 
