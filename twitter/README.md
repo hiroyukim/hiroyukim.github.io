@@ -1,5 +1,52 @@
 # twitter
 
+## 2020/10/22
+
+
+- [Rustでインメモリキャッシュ作った話 | κeenのHappy Hacκing Blog](https://keens.github.io/blog/2020/10/20/rustdeinmemorikyasshutsukuttahanashi/)
+- [Node v15.0.0 (Current) | Node.js](https://nodejs.org/en/blog/release/v15.0.0/)
+- [Rust 自作 OS 日記/Part 4 フォントのはなし - 借り初めのひみつきち](https://neriring.hatenablog.jp/entry/2020/10/13/212258)
+- [動的インポート - TypeScript Deep Dive 日本語版](https://typescript-jp.gitbook.io/deep-dive/project/dynamic-import-expressions)
+- [AtCoder ABC 180 F - Unbranched (600 点) - けんちょんの競プロ精進記録](https://drken1215.hatenablog.com/entry/2020/10/21/145700)
+- [ACL Contest 1 D - Keep Distances (800 点) - けんちょんの競プロ精進記録](https://drken1215.hatenablog.com/entry/2020/09/26/153500)
+- [AtCoder ABC 180 C - Cream puff (300 点) - けんちょんの競プロ精進記録](https://drken1215.hatenablog.com/entry/2020/10/21/194700)
+- [令和の時代にLinuxにPC-98x1エミュレータを入れる - 少ないリソースを酷使する](https://t-takeda.hatenablog.com/entry/2020/10/13/233106)
+- [原始ピタゴラス数の木 | 高校数学の美しい物語](https://mathtrain.jp/pythagoreantree)
+- [メンタルが弱いエンジニアが安心して開発するために気をつけていること - SMARTCAMP Engineer Blog](https://tech.smartcamp.co.jp/entry/try-to-be-not-anxiety)
+- [table_to_xml関数とSQLインジェクション - WAF Tech Blog ｜ クラウド型 WAFサービス Scutum 【スキュータム】](https://www.scutum.jp/information/waf_tech_blog/2020/10/waf-blog-075.html)
+- [大名行列を特異値分解してみる - Qiita](https://qiita.com/kaityo256/items/78b16c58228e131f8144)
+- [Rustで作るインメモリキャッシュ | κeenのHappy Hacκing Blog](https://keens.github.io/slide/rustdetsukuruinmemorikyasshu/)
+- [憧れのTypeScriptフルスタック環境がコマンド1発で作れる超軽量フレームワーク「frourio」 - Qiita](https://qiita.com/m_mitsuhide/items/00b139bb565dddf8006a)
+- [論文『A Note on Distributed Computing』を読んだ - kenju\u0026amp;#39;s blog](https://itiskj.hatenablog.com/entry/2018/08/30/165602)
+- [GitHub for mobile のコードレビューがさらに進化 - GitHubブログ](https://github.blog/jp/2020-10-15-even-better-code-review-in-github-for-mobile/)
+- [USB Type-Cのすべて](https://shop.cqpub.co.jp/hanbai/books/46/46441.html)
+- [RustのLT会 Shinjuku.rs #12 @オンライン - connpass](https://forcia.connpass.com/event/187287)
+- [「ヨシ！」のポーズを再現可能！「仕事猫」がPCクッションとなって登場！購入特典として仕事中に便利な離席中カード5枚をプレゼント | 電撃ホビーウェブ    ](https://hobby.dengeki.com/news/1099169/)
+- [cgroup の SUBSYS マクロ - TenForward](https://tenforward.hatenablog.com/entry/2017/03/16/200009)
+- [Linux：昨今のI/Oスケジューラ事情 2020 | SlackNote](https://slacknotebook.com/linux-io-scheduler1/)
+- [hiboma/cgroup-and-sysfs.pdf at master · hiboma/hiboma · GitHub](https://github.com/hiboma/hiboma/blob/master/slides/cgroup-and-sysfs.pdf)
+- [Windows Terminalの使い方](https://zenn.dev/koron/books/b8bd70271541c102c0b8)
+- [Masato Kinugawa Security Blog:  DiscordデスクトップアプリのRCE](https://masatokinugawa.l0.cm/2020/10/discord-desktop-rce.html?m=1)
+- [GitHub - mattn/vim-woke](https://github.com/mattn/vim-woke)
+- [RSLint/parse.rs at master · RDambrosio016/RSLint · GitHub](https://github.com/RDambrosio016/RSLint/blob/master/crates/rslint_parser/src/parse.rs)
+- [寺の危機 by 漫画家・近藤丸 | WEBマンガのコミチ（縦スク） - 無料マンガが10000作品以上読み放題！](https://comici.jp/articles/?id=27772)
+- [npm v7の主な変更点まとめ | watilde\u0026amp;#39;s blog](https://blog.watilde.com/2020/10/14/npm-v7%e3%81%ae%e4%b8%bb%e3%81%aa%e5%a4%89%e6%9b%b4%e7%82%b9%e3%81%be%e3%81%a8%e3%82%81/)
+- [GitHub - hermitcore/libhermit-rs: libhermit-rs: A Rust-based library operating system](https://github.com/hermitcore/libhermit-rs)
+- [GitHub - kenjinote/cmdchat: コマンド プロンプト (チャット風)](https://github.com/kenjinote/cmdchat)
+- [GitHub - prabirshrestha/vim-lsp: async language server protocol plugin for vim and neovim](https://github.com/prabirshrestha/vim-lsp#signs)
+- [GitHub - RDambrosio016/RSLint: A  (WIP) Extremely fast JavaScript linter and Rust crate](https://github.com/RDambrosio016/RSLint)
+- [gRPCが遅すぎる？eBPFでカーネル内で動かす！. gRPCの高速化への飽くなき追求（具体的な目標や目的なし）を続けてきましたが、ま… | by FUJITA Tomonori | nttlabs | Oct, 2020 | Medium](https://medium.com/nttlabs/grpc-in-ebpf-10a930d0d329)
+- [Go Service Error Strategies - 99designs](https://99designs.com.au/blog/engineering/go-service-error-strategies/)
+- [Kubernetes で Deployment のローリングアップデートを実現する 『kubectl rollout restart』コマンドをソースコードから解説 | Developers.IO](https://dev.classmethod.jp/articles/kubectl-rollout-restart/)
+- [「意識は高いけど、品質が低い人」の残念な習慣 | だから、この本。 | ダイヤモンド・オンライン](https://diamond.jp/articles/-/251227?fbclid=IwAR1IDMaUW5Y5aymjWvC80jz-ss6_QGiXgEWSzSKwh6c5w7NS7sJJoEEeirk)
+- [Distributed Systems Safety Research](http://jepsen.io/)
+- [代数方程式とガロア理論](https://www.slideshare.net/junpeitsuji/ss-16134472?next_slideshow=1)
+- [cgroup and sysfs files - Speaker Deck](https://speakerdeck.com/hiboma/cgroup-and-sysfs-files)
+- [ラムダ計算入門](https://www.slideshare.net/_yingtai/lambda-guide)
+- [Why Distributed Systems Are Hard](https://www.infoq.com/presentations/distributed-systems-complexity-human-factor/)
+- [高集積コンテナホスティングにおけるボトルネックとその解法 - Speaker Deck](https://speakerdeck.com/pyama86/gao-ji-ji-kontenahosuteinguniokerubotorunetukutosofalsejie-fa)
+- [Webアプリケーションにおける並行処理の難しさ / #Gocon_Sendai - Speaker Deck](https://speakerdeck.com/p1ass/number-gocon-sendai)
+
 ## 2020/10/09
 
 
