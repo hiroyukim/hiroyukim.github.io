@@ -1,5 +1,42 @@
 # twitter
 
+## 2020/10/29
+
+
+- [8.0.22でのprepared statementの挙動変化 - tom__bo’s Blog](https://tombo2.hatenablog.com/entry/2020/10/29/135053)
+- [MS-DOS(PC-98)のアプリケーションをC言語で作る - 少ないリソースを酷使する](https://t-takeda.hatenablog.com/entry/2020/10/27/230646)
+- [Berkeley DB (Hash) の実装 - knqyf263\u0026amp;#39;s blog](https://knqyf263.hatenablog.com/entry/2020/10/28/124040)
+- [AtCoder ABC 043 D - アンバランス (ARC 059 D) (水色, 400 点) - けんちょんの競プロ精進記録](https://drken1215.hatenablog.com/entry/2020/10/29/133500)
+- [Regexp::AssembleのGo実装 rassemble-go を作りました - プログラムモグモグ](https://itchyny.hatenablog.com/entry/2020/10/26/100000)
+- [Goらしさとは何なのか考える - My External Storage](https://budougumi0617.github.io/2020/10/23/think_go_way/)
+- [Mini-Redis Tutorialからはじめるtokio - happy developing](https://blog.ymgyt.io/entry/mini_redis_tutorial_to_get_started_with_tokio)
+- [JSエコシステムぶらり探訪(4): npmとコマンドライン - Qiita](https://qiita.com/qnighy/items/faddc72389f6c94421e1)
+- [O\u0026amp;#39;Reilly Japan - Node.jsデザインパターン 第2版](https://www.oreilly.co.jp/books/9784873118734/)
+- [「serial experiments lain 2020 eXhibition」 特設ページ｜Anique（アニーク）](https://lp.anique.jp/exhibition/lain2020/)
+- [JavaScript徹底攻略 非同期処理 - imonikike - BOOTH](https://booth.pm/ja/items/2369393)
+- [過去のコードをComposition APIを使って書き直してみる（前編） : ビジネスとIT活用に役立つ情報](https://www.asobou.co.jp/blog/web/composition-api1)
+- [Async/await - Wikipedia](https://ja.m.wikipedia.org/wiki/Async/await)
+- [Prisma - Database tools for modern application development](https://www.prisma.io/)
+- [O\u0026amp;#39;Reilly Japan - Pythonではじめる数学の冒険](https://ift.tt/2TBk6Tz)
+- [Ceph（分散ストレージソフトウェア）の概要紹介｜Airitech｜note](https://note.com/airitech/n/n424645c63fa5)
+- [.tmux.conf · GitHub](https://gist.github.com/mattn/22ce64c237538eae3b389fa70f8aad1e)
+- [センシティブな人物をインセンシティブにします · GitHub](https://gist.github.com/anekos/b773f8e84fbb3e4e8f6f1a31752a58ff)
+- [Swagger (OpenAPI 2.x) generates go-server codeの何が辛いのか](https://zenn.dev/kyoh86/articles/d4eeda70bfd9e0feaf24)
+- [GitHub - Shelnutt2/db2struct: Converts a mysql table into a golang struct](https://github.com/Shelnutt2/db2struct)
+- [GitHub - Dongss/graphql-mysql-schema: Generate mysql table schema to graphql defination](https://github.com/Dongss/graphql-mysql-schema)
+- [僕のatcoderの学び方(〜水色) - 西尾泰和のScrapbox](https://scrapbox.io/nishio/%E5%83%95%E3%81%AEatcoder%E3%81%AE%E5%AD%A6%E3%81%B3%E6%96%B9(%E3%80%9C%E6%B0%B4%E8%89%B2))
+- [GitHub - grpc/grpc-web: gRPC for Web Clients](https://github.com/grpc/grpc-web)
+- [Vim Awesome](https://vimawesome.com/plugin/camelcasemotion-ours)
+- [GitHub - kanmu/go-sqlfmt: A SQL formatter written in Go](https://github.com/kanmu/go-sqlfmt)
+- [Go: Overview of the Compiler. ℹ️ This article is based on Go 1.13. | by Vincent Blanchon | A Journey With Go | Medium](https://medium.com/a-journey-with-go/go-overview-of-the-compiler-4e5a153ca889)
+- [\u0009API Documentation \u0026amp;amp; Design Tools for Teams | Swagger](https://swagger.io/)
+- [エッジ・フォグコンピューティングの成り立ちとネットワークインフラのこれから - Speaker Deck](https://speakerdeck.com/kikuzo/etuzihuogukonpiyuteingufalsecheng-rili-titonetutowakuinhurafalsekorekara)
+- [堅牢なTCPサーバを作るために - katsubushiの知見から/kamakura.go#5 - Speaker Deck](https://speakerdeck.com/fujiwara3/kamakura-dot-go-number-5)
+- [拡張性の高い CNI プラグイン Coil v2 の紹介 - Speaker Deck](https://speakerdeck.com/ymmt2005/kuo-zhang-xing-falsegao-i-cni-puraguin-coil-v2-falseshao-jie)
+- [JetBrains 開発者サーベイから見る日本のソフトウェア開発（2020年版） | JetBrains Blog](https://blog.jetbrains.com/ja/2020/10/24/deveco20worldvsjp/)
+- [ゲームデザインプロフェッショナルを読んだ  |  Colorful Pieces of Game](http://www.highriskrevolution.com/wp/gamelife/2020/09/29/%e3%82%b2%e3%83%bc%e3%83%a0%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3%e3%83%97%e3%83%ad%e3%83%95%e3%82%a7%e3%83%83%e3%82%b7%e3%83%a7%e3%83%8a%e3%83%ab%e3%82%92%e8%aa%ad%e3%82%93%e3%81%a0/)
+- [nginxのイベント駆動アーキテクチャをソースコードリーディングする | ten-snapon.com](https://ten-snapon.com/archives/1952)
+
 ## 2020/10/22
 
 
