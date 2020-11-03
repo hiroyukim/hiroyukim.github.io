@@ -1,5 +1,40 @@
 # twitter
 
+## 2020/11/03
+
+
+- [gitを使ってどのコミットでバグが入り込んだか特定する。git bisectの使い方 - new Nakashima()の日記](http://newnakashima.hatenablog.com/entry/2018/07/24/014609)
+- [Go の sql.DB がコネクションプールを管理する仕組み - Please Sleep](https://please-sleep.cou929.nu/go-sql-db-connection-pool.html)
+- [数理最適化による問題解決の実践的なアプローチ](https://zenn.dev/umepon/articles/50a74c75f32096875d94)
+- [Java IDEの使いやすさはIDEがどのようにJavaを知ってるかで決まりがち - きしだのHatena](https://nowokay.hatenablog.com/entry/2020/10/30/174617)
+- [8.0.22でのprepared statementの挙動変化 - tom__bo’s Blog](https://tombo2.hatenablog.com/entry/2020/10/29/135053)
+- [Berkeley DB (Hash) の実装 - knqyf263\u0026amp;#39;s blog](https://knqyf263.hatenablog.com/entry/2020/10/28/124040)
+- [Using Rust for a simple hardware project | tonari blog](https://blog.tonari.no/rust-simple-hardware-project)
+- [Rust の `!` (ビックリマーク、エクスクラメーションマーク、感嘆符) 型 - Don\u0026amp;#39;t Repeat Yourself](https://blog-dry.com/entry/2020/11/02/000313)
+- [Loading...](https://leetcode.com/problems/missing-number/)
+- [Competitive Programming (1) Advent Calendar 2020 - Adventar](https://adventar.org/calendars/4969)
+- [SourceMap Explorer](https://qnighy.github.io/sourcemap-explorer/)
+- [生産性向上に不可欠なOSSツール5選、Red Hatシニアエンジニア推薦 | マイナビニュース](https://news.mynavi.jp/article/20201030-1443751/)
+- [FirebaseSummit 2020のキャッチアップをしてみた - Qiita](https://qiita.com/mogmet/items/5774d0c7ca3bce227b95)
+- [AtCoder ABC 043 D - アンバランス (ARC 059 D) (水色, 400 点) - けんちょんの競プロ精進記録](https://drken1215.hatenablog.com/entry/2020/10/29/133500)
+- [AOJ ???? Grid and Substrings (KUPC 2020 C) - けんちょんの競プロ精進記録](https://drken1215.hatenablog.com/entry/2020/10/31/163400)
+- [AOJ ???? Sequence Partitioning (KUPC 2020 E) - けんちょんの競プロ精進記録](https://drken1215.hatenablog.com/entry/2020/10/31/173300)
+- [WASMとRustはVue.js/React.jsを打倒するのか？  - JSへの侵略の歴史](https://zenn.dev/koduki/articles/c07db4179bb7b86086a1)
+- [Halloween Problem - Wikipedia](https://en.wikipedia.org/wiki/Halloween_Problem)
+- [GoのスライスとRustのスライス | Wantedly Engineer Blog](https://www.wantedly.com/companies/wantedly/post_articles/290761?utm_source=t.co&utm_medium=share&lang=ja)
+- [GitHub - Yash-Handa/logo-ls: Modern ls command with vscode like File Icon and Git Integrations. Written in Golang](https://github.com/Yash-Handa/logo-ls)
+- [GitHub - kazeburo/mackerel-plugin-maxcpu](https://github.com/kazeburo/mackerel-plugin-maxcpu)
+- [\\[B! javascript\\] JavaScript\u0026amp;#39;s Memory Management Explained](https://b.hatena.ne.jp/entry?url=https%3A%2F%2Ffelixgerschau.com%2Fjavascript-memory-management%2F&utm_campaign=bookmark_share&utm_content=felixgerschau.com&utm_medium=social&utm_source=twitter&utm_term=%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%20performance)
+- [Updating readme file for macOS-10.15 version 20201026.2 · actions/virtual-environments@c09dca2 · GitHub](https://github.com/actions/virtual-environments/commit/c09dca28df69d9aaaeac5635257d23722810d307#diff-7a1606bd717fc0cf55f9419157117d9ca306f91bd2fdfc294720687d7be1b2c7)
+- [Phil\u0026amp;#39;s PDP10 Miscellany Page](http://www.ultimate.com/phil/pdp10/)
+- [Vim Awesome](https://vimawesome.com/plugin/camelcasemotion-ours)
+- [The Travis CI Blog: The new pricing model for travis-ci.com](https://blog.travis-ci.com/2020-11-02-travis-ci-new-billing)
+- [ AWS/サーバレスでつくる！安心安全PDF【委託】 - 達人出版会 ](https://tatsu-zine.com/books/aws-serverless-pdf)
+- [#2【タクティクスオウガ 第1章 Tactics Ogre】スーパーファミコン\u3000レトロゲーム実況 - YouTube](https://youtu.be/aqROztSjci4)
+- [拡張性の高い CNI プラグイン Coil v2 の紹介 - Speaker Deck](https://speakerdeck.com/ymmt2005/kuo-zhang-xing-falsegao-i-cni-puraguin-coil-v2-falseshao-jie)
+- [外部キー制約に伴うロックの小話](https://www.slideshare.net/ichirin2501/ss-44642631)
+- [Logstashを愛して5年、370ページを超えるガチ本を書いてしまった男の話.](https://www.slideshare.net/mobile/hibinohisashi/logstash5370?fbclid=IwAR2ithVFDRoyeD9eb0NWR5oaMmZltU55R7MrJlYiB8Mk2G5RHT1oObp24dw)
+
 ## 2020/10/29
 
 
