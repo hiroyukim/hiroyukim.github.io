@@ -1,5 +1,49 @@
 # twitter
 
+## 2020/11/12
+
+
+- [Go の sql.DB がコネクションプールを管理する仕組み - Please Sleep](https://please-sleep.cou929.nu/go-sql-db-connection-pool.html)
+- [Microservices における認証と認可の設計パターン - Please Sleep](https://please-sleep.cou929.nu/microservices-auth-design.html)
+- [MySQL Shell dumpInstance が一貫性の壊れたバックアップを生成するバグの件 - mita2 database life](https://mita2db.hateblo.jp/entry/2020/11/04/233627)
+- [講習会 | 東京大学情報基盤センター スーパーコンピューティング部門](https://www.cc.u-tokyo.ac.jp/events/lectures/)
+- [Rust 自作 OS 日記/Part 5 マルチタスキング - 借り初めのひみつきち](https://neriring.hatenablog.jp/entry/2020/11/06/002331)
+- [Rust の `!` (ビックリマーク、エクスクラメーションマーク、感嘆符) 型 - Don\u0026amp;#39;t Repeat Yourself](https://blog-dry.com/entry/2020/11/02/000313)
+- [gitを使ってどのコミットでバグが入り込んだか特定する。git bisectの使い方 - new Nakashima()の日記](http://newnakashima.hatenablog.com/entry/2018/07/24/014609)
+- [ちょっとだけ怖い三角関数のはなし](https://zenn.dev/takehiro_t/articles/ef08d1315cd9d906b482)
+- [WASMとRustはVue.js/React.jsを打倒するのか？  - JSへの侵略の歴史](https://zenn.dev/koduki/articles/c07db4179bb7b86086a1)
+- [言語自作を通して学んだRust | κeenのHappy Hacκing Blog](https://keens.github.io/slide/gengojisakuwotoushitemanandarust/)
+- [SourceMap Explorer](https://qnighy.github.io/sourcemap-explorer/)
+- [JSエコシステムぶらり探訪(5): CommonJSモジュールバンドラー - Qiita](https://qiita.com/qnighy/items/3d2496e9cf48f16cee05)
+- [Big Sky :: golang のサーバで帯域制限したい。](https://mattn.kaoriya.net/software/lang/go/20160713120926.htm)
+- [WebTransportを用いてブラウザ上からUDP/QUICによるリアルタイム双方向通信を行う](https://sbfl.net/blog/2020/07/31/web-transport-introduction/)
+- [Go 1.15 Release Notes - The Go Programming Language](https://golang.org/doc/go1.15)
+- [git-brws/release.yaml at master · rhysd/git-brws · GitHub](https://github.com/rhysd/git-brws/blob/master/.github/workflows/release.yaml)
+- [GitHub - ogham/dog: Command-line DNS client](https://github.com/ogham/dog)
+- [GitHub - RWTH-OS/eduOS-rs: A teaching operating system written in Rust](https://github.com/RWTH-OS/eduOS-rs)
+- [AP4R，Rubyで非同期メッセージング：特集｜gihyo.jp … 技術評論社](https://gihyo.jp/dev/feature/01/ap4r)
+- [GitHub - yewstack/yew: Rust / Wasm framework for building client web apps](https://github.com/yewstack/yew)
+- [GitHub - ClementTsang/bottom: Yet another cross-platform graphical process/system monitor.](https://github.com/ClementTsang/bottom)
+- [GitHub - curlpipe/ox: An independent Rust text editor that runs in your terminal!](https://github.com/curlpipe/ox)
+- [めしを食ったあとに失神していた日々のこと｜まくるめ｜note](https://note.com/mamaaaau/n/n7dd9f5b6f397)
+- [エッジとクラウドでRustを使いこなす ～AI/IoTでの事例～](https://rustfest.global/session/10-%E3%82%A8%E3%83%83%E3%82%B8%E3%81%A8%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%81%A7rust%E3%82%92%E4%BD%BF%E3%81%84%E3%81%93%E3%81%AA%E3%81%99-%EF%BD%9Eai-iot%E3%81%A7%E3%81%AE%E4%BA%8B%E4%BE%8B%EF%BD%9E/)
+- [Architect a High-performance SQL Query Engine in Rust](https://rustfest.global/session/18-architect-a-high-performance-sql-query-engine-in-rust/)
+- [「夜のロボット」 - spoon manga exhibition](https://sites.google.com/site/spoonmangaexhibition/home/c-d)
+- [Updating readme file for macOS-10.15 version 20201026.2 · actions/virtual-environments@c09dca2 · GitHub](https://github.com/actions/virtual-environments/commit/c09dca28df69d9aaaeac5635257d23722810d307#diff-7a1606bd717fc0cf55f9419157117d9ca306f91bd2fdfc294720687d7be1b2c7)
+- [The Travis CI Blog: The new pricing model for travis-ci.com](https://blog.travis-ci.com/2020-11-02-travis-ci-new-billing)
+- [中傷の影響力を削ぎたい - sushitecture](https://scrapbox.io/sushitecture/%E4%B8%AD%E5%82%B7%E3%81%AE%E5%BD%B1%E9%9F%BF%E5%8A%9B%E3%82%92%E5%89%8A%E3%81%8E%E3%81%9F%E3%81%84)
+- [GitHub - rust-lang/rust-clippy: A bunch of lints to catch common mistakes and improve your Rust code](https://github.com/rust-lang/rust-clippy)
+- [FF8 世界一わかりやすいリノアル説 - YouTube](https://youtu.be/ZAK9z4AXGPE)
+- [Unlimited Sword Works | 3D Weapons | Unity Asset Store](https://assetstore.unity.com/packages/3d/props/weapons/unlimited-sword-works-162229?aid=1100laqit)
+- [リアルタイムサーバー 〜Erlang/OTPで作るPubSubサーバー〜 ](https://www.slideshare.net/mobile/yugoshimizu/erlangotppubsub-63215899)
+- [外部に依存したコードもテストで駆動する / Test-Driven Architecture - AWS Dev Day Tokyo 2018 - Speaker Deck](https://speakerdeck.com/twada/test-driven-architecture-aws-dev-day-tokyo-2018)
+- [敷金返還.com](https://next-gyouseisyosi.com/)
+- [Pijul](https://pijul.org/posts/2020-11-07-towards-1.0/)
+- [外部キー制約に伴うロックの小話](https://www.slideshare.net/ichirin2501/ss-44642631)
+- [Go の Timezone と Go 1.15 の tzdata 埋め込み - Speaker Deck](https://speakerdeck.com/hiroakis/go-false-timezone-to-go-1-dot-15-false-tzdata-mai-meip-mi)
+- [ストレージ重要 - Speaker Deck](https://speakerdeck.com/sat/sutorezizhong-yao?slide=3)
+- [Think About Front-end Web Development with Rust - Speaker Deck](https://speakerdeck.com/likr/think-about-front-end-web-development-with-rust)
+
 ## 2020/11/03
 
 
