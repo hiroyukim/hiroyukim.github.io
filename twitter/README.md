@@ -1,5 +1,52 @@
 # twitter
 
+## 2020/11/20
+
+
+- [コンパイラの最適化や解析手法の論文のサーベイ - Jicchoの箱～情報系大学院生の備忘録～](https://juln.hatenablog.com/entry/2020/11/19/162130)
+- [Rustで古典的なDisk-Oriented DBMSを実装した話 - Write and Run](https://diary.hatenablog.jp/entry/2020/11/16/222203)
+- [Docker Compose で複数コンテナの準備完了を TCP / HTTP で待機できる「dockerize」を試した - kakakakakku blog](https://kakakakakku.hatenablog.com/entry/2020/11/16/094819)
+- [GKE を格安で使うためにやったこと - ludwig125のブログ](https://ludwig125.hatenablog.com/entry/2019/11/30/073458)
+- [Ruby に Software Transactional Memory (STM) を入れようと思った話 - クックパッド開発者ブログ](https://techlife.cookpad.com/entry/2020/11/20/110047)
+- [富岳CPU A64FX用ディープラーニングライブラリの深層 -研究者が語る開発の軌跡- - fltech - 富士通研究所の技術ブログ](https://blog.fltech.dev/entry/2020/11/18/fugaku-onednn-deep-dive-ja)
+- [gnuplot - Linux Wiki](https://oku.edu.mie-u.ac.jp/~okumura/linux/?gnuplot)
+- [君たちの「並行」の理解は間違ってる](https://zenn.dev/koron/articles/3ddcaaeae37f9befdf70)
+- [ Docker社、Appleシリコン搭載Mac用の「Docker Desktop」を開発中と表明。Rosetta 2による変換では十分に動かない模様 － Publickey](https://www.publickey1.jp/blog/20/_dockerapplemacdocker_desktoprosetta_2.html)
+- [Webアプリケーションフロントエンド年代記 - 2018年夏編 | To Be Decided](https://www.kaitoy.xyz/2018/08/16/chronicle-of-frontend-2018/)
+- [クラスメソッド発「やってみた」系技術メディア | Developers.IO](http://Developers.IO)
+- [C++ Benchmark - std::list VS boost::intrusive::list | Blog blog(\u0026amp;#34;Baptiste Wicht\u0026amp;#34;);](https://baptiste-wicht.com/posts/2012/12/cpp-benchmark-std-list-boost-intrusive-list.html)
+- [blog.jxck.io](http://blog.jxck.io)
+- [自宅にKubernetesクラスター『おうちKubernetes』を作ってみた | IIJ Engineers Blog](https://eng-blog.iij.ad.jp/archives/6304)
+- [TechFeed \u003D\u0026amp;gt; About · HonKit](https://techfeed.io/comments/5fb1df11ecb8dd441aa543cb)
+- [Kubernetes Meetup Tokyo #36 - connpass](https://k8sjp.connpass.com/event/196212/?utm_campaign=event_participate_to_follower&utm_source=notifications&utm_medium=twitter)
+- [Apple Silicon を使った Mac に Rust をインストールするには - Qiita](https://qiita.com/chikoski/items/f973e551a71ed0179116)
+- [Kinoko](https://kinoko.apple.com/)
+- [GitHub - orf/gping: Ping, but with a graph](https://github.com/orf/gping)
+- [\\[B! javascript\\] プログラミング初心者のための JavaScript と Node.js の歴史、それを踏まえた勉強方法](https://b.hatena.ne.jp/entry?url=https%3A%2F%2Fzenn.dev%2Fmizchi%2Farticles%2F3789a101dae388d98159&utm_campaign=bookmark_share&utm_content=zenn.dev&utm_medium=social&utm_source=twitter&utm_term=%E5%AD%A6%E3%81%B3)
+- [Artifact Registry is GA | Google Cloud Blog](https://cloud.google.com/blog/products/devops-sre/artifact-registry-is-ga)
+- [JSエコシステムぶらり探訪(6): AMDとモジュールローダー - Qiita](https://qiita.com/qnighy/items/0c3fd208e0356fa19cda)
+- [【C＋＋】C＋＋20のモジュールとincludeの違いについて詳しく調べてみた – 株式会社ロジカルビート](https://logicalbeat.jp/blog/6223/)
+- [生活崩壊太郎が人間らしく一人暮らしを始めるために必要な最低限のこと｜hsm_hx｜note](https://note.com/hsm_hx/n/n2f948b6602b7)
+- [個人開発で使う GKE｜yusuke-suzuki｜note](https://note.com/yusukesuzuki/n/n0287f617977a)
+- [Presto Conference Tokyo 2020 (Online) - YouTube](https://www.youtube.com/watch?v=OpSzLIbDXEc&feature=youtu.be)
+- [SSH接続をWebブラウザの純粋なHTTP上で実現する - nwtgck / Ryo Ota](https://scrapbox.io/nwtgck/SSH%E6%8E%A5%E7%B6%9A%E3%82%92Web%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6%E3%81%AE%E7%B4%94%E7%B2%8B%E3%81%AAHTTP%E4%B8%8A%E3%81%A7%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B)
+- [The Art of Multiprocessor Programming, Revised Reprint: Herlihy, Maurice, Shavit, Nir: 9780123973375: Amazon.com: Books](https://www.amazon.com/Art-Multiprocessor-Programming-Revised-Reprint/dp/0123973376)
+- [vim-jp » vim-jp.slack.com log - #random - 2020年11月](https://vim-jp.org/slacklog/C03C4RC9F/2020/11/#ts-1605586399.068400)
+- [        aHash and Rust\u0026amp;#39;s standard HashMap - blog.8-p.info      ](https://ift.tt/32ZfMTj)
+- [メモをとる感覚でマインドマップが作成できるアプリ | ライフハッカー［日本版］](https://www.lifehacker.jp/2020/05/lht_brainio.html)
+- [Mes- GNU Project - Free Software Foundation](https://www.gnu.org/software/mes/)
+- [Go言語による並行処理 \\[Book\\]](https://learning.oreilly.com/library/view/go/9784873118468/)
+- [SAD DNSのICMP rate limitを用いたサイドチャネル攻撃について - knqyf263\u0026amp;#39;s blog](https://knqyf263.hatenablog.com/entry/2020/11/19/200900)
+- [軽量でインストールも簡単なシングルバイナリのKubernetesディストリビューション「k0s」、Mirantisがオープンソースでリリース。LinuxとWindowsに対応 － Publickey](https://www.publickey1.jp/blog/20/kubernetesk0smirantislinuxwindows.html)
+- [CMakeLists 覚書 (2020年版) - みつきんのメモ](https://mickey-happygolucky.hatenablog.com/entry/2020/11/19/203903)
+- [Manning | Rust in Motion](https://www.manning.com/livevideo/rust-in-motion)
+- [Time Zone Database Parser](https://howardhinnant.github.io/date/tz.html)
+- [kubectlのcontextとnamespace周りの操作をkubectxとkubensでちょっと楽する | Developers.IO](https://dev.classmethod.jp/articles/kubectx-and-kubens/)
+- [dump stacktrace in case of fatal error by kazuho · Pull Request #331 · h2o/h2o · GitHub](https://github.com/h2o/h2o/pull/331/files)
+- [CNCF 全プロジェクト(2020年4月). CNCFのプロジェクトってどんなものがあるのかな？とふと思い立って調べてみたので… | by dajiaji | Medium](https://medium.com/@dajiaji/cncf-projects-apr-2020-b7e5789577f2)
+- [私はどのようにしてLinuxカーネルを学んだか\u3000Device Tree編 / 平田豊/MBビジネス研究班 ＜電子版＞ - 紀伊國屋書店ウェブストア｜オンライン書店｜本、雑誌の通販、電子書籍ストア](https://www.kinokuniya.co.jp/f/dsg-08-EK-0926031)
+- [Overcoming the limitations of OCSP | APNIC Blog](https://blog.apnic.net/2019/01/11/overcoming-the-limitations-of-ocsp/)
+
 ## 2020/11/12
 
 
