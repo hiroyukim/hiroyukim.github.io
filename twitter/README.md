@@ -1,5 +1,40 @@
 # twitter
 
+## 2021/01/15
+
+- [思わず「日本じゃん…！」と言いたくなる再現度のVRコンテンツが登場 | Mogura VR](https://www.moguravr.com/vr-japan/)
+- [組織の\u0026amp;#34;わからない\u0026amp;#34;に対する不快感 - Konifar\u0026amp;#39;s ZATSU](https://konifar-zatsu.hatenadiary.jp/entry/2021/01/08/120909)
+- [独学でプログラミングを勉強した自分がこれは役に立ったなと思っている本 - golden-luckyの日記](https://golden-lucky.hatenablog.com/entry/2021/01/07/171716)
+- [PHPとPythonとRubyの連想配列のデータ構造が同時期に同じ方針で性能改善されてた話 - hnwの日記](https://hnw.hatenablog.com/entry/2021/01/10/162018)
+- [Rustを実践的に学ぶには](https://zenn.dev/j5ik2o/articles/e2e3e30b47a6537cd5a2)
+- [BPF Performance Toolsを読んだ感想 - go_vargoのブログ](https://go-vargo.hatenablog.com/entry/2020/03/29/210304)
+- [CLion を使って MySQL のビルド＆デバッグを行う - それが僕には楽しかったんです。](https://rabbitfoot141.hatenablog.com/entry/2020/07/25/161510)
+- [ディスアセンブラをつくる - レガシーガジェット研究所](https://k-onishi.hatenablog.jp/entry/2021/01/14/223454)
+- [差分検出アルゴリズム三種盛り - Object.create(null)](https://susisu.hatenablog.com/entry/2017/10/09/134032)
+- [PostgreSQL の構造とソースツリー | Let\u0026amp;#39;s POSTGRES](https://lets.postgresql.jp/node/165)
+- [MySQL InnoDBの領域最適化 - Qiita](https://qiita.com/takaidohigasi/items/f65c273266dfa0490324)
+- [自動でころころ転がって猫ちゃん大満足なガジェット「Cheerble Board Game」 - Engadget 日本版](https://japanese.engadget.com/cheerble-board-game-063053386.html)
+- [パックマンを小一時間で作ってみた【プログラミング実況】Programming Pac-Man - YouTube](https://www.youtube.com/watch?v=Yghf9GVSU5I)
+- [非公式MySQL 8.0オプティマイザガイド by yakst](https://yakst.github.io/unofficialmysqlguide-ja/cost-based-optimization.html)
+- [    『Webブラウザセキュリティ ― Webアプリケーションの安全性を支える仕組みを整理する』                  – 技術書出版と販売のラムダノート      ](https://www.lambdanote.com/collections/wbs)
+- [\\-sys crate を作る - Qiita](https://qiita.com/termoshtt/items/9c48cb75b1b57d1182b3)
+- [【ゆっくり解説】2分でAtCoder Beginner Contest 188 - YouTube](https://youtu.be/emc55gV71q0)
+- [Debug対応のPostgreSQL10をソースコードからビルドしてgdbを使用する | my opinion is my own](https://zatoima.github.io/postgresql-gdb-postgresql-install.html)
+- [マトロイドの凸構造 - けんちょんの競プロ精進記録](https://drken1215.hatenablog.com/entry/20121212/1355280288)
+- [Docs.rs](http://docs.rs)
+- [\\[Rust\\] Drop/dropあれこれ](https://zenn.dev/eduidl/articles/b708cd28c9d07a)
+- [Rust のメモリーコンテナー的な何かをわかりやすく整理したチートシートのメモ; T, Cell, RefCell, AtomicT, Mutex, RwLock, Rc, Arc - C++ ときどき ごはん、わりとてぃーぶれいく☆](https://usagi.hatenablog.jp/entry/2020/08/22/040059)
+- [Mapped Typesのあれこれ](https://zenn.dev/qnighy/articles/dde3d980b5e386)
+- [    『Webブラウザセキュリティ ― Webアプリケーションの安全性を支える仕組みを整理する』の発売を開始しました                  – 技術書出版と販売のラムダノート      ](https://www.lambdanote.com/blogs/news/web-web)
+- [rusqlite/build.rs at master · rusqlite/rusqlite · GitHub](https://github.com/rusqlite/rusqlite/blob/master/libsqlite3-sys/build.rs)
+- [GitHub - frsyuki/trino_sql_parser: Parse a SQL using Presto\u0026amp;#39;s native SQL parser and reports syntax errors](https://github.com/frsyuki/trino_sql_parser)
+- [GitHub - mre/cargo-inspect: Pssst!... see what Rust is doing behind the curtains 🕵🤫](https://github.com/mre/cargo-inspect)
+- [                Recursive iterators in Rust - fasterthanli.me            ](https://fasterthanli.me/articles/recursive-iterators-rust)
+- [                fasterthanli.me            ](http://fasterthanli.me)
+- [diffの動作原理を知る～どのようにして差分を導き出すのか：一般記事｜gihyo.jp … 技術評論社](https://gihyo.jp/dev/column/01/prog/2011/diff_sd200906)
+- [8086マシン語秘伝の書 : 日高徹, 青山学 : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/80861990/page/n61/mode/2up)
+- [Rust Asynchronous Runtime Tokio Reaches 1.0](https://www.infoq.com/news/2021/01/rust-tokio-async-runtime/)
+
 ## 2020/12/30
 
 
