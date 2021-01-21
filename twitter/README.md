@@ -1,5 +1,33 @@
 # twitter
 
+## 2021/01/21
+
+
+- [Deno 1.7.0 がリリースされたので新機能や変更点の紹介](https://zenn.dev/magurotuna/articles/55575eb16ae422)
+- [コンピュータ技術の「似たようなものは続くよどこまでも」](https://zenn.dev/satoru_takeuchi/articles/8b888f0b499605)
+- [オブジェクト指向には、カメラがやっとついたころのガラケーのイメージがある - きしだのHatena](https://nowokay.hatenablog.com/entry/2021/01/21/004148)
+- [Rust のメモリーコンテナー的な何かをわかりやすく整理したチートシートのメモ; T, Cell, RefCell, AtomicT, Mutex, RwLock, Rc, Arc - C++ ときどき ごはん、わりとてぃーぶれいく☆](https://usagi.hatenablog.jp/entry/2020/08/22/040059)
+- [\\[Rust\\] Drop/dropあれこれ](https://zenn.dev/eduidl/articles/b708cd28c9d07a)
+- [Kubernetes で cgroup がどう利用されているか - VA Linux エンジニアブログ  ](https://valinux.hatenablog.com/entry/20210114)
+- [BPF Performance Toolsを読んだ感想 - go_vargoのブログ](https://go-vargo.hatenablog.com/entry/2020/03/29/210304)
+- [ディスアセンブラをつくる - レガシーガジェット研究所](https://k-onishi.hatenablog.jp/entry/2021/01/14/223454)
+- [The current state of Rust web frameworks - LogRocket Blog](https://blog.logrocket.com/the-current-state-of-rust-web-frameworks/)
+- [Redis Internals documentation – Redis 日本語訳](http://mogile.web.fc2.com/redis/topics/internals.html)
+- [【ゆっくり解説】2分でAtCoder Beginner Contest 188 - YouTube](https://youtu.be/emc55gV71q0)
+- [ネットワークスペシャリスト対策 IPv6過去問解説 平成21年(2009)〜令和元年(2019) - YouTube](https://youtu.be/sj-9YhJwMwo)
+- [Webpackがモジュールを2回読み込まないためにした3つのこと | Wantedly Engineer Blog](https://www.wantedly.com/companies/wantedly/post_articles/298725)
+- [string.rs - source](https://doc.rust-lang.org/src/alloc/string.rs.html#2126)
+- [A Miniature VT102 Running A Miniature PDP11 | Hackaday](http://feedproxy.google.com/~r/hackaday/LgoM/~3/FF_KzVAjn-k/)
+- [8086マシン語秘伝の書 : 日高徹, 青山学 : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/80861990/page/n61/mode/2up)
+- [CPU Exceptions - Google スライド](https://docs.google.com/presentation/d/e/2PACX-1vQYgTNt6l5Rqbbq4AnjL6gynqVkmXUEVf3xovVoh-_3x-chbDi_eAwJuJuZ7poPKdu-eIpsvlQ60Wum/pub?start=false)
+- [GitHub - udzura/copenclose: Tracking open/close operations for containers; using either cgroup v2 or namespace.](https://github.com/udzura/copenclose/)
+- [GitHub - lestrrat-go/trie: Trie tree with string key](https://github.com/lestrrat-go/trie)
+- [ＣＧ制作演習 - 床井浩平氏が初心者向けにBlenderの使い方をまとめた PDF （1,419ページ・288MB）を無料公開！](https://3dnchu.com/archives/cgpe2020-pdf-tokoik-blender/)
+- [DefinitelyTyped/README.ja.md at master · DefinitelyTyped/DefinitelyTyped · GitHub](https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/README.ja.md)
+- [nosjob: nosjob](http://fossil.wanderinghorse.net/repos/nosjob/index.cgi/index)
+- [Finding Bugs in C and C++ Compilers using YARPGen | SIGPLAN Blog](https://blog.sigplan.org/2021/01/14/finding-bugs-in-c-and-c-compilers-using-yarpgen/)
+- [update(encoding-japanese): minor changes and UMD support by peterblazejewicz · Pull Request #50624 · DefinitelyTyped/DefinitelyTyped · GitHub](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/50624)
+
 ## 2021/01/15
 
 - [思わず「日本じゃん…！」と言いたくなる再現度のVRコンテンツが登場 | Mogura VR](https://www.moguravr.com/vr-japan/)
