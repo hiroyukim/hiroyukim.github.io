@@ -1,5 +1,51 @@
 # twitter
 
+## 2021/01/28
+
+
+- [プログラミング言語の未来はどうなるか | κeenのHappy Hacκing Blog](https://keens.github.io/blog/2021/01/04/future_of_proguramming_languages/)
+- [現代のオブジェクト指向の class の割れ窓化と宣言的プログラミング](https://zenn.dev/mizchi/articles/oop-think-modern)
+- [security.sios.com](http://security.sios.com)
+- [フルスクラッチでSHA-256を作る](https://zenn.dev/kota_yata/articles/ce45080b2e8cae)
+- [憶えたければ思い出せ！：想起の学習促進効果\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000 - 国立大学法人 岩手大学](https://www.iwate-u.ac.jp/cat-research/2018/03/000364.html)
+- [技術系の情報をググるときにStack Overflowの機械翻訳サイトを回避する技術 - ムニエルブログ](https://blog.munieru.jp/entry/2020/07/31/080000)
+- [Neco の宣言的なサーバー全台再起動の仕組み - Cybozu Inside Out | サイボウズエンジニアのブログ](https://blog.cybozu.io/entry/2020/12/25/134334)
+- [最近見かける新しいライセンスについて - Kengo\u0026amp;#39;s blog](https://blog.kengo-toda.jp/entry/2021/01/20/234622)
+- [DNSpooqの脆弱性詳細と攻撃コード解説 - knqyf263\u0026amp;#39;s blog](https://knqyf263.hatenablog.com/entry/2021/01/24/180845)
+- [MySQL 8.0.24で予定されているCAST()の拡張はGIS機能を大きく進化させる - sakaikの日々雑感～(T)編](https://sakaik.hateblo.jp/entry/20210123/mysql_spatial_cast_function_in_8_0_24)
+- [AWSをElasticが名指しで非難。ElasticsearchとKibanaのライセンスを、AWSが勝手にマネージドサービスで提供できないように変更へ － Publickey](https://www.publickey1.jp/blog/21/awselasticelasticsearchkibanaaws.html)
+- [    OS開発に必要なArmアーキテクチャとは part.1 \u3000実行モデルと割り込み\u3000 - ログミーTech](https://logmi.jp/tech/articles/323824?utm_source=SocialDog&utm_medium=social)
+- [Goは必ずしもEBNFに則しているとは限らない](https://zenn.dev/koya_iwamura/articles/0558aa5bf035aa)
+- [オブジェクト指向には、カメラがやっとついたころのガラケーのイメージがある - きしだのHatena](https://nowokay.hatenablog.com/entry/2021/01/21/004148)
+- [進化する通信プロトコル - QUICとHTTP/3で何が変わるのか -日本語版- - YouTube](https://youtu.be/2nefATBHs1o)
+- [July Tech Festa - YouTube](https://www.youtube.com/c/JulyTechFesta/videos)
+- [ネットワークスペシャリスト対策 IPv6過去問解説 平成21年(2009)〜令和元年(2019) - YouTube](https://youtu.be/sj-9YhJwMwo)
+- [GitHub - arosh/ublacklist-stackoverflow-translation: Stack Overflow の機械翻訳サイトの除外用フィルタ](https://github.com/arosh/ublacklist-stackoverflow-translation)
+- [GitHub - microsoft/windows-rs: Rust for Windows](https://github.com/microsoft/windows-rs)
+- [分散ストレージCephのオーケストレータRookのデータ破壊バグを修正しました - Cybozu Inside Out | サイボウズエンジニアのブログ](https://ift.tt/3ckKU4W)
+- [GitHub - Taraflex/Back2stackoverflow: Userscript for redirect to stackoverflow.com from machine-translated sites](https://github.com/Taraflex/Back2stackoverflow)
+- [GitHub - mbrubeck/robinson: A toy web rendering engine](https://github.com/mbrubeck/robinson)
+- [GitHub - udzura/copenclose: Tracking open/close operations for containers; using either cgroup v2 or namespace.](https://github.com/udzura/copenclose/)
+- [Using Message Passing to Transfer Data Between Threads - The Rust Programming Language](https://doc.rust-lang.org/book/ch16-02-message-passing.html)
+- [\\[B! !!\\] while True: learn() on Steam](https://b.hatena.ne.jp/entry?url=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F619150%2Fwhile_True_learn%2F&utm_campaign=bookmark_share&utm_content=store.steampowered.com&utm_medium=social&utm_source=twitter&utm_term=%E3%82%A2%E3%83%8B%E3%83%A1%E3%81%A8%E3%82%B2%E3%83%BC%E3%83%A0%20%21%21)
+- [GitHub - utam0k/rjvm: Toy JVM is written in Rust](https://github.com/utam0k/rjvm)
+- [「最高の職場＝最高の同僚」は本当か｜Manabu Miyazaki｜note](https://note.com/manabutaro/n/nae32dce943c4)
+- [GitHub - rui314/mold: mold: A Modern Linker](https://github.com/rui314/mold)
+- [GitHub - rui314/mold: mold: A Modern Linker](https://github.com/rui314/mold#internals)
+- [Let\u0026amp;#39;s build a browser engine!    Part 1: Getting started  ](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
+- [Goのruneを理解するためのUnicode知識 - Qiita](https://qiita.com/seihmd/items/4a878e7fa340d7963fee)
+- [add sleep before running E2E tests on Linux · rhysd/tweet-app@3cfcd86  · GitHub](https://github.com/rhysd/tweet-app/actions/runs/515811880)
+- [TypeScriptの表現力で自由なJavaScriptに立ち向かう 〜 Immutable.js 編 〜 | Wantedly Engineer Blog](https://www.wantedly.com/companies/wantedly/post_articles/306005)
+- [Cloud Profiler \u00A0|\u00A0 Google Cloud](https://cloud.google.com/profiler)
+- [Man page of DLOPEN](https://linuxjm.osdn.jp/html/LDP_man-pages/man3/dlopen.3.html)
+- [A Miniature VT102 Running A Miniature PDP11 | Hackaday](http://feedproxy.google.com/~r/hackaday/LgoM/~3/FF_KzVAjn-k/)
+- [                    Vimで大量のファイルの特定の文字列の下に行をペーストする :: biosugar0             ](https://www.biosugar0.com/posts/2021/01/quickfix-paste/)
+- [terashim.com](http://terashim.com)
+- [ブラウザの作り方 - Speaker Deck](https://speakerdeck.com/keiya01/burauzafalsezuo-rifang)
+- [アプリのコンテナ化と排他制御 ~ データ 破壊 だ ﾖ 全員集合 - Speaker Deck](https://speakerdeck.com/sat/apurifalsekontenahua-topai-ta-zhi-yu-deta-po-huai-da-yo-quan-yuan-ji-he)
+- [Weird behavior when swapping from encoding/json to github.com/goccy/go-json · Issue #93 · goccy/go-json · GitHub](https://github.com/goccy/go-json/issues/93)
+- [しまもん | はすみん | RA Grant の中間報告を提出しました](https://shimane.monstar-lab.com/hasumin/ruby-association-grant-program-2020-2)
+
 ## 2021/01/21
 
 
