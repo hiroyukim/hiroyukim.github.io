@@ -1,5 +1,35 @@
 # twitter
 
+## 2021/02/04
+
+
+- [キャラクター画像一枚でより表情豊かなアニメーションを生成するシステムを作ってみた](https://pkhungurn.github.io/talking-head-anime-2/index-ja.html)
+- [時事ドットコム：時事通信社が運営するニュースサイト](https://www.jiji.com/)
+- [Digdag v0.10がリリースされたので簡単な内容紹介 - Secret Ninja Blog](https://blog.torut.tokyo/entry/2021/01/30/185607)
+- [マイクロソフト、NoSQLデータベース「Extensible-Storage-Engine」をオープンソースで公開。25年以上、ExchangeやActive Directoryなどで利用 － Publickey](https://www.publickey1.jp/blog/21/nosqlextensible-storage-engine25exchangeactive_directory.html)
+- [Building Protocols with HTTP](https://httpwg.org/http-extensions/draft-ietf-httpbis-bcp56bis.html#section-4.6)
+- [sqlcommenter](https://google.github.io/sqlcommenter/)
+- [Macのpbcopyをubuntuでも使う - Qiita](https://qiita.com/yoshikyoto/items/1676b925580717c0a443)
+- [zircon - fuchsia - Git at Google](https://fuchsia.googlesource.com/fuchsia/+/master/zircon)
+- [GitHub - pandax381/microps: An implementation of a small TCP/IP protocol stack for learning.](https://github.com/pandax381/microps)
+- [GitHub - bheisler/iai: Experimental one-shot benchmarking/profiling harness for Rust](https://github.com/bheisler/iai)
+- [GitHub - charmbracelet/glow: Render markdown on the CLI, with pizzazz! 💅🏻](https://github.com/charmbracelet/glow)
+- [GitHub - panda5mt/KyogenRV: The Simple 5-staged pipeline RISC-V written in chisel3 for intel FPGA.](https://github.com/panda5mt/KyogenRV)
+- [【ゆっくり解説】2分でAtCoder Beginner Contest 190 - YouTube](https://youtu.be/3MUEmcbHA8c)
+- [GitHub - mozilla-mobile/fenix: Firefox for Android](https://github.com/mozilla-mobile/fenix)
+- [Node.js ES2015/ES6, ES2016 and ES2017 support    ](http://node.green)
+- [原理原則で理解するPHP8のコンパイルと実行処理の仕組み（JITもあるよ） - Qiita](https://qiita.com/tajima_taso/items/18a2c593a3e245c548aa)
+- [5.6 Goes Deep-Six | MySQL Release Engineering](https://mysqlrelease.com/2021/01/5-6-goes-deep-six/)
+- [Netdata - Monitor everything in real time for free with Netdata](https://www.netdata.cloud)
+- [now publishers - Foundations and Trends® in Databases](https://www.nowpublishers.com/DBS)
+- [Loading...](https://leetcode.com/problems/range-sum-query-immutable/)
+- [「宣言的プログラミング」とSDNのひとつの形態](http://www.slideshare.net/npsg/sdn-44864064)
+- [あるシンボルが どのオブジェクトファイル／共有オブジェクトに含まれているか検索するスクリプト](https://aki-yam.hatenablog.com/entry/20091122/1258905636)
+- [GCC の最適化で printf が puts になる場合](http://0xcc.net/blog/archives/000065.html)
+- [StructOpt](https://github.com/TeXitoi/structopt)
+- [GoでSQLにトレーシングコメントを埋め込んで実行する](https://songmu.jp/riji/entry/2021-02-03-go-sql-embed-comment.html)
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
+
 ## 2021/01/28
 
 
