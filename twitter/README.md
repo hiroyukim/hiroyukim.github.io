@@ -1,5 +1,38 @@
 # twitter
 
+## 2021/02/16
+
+
+- [Flash作品を残すために取り組んだこと - プラグイン無しでFlashを再生できるJSライブラリを採用して - ICS MEDIA](https://ics.media/entry/210215/)
+- [VMMを自作してみた - おしぼりの日常](https://oshibori0121.hatenablog.com/entry/2021/02/12/193002)
+- [原理原則から適切なgoroutineの数を考える](https://zenn.dev/imamura_sh/articles/goroutine-29492669efb6aef33306)
+- [Rust 1.50を早めに深掘り - OPTiM TECH BLOG](https://tech-blog.optim.co.jp/entry/2021/02/12/080000)
+- [一般社団法人 国立大学協会\u3000＜国立大学のシラバス＞国立大学のシラバス](https://www.janu.jp/univ/syllabus/syllabus.html)
+- [Linuxメモ : あると便利かもしれないRust製コマンドラインツール - もた日記](https://wonderwall.hatenablog.com/entry/rust-command-line-tools)
+- [CPUエミュレータをつくる。 - レガシーガジェット研究所](https://k-onishi.hatenablog.jp/entry/2021/02/11/153659)
+- [io_uringで高速IO処理（？） | κeenのHappy Hacκing Blog](https://keens.github.io/blog/2021/02/08/io_uringdekousokuioshori___/)
+- [RustとRusotoを使ってさくらのクラウドのオブジェクトストレージAPIでオブジェクトを取得してみた · hnakamur\u0026amp;#39;s blog](https://hnakamur.github.io/blog/2021/02/11/get-object-from-sakura-object-storage-with-rust-and-rusoto/)
+- [macOS で『はじめて読む486』の環境構築 - Qiita](https://qiita.com/zulinx86/items/b5f6f9c27c601dd3fee2)
+- [https://gist.github.com/uzulla/f6c324865597a802298cfa05c3ee5063 SHA256の逆変換を力技で行う(半分ジョーク)プログラムのGo移植版です。 · GitHub](https://gist.github.com/koron/dd9e8e5ce786f133e2253b8650f3d08c)
+- [\\[B! cli\\] 時間がかかる複数のCLIタスクをRust製ツールのPueueで管理する](https://b.hatena.ne.jp/entry?url=https%3A%2F%2Fzenn.dev%2Fgosarami%2Farticles%2Fb777836712294dc22bd4&utm_campaign=bookmark_share&utm_content=zenn.dev&utm_medium=social&utm_source=twitter&utm_term=%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%20Rust)
+- [基本から学ぶストレージ講座(8) ストレージの機能② -  スナップショット | TECH+](https://news.mynavi.jp/article/kisostrage-8/)
+- [cargo-nix/main.rs at 7c56e8e7faebb46bfa4e173293706ce9111c187e · pandaman64/cargo-nix · GitHub](https://github.com/pandaman64/cargo-nix/blob/7c56e8e7faebb46bfa4e173293706ce9111c187e/src/main.rs#L11)
+- [rust-analyzer/architecture.md at d7c99931d05e3723d878bea5dc26766791fa4e69 · rust-analyzer/rust-analyzer · GitHub](https://github.com/rust-analyzer/rust-analyzer/blob/d7c99931d05e3723d878bea5dc26766791fa4e69/docs/dev/architecture.md)
+- [Plan 9におけるTLSの実装 - Plan 9とGo言語のブログ](https://blog.lufia.org/entry/2021/02/10/113000)
+- [GitHub - zellij-org/zellij: Terminal workspace (WIP)](https://github.com/zellij-org/zellij)
+- [Tutorial - Write a Shell in C • Stephen Brennan](https://brennan.io/2015/01/16/write-a-shell-in-c/)
+- [GitHub - gfx/example-ipc-using-pinned-bpf-maps: An example of IPC using pinned BPF maps](https://github.com/gfx/example-ipc-using-pinned-bpf-maps)
+- [Linuxでユーザー空間で動作するプログラムとハードウェアがメモリを共有するためのデバイスドライバ - Qiita](https://qiita.com/ikwzm/items/cc1bb33ff43a491440ea)
+- [why updating DNS is slow](https://wizardzines.com/comics/updating-dns/)
+- [Browser fuzzing at Mozilla - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2021/02/browser-fuzzing-at-mozilla/)
+- [非同期メッセージングでSQSを使う際に検討したこと](https://zenn.dev/imamura_sh/articles/messaging-by-sqs-5dcf8bb592ef91af69e9)
+- [\\[Rust\\] warpを使ってみる - Qiita](https://qiita.com/yagince/items/b60e4e59bbca7f85bcb4)
+- [GitHub - gcpug/docker-appengine-go: https://github.com/orgs/gcpug/packages/container/appengine-go/](https://github.com/gcpug/docker-appengine-go)
+- [CPUキャッシュがGoのコードに与える影響（翻訳）｜TechRacho（テックラッチョ）〜エンジニアの「？」を「！」に〜｜BPS株式会社](https://techracho.bpsinc.jp/hachi8833/2020_06_24/93115)
+- [Docs.rs](http://docs.rs/)
+- [きくドラ | ～ラジオドラマで聴く名作文学～](http://kikudorabungak.main.jp/)
+- [reddit: the front page of the internet](https://www.reddit.com/r/youseeingthisshit/comments/liygj1/cat_interrupts_interview/?utm_source=share&utm_medium=web2x&context=3)
+
 ## 2021/02/04
 
 
