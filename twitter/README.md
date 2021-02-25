@@ -1,5 +1,44 @@
 # twitter
 
+## 2021/02/25
+
+
+- [AtCoder と Rust で始める！競技プログラミング入門（Rust 版 APG4b）](https://zenn.dev/toga/books/apg4b-rust-ver)
+- [RustのHashMapはentryが便利 | κeenのHappy Hacκing Blog](https://keens.github.io/blog/2020/05/23/rustnohashmaphaentrygabenri/)
+- [Rustのturbofishを理解する | κeenのHappy Hacκing Blog](https://keens.github.io/blog/2019/12/03/rustnoturbofishworikaisuru/)
+- [io_uringで高速IO処理（！） | κeenのHappy Hacκing Blog](https://keens.github.io/blog/2021/02/24/io_uringdekousokuioshori____/)
+- [Future proofing - Rust API Guidelines](https://rust-lang.github.io/api-guidelines/future-proofing.html#sealed-traits-protect-against-downstream-implementations-c-sealed)
+- [ジャンプの漫画学校講義録⑤  作家編\u3000稲垣理一郎先生「連載企画の立て方・考え方」 - ジャンプの漫画学校](https://jump-manga-school.hatenablog.com/entry/05)
+- [ダイクストラ法のよくあるミスと落し方 - あなたは嘘つきですかと聞かれたら「YES」と答えるブログ](https://snuke.hatenablog.com/entry/2021/02/22/102734)
+- [海外SF小説のおすすめ人気ランキング50選【不朽の名作から映画化された作品まで！】 | mybest](https://my-best.com/4810)
+- [Go Binary Hacks - GoのシステムコールとGo本体のビルド  #golang - Qiita](https://qiita.com/sonatard/items/815ba89e472047e38ca5)
+- [階層Tree構造のRDBでの表現について。 - Thinking out loud](https://alcuin.hatenablog.com/entry/2014/06/19/050555)
+- [DMA のプログラミング手法 - Windows drivers | Microsoft Docs](https://docs.microsoft.com/ja-jp/windows-hardware/drivers/kernel/dma-programming-techniques)
+- [GitHub - github/hub: A command-line tool that makes git easier to use with GitHub.](https://github.com/github/hub)
+- [GitHub - fujiwara/shapeio: Traffic shaper for Golang io.Reader and io.Writer](https://github.com/fujiwara/shapeio)
+- [\\[B! データベース\\] 「よろしい。ではDBも内製だ」\u3000IIJのインシデント調査システムが内製すぎる件 - ログミーTech](https://b.hatena.ne.jp/entry?url=https%3A%2F%2Flogmi.jp%2Ftech%2Farticles%2F323954&utm_campaign=bookmark_share&utm_content=logmi.jp&utm_medium=social&utm_source=twitter&utm_term=%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%20%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9)
+- [GitHub - x-motemen/ghq: Remote repository management made easy](https://github.com/x-motemen/ghq)
+- [Vec::retain の最適化](https://zenn.dev/helloyuki/scraps/156ea3aedbb3b6)
+- [Ruby Garbage Collection Deep Dive: Tri-Color Mark and Sweep | Jemma Issroff](https://jemma.dev/blog/gc-mark-and-sweep)
+- [\\[B! 学習\\] 文系パパエンジニアが放送大学等でコンピュータサイエンス・数学を学んで理系学士を取りに行く話 - とあるCS学徒のブログ](https://b.hatena.ne.jp/entry?url=https%3A%2F%2Fwbspry.hatenablog.com%2Fentry%2F2021%2F02%2F24%2F111912&utm_campaign=bookmark_share&utm_content=wbspry.hatenablog.com&utm_medium=social&utm_source=twitter&utm_term=%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%20%E5%A4%A7%E5%AD%A6)
+- [\\[B! 文字コード\\] 文字コード再入門 ─ Unicodeでのサロゲートペア、結合文字、正規化、書記素クラスタを理解しよう！ - エンジニアHub｜若手Webエンジニアのキャリアを考える！](https://b.hatena.ne.jp/entry?url=https%3A%2F%2Feh-career.com%2Fengineerhub%2Fentry%2F2020%2F04%2F28%2F103000&utm_campaign=bookmark_share&utm_content=eh-career.com&utm_medium=social&utm_source=twitter&utm_term=%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%20%E6%96%87%E5%AD%97%E3%82%B3%E3%83%BC%E3%83%89)
+- [Goアセンブリ入門 - Qiita](https://qiita.com/Akatsuki_py/items/231350711f9ab6eba95e)
+- [Command-line Interfaces (CLIs) - go.dev](https://go.dev/solutions/clis/)
+- [Man page of PID_NAMESPACES](https://linuxjm.osdn.jp/html/LDP_man-pages/man7/pid_namespaces.7.html)
+- [Rustのイテレータの網羅的かつ大雑把な紹介 - Qiita](https://qiita.com/lo48576/items/34887794c146042aebf1)
+- [2.4 字句解析 - x64 UEFI 対応 OS 自作入門 ～実機で動作する OS を作ってみよう～](https://tenpoku1000.gitbook.io/tenpoku-book/chapter-2/4_token)
+- [６４ビット整数のオーバーフロー判定についてのメモ – tomeapp](http://tomeapp.jp/archives/2301)
+- [符号付き算術演算のオーバーフロー検出アルゴリズム | ある計算機屋さんの手帳](http://my-web-site.iobb.net/~yuki/2017-06/algorithm/overflow/)
+- [クレジットカードの通信プロトコル ISO8583 と戦う - Speaker Deck](https://speakerdeck.com/hiroakis/kurezitutokadofalsetong-xin-purotokoru-iso8583-tozhan-u?slide=18)
+- [入門Go言語仕様 Underlying Type / Go Language Underlying Type - Speaker Deck](https://speakerdeck.com/dqneo/go-language-underlying-type)
+- [Netflix Japan - Watch TV Shows Online, Watch Movies Online](http://www.netflix.com)
+- [The modern packager’s security nightmare – Michał Górny](https://blogs.gentoo.org/mgorny/2021/02/19/the-modern-packagers-security-nightmare/)
+- [Lib.rs — home for Rust crates // Lib.rs](https://lib.rs/)
+- [3 state-of-the-art technologies in Linux and future of the containers #SECKUN - Speaker Deck](https://speakerdeck.com/udzura/3-state-of-the-art-technologies-in-linux-and-future-of-the-containers)
+- [reddit: the front page of the internet](https://www.reddit.com/r/rust/comments/lndyjk/google_will_provide_fundings_for_rewriting/)
+- [io_uringの記事とその反応](https://togetter.com/li/1672957)
+
+
 ## 2021/02/16
 
 
