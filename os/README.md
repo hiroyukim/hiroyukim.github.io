@@ -245,6 +245,7 @@
     + [8086アセンブラ512バイト以内にサイズを抑えることでブートセクタで動作可能なゲームを作る方法を解説した本](http://www.lulu.com/us/en/shop/oscar-toledo-gutierrez/programming-boot-sector-games/paperback/product-24188564.html)
     + [perfから読み解くプロセッサトレースの仕組み](https://qiita.com/RKX1209/items/41758b6dcac6fb2fcee6)
     + [動作中のプロセスに共有ライブラリを注入するプログラム](https://github.com/DavidBuchanan314/dlinject)
+    + [io_uringの記事とその反応](https://togetter.com/li/1672957)
 + Tool
     + [BIOS Simulator Center](https://download.lenovo.com/bsco/index.html)
     + [High-level tracing language for Linux eBPF](https://github.com/iovisor/bpftrace)

@@ -81,6 +81,7 @@
     + [Why databases use ordered indexes but programming uses hash tables about | archive](https://www.evanjones.ca/ordered-vs-unordered-indexes.html) 
     + [sysbench 1.0を使ってみよう](http://hiroi10.hatenablog.com/entry/2019/12/18/000009)
     + [Readings in Databases](https://github.com/rxin/db-readings)
+    + [一人トランザクション技術 Advent Calendar 2016](https://qiita.com/advent-calendar/2016/transaction)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

@@ -73,6 +73,7 @@
 + Manual
     + [dep docs](https://golang.github.io/dep/docs/introduction.html)
 + library
+    + [Goの帯域制限モジュール](https://github.com/fujiwara/shapeio)
     + [sqldb-logger](https://github.com/simukti/sqldb-logger)
     + [色付きの usage が出せる flag パッケージ](https://github.com/relastle/colorflag)
     + [Tracing golang HTTP request latency](https://github.com/tcnksm/go-httpstat)
