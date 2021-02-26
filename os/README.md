@@ -246,6 +246,9 @@
     + [perfから読み解くプロセッサトレースの仕組み](https://qiita.com/RKX1209/items/41758b6dcac6fb2fcee6)
     + [動作中のプロセスに共有ライブラリを注入するプログラム](https://github.com/DavidBuchanan314/dlinject)
     + [io_uringの記事とその反応](https://togetter.com/li/1672957)
+    + [ソケットAPIが遅すぎる？新たなio_uringを試す！](https://medium.com/nttlabs/rust-async-with-io-uring-db3fa2642dd4)
+    + [io_uringを使ってみた](https://masahikosawada.github.io/2020/06/11/Using-io_uring/)
+    + [io_uringで高速IO処理（？）](https://keens.github.io/blog/2021/02/08/io_uringdekousokuioshori___/)
 + Tool
     + [BIOS Simulator Center](https://download.lenovo.com/bsco/index.html)
     + [High-level tracing language for Linux eBPF](https://github.com/iovisor/bpftrace)
