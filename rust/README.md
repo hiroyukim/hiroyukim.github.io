@@ -167,5 +167,6 @@
     + [A service manager that is able to run "traditional" systemd services, written in rust](https://github.com/KillingSpark/rustysd)
     + [Rust を読み書きできるようになるための，公式の問題集](https://github.com/rust-lang/rustlings)
     + [A x86 bootloader written in Rust.](https://github.com/ellbrid/krabs)
+    + [Tokio チュートリアル (日本語訳)](https://zenn.dev/magurotuna/books/tokio-tutorial-ja)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)

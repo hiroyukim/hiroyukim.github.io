@@ -37,6 +37,7 @@
     + [どうしていまFPGAなのか、そしてFPGAとは何か?](https://news.mynavi.jp/kikaku/software_fpga-1/)
     + [本当に私の人生を変えた技術書10選](https://msyksphinz.hatenablog.com/entry/2019/12/28/040000)
     + [RISCVエミュレータ-ELFファイルの実行](http://uzusayuu.hatenadiary.jp/entry/2020/01/02/020312)
+    + [VM環境のCPU仮想化はどうやって実現しているのか ハードウェア仮想化支援機構の仕組](https://logmi.jp/tech/articles/323956)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)

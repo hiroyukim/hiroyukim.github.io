@@ -509,6 +509,7 @@
     + [GOの静的解析ツールを簡単に使うためのエコシステムについて考える #GOLANG](https://tenntenn.dev/ja/posts/analysis-ecosystem/)
     + [近年取り組んでいるメッセージ指向パターンの紹介](https://qiita.com/MiCHiLU/items/977adc303be8663d1aae)
     + [GoのGCを10分で学ぼう](https://qiita.com/gold-kou/items/4431d3dd41606d41732b)
+    + [Goのプロジェクト構成の基本](https://zenn.dev/nobonobo/articles/4fb018a24f9ee9)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack
