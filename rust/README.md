@@ -169,5 +169,6 @@
     + [A x86 bootloader written in Rust.](https://github.com/ellbrid/krabs)
     + [Tokio チュートリアル (日本語訳)](https://zenn.dev/magurotuna/books/tokio-tutorial-ja)
     + [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html)
+    + [RustのPinチョットワカル](https://tech-blog.optim.co.jp/entry/2020/03/05/160000)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
