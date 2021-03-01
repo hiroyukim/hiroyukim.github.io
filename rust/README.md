@@ -170,5 +170,8 @@
     + [Tokio チュートリアル (日本語訳)](https://zenn.dev/magurotuna/books/tokio-tutorial-ja)
     + [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html)
     + [RustのPinチョットワカル](https://tech-blog.optim.co.jp/entry/2020/03/05/160000)
+    + [Rust Language Cheat Sheet](https://cheats.rs/)
+    + [Handling Unix Kill Signals in Rust](https://dev.to/talzvon/handling-unix-kill-signals-in-rust-55g6)
+    + [Application-wide panic handling](https://domwillia.ms/panik/)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
