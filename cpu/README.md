@@ -39,6 +39,7 @@
     + [RISCVエミュレータ-ELFファイルの実行](http://uzusayuu.hatenadiary.jp/entry/2020/01/02/020312)
     + [VM環境のCPU仮想化はどうやって実現しているのか ハードウェア仮想化支援機構の仕組](https://logmi.jp/tech/articles/323956)
     + [Microbenchmarking Return Address Branch Prediction](https://blog.stuffedcow.net/2018/04/ras-microbenchmarks/)
+    + [RISC-Vのハイパーバイザー拡張の仕様書を(ほぼ)日本語化したので公開する](https://msyksphinz.hatenablog.com/entry/2021/03/01/040000)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)
