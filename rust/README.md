@@ -175,5 +175,7 @@
     + [Application-wide panic handling](https://domwillia.ms/panik/)
     + [io_uringで高速IO処理（？）](https://keens.github.io/blog/2021/02/08/io_uringdekousokuioshori___/)
     + [io_uringで高速IO処理（！）](https://keens.github.io/blog/2021/02/24/io_uringdekousokuioshori____/)
+    + [unicode-rs / unicode-segmentation](https://github.com/unicode-rs/unicode-segmentation)
+    + [Hecto: Build your own text editor in Rust](https://www.philippflenker.com/hecto/)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)

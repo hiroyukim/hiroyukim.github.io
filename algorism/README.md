@@ -136,6 +136,7 @@
     + [コーディング面接対策のために解きたいLeetCode 60問](https://1kohei1.com/leetcode/)
     + [Smoothsort](https://www.keithschwarz.com/smoothsort/)
     + [マイクロソフトリサーチの研究者らによる，データサイエンス・機械学習の基礎となる数理的な側面を解説した教科書](https://www.cs.cornell.edu/jeh/book.pdf)
+    + [回文を列挙する](https://qiita.com/Shawna/items/17ed870cd4c8c0f1f478)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)
