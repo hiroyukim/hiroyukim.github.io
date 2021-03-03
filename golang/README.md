@@ -516,6 +516,7 @@
     + [A Proposal for Adding Generics to Go](https://blog.golang.org/generics-proposal)
     + [The Next Step for Generics](https://blog.golang.org/generics-next-step)
     + [Go 1.16連載が始まります](https://future-architect.github.io/articles/20210207/)
+    + [Configor](https://github.com/jinzhu/configor)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack
