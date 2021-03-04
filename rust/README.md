@@ -177,5 +177,7 @@
     + [io_uringで高速IO処理（！）](https://keens.github.io/blog/2021/02/24/io_uringdekousokuioshori____/)
     + [unicode-rs / unicode-segmentation](https://github.com/unicode-rs/unicode-segmentation)
     + [Hecto: Build your own text editor in Rust](https://www.philippflenker.com/hecto/)
+    + [メモリをダンプしてRustのsliceとVecを理解する](https://cipepser.hatenablog.com/entry/rust-memory)
+    + [rustで動的にバッファを確保する方法](https://mmi.hatenablog.com/entry/2017/08/06/230823)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
