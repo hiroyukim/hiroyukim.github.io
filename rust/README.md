@@ -179,5 +179,6 @@
     + [Hecto: Build your own text editor in Rust](https://www.philippflenker.com/hecto/)
     + [メモリをダンプしてRustのsliceとVecを理解する](https://cipepser.hatenablog.com/entry/rust-memory)
     + [rustで動的にバッファを確保する方法](https://mmi.hatenablog.com/entry/2017/08/06/230823)
+    + [安定化間近！Rustのimpl Traitを今こそ理解する](https://qnighy.hatenablog.com/entry/2018/01/28/220000)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
