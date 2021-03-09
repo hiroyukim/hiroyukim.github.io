@@ -181,5 +181,13 @@
     + [rustで動的にバッファを確保する方法](https://mmi.hatenablog.com/entry/2017/08/06/230823)
     + [安定化間近！Rustのimpl Traitを今こそ理解する](https://qnighy.hatenablog.com/entry/2018/01/28/220000)
     + [全文検索エンジン](https://github.com/bayard-search/bayard)
+    + [Rustとquicksilverでwasmゲームを作ってみる](https://qiita.com/yukinarit/items/43f2ebcf1897eca7609a)
+    + [Rust+Quinnで大量のデータを送信する](https://tech.aptpod.co.jp/entry/2020/12/04/100000)
+    + [Speedy2D](https://github.com/QuantumBadger/Speedy2D)
+    + [quiche is an implementation of the QUIC ](https://github.com/cloudflare/quiche)
+    + [ LÖVE is an *awesome* framework](https://love2d.org/)
+    + [ggez is a Rust library to create a Good Game Easily](https://github.com/ggez/ggez)
+    + [Piston - a modular open source game engine](https://www.piston.rs/)
+    + [nushell](https://github.com/nushell/nushell)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
