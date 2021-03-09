@@ -37,6 +37,8 @@
     + [Linux kernel v2.6.20 network stackを読んでみる - IP受信編](https://qiita.com/IK_PE/items/4d868e8940885f46e0da)
     + [LinuxカーネルのTCPスタックとシステムコールの組み合わせによる手法よりも高速にポートのListenチェックを行う](https://hb.matsumoto-r.jp/entry/2017/02/16/094040)
     + [はてなにおけるLinuxネットワークスタックパフォーマンス改善](https://speakerdeck.com/yuukit/linux-network-performance-improvement-at-hatena)
+    + [【図解】HTTP/3 (HTTP over QUIC) の仕組み〜UDPのメリット,各バージョンの違い(v1.0/v1.1/v2/v3)〜](https://milestone-of-se.nesuke.com/l7protocol/http/http3-over-quic/)
+    + [ネットワーク ゲームにおけるTCPとUDPの使い分け](https://www.slideshare.net/yhonjo/tcpudp-81497235)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)
