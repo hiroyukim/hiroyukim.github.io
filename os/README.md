@@ -249,6 +249,9 @@
     + [ソケットAPIが遅すぎる？新たなio_uringを試す！](https://medium.com/nttlabs/rust-async-with-io-uring-db3fa2642dd4)
     + [io_uringを使ってみた](https://masahikosawada.github.io/2020/06/11/Using-io_uring/)
     + [io_uringで高速IO処理（？）](https://keens.github.io/blog/2021/02/08/io_uringdekousokuioshori___/)
+    + [eBPFやLD_PRELOADを利用した共有ライブラリの関数フック](https://tech.tier4.jp/entry/2021/03/10/160000)
+    + [永続メモリ入門](https://blogs.oracle.com/oracle4engineer/persistent-memory-primer-jp)
+    + [2021/啓蟄(前) 1000コンテナ起動実験，eBPFの統計情報，CNDO2021](https://www.notion.so/2021-1000-eBPF-CNDO2021-cde7625e8f054a34a604936b13828d12)
 + Tool
     + [BIOS Simulator Center](https://download.lenovo.com/bsco/index.html)
     + [High-level tracing language for Linux eBPF](https://github.com/iovisor/bpftrace)

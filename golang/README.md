@@ -517,6 +517,8 @@
     + [The Next Step for Generics](https://blog.golang.org/generics-next-step)
     + [Go 1.16連載が始まります](https://future-architect.github.io/articles/20210207/)
     + [Configor](https://github.com/jinzhu/configor)
+    + [Goのhttp.Requestのキャンセルの仕組みを理解する](https://qiita.com/behiron/items/9b6975de6ff470c71e06)
+    + [Better C - Goと整数](https://qiita.com/sonatard/items/464a9d45c689386edfe1)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

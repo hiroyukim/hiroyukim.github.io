@@ -189,5 +189,13 @@
     + [ggez is a Rust library to create a Good Game Easily](https://github.com/ggez/ggez)
     + [Piston - a modular open source game engine](https://www.piston.rs/)
     + [nushell](https://github.com/nushell/nushell)
+    + [LSD (LSDeluxe)](https://github.com/Peltoche/lsd)
+    + [Rusts Universes](https://aloso.github.io/2021/03/10/rusts-universes.html)
+    + [Rust's Type System is Turing-Complete](https://sdleffler.github.io/RustTypeSystemTuringComplete/)
+    + [Writing a 3D Shooter using rg3d - #1 - Character Controller](https://rg3d.rs/tutorials/2021/03/05/tutorial1.html)
+    + [serde_dynamodb](https://github.com/mockersf/serde_dynamodb)
+    + [ruffle is a Flash Player emulator built in the Rust programming language.](https://ruffle.rs/)
+    + [Rustでグラフを表現するにはTyped Arenaが便利](https://qnighy.hatenablog.com/entry/2017/04/28/070000)
+    + [Rustのモジュールを詳細に理解する(1) モジュール入門 (この回は簡単です！)](https://qnighy.hatenablog.com/entry/2019/05/06/190000)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
