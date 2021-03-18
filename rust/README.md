@@ -197,5 +197,10 @@
     + [ruffle is a Flash Player emulator built in the Rust programming language.](https://ruffle.rs/)
     + [Rustでグラフを表現するにはTyped Arenaが便利](https://qnighy.hatenablog.com/entry/2017/04/28/070000)
     + [Rustのモジュールを詳細に理解する(1) モジュール入門 (この回は簡単です！)](https://qnighy.hatenablog.com/entry/2019/05/06/190000)
+    + [TreeにIteratorを実装していく記事](https://aloso.github.io/2021/03/09/creating-an-iterator)
+    + [Koans for the Rust programming language](https://github.com/crazymykl/rust-koans)
+    + [A window manager for adventurers](https://github.com/leftwm/leftwm)
+    + [Rust製のAWK（っぽい言語）の実装](https://github.com/ezrosent/frawk)
+    + [メモリアロケーションの負荷を軽減したり、複雑なグラフなどの自己参照データを扱いやすくするArenaについて詳しく解説](https://manishearth.github.io/blog/2021/03/15/arenas-in-rust/)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)

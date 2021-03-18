@@ -252,6 +252,10 @@
     + [eBPFやLD_PRELOADを利用した共有ライブラリの関数フック](https://tech.tier4.jp/entry/2021/03/10/160000)
     + [永続メモリ入門](https://blogs.oracle.com/oracle4engineer/persistent-memory-primer-jp)
     + [2021/啓蟄(前) 1000コンテナ起動実験，eBPFの統計情報，CNDO2021](https://www.notion.so/2021-1000-eBPF-CNDO2021-cde7625e8f054a34a604936b13828d12)
+    + [DockerイメージのビルドをBuildKitで並列実行し高速化する](https://kotaroooo0-dev.hatenablog.com/entry/2020/06/10/225333)
+    + [BPF CO-RE バイナリはどのようにビルドされるか](https://udzura.hatenablog.jp/entry/2021/03/15/201530)
+    + [5.11 で追加された OverlayFS の非特権マウント（1）](https://tenforward.hatenablog.com/entry/2021/03/14/225049)
+    + [APIとかABIとかシステムコールとか](https://satoru-takeuchi.hatenablog.com/entry/2020/03/26/011858)
 + Tool
     + [BIOS Simulator Center](https://download.lenovo.com/bsco/index.html)
     + [High-level tracing language for Linux eBPF](https://github.com/iovisor/bpftrace)

@@ -138,6 +138,9 @@
     + [マイクロソフトリサーチの研究者らによる，データサイエンス・機械学習の基礎となる数理的な側面を解説した教科書](https://www.cs.cornell.edu/jeh/book.pdf)
     + [回文を列挙する](https://qiita.com/Shawna/items/17ed870cd4c8c0f1f478)
     + [Data-structures-algorithms-for-interviews](https://github.com/Intervue/Data-structures-algorithms-for-interviews)
+    + [単語数をカウントするプログラムの各言語ベンチマーク](https://benhoyt.com/writings/count-words/)
+    + [why GNU grep is fast](https://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html)
+    + [コグニカルは「分かりやすさ」と「心地良さ」を追求した学習サイト](https://cognicull.com/ja)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)
