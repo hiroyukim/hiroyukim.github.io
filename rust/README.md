@@ -202,5 +202,8 @@
     + [A window manager for adventurers](https://github.com/leftwm/leftwm)
     + [Rust製のAWK（っぽい言語）の実装](https://github.com/ezrosent/frawk)
     + [メモリアロケーションの負荷を軽減したり、複雑なグラフなどの自己参照データを扱いやすくするArenaについて詳しく解説](https://manishearth.github.io/blog/2021/03/15/arenas-in-rust/)
+    + [RustはOS界の銀の弾丸になりうるか](https://docs.google.com/presentation/d/1RRccgmR-EsnfanWrpyywvx4fDbohEHWuqsAoMAT6YUY/edit#slide=id.gc88b8602b4_8_26)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
+    + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)
+    + [build.rs から標準出力への出力内容は -vv フラグをつけると確認できる](https://matsu7874.hatenablog.com/entry/2021/03/20/160150)

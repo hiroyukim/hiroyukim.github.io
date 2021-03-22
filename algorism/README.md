@@ -141,6 +141,10 @@
     + [単語数をカウントするプログラムの各言語ベンチマーク](https://benhoyt.com/writings/count-words/)
     + [why GNU grep is fast](https://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html)
     + [コグニカルは「分かりやすさ」と「心地良さ」を追求した学習サイト](https://cognicull.com/ja)
+    + [データ検証などで利用するMerkle Treeのメモ](https://siguniang.wordpress.com/2015/04/11/notes-on-merkle-tree/)
+    + [Prefix Sum](https://en.wikipedia.org/wiki/Prefix_sum#Algorithm_2:_Work-efficient)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)
+    + [クラウドを支えるこれからの暗号技術](https://herumi.github.io/ango/)
+    + [ベイズフィルタの本](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
