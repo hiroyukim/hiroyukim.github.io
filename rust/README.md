@@ -189,5 +189,6 @@
     + [ggez is a Rust library to create a Good Game Easily](https://github.com/ggez/ggez)
     + [Piston - a modular open source game engine](https://www.piston.rs/)
     + [nushell](https://github.com/nushell/nushell)
+    + [Rustで独自のスライス型を定義する本](https://lo48576.gitlab.io/rust-custom-slice-book/)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
