@@ -189,6 +189,25 @@
     + [ggez is a Rust library to create a Good Game Easily](https://github.com/ggez/ggez)
     + [Piston - a modular open source game engine](https://www.piston.rs/)
     + [nushell](https://github.com/nushell/nushell)
+<<<<<<< HEAD
     + [Rustで独自のスライス型を定義する本](https://lo48576.gitlab.io/rust-custom-slice-book/)
+=======
+    + [LSD (LSDeluxe)](https://github.com/Peltoche/lsd)
+    + [Rusts Universes](https://aloso.github.io/2021/03/10/rusts-universes.html)
+    + [Rust's Type System is Turing-Complete](https://sdleffler.github.io/RustTypeSystemTuringComplete/)
+    + [Writing a 3D Shooter using rg3d - #1 - Character Controller](https://rg3d.rs/tutorials/2021/03/05/tutorial1.html)
+    + [serde_dynamodb](https://github.com/mockersf/serde_dynamodb)
+    + [ruffle is a Flash Player emulator built in the Rust programming language.](https://ruffle.rs/)
+    + [Rustでグラフを表現するにはTyped Arenaが便利](https://qnighy.hatenablog.com/entry/2017/04/28/070000)
+    + [Rustのモジュールを詳細に理解する(1) モジュール入門 (この回は簡単です！)](https://qnighy.hatenablog.com/entry/2019/05/06/190000)
+    + [TreeにIteratorを実装していく記事](https://aloso.github.io/2021/03/09/creating-an-iterator)
+    + [Koans for the Rust programming language](https://github.com/crazymykl/rust-koans)
+    + [A window manager for adventurers](https://github.com/leftwm/leftwm)
+    + [Rust製のAWK（っぽい言語）の実装](https://github.com/ezrosent/frawk)
+    + [メモリアロケーションの負荷を軽減したり、複雑なグラフなどの自己参照データを扱いやすくするArenaについて詳しく解説](https://manishearth.github.io/blog/2021/03/15/arenas-in-rust/)
+    + [RustはOS界の銀の弾丸になりうるか](https://docs.google.com/presentation/d/1RRccgmR-EsnfanWrpyywvx4fDbohEHWuqsAoMAT6YUY/edit#slide=id.gc88b8602b4_8_26)
+>>>>>>> 8b54c7e2bcb30c30bf1c251b76d810686a05aceb
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
+    + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)
+    + [build.rs から標準出力への出力内容は -vv フラグをつけると確認できる](https://matsu7874.hatenablog.com/entry/2021/03/20/160150)

@@ -43,3 +43,5 @@
     + [memo](https://github.com/mattn/memo)
 + grep
     + [rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.](https://github.com/phiresky/ripgrep-all)
++ slide
+  + [md2googleslides – Markdown to Google Slides](https://github.com/googleworkspace/md2googleslides)
