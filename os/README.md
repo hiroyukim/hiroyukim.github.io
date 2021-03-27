@@ -290,3 +290,4 @@
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)
     + [mold: modern linker](https://docs.google.com/presentation/d/1_0806IoOxwyL5QXgw14Q_4bJd6cSbGBYA6N0GC-RRWc/edit#slide=id.p)
     + [Kernel/VM資料](https://connpass.com/event/201059/presentation/)
+    + [Wasmで広がるEnvoyとIstioの世界](https://speakerdeck.com/mathetake/wasmdeguang-garuenvoytoistiofalseshi-jie)

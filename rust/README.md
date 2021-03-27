@@ -189,9 +189,7 @@
     + [ggez is a Rust library to create a Good Game Easily](https://github.com/ggez/ggez)
     + [Piston - a modular open source game engine](https://www.piston.rs/)
     + [nushell](https://github.com/nushell/nushell)
-<<<<<<< HEAD
     + [Rustで独自のスライス型を定義する本](https://lo48576.gitlab.io/rust-custom-slice-book/)
-=======
     + [LSD (LSDeluxe)](https://github.com/Peltoche/lsd)
     + [Rusts Universes](https://aloso.github.io/2021/03/10/rusts-universes.html)
     + [Rust's Type System is Turing-Complete](https://sdleffler.github.io/RustTypeSystemTuringComplete/)
@@ -206,7 +204,21 @@
     + [Rust製のAWK（っぽい言語）の実装](https://github.com/ezrosent/frawk)
     + [メモリアロケーションの負荷を軽減したり、複雑なグラフなどの自己参照データを扱いやすくするArenaについて詳しく解説](https://manishearth.github.io/blog/2021/03/15/arenas-in-rust/)
     + [RustはOS界の銀の弾丸になりうるか](https://docs.google.com/presentation/d/1RRccgmR-EsnfanWrpyywvx4fDbohEHWuqsAoMAT6YUY/edit#slide=id.gc88b8602b4_8_26)
->>>>>>> 8b54c7e2bcb30c30bf1c251b76d810686a05aceb
+    + [build.rs から標準出力への出力内容は -vv フラグをつけると確認できる](https://matsu7874.hatenablog.com/entry/2021/03/20/160150)
+    + [Rustで数値計算](https://zenn.dev/termoshtt/books/b4bce1b9ea5e6853cb07)
+    + [Guide to Rustc Development](https://rustc-dev-guide.rust-lang.org/)
+    + [async/awaitと合成可能性](https://keens.github.io/blog/2019/02/09/async_awaittogouseikanousei/)
+    + [Rustのパターンっぽいやつメモ](https://gist.github.com/qnighy/be99c2ece6f3f4b1248608a04e104b38)
+    + [RustでつくるRuby](https://speakerdeck.com/sisshiki1969/fukuoka-dot-rb-number-202-rustdetukururuby)
+    + [Rustの非同期周りの問題点というか知らないとはまりやすい罠とかを書き連ねた記事](https://tomaka.medium.com/a-look-back-at-asynchronous-rust-d54d63934a1c)
+    + [The Case for the Typestate Pattern - The Typestate Pattern itself](https://www.novatec-gmbh.de/en/blog/the-case-for-the-typestate-pattern-the-typestate-pattern-itself/)
+    + [Rustで書かれたKubernetesのためのWASM実行環境Krustletとは？](https://thinkit.co.jp/article/17560)
+    + [ipc-channel](https://github.com/servo/ipc-channel)
+    + [RustでProtocol BuffersからGraphQL BFFを自動生成してみた知見](https://www.wantedly.com/companies/wantedly/post_articles/314403#_=_)
+    + [Multimap を Rust でも使う（と、クレートの選び方）](https://blog-dry.com/entry/2021/03/26/174648)
+    + [Rust 1.51を早めに深掘り](https://tech-blog.optim.co.jp/entry/2021/03/26/080000)
+    + [RustのドローイングライブラリPlottersの紹介](https://lab.mo-t.com/blog/rust-plotters)
+    + [Rust meets Lucet：ネイティブアプリでwasm形式の動的リンクプラグインを実行する](https://blog.rust-jp.rs/tatsuya6502/posts/2019-12-wasm-based-plugin/)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)

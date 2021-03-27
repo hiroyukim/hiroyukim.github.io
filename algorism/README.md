@@ -143,6 +143,7 @@
     + [コグニカルは「分かりやすさ」と「心地良さ」を追求した学習サイト](https://cognicull.com/ja)
     + [データ検証などで利用するMerkle Treeのメモ](https://siguniang.wordpress.com/2015/04/11/notes-on-merkle-tree/)
     + [Prefix Sum](https://en.wikipedia.org/wiki/Prefix_sum#Algorithm_2:_Work-efficient)
+    + [DISTRIBUTED SYSTEMS A free online class](http://www.distributedsystemscourse.com/)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)
