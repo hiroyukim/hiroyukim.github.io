@@ -41,6 +41,8 @@
     + [Microbenchmarking Return Address Branch Prediction](https://blog.stuffedcow.net/2018/04/ras-microbenchmarks/)
     + [RISC-Vのハイパーバイザー拡張の仕様書を(ほぼ)日本語化したので公開する](https://msyksphinz.hatenablog.com/entry/2021/03/01/040000)
     + [簡単なCPUを作ってみる](https://sagara-works.jp/research-and-development/cpu/)
+    + [ビット演算やSIMDに関するテクニックを集めるためのwiki](https://scrapbox.io/bitwise-simd/)
+    + [RISC-Vがリンクレジスタを2つ用意しているのは何故なのか](https://msyksphinz.hatenablog.com/entry/2021/04/04/040000)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)

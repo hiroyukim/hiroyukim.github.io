@@ -144,6 +144,11 @@
     + [データ検証などで利用するMerkle Treeのメモ](https://siguniang.wordpress.com/2015/04/11/notes-on-merkle-tree/)
     + [Prefix Sum](https://en.wikipedia.org/wiki/Prefix_sum#Algorithm_2:_Work-efficient)
     + [DISTRIBUTED SYSTEMS A free online class](http://www.distributedsystemscourse.com/)
+    + [40行以内で正規表現エンジンを構築](https://postd.cc/build-your-own-regex/)
+    + [Union Find の各操作](https://hcpc-hokudai.github.io/archive/structure_union_find_001.pdf)
+    + [Elasticsearchで関連キーワード機能がどれだけ低コストで実装できるかの旅路](https://www.m3tech.blog/entry/es-related-keywords)
+    + [Python言語による実務で使える100+の最適化問題](https://mikiokubo.github.io/opt100/)
+    + [NVIDIAの研究者、Peter Shirleyが書いた「週末でレイトレーシングを(Ray Tracing in One Weekend)」という本](https://raytracing.github.io/)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

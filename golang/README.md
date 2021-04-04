@@ -521,6 +521,8 @@
     + [Better C - Goと整数](https://qiita.com/sonatard/items/464a9d45c689386edfe1)
     + [Goアセンブリの書き方](https://blog.lufia.org/entry/2021/03/17/113000)
     + [GoのSSA最適化制御オプション](https://qiita.com/tooru/items/a55bcdac0500d9a93f39)
+    + [goの歴史などが全部書かれている](https://golang.design/)
+    + [Go で型がインタフェースを実装している事を保証するには](https://mattn.kaoriya.net/software/lang/go/20190702104455.htm)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

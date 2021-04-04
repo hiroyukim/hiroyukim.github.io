@@ -21,3 +21,5 @@
     + [C++コルーチン拡張メモ](https://qiita.com/yohhoy/items/aeb3c01d02d0f640c067)
     + [ClangdでC++ソースコードを補完する際にコンパイルオプションを指定する方法](http://uchan.hateblo.jp/entry/2018/12/29/104132)
     + [C++入門　AtCoder Programming Guide for beginners](https://atcoder.jp/contests/APG4b)
+    + [std::atomic の挙動がメモリオーダーによりどう異なるか](https://uchan.hateblo.jp/entry/2020/06/14/172543)
+    + [C++マルチスレッド一巡り](https://zenn.dev/yohhoy/books/cpp-stdlib-multithreading)

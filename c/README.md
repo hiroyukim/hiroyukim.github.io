@@ -75,6 +75,7 @@
     + [Asyncify を使ってみた](https://qiita.com/chikoski/items/ed78aace5452a94a49d5)
     + [INT02-C. 整数変換のルールを理解する](https://www.jpcert.or.jp/sc-rules/c-int02-c.html)
     + [Obfuscated Tiny C Compiler](https://bellard.org/otcc/)
+    + [マルチスレッドのプログラミング](https://docs.oracle.com/cd/E19253-01/819-0390/index.html)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

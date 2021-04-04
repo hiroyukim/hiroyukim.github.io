@@ -219,6 +219,8 @@
     + [Rust 1.51を早めに深掘り](https://tech-blog.optim.co.jp/entry/2021/03/26/080000)
     + [RustのドローイングライブラリPlottersの紹介](https://lab.mo-t.com/blog/rust-plotters)
     + [Rust meets Lucet：ネイティブアプリでwasm形式の動的リンクプラグインを実行する](https://blog.rust-jp.rs/tatsuya6502/posts/2019-12-wasm-based-plugin/)
+    + [Rustの自作コンテナランタイム](https://github.com/utam0k/youki)
+    + [RustからCPU拡張命令を使ってみる](https://keens.github.io/blog/2021/04/04/rustkaracpukakuchoumeireiwotsukattemiru/)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)

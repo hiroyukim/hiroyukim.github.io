@@ -25,3 +25,5 @@
     + [コーディングインタビューの対策とその意義 (1/2)](https://en9.hatenablog.com/entry/2019/12/22/134613)
     + [やる夫で学ぶディジタル信号処理](http://www.ic.is.tohoku.ac.jp/~swk/lecture/yaruodsp/main.html)
     + [動作するきれいなコード: SeleniumConf Tokyo 2019 基調講演文字起こし](https://t-wada.hatenablog.jp/entry/clean-code-that-works)
+    + [大喜利から学ぶ #問いのデザイン IPPONグランプリのお題の9パターン](https://note.com/yuki_anzai/n/n1384db3cc64e)
+    + [ToDoリストのタスクを容赦なく切り捨てて優先順位をつける方法](https://www.lifehacker.jp/2014/11/141123todo_task.html)
