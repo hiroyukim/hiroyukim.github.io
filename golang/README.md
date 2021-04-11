@@ -523,6 +523,8 @@
     + [GoのSSA最適化制御オプション](https://qiita.com/tooru/items/a55bcdac0500d9a93f39)
     + [goの歴史などが全部書かれている](https://golang.design/)
     + [Go で型がインタフェースを実装している事を保証するには](https://mattn.kaoriya.net/software/lang/go/20190702104455.htm)
+    + [パッケージの依存関係をweb上で確認](https://gographs.io/)
+    + [Go言語でGBAエミュレータ](https://github.com/pokemium/mettaur)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

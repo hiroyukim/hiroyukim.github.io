@@ -149,6 +149,8 @@
     + [Elasticsearchで関連キーワード機能がどれだけ低コストで実装できるかの旅路](https://www.m3tech.blog/entry/es-related-keywords)
     + [Python言語による実務で使える100+の最適化問題](https://mikiokubo.github.io/opt100/)
     + [NVIDIAの研究者、Peter Shirleyが書いた「週末でレイトレーシングを(Ray Tracing in One Weekend)」という本](https://raytracing.github.io/)
+    + [アルゴリズム・AtCoder のための数学【前編：数学的知識編①】](https://qiita.com/e869120/items/b4a0493aac567c6a7240)
+    + [アルゴリズム・AtCoder のための数学【中編：数学的知識編②】](https://qiita.com/e869120/items/bd7cfd2dbd2706cb8657)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

@@ -35,3 +35,4 @@
     + [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj)
     + [低レイヤを知りたい人のためのCコンパイラ作成入門](https://www.sigbus.info/compilerbook)
     + [https://speakerdeck.com/drumato/cybozu-labs-youth-10th](https://speakerdeck.com/drumato/cybozu-labs-youth-10th)
+    + [LR構文解析の原理の解説](https://www.jstage.jst.go.jp/article/jssst/31/1/31_1_30/_article/-char/ja/)

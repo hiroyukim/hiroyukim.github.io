@@ -129,6 +129,8 @@
     + [Avoiding dropped connections in nginx containers with “STOPSIGNAL SIGQUIT”](https://ubuntu.com/blog/avoiding-dropped-connections-in-nginx-containers-with-stopsignal-sigquit)
     + [Reversing a real-world 249 bytes backdoor!](https://anee.me/reversing-a-real-world-249-bytes-backdoor-aadd876c0a32)
     + [same-site/cross-site, same-origin/cross-originをちゃんと理解する](https://zenn.dev/agektmr/articles/f8dcd345a88c97)
+    + [超解像度が加速するコンソール端末用フォント Illusion シリーズ](https://number-shot.net/blog/illusion-the-console-terminal-font/)
+    + [WebRTC を今から学ぶ人に向けて](https://zenn.dev/voluntas/scraps/82b9e111f43ab3)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

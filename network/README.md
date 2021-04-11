@@ -39,6 +39,7 @@
     + [はてなにおけるLinuxネットワークスタックパフォーマンス改善](https://speakerdeck.com/yuukit/linux-network-performance-improvement-at-hatena)
     + [【図解】HTTP/3 (HTTP over QUIC) の仕組み〜UDPのメリット,各バージョンの違い(v1.0/v1.1/v2/v3)〜](https://milestone-of-se.nesuke.com/l7protocol/http/http3-over-quic/)
     + [ネットワーク ゲームにおけるTCPとUDPの使い分け](https://www.slideshare.net/yhonjo/tcpudp-81497235)
+    + [RFC 8085 - UDP Usage Guidelines 日本語訳](https://tex2e.github.io/rfc-translater/html/rfc8085.html)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)

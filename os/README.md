@@ -291,3 +291,7 @@
     + [mold: modern linker](https://docs.google.com/presentation/d/1_0806IoOxwyL5QXgw14Q_4bJd6cSbGBYA6N0GC-RRWc/edit#slide=id.p)
     + [Kernel/VM資料](https://connpass.com/event/201059/presentation/)
     + [Wasmで広がるEnvoyとIstioの世界](https://speakerdeck.com/mathetake/wasmdeguang-garuenvoytoistiofalseshi-jie)
+    + [実践的低レイヤプログラミング](https://tanakamura.github.io/pllp/docs/)
+    + [第5回 APICと割り込み/第6回 メモリ管理](https://www.youtube.com/watch?v=sZbUQouuYho)
+    + [linuxでコマンドのベンチマーク取るときに使うコマンドは time(1) ではなく multitime(1) がオススメ](https://manpages.debian.org/testing/multitime/multitime.1.en.html)
+    + [組込みLinux用Flutterバックエンド](https://github.com/sony/flutter-embedded-linux)
