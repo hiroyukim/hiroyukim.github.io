@@ -43,3 +43,4 @@
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)
+    + [アプリケーション開発者向けHTTP使い方ガイド](https://httpwg.org/http-extensions/draft-ietf-httpbis-bcp56bis.html#section-4.6)

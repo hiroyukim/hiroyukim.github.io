@@ -35,3 +35,4 @@
     + [2019 Javascript engine 俯瞰](http://abcdef.gets.b6n.ch/entry/2019/12/11/121840)
     + [TypeScript で書く React コンポーネントを基礎から理解する](https://qiita.com/sangotaro/items/3ea63110517a1b66745b)
     + [実践 Off the main thread](https://yosuke-furukawa.hatenablog.com/entry/2019/12/31/050438)
+    + [Reactを自作しよう](https://zenn.dev/akatsuki/articles/a2cbd26488fa151b828b)

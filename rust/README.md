@@ -229,6 +229,8 @@
     + [Rust CLI Game of Life tutorial - PART 1](https://dev.to/jbarszczewski/rust-cli-game-of-life-tutorial-part-1-57pp)
     + [webrtcH4cKS: ~ How Go-based Pion attracted WebRTC Mass – Q&A with Sean Dubois](https://webrtchacks.com/how-go-based-pion-attracted-webrtc-mass-qa-with-sean-dubois/)
     + [RustでGCを書くときの課題や各種ライブラリの設計ポイントなどを解説](https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/)
+    + [serdeにまつわる3つの小話](https://tech-blog.optim.co.jp/entry/2020/12/23/200000)
+    + [rust-webapp-tutorial](https://github.com/yuk1ty/rust-webapp-tutorial)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)

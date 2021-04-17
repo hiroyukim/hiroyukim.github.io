@@ -136,3 +136,5 @@
     + [envoy](https://github.com/envoyproxy/envoy)
     + [Terraformer](https://github.com/GoogleCloudPlatform/terraformer)
     + [OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.](https://github.com/cube2222/octosql)
+    + [The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html)
+    + [NGINXクックブック 設定レシピ集（日本語版）](https://www.nginx.co.jp/resources/ebooks/nginx-cookbook-jp/?utm_medium=owned-social&utm_source=linkedin&utm_campaign=apcj_japan-nx_mad&utm_content=eb)

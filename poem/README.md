@@ -27,3 +27,6 @@
     + [動作するきれいなコード: SeleniumConf Tokyo 2019 基調講演文字起こし](https://t-wada.hatenablog.jp/entry/clean-code-that-works)
     + [大喜利から学ぶ #問いのデザイン IPPONグランプリのお題の9パターン](https://note.com/yuki_anzai/n/n1384db3cc64e)
     + [ToDoリストのタスクを容赦なく切り捨てて優先順位をつける方法](https://www.lifehacker.jp/2014/11/141123todo_task.html)
+    + [チャットで話すとやる気が出るシステムを作る](https://scrapbox.io/nishio/%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%81%A7%E8%A9%B1%E3%81%99%E3%81%A8%E3%82%84%E3%82%8B%E6%B0%97%E3%81%8C%E5%87%BA%E3%82%8B%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E4%BD%9C%E3%82%8B)
+    + [「生涯現役開発者」を貫く40代～60代のソフトウェア開発者たち](https://gigazine.net/news/20170426-developer-who-hate-being-manager/)
+    + [コードリーディングのコツは極力コードを読まないこと](https://note.com/simplearchitect/n/n8cd219056536)

@@ -295,3 +295,8 @@
     + [第5回 APICと割り込み/第6回 メモリ管理](https://www.youtube.com/watch?v=sZbUQouuYho)
     + [linuxでコマンドのベンチマーク取るときに使うコマンドは time(1) ではなく multitime(1) がオススメ](https://manpages.debian.org/testing/multitime/multitime.1.en.html)
     + [組込みLinux用Flutterバックエンド](https://github.com/sony/flutter-embedded-linux)
+    + [Bottlerocket、Calico、eBPF で EKS ネットワークをターボチャージする](https://aws.amazon.com/jp/blogs/news/turbocharging-eks-networking-with-bottlerocket-calico-and-ebpf/)
+    + [マルチコアのCPUを使い切って圧縮を速くする](https://takuya-1st.hatenablog.jp/entry/2021/04/13/031349)
+    + [debuginfod（elfutils debuginfo サーバー）の概要](https://rheb.hatenablog.com/entry/introducing-debuginfod)
+    + [ebpf blog](https://ebpf.io/blog)
+    + [Linux Socket Filtering aka Berkeley Packet Filter (BPF)](https://github.com/torvalds/linux/blob/master/Documentation/networking/filter.rst)

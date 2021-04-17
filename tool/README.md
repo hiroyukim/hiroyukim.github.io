@@ -20,6 +20,7 @@
     + [fd](https://github.com/sharkdp/fd)
     + [Ultimate Plumber is a tool for writing Linux pipes with instant live preview](https://github.com/akavel/up)
     + [A ncurses file manager written in C with vim like keybindings](https://github.com/mananapr/cfiles)
+    + [SSHFS](https://github.com/libfuse/sshfs)
 + server
     + [htop](https://github.com/hishamhm/htop)
     + [A visualizer for CRONTAB](https://github.com/takumakanari/cronv)
