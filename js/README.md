@@ -36,3 +36,5 @@
     + [TypeScript で書く React コンポーネントを基礎から理解する](https://qiita.com/sangotaro/items/3ea63110517a1b66745b)
     + [実践 Off the main thread](https://yosuke-furukawa.hatenablog.com/entry/2019/12/31/050438)
     + [Reactを自作しよう](https://zenn.dev/akatsuki/articles/a2cbd26488fa151b828b)
+    + [GraphQL を利用したアーキテクチャの勘所](https://speakerdeck.com/qsona/architecture-practices-with-graphql)
+    + [末尾呼び出し最適化とJavaScript](https://speakerdeck.com/kota_yata/mo-wei-hu-bichu-sizui-shi-hua-tojavascript)

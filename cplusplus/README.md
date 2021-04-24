@@ -23,3 +23,4 @@
     + [C++入門　AtCoder Programming Guide for beginners](https://atcoder.jp/contests/APG4b)
     + [std::atomic の挙動がメモリオーダーによりどう異なるか](https://uchan.hateblo.jp/entry/2020/06/14/172543)
     + [C++マルチスレッド一巡り](https://zenn.dev/yohhoy/books/cpp-stdlib-multithreading)
+    + [C++ユーザーの為のリンクの話１](https://qiita.com/termoshtt/items/ffcd3dbc3928fc80caa1)

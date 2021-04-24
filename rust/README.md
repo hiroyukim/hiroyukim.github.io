@@ -231,7 +231,9 @@
     + [RustでGCを書くときの課題や各種ライブラリの設計ポイントなどを解説](https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/)
     + [serdeにまつわる3つの小話](https://tech-blog.optim.co.jp/entry/2020/12/23/200000)
     + [rust-webapp-tutorial](https://github.com/yuk1ty/rust-webapp-tutorial)
+    + [wasmでPlugin作れるツール](https://github.com/zellij-org/zellij)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)
     + [build.rs から標準出力への出力内容は -vv フラグをつけると確認できる](https://matsu7874.hatenablog.com/entry/2021/03/20/160150)
+    + [Rust Cookbook for Beginners](https://caddi.tech/archives/2381)

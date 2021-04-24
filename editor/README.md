@@ -6,3 +6,5 @@
     + [Text Rendering Hates You](https://gankra.github.io/blah/text-hates-you/)
     + [ぼくのVimさばきを支える設定とその導入手順を紹介する](https://qiita.com/jiroshin/items/ee86ea426a51fa24b319)
     + [Visual Studio小説モード](https://github.com/ttrace/vscode-language-japanese-novel)
+    + [脳をデジタル化するメモアプリObsidianを使いこなす方法](https://note.com/takibayashi/n/n28f20fbf5069)
+    + [メモ残しながらコードに潜っていける](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour)

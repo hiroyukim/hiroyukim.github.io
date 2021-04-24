@@ -300,3 +300,5 @@
     + [debuginfod（elfutils debuginfo サーバー）の概要](https://rheb.hatenablog.com/entry/introducing-debuginfod)
     + [ebpf blog](https://ebpf.io/blog)
     + [Linux Socket Filtering aka Berkeley Packet Filter (BPF)](https://github.com/torvalds/linux/blob/master/Documentation/networking/filter.rst)
+    + [WSLがGUIアプリのサポートをはじめたのですが、そのアーキテクチャ解説でござるよ](https://devblogs.microsoft.com/commandline/wslg-architecture/)
+    + [RTCドライバから学ぶLinuxカーネルについて](https://www.youtube.com/watch?v=oHUA7KMRhgw)

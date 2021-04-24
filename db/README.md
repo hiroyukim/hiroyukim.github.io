@@ -85,6 +85,7 @@
     + [MySQLのInnoDBのロック挙動調査](https://github.com/ichirin2501/doc/blob/master/innodb.md)
     + [InnoDBのロックの範囲とネクストキーロックの話](https://blog.kamipo.net/entry/2013/12/03/235900)
     + [InnoDB の行レベルロックについて解説してみる](https://abicky.net/2016/11/30/082130/)
+    + [SQLiteが「大量の小さなクエリ」の処理を得意とする理由とは？](https://gigazine.net/news/20210224-sqlite-many-queries/)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)
