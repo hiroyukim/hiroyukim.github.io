@@ -525,6 +525,10 @@
     + [Go で型がインタフェースを実装している事を保証するには](https://mattn.kaoriya.net/software/lang/go/20190702104455.htm)
     + [パッケージの依存関係をweb上で確認](https://gographs.io/)
     + [Go言語でGBAエミュレータ](https://github.com/pokemium/mettaur)
+    + [ホットリロードツールの作り方](https://docs.google.com/presentation/d/1F6HNTAJGCoMqGgFUT1BVHRnnBQKlacmTP8eASBE_Pwo/edit#slide=id.p)
+    + [Goの言語機能を活用した シンプルなCLIツール構成法](https://speakerdeck.com/yaegashi/cobra-cmder-gofalseyan-yu-ji-neng-wohuo-yong-sita-sinpurunacliturugou-cheng-fa)
+    + [Goから学ぶI/O](https://zenn.dev/hsaki/books/golang-io-package)
+    + [Goで子プロセスを確実にKillする方法](http://makiuchi-d.github.io/2020/05/10/go-kill-child-process.ja.html)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack
