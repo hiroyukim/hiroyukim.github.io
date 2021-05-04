@@ -31,3 +31,6 @@
     + [「生涯現役開発者」を貫く40代～60代のソフトウェア開発者たち](https://gigazine.net/news/20170426-developer-who-hate-being-manager/)
     + [コードリーディングのコツは極力コードを読まないこと](https://note.com/simplearchitect/n/n8cd219056536)
     + [コードが読めるソフトウェア開発者](https://blog.riywo.com/2021/04/software-engineer-who-reads-code/)
+    + [良いコードとは何か - エンジニア新卒研修 スライド公開](https://note.com/cyberz_cto/n/n26f535d6c575)
+    + [オブジェクト指向のその前に-凝集度と結合度](https://speakerdeck.com/sonatard/coheision-coupling)
+    + [なぜ自動テストの導入は失敗するのか？](https://nagise.hatenablog.jp/entry/2021/04/29/135959)

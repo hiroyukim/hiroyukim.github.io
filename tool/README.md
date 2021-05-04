@@ -11,6 +11,7 @@
 + Manual
     + [doxygen](http://www.stack.nl/~dimitri/doxygen/)
     + [Graphviz](https://www.graphviz.org/)
+    + [tldr](https://github.com/tldr-pages/tldr)
 + Network
     + [lsofgraph](https://github.com/zevv/lsofgraph)
     + [HTTPie](https://httpie.org/)
@@ -44,5 +45,7 @@
     + [memo](https://github.com/mattn/memo)
 + grep
     + [rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.](https://github.com/phiresky/ripgrep-all)
++ ab
+    + [https://github.com/wg/wr](https://github.com/wg/wrk)
 + slide
   + [md2googleslides – Markdown to Google Slides](https://github.com/googleworkspace/md2googleslides)

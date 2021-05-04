@@ -42,6 +42,7 @@
     + [RFC 8085 - UDP Usage Guidelines 日本語訳](https://tex2e.github.io/rfc-translater/html/rfc8085.html)
     + [TCPの短命接続の高速化](https://logbook.yuuk.io/2021-TCP-Obsidian-e34-fm-a2c1a3f96b4f4de2b4b4dc8025da8129)
     + [1週間でTCP/IPのプロトコルスタックを自作してUDPやTCPで通信するアプリケーションを動かすという内容で300ページくらいのスライド](https://drive.google.com/drive/folders/1k2vymbC3vUk5CTJbay4LLEdZ9HemIpZe)
+    + [ネットワークスタック内の謎の2バイトについて探る](http://lv4.hateblo.jp/entry/2016/12/25/235121)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)

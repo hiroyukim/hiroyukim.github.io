@@ -136,6 +136,12 @@
     + [Public Suffix List の用途と今起こっている問題について](https://blog.jxck.io/entries/2021-04-21/public-suffix-list.amp.html?__twitter_impression=true)
     + [Go 製の趣味ブラウザ実装](https://github.com/danfragoso/thdwb)
     + [ab の代わり](https://github.com/rakyll/hey)
+    + [HAProxy+libslzによるHTTPレスポンスのGZIP圧縮の検証](https://kazeburo.hatenablog.com/entry/2021/04/26/093742)
+    + [LLVM が使ってる Wasm 互換な C ABI についての情報](https://github.com/WebAssembly/tool-conventions/blob/master/BasicCABI.md)
+    + [変更履歴を記録する](https://keepachangelog.com/ja/1.0.0/)
+    + [動画エンコーディングが分かるとても良い解説記事](https://github.com/leandromoreira/digital_video_introduction/blob/master/README-ja.md)
+    + [TCCパターンとSagaパターンでマイクロサービスのトランザクションをまとめてみた](https://qiita.com/nk2/items/d9e9a220190549107282)
+    + [認証と認可の超サマリ](https://zenn.dev/suzuki_hoge/books/2021-05-authentication-and-authorization-0259d3f)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

@@ -302,3 +302,6 @@
     + [Linux Socket Filtering aka Berkeley Packet Filter (BPF)](https://github.com/torvalds/linux/blob/master/Documentation/networking/filter.rst)
     + [WSLがGUIアプリのサポートをはじめたのですが、そのアーキテクチャ解説でござるよ](https://devblogs.microsoft.com/commandline/wslg-architecture/)
     + [RTCドライバから学ぶLinuxカーネルについて](https://www.youtube.com/watch?v=oHUA7KMRhgw)
+    + [Linux perfで快適に計測するためのtips](https://qiita.com/k0kubun/items/b094c4b9bd4fe0027a48)
+    + [コアあまりのはなし](https://messagepassing.github.io/012-manycore/)
+    + [ELF入門](https://sugawarayusuke.hatenablog.com/entry/2017/04/09/213133)

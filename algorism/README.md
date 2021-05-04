@@ -152,6 +152,8 @@
     + [アルゴリズム・AtCoder のための数学【前編：数学的知識編①】](https://qiita.com/e869120/items/b4a0493aac567c6a7240)
     + [アルゴリズム・AtCoder のための数学【中編：数学的知識編②】](https://qiita.com/e869120/items/bd7cfd2dbd2706cb8657)
     + [AtCoder での実力アップを目指そう！　～競プロ典型 90 問～](https://qiita.com/e869120/items/1b2a5f0f07fd927e44e9)
+    + [アルゴリズム・AtCoder のための数学【後編：数学的考察編】](https://qiita.com/e869120/items/1ccb2bdf16890637e767)
+    + [区間を管理する構造体](https://noimi.hatenablog.com/entry/2021/05/02/195143)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

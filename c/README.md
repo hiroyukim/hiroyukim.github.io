@@ -76,6 +76,8 @@
     + [INT02-C. 整数変換のルールを理解する](https://www.jpcert.or.jp/sc-rules/c-int02-c.html)
     + [Obfuscated Tiny C Compiler](https://bellard.org/otcc/)
     + [マルチスレッドのプログラミング](https://docs.oracle.com/cd/E19253-01/819-0390/index.html)
+    + [gdbで効率的にデバッグするためのTips](https://qiita.com/aosho235/items/e8efd18364408231062d)
+    + [glibcとPOSIX:2001とのstrerror_r(3)のプロトタイプの混乱について](https://www.hi-matic.org/diary/?20210430#30-1)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

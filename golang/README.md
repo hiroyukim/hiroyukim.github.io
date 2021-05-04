@@ -529,6 +529,15 @@
     + [Goの言語機能を活用した シンプルなCLIツール構成法](https://speakerdeck.com/yaegashi/cobra-cmder-gofalseyan-yu-ji-neng-wohuo-yong-sita-sinpurunacliturugou-cheng-fa)
     + [Goから学ぶI/O](https://zenn.dev/hsaki/books/golang-io-package)
     + [Goで子プロセスを確実にKillする方法](http://makiuchi-d.github.io/2020/05/10/go-kill-child-process.ja.html)
+    + [Go製のネットワーククライアントに対する継続的 / Fuzzing](https://speakerdeck.com/mururu/fuzzing-for-network-client-in-go)
+    + [Go言語低レイヤー入門 Hello world が 画面に表示されるまで](https://docs.google.com/presentation/d/10ru3LdbofJqgdmD8pprZuZyWbGvOFC8rKxb6q5Q46Xc/edit#slide=id.p)
+    + [Go design theory learned from Kubernetes](https://speakerdeck.com/onsd/go-design-theory-learned-from-kubernetes)
+    + [実務で役立つTCPクライアントの作り方](https://speakerdeck.com/tutuz/shi-wu-deyi-li-tutcpkuraiantofalsezuo-rifang)
+    + [Go をセキュアに書き進めるための 「ガードレール」を整備しよう](https://speakerdeck.com/lmt_swallow/lets-build-security-guardrails-for-your-go-programs)
+    + [Goで子プロセスを確実にKillする方法](http://makiuchi-d.github.io/2020/05/10/go-kill-child-process.ja.html)
+    + [GoとMySQLを用いたジョブキューシステムを作るときに考えたこと](https://blog.yuuk.io/entry/go-and-mysql-jobqueue)
+    + [Goで作った共有ライブラリはどのへんでGCとかランタイム初期化しているか](https://qiita.com/kubo39/items/f3d2472b876a1aaa82cc)
+    + [Goバイナリの脆弱性検知](https://knqyf263.hatenablog.com/entry/2021/04/30/061147)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack
