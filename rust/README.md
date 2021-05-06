@@ -243,6 +243,10 @@
     + [RustのLLVM IRでプログラム分析ことはじめ](https://toyamaguchi.hatenablog.com/entry/2019/12/22/080000)
     + [LLVM-IRに触れる。LLVM抜きで。](https://maekawatoshiki.github.io/posts/vicis/)
     + [Rust 最初期からの開発に重要な役割を果たした Dave Herman 氏についての記事](https://brson.github.io/2021/05/02/rusts-most-unrecognized-contributor)
+    + [Rust Debugging Cheatsheet](https://qiita.com/legokichi/items/e2f807f70316a916f4be)
+    + [using rust with rr](https://gist.github.com/spacejam/15f27007c0b1bcc1d6b4c9169b18868c)
+    + [Rust製のパーサコンビネータnomを解剖する](https://drumato.hatenablog.com/entry/dive-into-nom)
+    + [DNSに関する通信をlibpcapでキャプチャしてリストアップするツール](https://github.com/jvns/dnspeep)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)

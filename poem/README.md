@@ -34,3 +34,4 @@
     + [良いコードとは何か - エンジニア新卒研修 スライド公開](https://note.com/cyberz_cto/n/n26f535d6c575)
     + [オブジェクト指向のその前に-凝集度と結合度](https://speakerdeck.com/sonatard/coheision-coupling)
     + [なぜ自動テストの導入は失敗するのか？](https://nagise.hatenablog.jp/entry/2021/04/29/135959)
+    + [「結果が出ない焦り」と向き合う方法](https://note.com/4bata/n/n6f78b20d9814)

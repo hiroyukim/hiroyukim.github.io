@@ -12,3 +12,4 @@
     + [最近はノートアプリに Obsidian を使っています](https://note.com/tokuhirom/n/n11ced531a178)
     + [Text Rendering Hates You](https://gankra.github.io/blah/text-hates-you/)
     + [高精度に漢字変換できるSKK辞書を作った（四角号碼、正假名）](https://keens.github.io/blog/2021/05/02/kouseidonikanjihenkandekiruskkjishowotsukutta_shikakugouma_seikana_/)
+    + [CLion Debugging – Beyond the Basics – Part 3: Beyond Local](https://blog.jetbrains.com/clion/2021/05/clion-debugging-beyond-the-basics-part-3-beyond-local/)

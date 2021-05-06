@@ -87,6 +87,7 @@
     + [InnoDB の行レベルロックについて解説してみる](https://abicky.net/2016/11/30/082130/)
     + [SQLiteが「大量の小さなクエリ」の処理を得意とする理由とは？](https://gigazine.net/news/20210224-sqlite-many-queries/)
     + [Hosting SQLite databases on Github Pages](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
+    + [Clock Sweep と LRU Cache を実装する](https://rabbitfoot141.hatenablog.com/entry/2019/12/14/234743)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

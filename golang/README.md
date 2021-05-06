@@ -538,6 +538,9 @@
     + [GoとMySQLを用いたジョブキューシステムを作るときに考えたこと](https://blog.yuuk.io/entry/go-and-mysql-jobqueue)
     + [Goで作った共有ライブラリはどのへんでGCとかランタイム初期化しているか](https://qiita.com/kubo39/items/f3d2472b876a1aaa82cc)
     + [Goバイナリの脆弱性検知](https://knqyf263.hatenablog.com/entry/2021/04/30/061147)
+    + [golang.design: goのこれまでのまとめ等が乗っている](https://golang.design/)
+    + [Go の sql.DB がコネクションプールを管理する仕組み](https://please-sleep.cou929.nu/go-sql-db-connection-pool.html)
+    + [パフォーマンス向上のためのsql.DBの設定](https://tutuz-tech.hatenablog.com/entry/2020/03/24/170159)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

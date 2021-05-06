@@ -43,6 +43,8 @@
     + [TCPの短命接続の高速化](https://logbook.yuuk.io/2021-TCP-Obsidian-e34-fm-a2c1a3f96b4f4de2b4b4dc8025da8129)
     + [1週間でTCP/IPのプロトコルスタックを自作してUDPやTCPで通信するアプリケーションを動かすという内容で300ページくらいのスライド](https://drive.google.com/drive/folders/1k2vymbC3vUk5CTJbay4LLEdZ9HemIpZe)
     + [ネットワークスタック内の謎の2バイトについて探る](http://lv4.hateblo.jp/entry/2016/12/25/235121)
+    + [TLS 通信のパケットキャプチャ](https://please-sleep.cou929.nu/decrypting-tls-traffic-packet-capture.html)
+    + [SpaceAppChallengeに参加してtracerouteを可視化した話](https://inajob.hatenablog.jp/entry/20160510)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)
