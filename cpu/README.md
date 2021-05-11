@@ -43,6 +43,8 @@
     + [簡単なCPUを作ってみる](https://sagara-works.jp/research-and-development/cpu/)
     + [ビット演算やSIMDに関するテクニックを集めるためのwiki](https://scrapbox.io/bitwise-simd/)
     + [RISC-Vがリンクレジスタを2つ用意しているのは何故なのか](https://msyksphinz.hatenablog.com/entry/2021/04/04/040000)
+    + [ARM入門勉強会](https://logmi.jp/events/2418)
+    + [IntelのエンジニアがCPUやメモリのレベルでコンテナのパフォーマンスを向上するためにランタイムのリソースマネージャにどういう改善を加えているのかという話](https://kccnceu2021.sched.com/event/iE1Y)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)

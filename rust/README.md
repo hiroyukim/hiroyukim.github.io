@@ -247,6 +247,11 @@
     + [using rust with rr](https://gist.github.com/spacejam/15f27007c0b1bcc1d6b4c9169b18868c)
     + [Rust製のパーサコンビネータnomを解剖する](https://drumato.hatenablog.com/entry/dive-into-nom)
     + [DNSに関する通信をlibpcapでキャプチャしてリストアップするツール](https://github.com/jvns/dnspeep)
+    + [最小限で理解しつつ作るELF parser入門 in Rust](https://zenn.dev/drumato/books/afc3e00a4c7f1d)
+    + [Tokio チュートリアル (日本語訳)](https://zenn.dev/magurotuna/books/tokio-tutorial-ja)
+    + [Rustで簡易ウェブクローラを作る](https://zenn.dev/shotaro_tsuji/books/32df27b4cc54df4fa7a5)
+    + [GWなのでRustでLuaを実装し（ようとし）た話](https://udzura.hatenablog.jp/entry/2021/05/08/150858)
+    + [Rustで書いたWebAssemblyインタプリタ上でGoで書いたゲームボーイエミュレータを動かした](https://blog.bokuweb.me/entry/wasm)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)

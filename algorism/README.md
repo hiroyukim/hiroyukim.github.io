@@ -154,6 +154,9 @@
     + [AtCoder での実力アップを目指そう！　～競プロ典型 90 問～](https://qiita.com/e869120/items/1b2a5f0f07fd927e44e9)
     + [アルゴリズム・AtCoder のための数学【後編：数学的考察編】](https://qiita.com/e869120/items/1ccb2bdf16890637e767)
     + [区間を管理する構造体](https://noimi.hatenablog.com/entry/2021/05/02/195143)
+    + [並列プログラムから見たFuture 第一回： シリーズのモチベーション](https://www.youtube.com/watch?v=eaduJdlCamQ)
+        + youtube
+    + [輸送問題を近似的に行列計算で解く（機械学習への応用つき）](https://theory-and-me.hatenablog.com/entry/2021/05/09/181435)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

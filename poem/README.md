@@ -35,3 +35,6 @@
     + [オブジェクト指向のその前に-凝集度と結合度](https://speakerdeck.com/sonatard/coheision-coupling)
     + [なぜ自動テストの導入は失敗するのか？](https://nagise.hatenablog.jp/entry/2021/04/29/135959)
     + [「結果が出ない焦り」と向き合う方法](https://note.com/4bata/n/n6f78b20d9814)
+    + [片手間で教える文章講座9 読書感想文のコツ](https://note.com/meirojin/n/nc68e987bc623)
+    + [機械学習の研究者を目指す人へ](https://takahashihiroshi.github.io/contents/for_ml_beginners.html)
+    + [ハックの学び方、の学び方](https://speakerdeck.com/puhitaku/hatukufalsexue-bifang-falsexue-bifang)

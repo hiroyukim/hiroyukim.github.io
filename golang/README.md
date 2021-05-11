@@ -541,6 +541,8 @@
     + [golang.design: goのこれまでのまとめ等が乗っている](https://golang.design/)
     + [Go の sql.DB がコネクションプールを管理する仕組み](https://please-sleep.cou929.nu/go-sql-db-connection-pool.html)
     + [パフォーマンス向上のためのsql.DBの設定](https://tutuz-tech.hatenablog.com/entry/2020/03/24/170159)
+    + [Go のエラーハンドリング](https://zenn.dev/spiegel/books/error-handling-in-golang)
+    + [Cloud Native Go: Building Reliable Services in Unreliable Environments](https://www.amazon.co.jp/dp/B09328K9QG/)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack
