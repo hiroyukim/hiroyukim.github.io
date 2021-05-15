@@ -89,6 +89,7 @@
     + [Hosting SQLite databases on Github Pages](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
     + [Clock Sweep と LRU Cache を実装する](https://rabbitfoot141.hatenablog.com/entry/2019/12/14/234743)
     + [Debugging MySQL/MariaDB (1): Build and Test](https://nayuta-yanagisawa.hatenablog.com/entry/debugging-mysql-mariadb-1)
+    + [How to optimize ORDER BY RANDOM()](https://tpetry.me/20210507-how-to-optimize-order-by-random)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

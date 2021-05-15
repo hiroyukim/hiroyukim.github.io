@@ -40,3 +40,4 @@
     + [末尾呼び出し最適化とJavaScript](https://speakerdeck.com/kota_yata/mo-wei-hu-bichu-sizui-shi-hua-tojavascript)
     + [JavaScript が読み込まれる前でもWeb Applicationを動かす](https://yosuke-furukawa.hatenablog.com/entry/2019/02/12/083321)
     + [JavaScriptの基礎知識をGIFアニメで分かりやすく解説 -総まとめ](https://coliss.com/articles/build-websites/operation/javascript/javascript-visualized.html)
+    + [Link と ISR が引き起こす Next.js の過負荷](https://zenn.dev/takepepe/articles/nextjs-isr-prefetch)

@@ -252,6 +252,10 @@
     + [Rustで簡易ウェブクローラを作る](https://zenn.dev/shotaro_tsuji/books/32df27b4cc54df4fa7a5)
     + [GWなのでRustでLuaを実装し（ようとし）た話](https://udzura.hatenablog.jp/entry/2021/05/08/150858)
     + [Rustで書いたWebAssemblyインタプリタ上でGoで書いたゲームボーイエミュレータを動かした](https://blog.bokuweb.me/entry/wasm)
+    + [『Go ならわかるシステムプログラミング』を Rust で書き直すプロジェクト、その名も「Rust ならわかるシステムプログラミング」。](https://github.com/yuk1ty/learning-systems-programming-in-rust)
+    + [アリーナアロケータの紹介](https://mnwa.medium.com/speeding-up-algorithms-with-arena-allocators-d72d06f23607)
+    + [Rust コードの検証をしてくれる Prusti 知らなかった．panic-free かどうかや overflow check の他，属性に事前条件・事後条件，副作用の有無などを書くと検証してくれる](https://github.com/viperproject/prusti-dev)
+    + [rustcやServoにコントリビュートするときにおなじみのbot](https://www.fluvio.io/blog/2021/05/bors-confident-merges/)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)

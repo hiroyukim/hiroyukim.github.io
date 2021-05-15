@@ -81,6 +81,8 @@
     + [Instant replay: Debugging C and C++ programs with rr](https://developers.redhat.com/blog/2021/05/03/instant-replay-debugging-c-and-c-programs-with-rr/)
     + [Using GDB and defmt to debug embedded programs](https://ferrous-systems.com/blog/gdb-and-defmt/)
     + [デバッガの起動をめちゃめちゃ簡単にするツール](https://github.com/nullpo-head/dbgee/)
+    + [qrintf - sprintf accelerator](https://github.com/h2o/qrintf)
+    + [GNU Makeの使い方 ](https://speakerdeck.com/kaityo256/how-to-use-gnu-make)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

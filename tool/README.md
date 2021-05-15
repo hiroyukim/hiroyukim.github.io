@@ -33,6 +33,7 @@
     + [tmuxを効率よく使って開発を爆速にする最高の設定](https://qiita.com/yuki_ycino/items/ef5e6b63c8f9af2f03c0)
     + [A Terminal Emulator based on UWP and web technologies.](https://github.com/felixse/FluentTerminal)
     + [Terminal log analysis tools](https://github.com/antonmedv/red)
+    + [ Bash上でディレクトリのブックマークができる](https://github.com/huyng/bashmarks)
 + dba
     + [Triton - A DBA Framework](https://triton.quarkslab.com/)
 + name
@@ -47,5 +48,7 @@
     + [rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.](https://github.com/phiresky/ripgrep-all)
 + ab
     + [https://github.com/wg/wr](https://github.com/wg/wrk)
++ screenshot
+    + [Flameshot](https://github.com/flameshot-org/flameshot)
 + slide
   + [md2googleslides – Markdown to Google Slides](https://github.com/googleworkspace/md2googleslides)

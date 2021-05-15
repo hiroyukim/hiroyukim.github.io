@@ -24,3 +24,4 @@
     + [std::atomic の挙動がメモリオーダーによりどう異なるか](https://uchan.hateblo.jp/entry/2020/06/14/172543)
     + [C++マルチスレッド一巡り](https://zenn.dev/yohhoy/books/cpp-stdlib-multithreading)
     + [C++ユーザーの為のリンクの話１](https://qiita.com/termoshtt/items/ffcd3dbc3928fc80caa1)
+    + [C++のiostreamは遅いという話](https://qnighy.hatenablog.com/entry/20110115/1295054750)

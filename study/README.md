@@ -6,5 +6,8 @@
     + [コンピュータサイエンスの学位要件に沿って,無料公開されているCS講義をまとめたリポジトリ](https://github.com/ossu/computer-science)
     + [次世代先端的計算基盤に関する白書](https://drive.google.com/file/d/1cAQyBmLs529Iqz44D_j1MfCkXk7o6kla/view)
     + [MITで行われている,コンピュータサイエンスの授業の準備となるシェルやvim, git, デバッグ等,便利なツールを教える"The Missing Semester of Your CS Education"の講義ページ](https://missing.csail.mit.edu/)
+    + [「C言語でOSを作る」,「PythonでTwitterのデータマイニング」,「推薦システム作成」等,何かを作る入門プロジェクトの資料やサイト,講義などを集めたリポジトリ](https://github.com/tuvtran/project-based-learning)
+    + [ハーバード大学 CS50 の日本語版翻訳プロジェクト](https://cs50.jp/)
+
 
 

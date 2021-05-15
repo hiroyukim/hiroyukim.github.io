@@ -15,3 +15,4 @@
     + [CLion Debugging – Beyond the Basics – Part 3: Beyond Local](https://blog.jetbrains.com/clion/2021/05/clion-debugging-beyond-the-basics-part-3-beyond-local/)
     + [Ozan's Image in Editor Plugin](https://github.com/ozntel/oz-image-in-editor-obsidian)
     + [知っておくべき WebStorm のショートカット 10 選](https://blog.jetbrains.com/ja/webstorm/2021/05/10-webstorm-shortcuts-you-need-to-know-ja/)
+    + [最近の Link/Tag の使い分けと一ヶ月経過後の Obsidian のグラフの様子。](https://note.com/tokuhirom/n/ne408eeda5f9c)

@@ -157,6 +157,7 @@
     + [並列プログラムから見たFuture 第一回： シリーズのモチベーション](https://www.youtube.com/watch?v=eaduJdlCamQ)
         + youtube
     + [輸送問題を近似的に行列計算で解く（機械学習への応用つき）](https://theory-and-me.hatenablog.com/entry/2021/05/09/181435)
+    + [「説明可能AI」の決定版的教科書で，英語版が公開されていた『Interpretable Machine Learning』ですが，日本語翻訳](https://hacarus.github.io/interpretable-ml-book-ja/)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

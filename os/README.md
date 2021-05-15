@@ -307,3 +307,7 @@
     + [ELF入門](https://sugawarayusuke.hatenablog.com/entry/2017/04/09/213133)
     + [KDash - A fast and simple dashboard for Kubernetes](https://github.com/kdash-rs/kdash)
     + [Resource Requests and Limits Under the Hood: The Journey of a Pod Spec](https://speakerdeck.com/inductor/resource-requests-and-limits-under-the-hood-the-journey-of-a-pod-spec)
+    + [pprof++: A Go Profiler with Hardware Performance Monitoring](https://eng.uber.com/pprof-go-profiler/)
+    + [valgrind を使って使用メモリ量を調べる](https://zenn.dev/termoshtt/articles/valgrind-massif-tutorial)
+    + [Valgrindでコード解析してみる](https://caddi.tech/archives/2251)
+    + [Rook Intro & Ceph Deep Dive](https://static.sched.com/hosted_files/kccnceu2021/82/Slides.pdf)
