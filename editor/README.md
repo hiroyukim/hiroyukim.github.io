@@ -16,3 +16,7 @@
     + [Ozan's Image in Editor Plugin](https://github.com/ozntel/oz-image-in-editor-obsidian)
     + [知っておくべき WebStorm のショートカット 10 選](https://blog.jetbrains.com/ja/webstorm/2021/05/10-webstorm-shortcuts-you-need-to-know-ja/)
     + [最近の Link/Tag の使い分けと一ヶ月経過後の Obsidian のグラフの様子。](https://note.com/tokuhirom/n/ne408eeda5f9c)
+    + [情報爆発時代のメモ魔アプリObsidian：プラグイン解説](https://note.com/takibayashi/n/nd036503ba065)
+    + [Obsidian Kanban Plugin](https://github.com/mgmeyers/obsidian-kanban)
+    + [Zenn & Hugo in Obsidian : OHZフローによるナレッジベースとアウトプットコンテンツの完全統括](https://zenn.dev/estra/articles/ohzflow-zenn-hugo-obsidian)
+    + [第2の脳を謳うObsidianでMarkdownファイルの「つながり」を見える化する](https://orangeclover.hatenablog.com/entry/2020/11/20/112115)

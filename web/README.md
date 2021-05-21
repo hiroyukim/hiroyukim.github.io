@@ -148,6 +148,10 @@
     + [「エーペックス」の仕組み:開発者によるサーバーとネットコードの解説](https://www.ea.com/ja-jp/games/apex-legends/news/servers-netcode-developer-deep-dive)
     + [WebRTC を今から学ぶ人に向けて](https://zenn.dev/voluntas/scraps/82b9e111f43ab3)
     + [Webアプリ負荷試験ガイド](https://withgod.hatenablog.com/entry/2020/11/09/131930)
+    + [文字エンコーディングの検出方法](https://heartbeats.jp/hbblog/2021/05/chardet.html)
+    + [ZOZOTOWNリニューアルで実施したCache Stampede対策](https://techblog.zozo.com/entry/zozotown-cache-stampede)
+    + [Security headers quick reference](https://web.dev/security-headers/)
+    + [脆弱性対策：ファジング](https://www.ipa.go.jp/security/vuln/fuzzing.html)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

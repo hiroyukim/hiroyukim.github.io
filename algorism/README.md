@@ -158,6 +158,10 @@
         + youtube
     + [輸送問題を近似的に行列計算で解く（機械学習への応用つき）](https://theory-and-me.hatenablog.com/entry/2021/05/09/181435)
     + [「説明可能AI」の決定版的教科書で，英語版が公開されていた『Interpretable Machine Learning』ですが，日本語翻訳](https://hacarus.github.io/interpretable-ml-book-ja/)
+    + [CS267 -- Graph Algorithms -- Fall 2016](http://theory.stanford.edu/~virgi/cs267/index.html)
+    + [複数のビットフィールドを持つ数値の並列演算](https://zenn.dev/kumagi/articles/d04b704048181e)
+    + [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
+    + [lock crabbing](https://15445.courses.cs.cmu.edu/fall2017/notes/18-notes-indexconcurrency.pdf)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

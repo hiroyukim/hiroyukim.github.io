@@ -22,3 +22,4 @@
     + [SpringBootの起動を高速化する](https://qiita.com/kaneuchi_0202/items/aae4c255b61cac09358d)
     + [Androidプロジェクト内の未使用のリソースを削除するgradle pluginを作りました](http://konifar.hatenablog.com/entry/2018/05/13/125311)
     + [Kotlin SQL Mapper](https://github.com/nakamura-to/komapper)
+    + [HotSpot JavaVM の SIMD 最適化を効かせる方法](https://qiita.com/torao@github/items/be883ca5486a41fe96d6)

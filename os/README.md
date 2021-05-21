@@ -311,3 +311,7 @@
     + [valgrind を使って使用メモリ量を調べる](https://zenn.dev/termoshtt/articles/valgrind-massif-tutorial)
     + [Valgrindでコード解析してみる](https://caddi.tech/archives/2251)
     + [Rook Intro & Ceph Deep Dive](https://static.sched.com/hosted_files/kccnceu2021/82/Slides.pdf)
+    + [linux-5.14でCore Schedulingが入りそうだという話。これは「信頼できるプロセス」だけがSMTで隣り合うようにする物](https://www.phoronix.com/scan.php?page=news_item&px=Core-Scheduling-Linux-5.14)
+    + [Understanding CPU throttling in Kubernetes to improve application performance](https://speakerdeck.com/daikurosawa/understanding-cpu-throttling-in-kubernetes-to-improve-application-performance-number-k8sjp)
+    + [Kubernetes: kube-scheduler をソースコードレベルで理解する](https://ccvanishing.hateblo.jp/entry/2020/12/02/181155)
+    + [ Rook Intro & Ceph Deep Dive](https://speakerdeck.com/sat/kube-con-eu-2021-recap-rook-intro-and-ceph-deep-dive)

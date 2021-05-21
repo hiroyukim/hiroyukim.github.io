@@ -46,6 +46,7 @@
     + [TLS 通信のパケットキャプチャ](https://please-sleep.cou929.nu/decrypting-tls-traffic-packet-capture.html)
     + [SpaceAppChallengeに参加してtracerouteを可視化した話](https://inajob.hatenablog.jp/entry/20160510)
     + [Linux上でネットワーク回線速度を計測する手段について整理してみた](https://dev.classmethod.jp/articles/measuring-network-speedtest-on-linux/)
+    + [Linux Networking Tools: 101](https://speakerdeck.com/openjny/linux-networking-tools-101)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)

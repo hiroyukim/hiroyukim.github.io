@@ -38,3 +38,5 @@
     + [片手間で教える文章講座9 読書感想文のコツ](https://note.com/meirojin/n/nc68e987bc623)
     + [機械学習の研究者を目指す人へ](https://takahashihiroshi.github.io/contents/for_ml_beginners.html)
     + [ハックの学び方、の学び方](https://speakerdeck.com/puhitaku/hatukufalsexue-bifang-falsexue-bifang)
+    + [最強の可視化問題](https://ayuha167.github.io/blog/2021/05/07/)
+    + [私とOSSの25年](https://www.slideshare.net/herumi/oss25)
