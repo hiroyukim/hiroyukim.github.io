@@ -152,6 +152,7 @@
     + [ZOZOTOWNリニューアルで実施したCache Stampede対策](https://techblog.zozo.com/entry/zozotown-cache-stampede)
     + [Security headers quick reference](https://web.dev/security-headers/)
     + [脆弱性対策：ファジング](https://www.ipa.go.jp/security/vuln/fuzzing.html)
+    + [オンライン広告入札システムとZGC](https://www.slideshare.net/hiroiso/zgc)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

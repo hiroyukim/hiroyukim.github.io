@@ -47,6 +47,8 @@
     + [SpaceAppChallengeに参加してtracerouteを可視化した話](https://inajob.hatenablog.jp/entry/20160510)
     + [Linux上でネットワーク回線速度を計測する手段について整理してみた](https://dev.classmethod.jp/articles/measuring-network-speedtest-on-linux/)
     + [Linux Networking Tools: 101](https://speakerdeck.com/openjny/linux-networking-tools-101)
+    + [TCP再送タイムアウト時間の規格と実装](http://co1row.hatenablog.com/entry/2017/09/26/012335)
+    + [さくらのクラウド GSLB で IPv6 対応した話](https://kazeburo.hatenablog.com/entry/2021/05/28/152358)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)

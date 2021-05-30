@@ -93,6 +93,9 @@
     + [MVCCとInnoDBでの実装について](https://shallow1729.hatenablog.com/entry/2021/05/17/212613)
     + [MySQL with InnoDB のインデックスの基礎知識とありがちな間違い](https://techlife.cookpad.com/entry/2017/04/18/092524)
     + [実例で学ぶ MySQL/MariaDB デバッグ](https://nayuta-yanagisawa.hatenablog.com/entry/learning-mysql-mariadb-debugging-by-example)
+    + [サイボウズさんの開運研修(データベース)で話してきました](https://yoku0825.blogspot.com/2021/05/blog-post.html)
+    + [MySQL 8.0 への移行が完了しました ～さようなら全ての MySQL 5.7～](https://blog.cybozu.io/entry/2021/05/24/175000)
+    + [RDBMSの苦手なことを 如何に乗り越えていくか](https://speakerdeck.com/soudai/challenge-to-rdbms)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

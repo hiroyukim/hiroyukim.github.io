@@ -83,6 +83,7 @@
     + [デバッガの起動をめちゃめちゃ簡単にするツール](https://github.com/nullpo-head/dbgee/)
     + [qrintf - sprintf accelerator](https://github.com/h2o/qrintf)
     + [GNU Makeの使い方 ](https://speakerdeck.com/kaityo256/how-to-use-gnu-make)
+    + [Dbgee - the Zero-Configuration Debuggee for Debuggers](https://github.com/nullpo-head/dbgee)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

@@ -20,3 +20,5 @@
     + [Obsidian Kanban Plugin](https://github.com/mgmeyers/obsidian-kanban)
     + [Zenn & Hugo in Obsidian : OHZフローによるナレッジベースとアウトプットコンテンツの完全統括](https://zenn.dev/estra/articles/ohzflow-zenn-hugo-obsidian)
     + [第2の脳を謳うObsidianでMarkdownファイルの「つながり」を見える化する](https://orangeclover.hatenablog.com/entry/2020/11/20/112115)
+    + [JetBrainsIDEテクニック – Postfix Completionのカスタマイズ](https://samuraism.com/2021/05/28/12231)
+    + [JetBrainsIDEテクニック – Postfix completion: 後置補完](https://samuraism.com/2020/09/04/11715)

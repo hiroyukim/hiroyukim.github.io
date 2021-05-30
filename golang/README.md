@@ -543,6 +543,9 @@
     + [パフォーマンス向上のためのsql.DBの設定](https://tutuz-tech.hatenablog.com/entry/2020/03/24/170159)
     + [Go のエラーハンドリング](https://zenn.dev/spiegel/books/error-handling-in-golang)
     + [Cloud Native Go: Building Reliable Services in Unreliable Environments](https://www.amazon.co.jp/dp/B09328K9QG/)
+    + [今までにGoでよく聞かれた質問とその参考リンク](https://blog.p1ass.com/posts/go-faq/)
+    + [Goの構造体の使われ方の設計](https://future-architect.github.io/articles/20210525a/)
+    + [環境変数を使ったテストを書く](https://budougumi0617.github.io/2021/04/16/setenv_on_test/)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack
