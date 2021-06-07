@@ -296,6 +296,7 @@
     + [複雑なREST APIのバインディングを書くときの知見](https://plume.benboeckel.net/~/JustAnotherBlog/designing-rust-bindings-for-rest-ap-is)
     + [クロージャの教材](https://blog.knoldus.com/rust-closures-will-make-your-life-easy/)
     + [Hello WorldからはじめてカンバンのREST APIを同期と非同期両方のやり方で作るチュートリアル](https://github.com/pretzelhammer/rust-blog/blob/master/posts/restful-api-in-sync-and-async-rust.md)
+    + [cargo-play is a tool to help you running your Rust code file without manually setting up a Cargo project.](https://github.com/fanzeyi/cargo-play)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)
