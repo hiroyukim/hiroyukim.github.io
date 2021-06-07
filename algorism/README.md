@@ -164,6 +164,10 @@
     + [lock crabbing](https://15445.courses.cs.cmu.edu/fall2017/notes/18-notes-indexconcurrency.pdf)
     + [三角関数は何に使えるのか 〜 サイン・コサイン・タンジェントの活躍 〜](https://qiita.com/drken/items/41b4ec6bde794cbcd0f6)
     + [2のべき乗サイズの配列は危ないという話 via 行列積](https://elkurin.hatenablog.com/entry/2021/05/25/013033)
+    + [線形代数というものの見方](https://speakerdeck.com/kaityo256/view-from-linear-algebra)
+    + [複素数の体感](http://www.dimensions-math.org/Dim_tour_JP.htm)
+    + [ランダムウォーク](https://pages.uoregon.edu/dlevin/MARKOV/markovmixing.pdf)
+    + [符号付き算術演算のオーバーフロー検出アルゴリズム](http://my-web-site.iobb.net/~yuki/2017-06/algorithm/overflow/)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

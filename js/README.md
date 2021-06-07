@@ -42,3 +42,5 @@
     + [JavaScriptの基礎知識をGIFアニメで分かりやすく解説 -総まとめ](https://coliss.com/articles/build-websites/operation/javascript/javascript-visualized.html)
     + [Link と ISR が引き起こす Next.js の過負荷](https://zenn.dev/takepepe/articles/nextjs-isr-prefetch)
     + [yarn v2にまつわる誤解](https://www.wantedly.com/companies/wantedly/post_articles/325643)
+    + [Making JavaScript run fast on WebAssembly](https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly)
+    + [JavaScriptのイベントの仕組みが一発で理解できるウェブアプリ「Explore DOM Events」レビュー](https://gigazine.net/news/20210603-explore-dom-events-javascript/)

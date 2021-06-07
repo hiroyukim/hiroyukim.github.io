@@ -96,6 +96,11 @@
     + [サイボウズさんの開運研修(データベース)で話してきました](https://yoku0825.blogspot.com/2021/05/blog-post.html)
     + [MySQL 8.0 への移行が完了しました ～さようなら全ての MySQL 5.7～](https://blog.cybozu.io/entry/2021/05/24/175000)
     + [RDBMSの苦手なことを 如何に乗り越えていくか](https://speakerdeck.com/soudai/challenge-to-rdbms)
+    + [AIやIoTなどで高まるデータの重要性。今、データベース技術の「学び」が重要に！ NTTデータのデータベーススペシャリストに聞く](https://codezine.jp/article/detail/14175)
+    + [オープンソースデータベース技術者認定資格](https://oss-db.jp/)
+    + [MOCO - Kubernetes 用 MySQL クラスタ運用ソフトウェア](https://blog.cybozu.io/entry/moco)
+    + [データ分析基盤におけるETL処理と、AthenaにおけるUpsertの実現方法について](https://tech.nri-net.com/entry/2021/04/07/090801)
+    + [Cloud Nativeなデータベースの定義](https://jscarp.medium.com/my-next-book-working-with-cloud-native-data-on-kubernetes-b613fb936a1)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

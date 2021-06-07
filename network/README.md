@@ -49,6 +49,10 @@
     + [Linux Networking Tools: 101](https://speakerdeck.com/openjny/linux-networking-tools-101)
     + [TCP再送タイムアウト時間の規格と実装](http://co1row.hatenablog.com/entry/2017/09/26/012335)
     + [さくらのクラウド GSLB で IPv6 対応した話](https://kazeburo.hatenablog.com/entry/2021/05/28/152358)
+    + [HTTP/3はどうやってWebを加速するか？ TCP、TLS、HTTP/2の問題とHTTP/3での解決策～Fastly奥氏が解説（前編）](https://www.publickey1.jp/blog/21/http3web_tcptlshttp2http3fastly.html)
+    + [ネットワークの勉強方法を聞いてみた](https://aws.amazon.com/jp/builders-flash/202106/way-to-learn-network/?awsf.filter-name=*all)
+    + [進化する通信プロトコル - QUICとHTTP/3で何が変わるのか](https://www.youtube.com/watch?v=2nefATBHs1o)
+    + [ネットワークサービスの依存発見に向いた TCP/UDP通信の低負荷なトレース手法](https://speakerdeck.com/yuukit/low-overhead-tcp-udp-tracing-in-kernel)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)

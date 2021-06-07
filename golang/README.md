@@ -546,6 +546,7 @@
     + [今までにGoでよく聞かれた質問とその参考リンク](https://blog.p1ass.com/posts/go-faq/)
     + [Goの構造体の使われ方の設計](https://future-architect.github.io/articles/20210525a/)
     + [環境変数を使ったテストを書く](https://budougumi0617.github.io/2021/04/16/setenv_on_test/)
+    + [Fuzzing is Beta Ready](https://blog.golang.org/fuzz-beta)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

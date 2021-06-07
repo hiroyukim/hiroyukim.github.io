@@ -34,6 +34,7 @@
     + [A Terminal Emulator based on UWP and web technologies.](https://github.com/felixse/FluentTerminal)
     + [Terminal log analysis tools](https://github.com/antonmedv/red)
     + [ Bash上でディレクトリのブックマークができる](https://github.com/huyng/bashmarks)
+    + [Tokei](https://github.com/XAMPPRocky/tokei)
 + dba
     + [Triton - A DBA Framework](https://triton.quarkslab.com/)
 + name

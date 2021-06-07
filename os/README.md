@@ -315,3 +315,5 @@
     + [Understanding CPU throttling in Kubernetes to improve application performance](https://speakerdeck.com/daikurosawa/understanding-cpu-throttling-in-kubernetes-to-improve-application-performance-number-k8sjp)
     + [Kubernetes: kube-scheduler をソースコードレベルで理解する](https://ccvanishing.hateblo.jp/entry/2020/12/02/181155)
     + [ Rook Intro & Ceph Deep Dive](https://speakerdeck.com/sat/kube-con-eu-2021-recap-rook-intro-and-ceph-deep-dive)
+    + [つくって学ぶKubebuilder](https://zoetrope.github.io/kubebuilder-training/)
+    + [Serenity OS の実装でハッシュテーブルのキャパシティを計算する方法を変えたらなぜか JPG ファイルローダが壊れたバグの説明](https://sin-ack.github.io/posts/jpg-loader-bork/)
