@@ -46,6 +46,7 @@
     + [ARM入門勉強会](https://logmi.jp/events/2418)
     + [IntelのエンジニアがCPUやメモリのレベルでコンテナのパフォーマンスを向上するためにランタイムのリソースマネージャにどういう改善を加えているのかという話](https://kccnceu2021.sched.com/event/iE1Y)
     + [Intel Ice Lakeのプロセッサは整数除算命令がアツい](https://lcstmarck.hatenablog.com/entry/2019/10/11/231813)
+    + [ARM CPUにおけるSIMDを用いた高速計算入門](https://www.slideshare.net/fixstars/arm-cpusimd/fixstars/arm-cpusimd)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)

@@ -101,6 +101,9 @@
     + [MOCO - Kubernetes 用 MySQL クラスタ運用ソフトウェア](https://blog.cybozu.io/entry/moco)
     + [データ分析基盤におけるETL処理と、AthenaにおけるUpsertの実現方法について](https://tech.nri-net.com/entry/2021/04/07/090801)
     + [Cloud Nativeなデータベースの定義](https://jscarp.medium.com/my-next-book-working-with-cloud-native-data-on-kubernetes-b613fb936a1)
+    + [データ損失を回避しよう 各DBの機能比較](https://speakerdeck.com/tzkoba/detasun-shi-wohui-bi-siyou-ge-dbfalseji-neng-bi-jiao)
+    + [Cloud Native時代のデータベース](https://speakerdeck.com/tzkoba/cloud-nativeshi-dai-falsedetabesu)
+    + [MySQLとインデックスと私](https://speakerdeck.com/yoku0825/mysqltoindetukusutosi)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

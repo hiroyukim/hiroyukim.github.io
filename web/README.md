@@ -153,6 +153,8 @@
     + [Security headers quick reference](https://web.dev/security-headers/)
     + [脆弱性対策：ファジング](https://www.ipa.go.jp/security/vuln/fuzzing.html)
     + [オンライン広告入札システムとZGC](https://www.slideshare.net/hiroiso/zgc)
+    + [オープンソースのモジュール依存関係を分かりやすくグラフ化](https://deps.dev/)
+    + [Webassemblyコンパイラを自作しよう](https://zenn.dev/akatsuki/articles/c7a4ece880e54e)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

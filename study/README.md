@@ -9,4 +9,4 @@
     + [「C言語でOSを作る」,「PythonでTwitterのデータマイニング」,「推薦システム作成」等,何かを作る入門プロジェクトの資料やサイト,講義などを集めたリポジトリ](https://github.com/tuvtran/project-based-learning)
     + [ハーバード大学 CS50 の日本語版翻訳プロジェクト](https://cs50.jp/)
     + [英語の発音と発音記号](https://todai.tv/contents-list/2010-2012FY/english-practice/practice01)
-
+    + [マルウェア解析者になるための勉強方法](https://github.com/pinksawtooth/how_to_become_a_malware_analyst)

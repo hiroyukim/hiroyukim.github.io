@@ -547,6 +547,10 @@
     + [Goの構造体の使われ方の設計](https://future-architect.github.io/articles/20210525a/)
     + [環境変数を使ったテストを書く](https://budougumi0617.github.io/2021/04/16/setenv_on_test/)
     + [Fuzzing is Beta Ready](https://blog.golang.org/fuzz-beta)
+    + [リファクタツールツール](https://github.com/rsc/rf)
+    + [Go言語のfor文が動く仕組みをアセンブリレベルで見てみよう](https://zenn.dev/dqneo/articles/fb7086fc94d067)
+    + [Interface mocking tool for go generate.](https://github.com/matryer/moq)
+    + [SafeSQLが面白い Jun 11, 2021](https://github.com/rung/public-note/tree/main/safesql)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

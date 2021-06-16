@@ -44,3 +44,7 @@
     + [yarn v2にまつわる誤解](https://www.wantedly.com/companies/wantedly/post_articles/325643)
     + [Making JavaScript run fast on WebAssembly](https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly)
     + [JavaScriptのイベントの仕組みが一発で理解できるウェブアプリ「Explore DOM Events」レビュー](https://gigazine.net/news/20210603-explore-dom-events-javascript/)
+    + [typescriptコンパイラを学ぶためのmin-typescript](https://github.com/sandersn/mini-typescript)
+    + [js の実行状態を wasm の linear memory で事前に実行](https://github.com/bytecodealliance/wizer#using-wizer-as-a-library)
+    + [gba emulator](https://github.com/pokemium/wgba)
+    + [JavaScript の実践的なトピックを扱う書籍 Deep JavaScript](https://exploringjs.com/deep-js/toc.html)
