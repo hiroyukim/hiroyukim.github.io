@@ -177,6 +177,10 @@
     + [基礎線形代数講座](https://www.slideshare.net/SEGADevTech/ss-249343092)
     + [有名なアルゴリズムの実装・問題解決への適用を学ぶ書籍の電子版](https://runestone.academy/runestone/books/published/pythonds/index.html#problem-solving-with-algorithms-and-data-structures-using-python)
     + [分割統治法 - 問題を小さく分けてまとめよう](https://compro.tsutaj.com//archive/190207_divcon.pdf)
+    + [StringBeginners](https://sites.google.com/view/stringbeginners/)
+    + [LCP配列の構築アルゴリズムたち](https://qiita.com/kgoto/items/9e28e37b8a4b15ea7230)
+    + [最適輸送の解き方](https://www.slideshare.net/joisino/ss-249394573)
+    + [アルゴリズム集](https://kopricky.github.io/)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

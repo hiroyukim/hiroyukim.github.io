@@ -155,6 +155,7 @@
     + [オンライン広告入札システムとZGC](https://www.slideshare.net/hiroiso/zgc)
     + [オープンソースのモジュール依存関係を分かりやすくグラフ化](https://deps.dev/)
     + [Webassemblyコンパイラを自作しよう](https://zenn.dev/akatsuki/articles/c7a4ece880e54e)
+    + [魔窟と化した全文検索サーバーとふっかつのじゅもん](https://blog.cybozu.io/entry/2021/06/16/080000)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

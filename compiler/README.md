@@ -38,3 +38,5 @@
     + [LR構文解析の原理の解説](https://www.jstage.jst.go.jp/article/jssst/31/1/31_1_30/_article/-char/ja/)
     + [CompilerGymを試してみた](https://zenn.dev/uint256_t/articles/compiler-gym)
     + [Rubyで作る奇妙なプログラミング言語　～ヘンな言語のつくりかた](https://tatsu-zine.com/books/esoteric-language-programing-in-ruby)
+    + [JITコンパイラの教科書](https://github.com/chrisseaton/rhizome)
+    + [どきっ！mrubyだらけのTracing JITコンパイラ解説　バグりもあるよ](https://qiita.com/miura1729/items/dcb8c17fa4ce9075ec1a)

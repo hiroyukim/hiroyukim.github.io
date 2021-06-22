@@ -104,6 +104,11 @@
     + [データ損失を回避しよう 各DBの機能比較](https://speakerdeck.com/tzkoba/detasun-shi-wohui-bi-siyou-ge-dbfalseji-neng-bi-jiao)
     + [Cloud Native時代のデータベース](https://speakerdeck.com/tzkoba/cloud-nativeshi-dai-falsedetabesu)
     + [MySQLとインデックスと私](https://speakerdeck.com/yoku0825/mysqltoindetukusutosi)
+    + [MySQLはCREATE USERの生パスワードをハッシュに書き換えてバイナリログに吐くけどそれどこでやってるのか](https://yoku0825.blogspot.com/2021/06/mysqlcreate-user.html)
+    + [開発者が知っておきたいSQLの実行モデル](https://codezine.jp/article/detail/14295)
+    + [PostgreSQLのEXPLAIN結果の読み解き方](https://www.cybertec-postgresql.com/en/how-to-interpret-postgresql-explain-analyze-output/)
+    + [共有プール管理の極意](https://www.oracle.com/webfolder/technetwork/jp/ondemand/ddd2013/C-4.pdf)
+    + [CMU論文等の資料](https://15721.courses.cs.cmu.edu/spring2020/schedule.html)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

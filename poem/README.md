@@ -42,3 +42,4 @@
     + [私とOSSの25年](https://www.slideshare.net/herumi/oss25)
     + [ソフトウェア若化モデルとその動向(ソフトウェアのエージングと若化](https://www.jstage.jst.go.jp/article/reajshinrai/36/1/36_KJ00009159585/_article/-char/ja/)
     + [Excerpts from Coders At Work: Joe Armstrong Interview](http://ivory.idyll.org/blog/coders-at-work-joe-armstrong.html)
+    + [みずほ銀行システム障害に学ぶ](https://ja.kohsuke.org/software/mizuho-outage/)

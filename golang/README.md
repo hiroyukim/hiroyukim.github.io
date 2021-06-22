@@ -551,6 +551,13 @@
     + [Go言語のfor文が動く仕組みをアセンブリレベルで見てみよう](https://zenn.dev/dqneo/articles/fb7086fc94d067)
     + [Interface mocking tool for go generate.](https://github.com/matryer/moq)
     + [SafeSQLが面白い Jun 11, 2021](https://github.com/rung/public-note/tree/main/safesql)
+    + [Goでの並行処理を徹底解剖！](https://zenn.dev/hsaki/books/golang-concurrency)
+    + [Goのアセンブリのドキュメント](https://golang.org/doc/asm)
+    + [ゴールーチンの実行状況を可視化するgo tool traceコマンド](https://blog.gopheracademy.com/advent-2017/go-execution-tracer/)
+    + [Goのnetpollerについて](https://morsmachine.dk/netpoller)
+    + [The Go scheduler](https://morsmachine.dk/go-scheduler)
+    + [GoPlantUML](https://github.com/jfeliu007/goplantuml)
+    + [How “go build” Works](https://maori.geek.nz/how-go-build-works-750bb2ba6d8e)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

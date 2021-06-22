@@ -325,3 +325,6 @@
     + [コンテナイメージのlazy pullingをcurlで試してみる](https://knqyf263.hatenablog.com/entry/2021/06/15/071057)
     + [eBPF入門](https://zenn.dev/masibw/articles/068bdfe5edee17)
     + [Announcing Aya](https://confused.ai/posts/announcing-aya)
+    + [BPF Portability and CO-RE](https://facebookmicrosites.github.io/bpf/blog/2020/02/19/bpf-portability-and-co-re.html)
+    + [BPF CO-RE バイナリはどのようにビルドされるか](https://udzura.hatenablog.jp/entry/2021/03/15/201530)
+    + [Socket migration for SO_REUSEPORT ](https://kuniyu.jp/ja/blog/6/)

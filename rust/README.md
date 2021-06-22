@@ -303,6 +303,12 @@
     + [ペアリング暗号の計算を最適化するシリーズで、これはモンゴメリ法を使ってモジュロ計算を高速化する](https://research.nccgroup.com/2021/06/09/optimizing-pairing-based-cryptography-montgomery-arithmetic-in-rust/)
     + [Rustに継承がないというトピックに関連して、継承を多用しがちなGUIライブラリではどういう設計になるかという話](https://abadcafe.wordpress.com/2021/01/08/behavior-inheritance-in-rust/)
     + [RustでLinuxカーネルの機能を拡張しよう！](https://medium.com/nttlabs/ebpf-bytecode-in-rust-7612c69c151d)
+    + [Rustにおける連想配列リテラル・ハッシュリテラル相当](https://qiita.com/qnighy/items/b1d63b1931447758d607)
+    + [Rustのメモリ管理についてビジュアル化していろいろ見せてくれる記事](https://deepu.tech/memory-management-in-rust/)
+    + [Rust 1.53を早めに深掘り](https://tech-blog.optim.co.jp/entry/2021/06/18/080000)
+    + [【Rust】生ポインタとその演算](https://tyfkda.github.io/blog/2020/04/02/rewindable-slice.html)
+    + [Rustトレイトの既定実装と否定実装](https://qnighy.hatenablog.com/entry/2017/03/21/070000)
+    + [Rustのコヒーレンス](https://qnighy.hatenablog.com/entry/2017/07/20/220000)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)
