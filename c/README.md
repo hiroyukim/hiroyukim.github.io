@@ -85,6 +85,7 @@
     + [GNU Makeの使い方 ](https://speakerdeck.com/kaityo256/how-to-use-gnu-make)
     + [Dbgee - the Zero-Configuration Debuggee for Debuggers](https://github.com/nullpo-head/dbgee)
     + [mod_mrubyのメモリ問題をvalgrindで調査の上jemallocで改善](http://blog.matsumoto-r.jp/?p=3131)
+    + [Windows 10で始めるC言語開発](https://news.mynavi.jp/series/c-for-windows/)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

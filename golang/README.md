@@ -558,6 +558,9 @@
     + [The Go scheduler](https://morsmachine.dk/go-scheduler)
     + [GoPlantUML](https://github.com/jfeliu007/goplantuml)
     + [How “go build” Works](https://maori.geek.nz/how-go-build-works-750bb2ba6d8e)
+    + [Scan standard lib database rows directly to structs or slices.](https://github.com/blockloop/scan)
+    + [Reducing Memory Allocations in Golang](https://chris124567.github.io/2021-06-21-go-performance/)
+    + [Goでプライベートネットワークへのアクセスを制限する](https://motemen.hatenablog.com/entry/2021/06/go-networkblocklist)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

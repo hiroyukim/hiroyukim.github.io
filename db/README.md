@@ -109,6 +109,7 @@
     + [PostgreSQLのEXPLAIN結果の読み解き方](https://www.cybertec-postgresql.com/en/how-to-interpret-postgresql-explain-analyze-output/)
     + [共有プール管理の極意](https://www.oracle.com/webfolder/technetwork/jp/ondemand/ddd2013/C-4.pdf)
     + [CMU論文等の資料](https://15721.courses.cs.cmu.edu/spring2020/schedule.html)
+    + [社内SQL研修のために作った資料を公開します](https://www.ai-shift.co.jp/techblog/1980)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

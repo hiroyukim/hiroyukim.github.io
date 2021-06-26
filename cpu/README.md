@@ -48,6 +48,7 @@
     + [Intel Ice Lakeのプロセッサは整数除算命令がアツい](https://lcstmarck.hatenablog.com/entry/2019/10/11/231813)
     + [ARM CPUにおけるSIMDを用いた高速計算入門](https://www.slideshare.net/fixstars/arm-cpusimd/fixstars/arm-cpusimd)
     + [ARM命令セット](http://www.fos.kuis.kyoto-u.ac.jp/~umatani/le4/arm_spec.html)
+    + [フリーでオープンなRISC-V命令セットアーキテクチャ (ISA) の入門オンラインコース](https://training.linuxfoundation.org/training/introduction-to-riscv-lfd110x/?utm_source=lftraining&utm_medium=twitter&utm_campaign=mooc)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)

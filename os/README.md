@@ -328,3 +328,5 @@
     + [BPF Portability and CO-RE](https://facebookmicrosites.github.io/bpf/blog/2020/02/19/bpf-portability-and-co-re.html)
     + [BPF CO-RE バイナリはどのようにビルドされるか](https://udzura.hatenablog.jp/entry/2021/03/15/201530)
     + [Socket migration for SO_REUSEPORT ](https://kuniyu.jp/ja/blog/6/)
+    + [コンテナを突き破れ！！〜コンテナセキュリティ入門基礎の基礎〜](https://speakerdeck.com/mochizuki875/container-breakout)
+    + [プロファイラの比較](https://qiita.com/awrznc/items/161b55c29e6596431ca4)

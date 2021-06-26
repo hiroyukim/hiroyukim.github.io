@@ -11,3 +11,5 @@
     + [https://picoctf.com/](https://picoctf.com/)
     + [ゲームセキュリティ再考 ～チーターとの終わりなき戦い～](https://www.ninjastars-net.com/entry/2019/03/15/090000)
     + [SSH Pentesting Guide](https://community.turgensec.com/ssh-hacking-guide/)
+    + [SSRF Server Side Request Forgery 徹底入門](https://blog.tokumaru.org/2018/12/introduction-to-ssrf-server-side-request-forgery.html?m=1)
+    + [Privacy Sandboxとはなにか](https://speakerdeck.com/shigeki/privacy-sandbox-explained)

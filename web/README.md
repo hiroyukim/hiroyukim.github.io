@@ -156,6 +156,8 @@
     + [オープンソースのモジュール依存関係を分かりやすくグラフ化](https://deps.dev/)
     + [Webassemblyコンパイラを自作しよう](https://zenn.dev/akatsuki/articles/c7a4ece880e54e)
     + [魔窟と化した全文検索サーバーとふっかつのじゅもん](https://blog.cybozu.io/entry/2021/06/16/080000)
+    + [Wasm Binary Toolkit (WABT) の紹介記事](https://blog.knoldus.com/wabt-a-wonderful-cli-for-manipulating-wasm/)
+    + [Cypress - 書きやすいテストの秘密と独自コマンドの実装](https://future-architect.github.io/articles/20210428d/)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

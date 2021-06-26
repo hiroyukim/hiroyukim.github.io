@@ -11,3 +11,4 @@
     + [英語の発音と発音記号](https://todai.tv/contents-list/2010-2012FY/english-practice/practice01)
     + [マルウェア解析者になるための勉強方法](https://github.com/pinksawtooth/how_to_become_a_malware_analyst)
     + [計算科学技術特論A](https://www.r-ccs.riken.jp/outreach/schools/tokurona-2021/)
+    + [コンピュータアーキテクチャ](http://www.mtl.t.u-tokyo.ac.jp/~sakai/hard/)

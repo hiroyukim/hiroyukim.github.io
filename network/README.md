@@ -54,6 +54,7 @@
     + [進化する通信プロトコル - QUICとHTTP/3で何が変わるのか](https://www.youtube.com/watch?v=2nefATBHs1o)
     + [ネットワークサービスの依存発見に向いた TCP/UDP通信の低負荷なトレース手法](https://speakerdeck.com/yuukit/low-overhead-tcp-udp-tracing-in-kernel)
     + [徹底解説 v6プラス](https://www.jpne.co.jp/books/v6plus/)
+    + [基本から学ぶ　TCPと輻輳制御 ……押さえておきたい輻輳制御アルゴリズム](https://gihyo.jp/admin/serial/01/tcp-cc/0004)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)
