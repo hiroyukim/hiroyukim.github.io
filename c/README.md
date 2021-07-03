@@ -86,6 +86,8 @@
     + [Dbgee - the Zero-Configuration Debuggee for Debuggers](https://github.com/nullpo-head/dbgee)
     + [mod_mrubyのメモリ問題をvalgrindで調査の上jemallocで改善](http://blog.matsumoto-r.jp/?p=3131)
     + [Windows 10で始めるC言語開発](https://news.mynavi.jp/series/c-for-windows/)
+    + [C言語で書かれた小さく速いプログラミング言語 ](https://github.com/ThakeeNathees/pocketlang)
+    + [ELFのオブジェクトファイル形式を生成する](https://tyfkda.github.io/blog/2020/04/20/elf-obj.html)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

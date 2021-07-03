@@ -317,6 +317,10 @@
     + [RustだけでeBPFを動作させよう！](https://medium.com/nttlabs/bpf-co-re-618a765a110c)
     + [What would SQLite look like if written in Rust? — Part 0](https://medium.com/the-polyglot-programmer/what-would-sqlite-would-look-like-if-written-in-rust-part-0-4fc192368984)
     + [MSのRustの学習コース](https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x#)
+    + [Rust製のシェル Nu Shell を試してみた](https://dev.classmethod.jp/articles/try-rust-nushell/)
+    + [プロファイリングを行う](https://zenn.dev/termoshtt/books/b4bce1b9ea5e6853cb07/viewer/flamegraph)
+    + [ripgrep](https://github.com/BurntSushi/ripgrep)
+    + [Rustで独自のスライス型を定義する本](https://lo48576.gitlab.io/rust-custom-slice-book/)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)

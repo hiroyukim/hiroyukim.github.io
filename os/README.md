@@ -330,3 +330,8 @@
     + [Socket migration for SO_REUSEPORT ](https://kuniyu.jp/ja/blog/6/)
     + [コンテナを突き破れ！！〜コンテナセキュリティ入門基礎の基礎〜](https://speakerdeck.com/mochizuki875/container-breakout)
     + [プロファイラの比較](https://qiita.com/awrznc/items/161b55c29e6596431ca4)
+    + [WINIX OS](https://github.com/halfer53/winix)
+    + [snarkOS is a decentralized operating system ](https://github.com/aleohq/snarkos)
+    + [Linux kernel profiling with perf](https://perf.wiki.kernel.org/index.php/Tutorial)
+    + [なぜシェルスクリプトはPOSIXに準拠しても環境依存が激しいのか？ 〜POSIXの問題点とその解決策の案〜](https://qiita.com/ko1nksm/items/5018649160820006bdf6)
+    + [https://k8s.af の障害の分類](https://tammybutow.medium.com/site-reliability-engineering-for-kubernetes-b52877c70fb7)

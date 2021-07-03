@@ -25,3 +25,4 @@
     + [C++マルチスレッド一巡り](https://zenn.dev/yohhoy/books/cpp-stdlib-multithreading)
     + [C++ユーザーの為のリンクの話１](https://qiita.com/termoshtt/items/ffcd3dbc3928fc80caa1)
     + [C++のiostreamは遅いという話](https://qnighy.hatenablog.com/entry/20110115/1295054750)
+    + [8 bit breadboard computer emulator](https://github.com/0xhh/tinye8)

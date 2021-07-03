@@ -55,6 +55,8 @@
     + [ネットワークサービスの依存発見に向いた TCP/UDP通信の低負荷なトレース手法](https://speakerdeck.com/yuukit/low-overhead-tcp-udp-tracing-in-kernel)
     + [徹底解説 v6プラス](https://www.jpne.co.jp/books/v6plus/)
     + [基本から学ぶ　TCPと輻輳制御 ……押さえておきたい輻輳制御アルゴリズム](https://gihyo.jp/admin/serial/01/tcp-cc/0004)
+    + [ネットワーク装置のモニタリング用CLIツール](https://github.com/inexio/thola)
+    + [Let's code a TCP/IP stack, 1: Ethernet & ARP](https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)

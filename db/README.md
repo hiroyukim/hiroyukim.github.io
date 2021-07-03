@@ -110,6 +110,9 @@
     + [共有プール管理の極意](https://www.oracle.com/webfolder/technetwork/jp/ondemand/ddd2013/C-4.pdf)
     + [CMU論文等の資料](https://15721.courses.cs.cmu.edu/spring2020/schedule.html)
     + [社内SQL研修のために作った資料を公開します](https://www.ai-shift.co.jp/techblog/1980)
+    + [MySQL で使用するメモリサイズの見積もり](https://www.na3.jp/entry/20210621/p1)
+    + [各種エラー検出符号のエラー検出率](https://mikio.hatenablog.com/entry/2021/06/23/011402)
+    + [MySQL Indexing - Best practices for MySQL 5.6](https://www.slideshare.net/myxplain/mysql-indexing-best-practices-for-mysql)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)
