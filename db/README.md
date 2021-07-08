@@ -113,6 +113,10 @@
     + [MySQL で使用するメモリサイズの見積もり](https://www.na3.jp/entry/20210621/p1)
     + [各種エラー検出符号のエラー検出率](https://mikio.hatenablog.com/entry/2021/06/23/011402)
     + [MySQL Indexing - Best practices for MySQL 5.6](https://www.slideshare.net/myxplain/mysql-indexing-best-practices-for-mysql)
+    + [決済システムの残高管理周りの DB 設計と戦略](https://tech.kanmu.co.jp/entry/2021/06/29/131649)
+    + [MySQL実行計画の簡易検査ツールの開発とCIへの組み込み](https://techblog.zozo.com/entry/mysql-explain-plan-examination)
+    + [ゼロから作る時系列データベースエンジン](https://zenn.dev/nakabonne/articles/d300838a1500c7)
+    + [慣れた人間は空のテーブルを相手にEXPLAINの結果を予測できるのか](https://zenn.dev/nakunaru/articles/cf663e62fc1a7b)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

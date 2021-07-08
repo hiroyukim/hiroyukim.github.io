@@ -185,6 +185,7 @@
     + [エラトステネスの篩の活用法を総特集！ 〜 高速素因数分解・メビウスの反転公式 〜](https://qiita.com/drken/items/3beb679e54266f20ab63)
     + [競技プログラマーのブログをまとめてみた](https://blog.hamayanhamayan.com/entry/2020/12/24/001540)
     + [ルールベース画像処理のススメ](https://speakerdeck.com/fkubota/rurubesuhua-xiang-chu-li-falsesusume)
+    + [第6回 配信講義 計算科学技術特論A](https://www.slideshare.net/RCCSRENKEI/6-a2021)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

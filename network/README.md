@@ -57,7 +57,13 @@
     + [基本から学ぶ　TCPと輻輳制御 ……押さえておきたい輻輳制御アルゴリズム](https://gihyo.jp/admin/serial/01/tcp-cc/0004)
     + [ネットワーク装置のモニタリング用CLIツール](https://github.com/inexio/thola)
     + [Let's code a TCP/IP stack, 1: Ethernet & ARP](https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
+    + [QUICをゆっくり解説](https://eng-blog.iij.ad.jp/archives/10039)
+    + [透過型SMTPプロキシによるメール送信集約とキュー輻輳回避の検討](https://speakerdeck.com/linyows/a-study-on-aggregation-of-email-transfer-and-avoidance-of-queuecongestion-using-a-transparent-smtp-proxy)
+    + [A Pure HTTP/3 Alternative to MQTT-over-QUIC in Resource-Constrained IoT の備忘録](https://like-cat.hatenablog.com/entry/2021/07/03/121607)
+    + [Raspberry PiでWiFiアクセスポイント構築](https://zenn.dev/yutafujii/books/fcb457e798a3d5)
+    + [Why doesn't P4 have floating point types](https://github.com/jafingerhut/p4-guide/blob/master/docs/floating-point-operations.md)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)
     + [アプリケーション開発者向けHTTP使い方ガイド](https://httpwg.org/http-extensions/draft-ietf-httpbis-bcp56bis.html#section-4.6)
+    + [モダンなTCP通信チェックツール](https://github.com/mehrdadrad/tcpprobe)

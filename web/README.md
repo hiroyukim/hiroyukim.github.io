@@ -159,6 +159,11 @@
     + [Wasm Binary Toolkit (WABT) の紹介記事](https://blog.knoldus.com/wabt-a-wonderful-cli-for-manipulating-wasm/)
     + [Cypress - 書きやすいテストの秘密と独自コマンドの実装](https://future-architect.github.io/articles/20210428d/)
     + [gRPC チュートリアル](https://github.com/ymmt2005/grpc-tutorial)
+    + [人類にはまだ早いCSV](https://www.slideshare.net/kaseisan/csv-81848638)
+    + [Visa決済基盤にProxyサーバーを導入したお話](https://blog.kyash.co/entry/2021/07/02/080000)
+    + [本当は恐ろしい「～」記号](https://blog.nishinos.com/archives/5806116.html)
+    + [Firefoxは危険なJavaScriptに対応しない](https://qiita.com/rana_kualu/items/8803f02c72a54f366f2a)
+    + [スケールする要求を支える仕様の「意図」と「直交性」](https://qiita.com/hirokidaichi/items/61ad129eae43771d0fc3)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

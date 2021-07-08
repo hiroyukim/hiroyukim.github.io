@@ -88,6 +88,8 @@
     + [Windows 10で始めるC言語開発](https://news.mynavi.jp/series/c-for-windows/)
     + [C言語で書かれた小さく速いプログラミング言語 ](https://github.com/ThakeeNathees/pocketlang)
     + [ELFのオブジェクトファイル形式を生成する](https://tyfkda.github.io/blog/2020/04/20/elf-obj.html)
+    + [Google Chrome のオフライン時に表示される恐竜ゲームをC言語に移植したもの](https://github.com/shlomnissan/t-rex-runner-c)
+    + [gccの生成するトランポリンコードについて](https://yupo5656.hatenadiary.org/entry/20040602/p1)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

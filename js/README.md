@@ -48,3 +48,6 @@
     + [js の実行状態を wasm の linear memory で事前に実行](https://github.com/bytecodealliance/wizer#using-wizer-as-a-library)
     + [gba emulator](https://github.com/pokemium/wgba)
     + [JavaScript の実践的なトピックを扱う書籍 Deep JavaScript](https://exploringjs.com/deep-js/toc.html)
+    + [Benchmarking JavaScript Memory Usage](https://blog.webpagetest.org/posts/benchmarking-javascript-memory-usage/)
+    + [JSの依存関係におけるコストの実態について](https://medium.com/voodoo-engineering/the-real-cost-of-javascript-dependencies-and-the-state-of-js-package-quality-a8dacd74c0ec)
+    + [JavaScript の prototype 汚染を見つけるための専用の fuzzer](https://github.com/dwisiswant0/ppfuzz)
