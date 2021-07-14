@@ -186,6 +186,8 @@
     + [競技プログラマーのブログをまとめてみた](https://blog.hamayanhamayan.com/entry/2020/12/24/001540)
     + [ルールベース画像処理のススメ](https://speakerdeck.com/fkubota/rurubesuhua-xiang-chu-li-falsesusume)
     + [第6回 配信講義 計算科学技術特論A](https://www.slideshare.net/RCCSRENKEI/6-a2021)
+    + [Adaptive Pattern Matching](https://epubs.siam.org/doi/abs/10.1137/S0097539793246252)
+    + [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

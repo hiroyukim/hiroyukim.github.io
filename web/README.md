@@ -164,6 +164,9 @@
     + [本当は恐ろしい「～」記号](https://blog.nishinos.com/archives/5806116.html)
     + [Firefoxは危険なJavaScriptに対応しない](https://qiita.com/rana_kualu/items/8803f02c72a54f366f2a)
     + [スケールする要求を支える仕様の「意図」と「直交性」](https://qiita.com/hirokidaichi/items/61ad129eae43771d0fc3)
+    + [12. Unicode、絵文字、Androidのテキスト関連のハンドリング、無数の文字トリビア](https://turingcomplete.fm/12#t=33:40)
+    + [GitHub上のChangeLogをCircleCIから自動生成する](https://future-architect.github.io/articles/20210708a/)
+    + [簡単すぎる！GitHubを自分だけのRSSリーダーに変える「osmos:feed」を使ってみた！](https://paiza.hatenablog.com/entry/2021/07/07/150000)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

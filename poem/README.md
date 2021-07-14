@@ -43,3 +43,5 @@
     + [ソフトウェア若化モデルとその動向(ソフトウェアのエージングと若化](https://www.jstage.jst.go.jp/article/reajshinrai/36/1/36_KJ00009159585/_article/-char/ja/)
     + [Excerpts from Coders At Work: Joe Armstrong Interview](http://ivory.idyll.org/blog/coders-at-work-joe-armstrong.html)
     + [みずほ銀行システム障害に学ぶ](https://ja.kohsuke.org/software/mizuho-outage/)
+    + [Advancing Excel as a programming language with Andy Gordon and Simon Peyton Jones](https://www.microsoft.com/en-us/research/podcast/advancing-excel-as-a-programming-language-with-andy-gordon-and-simon-peyton-jones/)
+    + [Microsoft Research Podcast](https://www.microsoft.com/en-us/research/podcast/)

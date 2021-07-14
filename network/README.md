@@ -62,6 +62,7 @@
     + [A Pure HTTP/3 Alternative to MQTT-over-QUIC in Resource-Constrained IoT の備忘録](https://like-cat.hatenablog.com/entry/2021/07/03/121607)
     + [Raspberry PiでWiFiアクセスポイント構築](https://zenn.dev/yutafujii/books/fcb457e798a3d5)
     + [Why doesn't P4 have floating point types](https://github.com/jafingerhut/p4-guide/blob/master/docs/floating-point-operations.md)
+    + [Linuxネットワークの高速化の歴史と、コンテナネットワーク、DPDK、XDPなど最近のネットワークスタックの進化も抑えた硬派な資料](https://speakerdeck.com/chikuwait/osc21do)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)

@@ -580,6 +580,7 @@
     + [バイナリデータビューア ](https://github.com/zetamatta/binview)
     + [スレッドセーフなテスト用の時間を固定するライブラリを作った](https://tenntenn.dev/ja/posts/2021-07-06-testtime/)
     + [Go言語のCLI作成ツールであるcobra のシェル補完の生成があまりにも簡単](https://syu-m-5151.hatenablog.com/entry/2021/07/05/103447)
+    + [Go の(メモリコピーの)ベンチマークを書くのは難しいという話](https://github.com/go101/go101/wiki/Writing-qualified-Go-benchmarks-is-not-easy)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

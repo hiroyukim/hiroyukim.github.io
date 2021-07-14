@@ -90,6 +90,8 @@
     + [ELFのオブジェクトファイル形式を生成する](https://tyfkda.github.io/blog/2020/04/20/elf-obj.html)
     + [Google Chrome のオフライン時に表示される恐竜ゲームをC言語に移植したもの](https://github.com/shlomnissan/t-rex-runner-c)
     + [gccの生成するトランポリンコードについて](https://yupo5656.hatenadiary.org/entry/20040602/p1)
+    + [C11/C++11/POSIXスレッドAPI比較](https://yohhoy.hatenadiary.jp/entry/20120619/p1)
+    + [C言語プログラムの構造とほんの少し解釈](https://speakerdeck.com/mu_mu_mu/cyan-yu-puroguramufalsegou-zao-tohonfalseshao-sijie-shi)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

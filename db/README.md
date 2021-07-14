@@ -117,6 +117,9 @@
     + [MySQL実行計画の簡易検査ツールの開発とCIへの組み込み](https://techblog.zozo.com/entry/mysql-explain-plan-examination)
     + [ゼロから作る時系列データベースエンジン](https://zenn.dev/nakabonne/articles/d300838a1500c7)
     + [慣れた人間は空のテーブルを相手にEXPLAINの結果を予測できるのか](https://zenn.dev/nakunaru/articles/cf663e62fc1a7b)
+    + [NAND Flash から InnoDB にかけての話](https://www.slideshare.net/takanorisejima/nand-flash-innodb-249540845)
+    + [Amazon RDS移行のための 性能検証でわかった2つのこと](https://speakerdeck.com/kenchan/amazon-rdsyi-xing-falsetamefalse-xing-neng-jian-zheng-dewakatuta2tufalsekoto)
+    + [不揮発性メモリでのデータベース処理最適化 〜 ヤフーにおけるデータベース技術の研究開発](https://techblog.yahoo.co.jp/entry/2020052630002063/)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)
