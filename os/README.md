@@ -359,3 +359,7 @@
     + [Docker ではじめる "ゼロからのOS自作入門"](https://zenn.dev/sarisia/articles/6b57ea835344b6)
     + [OpeLa: セルフホストなOSと言語処理系を作るプロジェクト](https://www.slideshare.net/uchan_nos/opela-os-and-language-processing-system-at-kernelvm-online3-july-2021)
     + [eBPFを用いたRootkitの検知手法](https://blog.tofile.dev/2021/07/07/ebpf-hooks.html)
+    + [第674回　カーネルのクラッシュ情報を解析する](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0674)
+    + [デバッガ](https://tanakamura.github.io/pllp/docs/debugger/debugger.html)
+    + [x86_64 プログラミング入門](https://tanakamura.github.io/pllp/docs/asm_language.html)
+    + [メモリのデフラグはどうやって動いてる？ Linux Kernelの「Compaction」にみる断片化解消の仕組み](https://logmi.jp/tech/articles/324602)

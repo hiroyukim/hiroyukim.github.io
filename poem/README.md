@@ -45,3 +45,5 @@
     + [みずほ銀行システム障害に学ぶ](https://ja.kohsuke.org/software/mizuho-outage/)
     + [Advancing Excel as a programming language with Andy Gordon and Simon Peyton Jones](https://www.microsoft.com/en-us/research/podcast/advancing-excel-as-a-programming-language-with-andy-gordon-and-simon-peyton-jones/)
     + [Microsoft Research Podcast](https://www.microsoft.com/en-us/research/podcast/)
+    + [ダイクストラのチューリング賞記念講演の内容](https://www.unixuser.org/~euske/doc/dijkstra-ja/thehumbleprogrammer.html)
+    + [技術ようつべチャンネル集](https://qiita.com/welt_meister_/items/d89710a59c8822ac7fc7)

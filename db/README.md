@@ -120,6 +120,10 @@
     + [NAND Flash から InnoDB にかけての話](https://www.slideshare.net/takanorisejima/nand-flash-innodb-249540845)
     + [Amazon RDS移行のための 性能検証でわかった2つのこと](https://speakerdeck.com/kenchan/amazon-rdsyi-xing-falsetamefalse-xing-neng-jian-zheng-dewakatuta2tufalsekoto)
     + [不揮発性メモリでのデータベース処理最適化 〜 ヤフーにおけるデータベース技術の研究開発](https://techblog.yahoo.co.jp/entry/2020052630002063/)
+    + [分散トランザクション in CockroachDB](https://speakerdeck.com/kota2and3kan/distributed-tx-in-cockroachdb)
+    + [NewSQLへの誘い](https://speakerdeck.com/tzkoba/number-cloudnativedb-newsqlhefalseyou-i)
+    + [Resolving Tx Conflicts in CockroachDB](https://speakerdeck.com/kota2and3kan/resolving-tx-conflicts-in-cockroachdb)
+    + [TiDB:a Raft-based HTAP database](https://zenn.dev/tzkoba/articles/4e20ad7a514022)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

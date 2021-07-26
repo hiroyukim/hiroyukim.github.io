@@ -92,6 +92,7 @@
     + [gccの生成するトランポリンコードについて](https://yupo5656.hatenadiary.org/entry/20040602/p1)
     + [C11/C++11/POSIXスレッドAPI比較](https://yohhoy.hatenadiary.jp/entry/20120619/p1)
     + [C言語プログラムの構造とほんの少し解釈](https://speakerdeck.com/mu_mu_mu/cyan-yu-puroguramufalsegou-zao-tohonfalseshao-sijie-shi)
+    + [最近のC言語と、次期C標準\(C23\)](https://zenn.dev/mod_poppo/articles/modern-c-language)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

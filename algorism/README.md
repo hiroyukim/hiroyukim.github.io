@@ -188,6 +188,8 @@
     + [第6回 配信講義 計算科学技術特論A](https://www.slideshare.net/RCCSRENKEI/6-a2021)
     + [Adaptive Pattern Matching](https://epubs.siam.org/doi/abs/10.1137/S0097539793246252)
     + [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction)
+    + [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/)
+    + [Union-Find木を利用した無向グラフの閉路検出](https://qiita.com/xryuseix/items/eb247016ea04a549c720)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

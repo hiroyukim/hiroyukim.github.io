@@ -167,6 +167,10 @@
     + [12. Unicode、絵文字、Androidのテキスト関連のハンドリング、無数の文字トリビア](https://turingcomplete.fm/12#t=33:40)
     + [GitHub上のChangeLogをCircleCIから自動生成する](https://future-architect.github.io/articles/20210708a/)
     + [簡単すぎる！GitHubを自分だけのRSSリーダーに変える「osmos:feed」を使ってみた！](https://paiza.hatenablog.com/entry/2021/07/07/150000)
+    + [「Design Doc」って何なのか？](https://shimo5.me/post/2019-12-13/)
+    + [Recommended Books 2021 for platform engineer and SRE](https://gist.github.com/tcnksm/b74a11d2a197a10fb15377e9761ebcea)
+    + [パフォーマンスの文化を創る](https://postd.cc/creating-a-performance-culture/)
+    + [127.0.0.1 で HTTPS するなら mkcert がオススメ](https://github.com/FiloSottile/mkcert)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)
