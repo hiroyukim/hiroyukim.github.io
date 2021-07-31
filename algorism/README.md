@@ -190,6 +190,10 @@
     + [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction)
     + [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/)
     + [Union-Find木を利用した無向グラフの閉路検出](https://qiita.com/xryuseix/items/eb247016ea04a549c720)
+    + [Verifiable data structures](https://transparency.dev/verifiable-data-structures/)
+    + [モジュロバイアス](https://zenn.dev/yoheimuta/articles/6de5816f5d721c)
+    + [ Copilot（というか既存コードを学習した言語モデルによるコードの自動生成）の問題点の解説](https://www.fast.ai/2021/07/19/copilot/)
+    + [データサイエンス100本ノック](https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

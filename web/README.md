@@ -171,6 +171,8 @@
     + [Recommended Books 2021 for platform engineer and SRE](https://gist.github.com/tcnksm/b74a11d2a197a10fb15377e9761ebcea)
     + [パフォーマンスの文化を創る](https://postd.cc/creating-a-performance-culture/)
     + [127.0.0.1 で HTTPS するなら mkcert がオススメ](https://github.com/FiloSottile/mkcert)
+    + [ちいさな Web ブラウザを作ろう](https://browserbook.shift-js.info/)
+    + [A fully interactive, real-time, and modern text-based browser rendered to TTYs and browsers](https://github.com/browsh-org/browsh)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

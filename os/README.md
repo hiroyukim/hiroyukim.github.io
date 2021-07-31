@@ -363,3 +363,7 @@
     + [デバッガ](https://tanakamura.github.io/pllp/docs/debugger/debugger.html)
     + [x86_64 プログラミング入門](https://tanakamura.github.io/pllp/docs/asm_language.html)
     + [メモリのデフラグはどうやって動いてる？ Linux Kernelの「Compaction」にみる断片化解消の仕組み](https://logmi.jp/tech/articles/324602)
+    + [オペレーティングシステム II](http://www.coins.tsukuba.ac.jp/~yas/coins/os2-2020/)
+    + [Kubernetesはschedulerのパフォーマンスをどのように計測しているか](https://speakerdeck.com/sanposhiho/kuberneteshaschedulerfalsepahuomansuwodofalseyouniji-ce-siteiruka)
+    + [システムパフォーマンスの作者のページ](https://www.brendangregg.com/overview.html)
+    + [BPF ring buffer](https://nakryiko.com/posts/bpf-ringbuf/)

@@ -583,6 +583,14 @@
     + [Go の(メモリコピーの)ベンチマークを書くのは難しいという話](https://github.com/go101/go101/wiki/Writing-qualified-Go-benchmarks-is-not-easy)
     + [Updating the Go Memory Model](https://research.swtch.com/gomm)
     + [Go のSSA表現形式のダンプとその解析](https://ren.nosuke.me/blog/202002/20200227/)
+    + [スレッドセーフな 時間を固定するテストヘルパー](https://docs.google.com/presentation/d/1YeYrS-Bm5uCyWNwXAUQaUEBMhasp_tpYZPutgnWNE2g/edit#slide=id.p)
+    + [golangci-lintを理解する](https://zenn.dev/sanpo_shiho/books/61bc1e1a30bf27)
+    + [goroutineのモニタリングツール](https://github.com/bcicen/grmon)
+    + [Go 言語でスライスから要素を消すには](https://zenn.dev/mattn/articles/31dfed3c89956d)
+    + [入門Go言語仕様 / Go Specification Untyped Constants](https://speakerdeck.com/dqneo/go-specification-untyped-constants)
+    + [GoはいつGCするのか?](https://zenn.dev/koron/articles/b96cccfa82c0c1)
+    + [解説&翻訳 - A Quick Guide to Go's Assembler](https://zenn.dev/hsaki/articles/godoc-asm-ja)
+    + [Memory Models](https://research.swtch.com/mm)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

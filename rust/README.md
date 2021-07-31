@@ -344,6 +344,10 @@
     + [RustのBTreeMapを最初に実装した人が何故二分木でなくB木なのかとか、BTreeMapの実装の解説とかをしてる](https://cglab.ca/~abeinges/blah/rust-btree-case/)
     + [Rustのコードをコンパイルしてコンテナにパッケージングするまでをやるやつ](https://dev.to/rogertorres/first-steps-with-docker-rust-30oi)
     + [Rustハンズオン@エウレカ社](https://speakerdeck.com/helloyuk13/rusthanzuon-at-eurekashe)
+    + [Mapped Typesのあれこれ](https://zenn.dev/qnighy/articles/dde3d980b5e386)
+    + [TUIのSQLクライアント](https://github.com/TaKO8Ki/gobang)
+    + [youki: A container runtime in Rust](https://github.com/containers/youki)
+    + [Rustコンパイラの中間表現を可視化する](https://paper.dropbox.com/doc/Rust-wXxH1Bbncyr512M4IgRwK)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)

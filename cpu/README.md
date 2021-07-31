@@ -52,6 +52,7 @@
     + [投機的プリフェッチとキャッシュの弱点](https://eetimes.itmedia.co.jp/ee/articles/1603/10/news044.html)
     + [システムLSIとアーキテクチャ技術](http://am.ics.keio.ac.jp/parthenon/cache2.pdf)
     + [デバッガとブレイクポイントについて](http://blog.livedoor.jp/talkinbout/archives/1320509.html)
+    + [RISC-V ベクトル拡張 v1.0の日本語訳を公開した](https://msyksphinz.hatenablog.com/entry/2021/07/25/040000)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)

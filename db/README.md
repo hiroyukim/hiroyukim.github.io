@@ -124,6 +124,12 @@
     + [NewSQLへの誘い](https://speakerdeck.com/tzkoba/number-cloudnativedb-newsqlhefalseyou-i)
     + [Resolving Tx Conflicts in CockroachDB](https://speakerdeck.com/kota2and3kan/resolving-tx-conflicts-in-cockroachdb)
     + [TiDB:a Raft-based HTAP database](https://zenn.dev/tzkoba/articles/4e20ad7a514022)
+    + [分散トランザクション in CockroachDB](https://speakerdeck.com/kota2and3kan/distributed-tx-in-cockroachdb)
+    + [TLA+](https://ja.wikipedia.org/wiki/TLA%2B)
+    + [データベース完全ガイド](https://codezine.jp/article/detail/14380)
+    + [UNDERSTANDING MYSQL ISOLATION LEVELS: REPEATABLE-READ](https://blog.pythian.com/understanding-mysql-isolation-levels-repeatable-read/)
+    + [InnoDBのMVCCのガベージコレクションについて](https://shallow1729.hatenablog.com/entry/2021/07/23/090911)
+    + [PostgreSQLのバックエンドフローチャート](https://wiki.postgresql.org/wiki/Backend_flowchart)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)
