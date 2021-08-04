@@ -591,6 +591,10 @@
     + [GoはいつGCするのか?](https://zenn.dev/koron/articles/b96cccfa82c0c1)
     + [解説&翻訳 - A Quick Guide to Go's Assembler](https://zenn.dev/hsaki/articles/godoc-asm-ja)
     + [Memory Models](https://research.swtch.com/mm)
+    + [Type Sets Proposalを読む2](https://zenn.dev/nobishii/articles/type_set_proposal_2)
+    + [Blazing fast, structured, leveled logging in Go.](https://github.com/uber-go/zap)
+    + [クソ遅いネットワークを再現できるGo製のツール](https://github.com/tylertreat/comcast)
+    + [認可リバースプロキシを作ってみた](https://docs.google.com/presentation/d/e/2PACX-1vQu1gx21IGBwzHCVpR1sB3kr85DRIYshFKzqKq47FNyby7oODaFHUzCiPpUkXY_SC-2EgXQ7P3vdx3B/pub?start=false&loop=false&delayms=3000&slide=id.p)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

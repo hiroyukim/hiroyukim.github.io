@@ -367,3 +367,5 @@
     + [Kubernetesはschedulerのパフォーマンスをどのように計測しているか](https://speakerdeck.com/sanposhiho/kuberneteshaschedulerfalsepahuomansuwodofalseyouniji-ce-siteiruka)
     + [システムパフォーマンスの作者のページ](https://www.brendangregg.com/overview.html)
     + [BPF ring buffer](https://nakryiko.com/posts/bpf-ringbuf/)
+    + [Btrfsの薄い本](https://github.com/satoru-takeuchi/btrfs-thin-book)
+    + [NginxでのeBPFとSO_REUSEPORTを使ったQUICコネクション受信処理](https://medium.com/nttlabs/nginx-quic-ebpf-soreuseport-127c62112a8d)

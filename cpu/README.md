@@ -53,6 +53,7 @@
     + [システムLSIとアーキテクチャ技術](http://am.ics.keio.ac.jp/parthenon/cache2.pdf)
     + [デバッガとブレイクポイントについて](http://blog.livedoor.jp/talkinbout/archives/1320509.html)
     + [RISC-V ベクトル拡張 v1.0の日本語訳を公開した](https://msyksphinz.hatenablog.com/entry/2021/07/25/040000)
+    + [GPU向けコンパイラの最適化の紹介と論文のサーベイ](https://juln.hatenablog.com/entry/2021/05/13/181020)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)

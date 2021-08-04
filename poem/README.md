@@ -47,3 +47,7 @@
     + [Microsoft Research Podcast](https://www.microsoft.com/en-us/research/podcast/)
     + [ダイクストラのチューリング賞記念講演の内容](https://www.unixuser.org/~euske/doc/dijkstra-ja/thehumbleprogrammer.html)
     + [技術ようつべチャンネル集](https://qiita.com/welt_meister_/items/d89710a59c8822ac7fc7)
+    + [VRやゲーム、３D映画などで起きる「３D酔い」とは？](https://brand.taisho.co.jp/semper/trivia/trivia04.html)
+    + [趣味で作ったソフトウェアが海外企業に買われ分野世界一になるまでの話](https://knqyf263.hatenablog.com/entry/2021/07/29/143500)
+    + [構造を意識した抜け漏れがなく主張点が明確な論文執筆](https://blog.monochromegane.com/blog/2020/09/23/structure-of-research-paper/)
+    + [ドワーフの森というシミュレーションゲームを15年以上開発し続けてる人へのインタビュー](https://stackoverflow.blog/2021/07/28/700000-lines-of-code-20-years-and-one-developer-how-dwarf-fortress-is-built/)

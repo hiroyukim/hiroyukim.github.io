@@ -348,6 +348,12 @@
     + [TUIのSQLクライアント](https://github.com/TaKO8Ki/gobang)
     + [youki: A container runtime in Rust](https://github.com/containers/youki)
     + [Rustコンパイラの中間表現を可視化する](https://paper.dropbox.com/doc/Rust-wXxH1Bbncyr512M4IgRwK)
+    + [Understanding Rust futures by going way too deep](https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep)
+    + [Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/introduction.html)
+    + [bevy: ゲームエンジン](https://bevyengine.org/)
+    + [Rustでon-diskなB+Treeを作ったときの細かな話:youtube](https://www.youtube.com/watch?v=O3itc2Z1zhI)
+    + [LevelDBをRustで再実装](https://github.com/dermesser/leveldb-rs)
+    + [Rust 1.54を早めに深掘り](https://tech-blog.optim.co.jp/entry/2021/07/30/080000)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)

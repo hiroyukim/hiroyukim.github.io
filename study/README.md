@@ -13,3 +13,4 @@
     + [計算科学技術特論A](https://www.r-ccs.riken.jp/outreach/schools/tokurona-2021/)
     + [コンピュータアーキテクチャ](http://www.mtl.t.u-tokyo.ac.jp/~sakai/hard/)
     + [START 3D](https://substance3d.adobe.com/tutorials/courses/Start-3D/youtube-OGliKJjGEQU)
+    + [ミクシィの21新卒技術研修の資料と動画を公開します！](https://mixi-developers.mixi.co.jp/21-technical-training-a0bcdbf9bca0)

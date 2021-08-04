@@ -40,3 +40,5 @@
     + [Rubyで作る奇妙なプログラミング言語　～ヘンな言語のつくりかた](https://tatsu-zine.com/books/esoteric-language-programing-in-ruby)
     + [JITコンパイラの教科書](https://github.com/chrisseaton/rhizome)
     + [どきっ！mrubyだらけのTracing JITコンパイラ解説　バグりもあるよ](https://qiita.com/miura1729/items/dcb8c17fa4ce9075ec1a)
+    + [Bison構文解析器のアルゴリズム](http://guppy.eng.kagawa-u.ac.jp/2019/Compiler/bison-1.2.8/bison-ja_8.html)
+    + [構文解析の本](https://github.com/asciidwango/parser_book)

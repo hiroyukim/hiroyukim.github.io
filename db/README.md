@@ -130,6 +130,8 @@
     + [UNDERSTANDING MYSQL ISOLATION LEVELS: REPEATABLE-READ](https://blog.pythian.com/understanding-mysql-isolation-levels-repeatable-read/)
     + [InnoDBのMVCCのガベージコレクションについて](https://shallow1729.hatenablog.com/entry/2021/07/23/090911)
     + [PostgreSQLのバックエンドフローチャート](https://wiki.postgresql.org/wiki/Backend_flowchart)
+    + [MySQLのORDER BYで使われているソートアルゴリズムの解説](https://blog.pankajtanwar.in/what-is-the-sorting-algorithm-behind-order-by-query-in-mysql)
+    + [TiDB:a Raft-based HTAP database](https://zenn.dev/tzkoba/articles/4e20ad7a514022)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)
