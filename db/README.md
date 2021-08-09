@@ -132,6 +132,10 @@
     + [PostgreSQLのバックエンドフローチャート](https://wiki.postgresql.org/wiki/Backend_flowchart)
     + [MySQLのORDER BYで使われているソートアルゴリズムの解説](https://blog.pankajtanwar.in/what-is-the-sorting-algorithm-behind-order-by-query-in-mysql)
     + [TiDB:a Raft-based HTAP database](https://zenn.dev/tzkoba/articles/4e20ad7a514022)
+    + [ロジカルレプリケーションのレプリケーション衝突を解決する](https://masahikosawada.github.io/2019/09/17/Conflict_Resolution_on_Logical_Relplication/)
+    + [MySQLデータベースサーバーを簡単にデプロイするツール](https://www.dbdeployer.com/)
+    + [Luceneのメモリ上でのインデックス構造とその仕組み](https://www.m3tech.blog/entry/lucene-mem-invert)
+    + [クラウドデータベース・アナリティクス技術の進化について](https://note.com/eugenekawamoto/n/n312201013d5f)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

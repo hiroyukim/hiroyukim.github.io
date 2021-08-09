@@ -595,6 +595,7 @@
     + [Blazing fast, structured, leveled logging in Go.](https://github.com/uber-go/zap)
     + [クソ遅いネットワークを再現できるGo製のツール](https://github.com/tylertreat/comcast)
     + [認可リバースプロキシを作ってみた](https://docs.google.com/presentation/d/e/2PACX-1vQu1gx21IGBwzHCVpR1sB3kr85DRIYshFKzqKq47FNyby7oODaFHUzCiPpUkXY_SC-2EgXQ7P3vdx3B/pub?start=false&loop=false&delayms=3000&slide=id.p)
+    + [Golangでのstreamの扱い方を学ぶ](https://christina04.hatenablog.com/entry/2017/01/06/190000)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

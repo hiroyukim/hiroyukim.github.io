@@ -354,6 +354,12 @@
     + [Rustでon-diskなB+Treeを作ったときの細かな話:youtube](https://www.youtube.com/watch?v=O3itc2Z1zhI)
     + [LevelDBをRustで再実装](https://github.com/dermesser/leveldb-rs)
     + [Rust 1.54を早めに深掘り](https://tech-blog.optim.co.jp/entry/2021/07/30/080000)
+    + [5000x faster CRDTs: An Adventure in Optimization](https://josephg.com/blog/crdts-go-brrr/)
+    + [Rustの新しいWEBフレームワークaxumを触ってみた](https://zenn.dev/techno_tanoc/articles/99e54c82cb049f)
+    + [Rust製OOM killer](https://github.com/vrmiguel/bustd)
+    + [ターミナルマルチプレクサのZellijが特定のケースでtmuxの4倍くらい遅かったのをボトルネックみつけて解消していった話](https://www.poor.dev/blog/performance/)
+    + [rustのスマートポインタ解説](https://dev.to/rogertorres/smart-pointers-in-rust-what-why-and-how-oma)
+    + [Implementing ICMP in Rust](https://dev.to/xphoniex/ii-implementing-icmp-in-rust-3bk5)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)

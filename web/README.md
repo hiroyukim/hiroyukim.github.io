@@ -173,6 +173,9 @@
     + [127.0.0.1 で HTTPS するなら mkcert がオススメ](https://github.com/FiloSottile/mkcert)
     + [ちいさな Web ブラウザを作ろう](https://browserbook.shift-js.info/)
     + [A fully interactive, real-time, and modern text-based browser rendered to TTYs and browsers](https://github.com/browsh-org/browsh)
+    + [CORSの仕様はなぜ複雑なのか](https://zenn.dev/qnighy/articles/6ff23c47018380)
+    + [Chrome 93で実装されたCross Device WebOTPフローを試してみた](https://ritou.hatenablog.com/entry/2021/08/01/070000)
+    + [5時間でCDNを作るぞ！という記事](https://fly.io/blog/the-5-hour-content-delivery-network/)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)
