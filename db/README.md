@@ -136,6 +136,8 @@
     + [MySQLデータベースサーバーを簡単にデプロイするツール](https://www.dbdeployer.com/)
     + [Luceneのメモリ上でのインデックス構造とその仕組み](https://www.m3tech.blog/entry/lucene-mem-invert)
     + [クラウドデータベース・アナリティクス技術の進化について](https://note.com/eugenekawamoto/n/n312201013d5f)
+    + [Google Cloud Spanner 沼への誘い ](https://docs.google.com/presentation/d/1LlrIvkv02Jj1OvjKWsKnMNbR3Np72rUxWqatmzywLPI/edit#slide=id.g89aa0d3d3_0_1)
+    + [第１章　目からウロコのOracleパフォーマンス分析テクニック](https://www.oracle.com/jp/technical-resources/article/chapter1-3.html)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

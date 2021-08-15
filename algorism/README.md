@@ -196,6 +196,9 @@
     + [データサイエンス100本ノック](https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess)
     + [競技プロ的なアルゴリズムのスライドのまとめ](https://yukicoder.me/wiki/slide)
     + [B-tree Path Hints](https://github.com/tidwall/btree/blob/master/PATH_HINT.md)
+    + [競技プログラミング練習問題集](https://blog.hamayanhamayan.com/entry/2100/01/01/000000)
+    + [SA-IS](https://shogo82148.github.io/homepage/memo/algorithm/suffix-array/sa-is.html)
+    + [ANSは多くの圧縮で算術符号/ハフマン符号に代わって採用されているが、英語でも解説本は殆どなく、日本語解説もない。理解するためにはこのチュートリアルがおすすめ](https://arxiv.org/abs/2001.09186)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

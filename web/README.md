@@ -176,6 +176,13 @@
     + [CORSの仕様はなぜ複雑なのか](https://zenn.dev/qnighy/articles/6ff23c47018380)
     + [Chrome 93で実装されたCross Device WebOTPフローを試してみた](https://ritou.hatenablog.com/entry/2021/08/01/070000)
     + [5時間でCDNを作るぞ！という記事](https://fly.io/blog/the-5-hour-content-delivery-network/)
+    + [AWSによるクラウド入門](https://tomomano.gitlab.io/intro-aws/)
+    + [マイクロサービスとメッセージングのなぜ](https://rheb.hatenablog.com/entry/microservices_messaging_2)
+    + [ローコードテスト自動化ツールの mabl がすごい](https://zenn.dev/seya/articles/eb03a550b7f19b)
+    + [CTF Web問題の攻撃手法まとめ](https://graneed.hatenablog.com/entry/2021/08/09/115452)
+    + [メルカリShops の技術スタックと、その選定理由](https://engineering.mercari.com/blog/entry/20210810-mercari-shops-tech-stack/)
+    + [B3 分散アーキテクチャ時代におけるWebシステムの開発と運用 事前資料 クラウドシステムをセキュアに開発運用する勘所](https://speakerdeck.com/azara/sekiyuriteikiyanpuquan-guo-da-hui-2021-onrain-b3-fen-san-akitekutiyashi-dai-niokeruwebsisutemufalsekai-fa-toyun-yong-shi-qian-zi-liao-kuraudosisutemuwosekiyuanikai-fa-yun-yong-surukan-suo)
+    + [新しいメルカリ Web の話](https://engineering.mercari.com/blog/entry/20210810-the-new-mercari-web/)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

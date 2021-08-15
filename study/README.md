@@ -15,3 +15,5 @@
     + [START 3D](https://substance3d.adobe.com/tutorials/courses/Start-3D/youtube-OGliKJjGEQU)
     + [ミクシィの21新卒技術研修の資料と動画を公開します！](https://mixi-developers.mixi.co.jp/21-technical-training-a0bcdbf9bca0)
     + [アルゴ式](https://algo-method.com/)
+    + [openstax](https://openstax.org/subjects)
+    + [外国語大学の学習サイト](http://www.coelang.tufs.ac.jp/mt/)

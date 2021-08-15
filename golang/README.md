@@ -596,6 +596,15 @@
     + [クソ遅いネットワークを再現できるGo製のツール](https://github.com/tylertreat/comcast)
     + [認可リバースプロキシを作ってみた](https://docs.google.com/presentation/d/e/2PACX-1vQu1gx21IGBwzHCVpR1sB3kr85DRIYshFKzqKq47FNyby7oODaFHUzCiPpUkXY_SC-2EgXQ7P3vdx3B/pub?start=false&loop=false&delayms=3000&slide=id.p)
     + [Golangでのstreamの扱い方を学ぶ](https://christina04.hatenablog.com/entry/2017/01/06/190000)
+    + [GoのAPIが厳格でない訳](https://zenn.dev/nobonobo/articles/5b1872497502d5)
+    + [Go の len がどの様にコード生成されて計算されているかの話](https://tpaschalis.github.io/golang-len/)
+    + [GoでSIMDを駆使して高速な内積演算を行う](https://tech.gunosy.io/entry/go-faster-dot-with-simd)
+    + [Go 1.17連載が始まります: コンパイラとgo mod](https://future-architect.github.io/articles/20210810a/)
+    + [A pure go library to handle MySQL network protocol and replication.](https://github.com/go-mysql-org/go-mysql)
+    + [Go1.17のencoding/csv](https://future-architect.github.io/articles/20210811a/)
+    + [select文の内部実装見つけました](https://speakerdeck.com/sakiengineer/selectwen-falsenei-bu-shi-zhuang-jian-tukemasita)
+    + [Go1.17からのtestingにおける新機能](https://future-architect.github.io/articles/20210812a/)
+    + [Common Anti-Patterns in Go Web Applications](https://threedots.tech/post/common-anti-patterns-in-go-web-applications/)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack
