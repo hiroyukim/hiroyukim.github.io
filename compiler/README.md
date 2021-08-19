@@ -46,3 +46,4 @@
     + [実行結果がリンクの順番に依存するコード](https://zenn.dev/kaityo256/articles/link_order_dependent)
     + [x86 ELF を吐けるCコンパイラ実装](https://github.com/riicchhaarrd/ocean)
     + [タイガーブックを読む：LR(0)構文解析は先読みするのか](https://uchan.hateblo.jp/entry/2021/08/13/173445)
+    + [LLVM internals, part 2: parsing the bitstream](https://blog.yossarian.net/2021/08/10/LLVM-internals-part-2-parsing-the-bitstream)

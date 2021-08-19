@@ -138,6 +138,10 @@
     + [クラウドデータベース・アナリティクス技術の進化について](https://note.com/eugenekawamoto/n/n312201013d5f)
     + [Google Cloud Spanner 沼への誘い ](https://docs.google.com/presentation/d/1LlrIvkv02Jj1OvjKWsKnMNbR3Np72rUxWqatmzywLPI/edit#slide=id.g89aa0d3d3_0_1)
     + [第１章　目からウロコのOracleパフォーマンス分析テクニック](https://www.oracle.com/jp/technical-resources/article/chapter1-3.html)
+    + [Luceneのストレージへの書き込みについて](https://speakerdeck.com/takuyaa/introduction-to-apache-lucene?slide=16)
+    + [shadow pagingとかWALはCMUの講義](https://www.youtube.com/watch?v=hh21I1702OY&list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi&index=21)
+        + youtube
+    + [PostgreSQL 14でのBtreeインデックスのVacuum関連の改善についての解説](https://masahikosawada.github.io/2021/08/18/Btree-vacuum-improvements_in_PG14/)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

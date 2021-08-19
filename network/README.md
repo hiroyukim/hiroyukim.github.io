@@ -67,6 +67,7 @@
     + [QUIC event definitions for qlog の紹介](https://qiita.com/neko-suki/items/604095f60ec5f334d896)
     + [H2O と QLog で QUIC をデバッグ](https://www.fastly.com/jp/blog/debugging-quic-with-h2o-and-qlog)
     + [「Debugging Modern Web Protocols with qlog」の紹介](https://like-cat.hatenablog.com/entry/2020/05/04/122544)
+    + [QUIC の Initial Packet を復号する](https://tex2e.github.io/blog/protocol/quic-initial-packet-decrypt)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)

@@ -17,3 +17,4 @@
     + [アルゴ式](https://algo-method.com/)
     + [openstax](https://openstax.org/subjects)
     + [外国語大学の学習サイト](http://www.coelang.tufs.ac.jp/mt/)
+    + [いつか情報系学位を取得したい社会人の皆様へ](https://note.com/manamin0521/n/nebdd19dfcdc6)

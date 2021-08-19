@@ -368,6 +368,8 @@
     + [microkernel in safe Rust](https://github.com/rcore-os/zCore)
     + [Pure Rustな近似最近傍探索ライブラリhoraを用いた画像検索を実装する](https://vaaaaaanquish.hatenablog.com/entry/2021/08/10/065117)
     + [Manipulate LLVM-IR in Pure Rust](https://github.com/maekawatoshiki/vicis)
+    + [疑似乱数のアレコレとRustで実証実装する記事](https://lokathor.github.io/prng/)
+    + [Rustで型の多相再帰はできない](https://qnighy.hatenablog.com/entry/2017/03/16/114133)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)

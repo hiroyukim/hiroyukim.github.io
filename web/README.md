@@ -183,6 +183,10 @@
     + [メルカリShops の技術スタックと、その選定理由](https://engineering.mercari.com/blog/entry/20210810-mercari-shops-tech-stack/)
     + [B3 分散アーキテクチャ時代におけるWebシステムの開発と運用 事前資料 クラウドシステムをセキュアに開発運用する勘所](https://speakerdeck.com/azara/sekiyuriteikiyanpuquan-guo-da-hui-2021-onrain-b3-fen-san-akitekutiyashi-dai-niokeruwebsisutemufalsekai-fa-toyun-yong-shi-qian-zi-liao-kuraudosisutemuwosekiyuanikai-fa-yun-yong-surukan-suo)
     + [新しいメルカリ Web の話](https://engineering.mercari.com/blog/entry/20210810-the-new-mercari-web/)
+    + [様々なサイバー攻撃に繋がる脆弱性 HTTP リクエストスマグリング](https://yamory.io/blog/about-http-request-smuggling/)
+    + [スロットリングとの付き合い方](https://future-architect.github.io/articles/20200121/)
+    + [セキュアなトークンへのJWT適用について](https://ritou.hatenablog.com/entry/2021/08/15/063000)
+    + [フォント読み込みの影響を軽減するための新しい方法：CSSフォントディスクリプタ](https://postd.cc/a-new-way-to-reduce-font-loading-impact/)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

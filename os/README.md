@@ -375,3 +375,6 @@
     + [Gitのインデックスの中身](https://zenn.dev/kaityo256/articles/inside_the_index)
     + [container-demo](https://github.com/utam0k/container-demo)
     + [「HTTP(S) Proxyを設定する」とはどういうことか、パケットレベルで解説](https://techblog.securesky-tech.com/entry/2021/08/04/howto-create-proxied-http-request)
+    + [Gitの仕組みと用語](https://github.com/kaityo256/github/blob/main/term/README.md)
+    + [Introducing Walmart’s L3AF Project: XDP based packet processing at scale](https://medium.com/walmartglobaltech/introducing-walmarts-l3af-project-xdp-based-packet-processing-at-scale-81a13ff49572)
+    + [BPF Performance Toolsを読んだ感想](https://go-vargo.hatenablog.com/entry/2020/03/29/210304)

@@ -28,3 +28,5 @@
     + [Visual Studio Code C++ July 2021 Update: Disassembly View, Macro Expansion and Windows ARM64 Debugging](https://devblogs.microsoft.com/cppblog/visual-studio-code-c-july-2021-update-disassembly-view-macro-expansion-and-windows-arm64-debugging/)
     + [Visual Studio Code project for Linux kernel sources](https://github.com/amezin/vscode-linux-kernel)
     + [VSCode Remote Containerが良い](https://qiita.com/d0ne1s/items/d2649801c6f804019db7)
+    + [ProjectorでJetBrainsのIDEをリモートから使う](https://zenn.dev/ryotarai/articles/6925b7a09f06dc)
+    + [Run VS Code on any machine anywhere and access it in the browser.](https://github.com/cdr/code-server)

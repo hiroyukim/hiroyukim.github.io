@@ -605,6 +605,13 @@
     + [select文の内部実装見つけました](https://speakerdeck.com/sakiengineer/selectwen-falsenei-bu-shi-zhuang-jian-tukemasita)
     + [Go1.17からのtestingにおける新機能](https://future-architect.github.io/articles/20210812a/)
     + [Common Anti-Patterns in Go Web Applications](https://threedots.tech/post/common-anti-patterns-in-go-web-applications/)
+    + [gojq](https://github.com/itchyny/gojq)
+    + [Goのcontext.Contextで学ぶ有向グラフと実装](https://future-architect.github.io/articles/20210629a/)
+    + [任意のバージョンのGoの言語仕様のHTMLを閲覧するためのWebアプリ](https://gospec-previewer.vercel.app/)
+    + [goplsと静的解析を活用して変更の影響範囲を調べたい](https://daisuzu.hatenablog.com/entry/2021/08/16/181508)
+    + [Go で SSH 超しに PostgreSQL に接続できる database/sql ドライバを作った。](https://zenn.dev/mattn/articles/d1b114e2d4a421)
+    + [benchstat/go tool traceコマンドをつかったベンチマークの可視化](https://budougumi0617.github.io/2020/12/04/goroutine_tuning_with_benchmark_benchstat_trace/)
+    + [Go言語らしくGoコードを実装するための手法と思想](https://booth.pm/ja/items/1061168)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

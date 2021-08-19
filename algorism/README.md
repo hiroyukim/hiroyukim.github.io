@@ -199,6 +199,10 @@
     + [競技プログラミング練習問題集](https://blog.hamayanhamayan.com/entry/2100/01/01/000000)
     + [SA-IS](https://shogo82148.github.io/homepage/memo/algorithm/suffix-array/sa-is.html)
     + [ANSは多くの圧縮で算術符号/ハフマン符号に代わって採用されているが、英語でも解説本は殆どなく、日本語解説もない。理解するためにはこのチュートリアルがおすすめ](https://arxiv.org/abs/2001.09186)
+    + [除算・平方根の計算のためのハードウェアアルゴリズム](https://future-architect.github.io/articles/20210630b/)
+    + [LOUDSをGoで試してみる](https://future-architect.github.io/articles/20210701a/)
+    + [リトライと冪等性のデザインパターン](https://frsyuki.hatenablog.com/entry/2014/06/09/164559)
+    + [『データ分析のための統計学入門 』の日本語版PDFファイル](http://www.kunitomo-lab.sakura.ne.jp/2021-3-3Open\(S\).pdf)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)
