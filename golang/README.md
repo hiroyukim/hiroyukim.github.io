@@ -612,6 +612,9 @@
     + [Go で SSH 超しに PostgreSQL に接続できる database/sql ドライバを作った。](https://zenn.dev/mattn/articles/d1b114e2d4a421)
     + [benchstat/go tool traceコマンドをつかったベンチマークの可視化](https://budougumi0617.github.io/2020/12/04/goroutine_tuning_with_benchmark_benchstat_trace/)
     + [Go言語らしくGoコードを実装するための手法と思想](https://booth.pm/ja/items/1061168)
+    + [watchコマンド](https://github.com/sachaos/viddy)
+    + [Go1.17における go get の変更点](https://future-architect.github.io/articles/20210818a/)
+    + [controller-runtimeのロギング機能](https://zenn.dev/zoetro/articles/760346baab7e24)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

@@ -187,6 +187,7 @@
     + [スロットリングとの付き合い方](https://future-architect.github.io/articles/20200121/)
     + [セキュアなトークンへのJWT適用について](https://ritou.hatenablog.com/entry/2021/08/15/063000)
     + [フォント読み込みの影響を軽減するための新しい方法：CSSフォントディスクリプタ](https://postd.cc/a-new-way-to-reduce-font-loading-impact/)
+    + [WebSocketの圧縮機能とhttp://Socket.IO ](https://speakerdeck.com/nkzawa/websocketfalseya-suo-ji-neng-tosocket-dot-io)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

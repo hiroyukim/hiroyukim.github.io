@@ -30,3 +30,5 @@
     + [VSCode Remote Containerが良い](https://qiita.com/d0ne1s/items/d2649801c6f804019db7)
     + [ProjectorでJetBrainsのIDEをリモートから使う](https://zenn.dev/ryotarai/articles/6925b7a09f06dc)
     + [Run VS Code on any machine anywhere and access it in the browser.](https://github.com/cdr/code-server)
+    + [WSL2で作るRustのWindows開発環境: Rustが征く](https://zenn.dev/dozo/articles/56a3fa90dbfb50)
+    + [【Rust】EclipseでRustのIDE環境を作ってみる](https://qiita.com/yannori/items/569f4c8825521f7c9fa8)

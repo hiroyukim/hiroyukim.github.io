@@ -378,3 +378,6 @@
     + [Gitの仕組みと用語](https://github.com/kaityo256/github/blob/main/term/README.md)
     + [Introducing Walmart’s L3AF Project: XDP based packet processing at scale](https://medium.com/walmartglobaltech/introducing-walmarts-l3af-project-xdp-based-packet-processing-at-scale-81a13ff49572)
     + [BPF Performance Toolsを読んだ感想](https://go-vargo.hatenablog.com/entry/2020/03/29/210304)
+    + [マウントプロパゲーション](https://zenn.dev/tenforward/books/mount-propagation)
+    + [eBPF in Microservices Observability](https://speakerdeck.com/rakyll/ebpf-in-microservices-observability-399bb4af-40c0-4609-966e-bc521ed6ee18)
+    + [Tracking down I/O problems in Linux with strace](https://www.ibm.com/support/pages/tracking-down-io-problems-linux-strace)

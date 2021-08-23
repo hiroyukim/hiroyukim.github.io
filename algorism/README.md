@@ -203,6 +203,9 @@
     + [LOUDSをGoで試してみる](https://future-architect.github.io/articles/20210701a/)
     + [リトライと冪等性のデザインパターン](https://frsyuki.hatenablog.com/entry/2014/06/09/164559)
     + [『データ分析のための統計学入門 』の日本語版PDFファイル](http://www.kunitomo-lab.sakura.ne.jp/2021-3-3Open\(S\).pdf)
+    + [離散フーリエ変換](https://qiita.com/TumoiYorozu/items/5855d75a47ef2c7e62c8)
+    + [Kleene Algebra with Tests の日本語解説](https://www.jstage.jst.go.jp/article/jssst/23/3/23_3_3_14/_article/-char/ja/)
+    + [近似最近傍探索の最前線](https://speakerdeck.com/matsui_528/jin-si-zui-jin-bang-tan-suo-falsezui-qian-xian)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

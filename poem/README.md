@@ -52,3 +52,5 @@
     + [構造を意識した抜け漏れがなく主張点が明確な論文執筆](https://blog.monochromegane.com/blog/2020/09/23/structure-of-research-paper/)
     + [ドワーフの森というシミュレーションゲームを15年以上開発し続けてる人へのインタビュー](https://stackoverflow.blog/2021/07/28/700000-lines-of-code-20-years-and-one-developer-how-dwarf-fortress-is-built/)
     + [優れたマネージャーの要件を特定する](https://rework.withgoogle.com/jp/guides/managers-identify-what-makes-a-great-manager/steps/introduction/)
+    + [「まずは一つ勝つ。それ以外は負けてもいい」。競技プログラミングやKaggleを極めたPFN秋葉拓哉の勝ち方](https://liiga.me/columns/761)
+    + [狂気の認知施策と選考設計](https://speakerdeck.com/ntaro/number-ubie-kuang-qi-falseren-zhi-shi-ce-toxuan-kao-she-ji)

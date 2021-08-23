@@ -15,3 +15,4 @@
     + [Privacy Sandboxとはなにか](https://speakerdeck.com/shigeki/privacy-sandbox-explained)
     + [Webアプリケーションにおけるタイミング攻撃の実現性 リモートから簡単にパスワードクラックできるのか？](https://blog.ichikaway.com/entry/2017/12/08/091349)
     + [はじめての方向け CVE 入門 CVEID や MITRE などもまとめて紹介](https://yamory.io/blog/what-is-cve/)
+    + [軽量なソースコード解析ツール](https://github.com/flatt-security/shisho)

@@ -47,3 +47,4 @@
     + [x86 ELF を吐けるCコンパイラ実装](https://github.com/riicchhaarrd/ocean)
     + [タイガーブックを読む：LR(0)構文解析は先読みするのか](https://uchan.hateblo.jp/entry/2021/08/13/173445)
     + [LLVM internals, part 2: parsing the bitstream](https://blog.yossarian.net/2021/08/10/LLVM-internals-part-2-parsing-the-bitstream)
+    + [Let's write a compiler, part 1](https://briancallahan.net/blog/20210814.html)

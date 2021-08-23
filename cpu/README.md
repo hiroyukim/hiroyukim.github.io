@@ -55,6 +55,7 @@
     + [RISC-V ベクトル拡張 v1.0の日本語訳を公開した](https://msyksphinz.hatenablog.com/entry/2021/07/25/040000)
     + [GPU向けコンパイラの最適化の紹介と論文のサーベイ](https://juln.hatenablog.com/entry/2021/05/13/181020)
     + [割り込み](https://www.renesas.com/us/ja/support/engineer-school/mcu-programming-peripherals-06)
+    + [GPU上で動くRISC-Vエミュレータ](https://github.com/PiMaker/rvc/blob/4bf645734e676bc8254d10dba0bfa8a37b006c44/_Nix/rvc/src/emu.h)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)

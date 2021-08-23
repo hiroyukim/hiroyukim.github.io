@@ -51,3 +51,5 @@
     + [Benchmarking JavaScript Memory Usage](https://blog.webpagetest.org/posts/benchmarking-javascript-memory-usage/)
     + [JSの依存関係におけるコストの実態について](https://medium.com/voodoo-engineering/the-real-cost-of-javascript-dependencies-and-the-state-of-js-package-quality-a8dacd74c0ec)
     + [JavaScript の prototype 汚染を見つけるための専用の fuzzer](https://github.com/dwisiswant0/ppfuzz)
+    + [JSのシェルgoogle/zx](https://github.com/google/zx)
+    + [ちょっと複雑なシェルスクリプトをJavaScriptで書く](https://scrapbox.io/lacolaco-engineering/%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E8%A4%87%E9%9B%91%E3%81%AA%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E3%82%92JavaScript%E3%81%A7%E6%9B%B8%E3%81%8F)

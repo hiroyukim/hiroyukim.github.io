@@ -379,3 +379,5 @@
     + [Tangram is an all-in-one automated machine learning framework.](https://github.com/tangramdotdev/tangram)
     + [噂のpidfdをRustで試してみた](https://qiita.com/ksato9700/items/6481e1132e40a7e0c91d)
     + [A command-line benchmarking tool.](https://github.com/sharkdp/hyperfine)
+    + [Rust for Rustaceans](https://nostarch.com/rust-rustaceans)
+    + [Rust for Embedded Development](https://dev.to/abby06/rust-for-embedded-development-m00)
