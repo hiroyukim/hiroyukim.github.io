@@ -54,3 +54,7 @@
     + [優れたマネージャーの要件を特定する](https://rework.withgoogle.com/jp/guides/managers-identify-what-makes-a-great-manager/steps/introduction/)
     + [「まずは一つ勝つ。それ以外は負けてもいい」。競技プログラミングやKaggleを極めたPFN秋葉拓哉の勝ち方](https://liiga.me/columns/761)
     + [狂気の認知施策と選考設計](https://speakerdeck.com/ntaro/number-ubie-kuang-qi-falseren-zhi-shi-ce-toxuan-kao-she-ji)
+    + [読み手を混乱させる12のパターン](https://jvns.ca/blog/confusing-explanations/#pattern-10-unsupported-statements)
+    + [良いDesign Docs\(Software Design Document\)を書くためのリソース集](https://r-kaga.com/blog/collection-of-resources-for-writing-a-good-design-docs)
+    + [行動経済学論文のデータ捏造を暴いた記事の大意を和訳してお届けします](https://note.com/chiki_note/n/na8b256b8b788)
+    + [第三回　見たことも、聞いたこともない本を見つけるワザ――件名の本当の使い方](https://www.libro-koseisha.co.jp/webcolumn/reference_tips03/)

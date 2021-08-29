@@ -206,6 +206,13 @@
     + [離散フーリエ変換](https://qiita.com/TumoiYorozu/items/5855d75a47ef2c7e62c8)
     + [Kleene Algebra with Tests の日本語解説](https://www.jstage.jst.go.jp/article/jssst/23/3/23_3_3_14/_article/-char/ja/)
     + [近似最近傍探索の最前線](https://speakerdeck.com/matsui_528/jin-si-zui-jin-bang-tan-suo-falsezui-qian-xian)
+    + [Compare and Swap](https://tutorials.jenkov.com/java-concurrency/compare-and-swap.htmlCompare%20and%20Swap)
+    + [文字列群を有限状態機械にエンコードすることでコンパクトで高速なインデックスが作れる話](https://blog.burntsushi.net/transducers/)
+    + [google/zoekt がメモリ最適化によりメモリ使用量を1/5にした話](https://about.sourcegraph.com/blog/zoekt-memory-optimizations-for-sourcegraph-cloud/)
+    + [再帰的な構造のデータの同値性判定はどうしたらいいか](https://tarao.hatenablog.com/entry/deep-equality)
+    + [Wolfram Alphaで積分計算の「ステップごとの解説」](https://blog.wolfram.com/2021/08/18/new-methods-for-computing-algebraic-integrals/)
+    + [グラフの同値性判定の実用例](https://github.com/rui314/mold/blob/main/icf.cc)
+    + [E2EEを実現するための暗号技術 | Anonify解体新書3](https://scrapbox.io/layerx/E2EE%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E6%9A%97%E5%8F%B7%E6%8A%80%E8%A1%93_%7C_Anonify%E8%A7%A3%E4%BD%93%E6%96%B0%E6%9B%B83)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

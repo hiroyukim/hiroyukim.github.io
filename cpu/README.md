@@ -56,6 +56,9 @@
     + [GPU向けコンパイラの最適化の紹介と論文のサーベイ](https://juln.hatenablog.com/entry/2021/05/13/181020)
     + [割り込み](https://www.renesas.com/us/ja/support/engineer-school/mcu-programming-peripherals-06)
     + [GPU上で動くRISC-Vエミュレータ](https://github.com/PiMaker/rvc/blob/4bf645734e676bc8254d10dba0bfa8a37b006c44/_Nix/rvc/src/emu.h)
+    + [Granularity and Parallel Performance](https://software.intel.com/content/www/us/en/develop/articles/granularity-and-parallel-performance.html)
+    + [浮動小数点数内部表現シミュレーター](https://tools.m-bsys.com/calculators/ieee754.php)
+    + [CPUとGPUのマルチスレッディングの違いについて](https://aru47.hatenablog.com/entry/2021/08/27/220051)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)

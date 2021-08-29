@@ -142,6 +142,10 @@
     + [shadow pagingとかWALはCMUの講義](https://www.youtube.com/watch?v=hh21I1702OY&list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi&index=21)
         + youtube
     + [PostgreSQL 14でのBtreeインデックスのVacuum関連の改善についての解説](https://masahikosawada.github.io/2021/08/18/Btree-vacuum-improvements_in_PG14/)
+    + [MySQLエキスパートyoku0825が目指す、DBAとしての未来像](https://engineering.linecorp.com/ja/interview/mysql-yoku0825/)
+    + [やってはいけない空振りDelete](https://www.slideshare.net/yuyamada777/delete-77702365)
+    + [MySQLに初めてINSERTするとアクセスが発生するファイルは何かという質問をどう調べるのか](https://oranie.hatenablog.com/entry/2021/08/26/233701)
+    + [MySQL勉強会〜ロックについて](https://tech.andpad.co.jp/entry/2020/07/13/123720)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

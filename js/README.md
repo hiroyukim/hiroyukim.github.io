@@ -53,3 +53,6 @@
     + [JavaScript の prototype 汚染を見つけるための専用の fuzzer](https://github.com/dwisiswant0/ppfuzz)
     + [JSのシェルgoogle/zx](https://github.com/google/zx)
     + [ちょっと複雑なシェルスクリプトをJavaScriptで書く](https://scrapbox.io/lacolaco-engineering/%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E8%A4%87%E9%9B%91%E3%81%AA%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E3%82%92JavaScript%E3%81%A7%E6%9B%B8%E3%81%8F)
+    + [JavaScriptをやり始めた人が理解したほうが良いJSONパーサのコード](https://sifue.hatenablog.com/entry/20120218/1329588477)
+    + [JavaScriptの大きな数と小さな数の仕組みを理解する 〜 IEEE754入門 〜](https://mindcat.hatenadiary.org/entry/20091108/1257677412)
+    + [「がんばらないTypeScript」のための現実的な設定を考える ─ 4レベルの厳しさを使い分けてTypeScript疲れを克服しよう！](https://eh-career.com/engineerhub/entry/2021/08/26/110000)

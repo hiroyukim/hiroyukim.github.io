@@ -48,3 +48,6 @@
     + [タイガーブックを読む：LR(0)構文解析は先読みするのか](https://uchan.hateblo.jp/entry/2021/08/13/173445)
     + [LLVM internals, part 2: parsing the bitstream](https://blog.yossarian.net/2021/08/10/LLVM-internals-part-2-parsing-the-bitstream)
     + [Let's write a compiler, part 1](https://briancallahan.net/blog/20210814.html)
+    + [oneAPI になり、この Compiler だけでなく、Profierの Vtune まで無償にしてくれました](https://vengineer.hatenablog.com/entry/2021/08/23/090000)
+    + [Intel oneAPIを入れるとClangが死ぬかもしれない](https://zenn.dev/hishinuma_t/articles/intel-oneapi_clang)
+    + [コンパイルアニメーション生成](https://github.com/uchan-nos/opela/blob/master/compiler/v2/ANIMATION.md)

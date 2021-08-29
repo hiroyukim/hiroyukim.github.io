@@ -615,6 +615,11 @@
     + [watchコマンド](https://github.com/sachaos/viddy)
     + [Go1.17における go get の変更点](https://future-architect.github.io/articles/20210818a/)
     + [controller-runtimeのロギング機能](https://zenn.dev/zoetro/articles/760346baab7e24)
+    + [Go 1.17の sync/atomic パッケージ更新点と CompareAndSwap](https://future-architect.github.io/articles/20210820a/)
+    + [WireGuardとOpenID Connectの連携をGoで実装してみた](https://speakerdeck.com/kurochan/wireguardtoopenid-connectfalselian-xi-wogoteshi-zhuang-sitemita)
+    + [Goの言語仕様書精読のススメ & 英語彙集](https://zenn.dev/hsaki/articles/gospecdictionary)
+    + [sync.PoolでGolangのメモリアロケーションをチューニングする](https://tanksuzuki.com/entries/golang-sync-pool/)
+    + [sync.Condとはなにか](https://dtyler.io/articles/2021/04/12/sync_cond_ja/)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

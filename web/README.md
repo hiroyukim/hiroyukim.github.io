@@ -188,6 +188,10 @@
     + [セキュアなトークンへのJWT適用について](https://ritou.hatenablog.com/entry/2021/08/15/063000)
     + [フォント読み込みの影響を軽減するための新しい方法：CSSフォントディスクリプタ](https://postd.cc/a-new-way-to-reduce-font-loading-impact/)
     + [WebSocketの圧縮機能とhttp://Socket.IO ](https://speakerdeck.com/nkzawa/websocketfalseya-suo-ji-neng-tosocket-dot-io)
+    + [Wantedly Engineering Handbook](https://docs.wantedly.dev/)
+    + [WebAssemblyの現状と展望 ~言語ツールチェインからWASIまで~](https://speakerdeck.com/mathetake/webassemblyfalsexian-zhuang-tozhan-wang-yan-yu-turutieinkarawasimade)
+    + [CEDEC2021 ダウンロード時間を大幅減！～大量のアセットをさばく高速な実装と運用事例の共有～](https://www.slideshare.net/SEGADevTech/cedec2021-250032292)
+    + [Google Cloudのソリューション スケッチ](https://thecloudgirl.dev/index.html)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

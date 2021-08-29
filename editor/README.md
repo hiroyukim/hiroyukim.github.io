@@ -32,3 +32,4 @@
     + [Run VS Code on any machine anywhere and access it in the browser.](https://github.com/cdr/code-server)
     + [WSL2で作るRustのWindows開発環境: Rustが征く](https://zenn.dev/dozo/articles/56a3fa90dbfb50)
     + [【Rust】EclipseでRustのIDE環境を作ってみる](https://qiita.com/yannori/items/569f4c8825521f7c9fa8)
+    + [Obsidian クイックスタートガイド](https://github.com/pouhon/obsidian-quick-start-guide)
