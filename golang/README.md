@@ -620,6 +620,9 @@
     + [Goの言語仕様書精読のススメ & 英語彙集](https://zenn.dev/hsaki/articles/gospecdictionary)
     + [sync.PoolでGolangのメモリアロケーションをチューニングする](https://tanksuzuki.com/entries/golang-sync-pool/)
     + [sync.Condとはなにか](https://dtyler.io/articles/2021/04/12/sync_cond_ja/)
+    + [よくわかるcontextの使い方](https://zenn.dev/hsaki/books/golang-context)
+    + [Golangのスケジューラあたりの話](https://qiita.com/takc923/items/de68671ea889d8df6904)
+    + [HTTPルーティングライブラリ入門](https://speakerdeck.com/hikaru7719/http-routing-library)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

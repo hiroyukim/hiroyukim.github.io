@@ -146,6 +146,9 @@
     + [やってはいけない空振りDelete](https://www.slideshare.net/yuyamada777/delete-77702365)
     + [MySQLに初めてINSERTするとアクセスが発生するファイルは何かという質問をどう調べるのか](https://oranie.hatenablog.com/entry/2021/08/26/233701)
     + [MySQL勉強会〜ロックについて](https://tech.andpad.co.jp/entry/2020/07/13/123720)
+    + [CockroachDB に 1レコード INSERT した時にアクセスされるファイルのお話](https://kota2and3kan.hatenablog.com/entry/2021/08/29/142451)
+    + [仕組みを理解すれば怖くない　「スプリットブレイン」からの復旧方法](https://atmarkit.itmedia.co.jp/ait/articles/1612/16/news015.html)
+    + [MySQLでプライマリキーをUUIDにする前に知っておいて欲しいこと](https://techblog.raccoon.ne.jp/archives/1627262796.html)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

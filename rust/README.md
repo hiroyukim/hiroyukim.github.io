@@ -380,6 +380,8 @@
     + [Artichoke Ruby](https://github.com/artichoke/artichoke)
     + [フルスクラッチでQEMU型自作エミュレータはどう作る？ Rustを使った自作バイナリ変換型シミュレータ](https://logmi.jp/tech/articles/324892)
     + [Building a Mini-Shell](https://www.bexxmodd.com/post/systems-programming-with-rust-2)
+    + [非同期 Rust パターン](https://qiita.com/legokichi/items/4f2c09330f90626600a6)
+    + [serverless-rustプラグインでRustアプリをデプロイするためのworkaround](https://zenn.dev/ryosukeeeee/articles/rust-serverless-framework)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)

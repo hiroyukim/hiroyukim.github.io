@@ -56,3 +56,7 @@
     + [JavaScriptをやり始めた人が理解したほうが良いJSONパーサのコード](https://sifue.hatenablog.com/entry/20120218/1329588477)
     + [JavaScriptの大きな数と小さな数の仕組みを理解する 〜 IEEE754入門 〜](https://mindcat.hatenadiary.org/entry/20091108/1257677412)
     + [「がんばらないTypeScript」のための現実的な設定を考える ─ 4レベルの厳しさを使い分けてTypeScript疲れを克服しよう！](https://eh-career.com/engineerhub/entry/2021/08/26/110000)
+    + [V8のHidden Classの話](https://engineering.linecorp.com/ja/blog/v8-hidden-class/)
+    + [ JavaScript: the first 20 years](https://misreading.chat/2020/10/19/86-javascript-the-first-20-years-hopl/)
+    + [JavaScript のスレッド並列実行環境](https://nhiroki.jp/2017/12/10/javascript-parallel-processing)
+    + [Trash talk: the Orinoco garbage collector](https://v8.dev/blog/trash-talk)

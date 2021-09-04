@@ -192,6 +192,8 @@
     + [WebAssemblyの現状と展望 ~言語ツールチェインからWASIまで~](https://speakerdeck.com/mathetake/webassemblyfalsexian-zhuang-tozhan-wang-yan-yu-turutieinkarawasimade)
     + [CEDEC2021 ダウンロード時間を大幅減！～大量のアセットをさばく高速な実装と運用事例の共有～](https://www.slideshare.net/SEGADevTech/cedec2021-250032292)
     + [Google Cloudのソリューション スケッチ](https://thecloudgirl.dev/index.html)
+    + [フロントエンドのパフォーマンス改善とメモリリーク対策の方法](https://www.techscore.com/blog/2017/12/24/%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%A8%E3%83%B3%E3%83%89%E3%81%AE%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E6%94%B9%E5%96%84%E3%81%A8%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%AA/)
+    + [Blink GC API reference](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/third_party/blink/renderer/platform/heap/BlinkGCAPIReference.md)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)
@@ -199,3 +201,4 @@
     + [OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.](https://github.com/cube2222/octosql)
     + [The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html)
     + [Inefficient Efficiency](https://medium.com/@kentbeck_7670/inefficient-efficiency-5b3ab5294791)
+    + [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)

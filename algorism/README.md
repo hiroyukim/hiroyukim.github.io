@@ -213,6 +213,9 @@
     + [Wolfram Alphaで積分計算の「ステップごとの解説」](https://blog.wolfram.com/2021/08/18/new-methods-for-computing-algebraic-integrals/)
     + [グラフの同値性判定の実用例](https://github.com/rui314/mold/blob/main/icf.cc)
     + [E2EEを実現するための暗号技術 | Anonify解体新書3](https://scrapbox.io/layerx/E2EE%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E6%9A%97%E5%8F%B7%E6%8A%80%E8%A1%93_%7C_Anonify%E8%A7%A3%E4%BD%93%E6%96%B0%E6%9B%B83)
+    + [Lockに関する資料](https://hal.archives-ouvertes.fr/hal-02084060/document)
+    + [hand-off succession系のロックアルゴリズムの比較](https://people.csail.mit.edu/nickolai/papers/boyd-wickizer-locks.pdf)
+    + [実ミドルウェア群に対しいろんなロック実装で差し替えてパフォーマンス比較して得られた知見から作られた、使うべきロック判定用フローチャート](https://twitter.com/kumagi_bot/status/1432027595915214849)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

@@ -59,6 +59,7 @@
     + [Granularity and Parallel Performance](https://software.intel.com/content/www/us/en/develop/articles/granularity-and-parallel-performance.html)
     + [浮動小数点数内部表現シミュレーター](https://tools.m-bsys.com/calculators/ieee754.php)
     + [CPUとGPUのマルチスレッディングの違いについて](https://aru47.hatenablog.com/entry/2021/08/27/220051)
+    + [The Future of Many Core Computing: ](http://i2pc.cs.illinois.edu/presentations/2010_05_06_Mattson_Slides.pdf)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)
