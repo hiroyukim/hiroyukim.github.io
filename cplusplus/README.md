@@ -26,3 +26,5 @@
     + [C++ユーザーの為のリンクの話１](https://qiita.com/termoshtt/items/ffcd3dbc3928fc80caa1)
     + [C++のiostreamは遅いという話](https://qnighy.hatenablog.com/entry/20110115/1295054750)
     + [8 bit breadboard computer emulator](https://github.com/0xhh/tinye8)
+    + [C++とJSを跨ぐ クロスコンポーネント ガベージコレクタ](https://docs.google.com/presentation/d/1r5WC_yTW2WS9ZYMn025_CZQjXLnnYnm54KOcZVzVYBc/edit#slide=id.p)
+

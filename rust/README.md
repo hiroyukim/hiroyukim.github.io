@@ -382,6 +382,8 @@
     + [Building a Mini-Shell](https://www.bexxmodd.com/post/systems-programming-with-rust-2)
     + [非同期 Rust パターン](https://qiita.com/legokichi/items/4f2c09330f90626600a6)
     + [serverless-rustプラグインでRustアプリをデプロイするためのworkaround](https://zenn.dev/ryosukeeeee/articles/rust-serverless-framework)
+    + [Rustでマイクロサービス開発はじめました](https://tech.emotion-tech.co.jp/entry/2021/08/31/164039)
+    + [CのあいまいなソースコードをRustで実行する](https://zenn.dev/k_abe/articles/27157356ff97f7)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)

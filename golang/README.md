@@ -623,6 +623,8 @@
     + [よくわかるcontextの使い方](https://zenn.dev/hsaki/books/golang-context)
     + [Golangのスケジューラあたりの話](https://qiita.com/takc923/items/de68671ea889d8df6904)
     + [HTTPルーティングライブラリ入門](https://speakerdeck.com/hikaru7719/http-routing-library)
+    + [GoとJSON](https://docs.google.com/presentation/d/1VCUPh21hrZRN-2kneQ07dxJPjgScSo3gsKESWlEBzIQ/edit#slide=id.p)
+    + [初めての型セット](https://speakerdeck.com/nobishino/introduction-to-type-sets)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

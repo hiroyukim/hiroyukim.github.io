@@ -403,3 +403,5 @@
     + [ ChromeOSの上でAndroidが動く話について](https://docs.google.com/presentation/d/e/2PACX-1vTm8WYGp1nq5wLDmSSQ2kxYY-u4LmcYrInbGmGT7DbBFXJv8rujJUkeMsczeNo-vyyMRj84OFSBrCrQ/pub?start=false&loop=false&delayms=3000&slide=id.p)
     + [リングバッファーの監視およびチューニング](https://access.redhat.com/documentation/ja-jp/red_hat_enterprise_linux/8/html/configuring_and_managing_networking/monitoring-and-tuning-the-rx-ring-buffer_configuring-and-managing-networking)
     + [How Netflix uses eBPF flow logs at scale for network insight](https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96)
+    + [Linux: mmap(2) したメモリに書き込みした際の Copy On Wirte を観察する](https://hiboma.hatenadiary.jp/entry/2021/09/01/123240)
+    + [パケットフィルターでトレーシング？　Linuxで活用が進む「Berkeley Packet Filter（BPF）」とは何か](https://atmarkit.itmedia.co.jp/ait/articles/1811/21/news010.html)

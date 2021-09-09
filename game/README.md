@@ -10,3 +10,4 @@
     + [https://en.wikipedia.org/wiki/Core_War#Redcode](https://en.wikipedia.org/wiki/Core_War#Redcode)
     + [夏休み自由研究「ゲームレビュー」の書き方](https://jp.ign.com/games/37727/feature/)
     + [TUI横スクロールシューティングゲーム](https://github.com/vaniacer/piu-piu-SH)
+    + [Unity uGUI アドバンスド・リファレンス](http://www.gamecast-blog.com/archives/65984837.html)

@@ -149,6 +149,9 @@
     + [CockroachDB に 1レコード INSERT した時にアクセスされるファイルのお話](https://kota2and3kan.hatenablog.com/entry/2021/08/29/142451)
     + [仕組みを理解すれば怖くない　「スプリットブレイン」からの復旧方法](https://atmarkit.itmedia.co.jp/ait/articles/1612/16/news015.html)
     + [MySQLでプライマリキーをUUIDにする前に知っておいて欲しいこと](https://techblog.raccoon.ne.jp/archives/1627262796.html)
+    + [Random Query Generator Tests](https://mariadb.com/kb/en/random-query-generator-tests/)
+    + [Simple DB using yaml. A project for managing the content of yaml files.](https://github.com/ulfox/dby)
+    + [MySQL運用とらぶるすとーり〜^2](https://speakerdeck.com/ichirin2501/mysql-troubleshooting-story)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

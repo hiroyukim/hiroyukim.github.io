@@ -194,6 +194,9 @@
     + [Google Cloudのソリューション スケッチ](https://thecloudgirl.dev/index.html)
     + [フロントエンドのパフォーマンス改善とメモリリーク対策の方法](https://www.techscore.com/blog/2017/12/24/%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%A8%E3%83%B3%E3%83%89%E3%81%AE%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E6%94%B9%E5%96%84%E3%81%A8%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%AA/)
     + [Blink GC API reference](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/third_party/blink/renderer/platform/heap/BlinkGCAPIReference.md)
+    + [Using pipelining to speedup Redis queries](https://redis.io/topics/pipelining)
+    + [Gitのブランチの実装](https://zenn.dev/kaityo256/articles/inside_the_branch)
+    + [C#のasync/awaitの内部挙動を理解する](https://qiita.com/mrngsht/items/7d280c9f161f6d9855e2)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)
