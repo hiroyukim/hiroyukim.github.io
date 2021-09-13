@@ -216,6 +216,7 @@
     + [Lockに関する資料](https://hal.archives-ouvertes.fr/hal-02084060/document)
     + [hand-off succession系のロックアルゴリズムの比較](https://people.csail.mit.edu/nickolai/papers/boyd-wickizer-locks.pdf)
     + [実ミドルウェア群に対しいろんなロック実装で差し替えてパフォーマンス比較して得られた知見から作られた、使うべきロック判定用フローチャート](https://twitter.com/kumagi_bot/status/1432027595915214849)
+    + [Building a Bw-Tree Takes More Than Just Buzz Words](https://15721.courses.cs.cmu.edu/spring2020/papers/06-oltpindexes1/mod342-wangA.pdf)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

@@ -61,3 +61,4 @@
     + [JavaScript のスレッド並列実行環境](https://nhiroki.jp/2017/12/10/javascript-parallel-processing)
     + [Trash talk: the Orinoco garbage collector](https://v8.dev/blog/trash-talk)
     + [JavaScript処理系とChromeブラウザの実装技術](http://ppl.jssst.or.jp/index.php?ss2021)
+    + [JavaScriptのIterator / Generatorの整理](https://zenn.dev/qnighy/articles/112af47edfda96)

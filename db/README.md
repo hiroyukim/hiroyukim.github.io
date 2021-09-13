@@ -152,6 +152,7 @@
     + [Random Query Generator Tests](https://mariadb.com/kb/en/random-query-generator-tests/)
     + [Simple DB using yaml. A project for managing the content of yaml files.](https://github.com/ulfox/dby)
     + [MySQL運用とらぶるすとーり〜^2](https://speakerdeck.com/ichirin2501/mysql-troubleshooting-story)
+    + [pgx is a framework for developing PostgreSQL extensions in Rust](https://github.com/zombodb/pgx/)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

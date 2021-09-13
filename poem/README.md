@@ -58,3 +58,4 @@
     + [良いDesign Docs\(Software Design Document\)を書くためのリソース集](https://r-kaga.com/blog/collection-of-resources-for-writing-a-good-design-docs)
     + [行動経済学論文のデータ捏造を暴いた記事の大意を和訳してお届けします](https://note.com/chiki_note/n/na8b256b8b788)
     + [第三回　見たことも、聞いたこともない本を見つけるワザ――件名の本当の使い方](https://www.libro-koseisha.co.jp/webcolumn/reference_tips03/)
+    + [実はDDDってしっくりこないんです](https://hachibeechan.hateblo.jp/entry/domain-driven-deskwork)

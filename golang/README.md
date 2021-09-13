@@ -625,6 +625,9 @@
     + [HTTPルーティングライブラリ入門](https://speakerdeck.com/hikaru7719/http-routing-library)
     + [GoとJSON](https://docs.google.com/presentation/d/1VCUPh21hrZRN-2kneQ07dxJPjgScSo3gsKESWlEBzIQ/edit#slide=id.p)
     + [初めての型セット](https://speakerdeck.com/nobishino/introduction-to-type-sets)
+    + [Goのbufio.Scannerは入力データの1行の長さが一定以上になるとスキャンをやめてしまう](https://mickey24.hatenablog.com/entry/bufio_scanner_line_length)
+    + [HTTPルーティングライブラリ入門](https://speakerdeck.com/hikaru7719/http-routing-library)
+    + [Depm: Go 言語用モジュール依存関係可視化ツール](https://text.baldanders.info/release/dependency-graph-for-golang-modules/)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack
