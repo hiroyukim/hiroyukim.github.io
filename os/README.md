@@ -406,3 +406,6 @@
     + [Linux: mmap(2) したメモリに書き込みした際の Copy On Wirte を観察する](https://hiboma.hatenadiary.jp/entry/2021/09/01/123240)
     + [パケットフィルターでトレーシング？　Linuxで活用が進む「Berkeley Packet Filter（BPF）」とは何か](https://atmarkit.itmedia.co.jp/ait/articles/1811/21/news010.html)
     + [【Ruby】LinuxとRubyとCoW](https://ryuichi1208.hateblo.jp/entry/2021/09/02/195722)
+    + [コンテナイメージのlazy pullingをcurlで試してみる](https://knqyf263.hatenablog.com/entry/2021/06/15/071057)
+    + [lazy pullingとeStargzまわりのエッセンスをつかむ](https://blog.framinal.life/entry/2021/06/16/143736)
+    + [マルチスレッドのプログラミング](https://docs.oracle.com/cd/E19253-01/819-0390/index.html)

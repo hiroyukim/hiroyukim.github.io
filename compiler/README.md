@@ -51,3 +51,5 @@
     + [oneAPI になり、この Compiler だけでなく、Profierの Vtune まで無償にしてくれました](https://vengineer.hatenablog.com/entry/2021/08/23/090000)
     + [Intel oneAPIを入れるとClangが死ぬかもしれない](https://zenn.dev/hishinuma_t/articles/intel-oneapi_clang)
     + [コンパイルアニメーション生成](https://github.com/uchan-nos/opela/blob/master/compiler/v2/ANIMATION.md)
+    + [コンパイル技法: パターンマッチ](https://zenn.dev/blackenedgold/books/compiling-pattern-matching)
+    + [Clang のスレッドセーフ分析](https://zenn.dev/junkawa/articles/clang-thread-safety-analysis)

@@ -62,3 +62,7 @@
     + [Trash talk: the Orinoco garbage collector](https://v8.dev/blog/trash-talk)
     + [JavaScript処理系とChromeブラウザの実装技術](http://ppl.jssst.or.jp/index.php?ss2021)
     + [JavaScriptのIterator / Generatorの整理](https://zenn.dev/qnighy/articles/112af47edfda96)
+    + [JavaScriptはなぜシングルスレッドでも非同期処理ができるのか](https://speakerdeck.com/task4233/why-can-javasctipt-invoke-asynchronous-in-single-thread)
+    + [JavaScript クイズ解説: NaN === NaN の結果はどうなる？](http://nmi.jp/2021-09-09-NaN)
+    + [JavaScript Eventing Deep Dive](https://web.dev/eventing-deepdive/)
+    + [Node.js における設計ミス By Ryan Dah](https://yosuke-furukawa.hatenablog.com/entry/2018/06/07/080335)

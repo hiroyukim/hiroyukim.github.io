@@ -153,9 +153,12 @@
     + [Simple DB using yaml. A project for managing the content of yaml files.](https://github.com/ulfox/dby)
     + [MySQL運用とらぶるすとーり〜^2](https://speakerdeck.com/ichirin2501/mysql-troubleshooting-story)
     + [pgx is a framework for developing PostgreSQL extensions in Rust](https://github.com/zombodb/pgx/)
+    + [The future of MySQL quality assurance: Introducing pquery](https://www.percona.com/blog/2015/02/04/future-mysql-quality-assurance-introducing-pquery/)
+    + [JavaでRDBMSを作成する本](https://www.springer.com/gp/book/9783030338350)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)
     + [Apache Ignite](https://ignite.apache.org/use-cases/database/distributed-database.html)
     + [Compile and install MySQL](https://github.com/kamipo/mysql-build)
     + [innodb_ruby](https://github.com/jeremycole/innodb_ruby)
+    + [sqldef](https://github.com/k0kubun/sqldef)

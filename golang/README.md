@@ -628,6 +628,14 @@
     + [Goのbufio.Scannerは入力データの1行の長さが一定以上になるとスキャンをやめてしまう](https://mickey24.hatenablog.com/entry/bufio_scanner_line_length)
     + [HTTPルーティングライブラリ入門](https://speakerdeck.com/hikaru7719/http-routing-library)
     + [Depm: Go 言語用モジュール依存関係可視化ツール](https://text.baldanders.info/release/dependency-graph-for-golang-modules/)
+    + [Understanding Nil](https://speakerdeck.com/campoy/understanding-nil)
+    + [4倍速いCSVパーサー](https://github.com/minio/simdcsv)
+    + [Deep Dive into The Go's Web Server](https://zenn.dev/hsaki/books/golang-httpserver-internal)
+    + [SliceTricks](https://github.com/golang/go/wiki/SliceTricks)
+    + [未リリース版のGoの仕様や実際の動きを確認する](https://budougumi0617.github.io/2019/02/14/investigate-go-unreleased-version/)
+    + [忙しい開発者のための Go プロファイリング、トレース、オブザーバビリティのガイド](https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md)
+    + [なぜGo言語のHTTPサーバーでクライアント切断が検知できるのか調べた](https://zenn.dev/najeira/articles/2020-12-17-zenn-chiesh7noijeequii7ae)
+    + [前方互換性を保ちながらhttp.DefaultTransportからチューニングしたhttp.Transportをつくる](https://budougumi0617.github.io/2021/09/13/how_to_copy_default_transport/)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack
