@@ -396,6 +396,11 @@
     + [Virtual Machine Dispatch Experiments in Rust](https://pliniker.github.io/post/dispatchers/)
     + [Rust+PostgreSQLでジョブキューを作る記事](https://kerkour.com/blog/rust-job-queue-with-postgresql/)
     + [Using SIMD acceleration in rust to create the world’s fastest tac | The NeoSmart Files](https://neosmart.net/blog/2021/using-simd-acceleration-in-rust-to-create-the-worlds-fastest-tac/)
+    + [Rustとコンテナランタイム](https://speakerdeck.com/utam0k/rust-container-runtime-at-rust-dot-tokyo-2021)
+    + [Rust.Tokyo 2021: How Rust triages regressions and prevents them from reaching to stable](https://speakerdeck.com/johntitor/rust-dot-tokyo-2021-how-rust-triages-regressions-and-prevents-them-from-reaching-to-stable)
+    + [Rust を学習するためのチュートリアル](https://github.com/pingcap/talent-plan)
+    + [コマンドラインベンチマークツール](https://github.com/sharkdp/hyperfine)
+    + [Tokio stack overview: Runtime](https://dev.to/rogertorres/rust-tokio-stack-overview-runtime-9fh)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)

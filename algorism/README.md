@@ -221,6 +221,7 @@
     + [ある範囲に収まる乱数を得るために剰余（モジュロ）演算を書くとき、レビューするときに意識すること](https://zenn.dev/yoheimuta/articles/6de5816f5d721c)
     + [なかけんの数学ノート](https://math.nakaken88.com/)
     + [なぜ分散は２乗の和なのか](https://rikunora.hatenablog.com/entry/2019/04/09/114614)
+    + [木DPと全方位木DPを基礎から抽象化まで解説【競技プログラミング】](https://algo-logic.info/tree-dp/)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

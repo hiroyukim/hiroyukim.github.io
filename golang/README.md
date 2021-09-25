@@ -636,6 +636,14 @@
     + [忙しい開発者のための Go プロファイリング、トレース、オブザーバビリティのガイド](https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md)
     + [なぜGo言語のHTTPサーバーでクライアント切断が検知できるのか調べた](https://zenn.dev/najeira/articles/2020-12-17-zenn-chiesh7noijeequii7ae)
     + [前方互換性を保ちながらhttp.DefaultTransportからチューニングしたhttp.Transportをつくる](https://budougumi0617.github.io/2021/09/13/how_to_copy_default_transport/)
+    + [旧ストレージ廃止大作戦−2900万超のファイルリストを取得する](https://developers.prtimes.jp/2021/09/15/decommissioning_old_storage_list_a_dir_29million/)
+    + [golangのsync.Poolで速度改善したい](https://ludwig125.hatenablog.com/entry/2021/08/27/060123)
+    + [sync.Pool で楽して高速化](https://yoru9zine.hatenablog.com/entry/2015/12/05/143414)
+    + [Scheduling Function Calls with Zero Allocation](https://golang.design/research/zero-alloc-call-sched/)
+    + [メイキング - Deep Dive into The Go's Web Server](https://zenn.dev/hsaki/articles/go-serverinternal-making)
+    + [go1.7.3 の go コマンドを gdb でデバッグする](https://qiita.com/codehex/items/11183553c17cd2f0bb06)
+    + [pipeエラーのハンドリング](https://christina04.hatenablog.com/entry/pipe-error-handling)
+    + [Go でサーバレスポンスの内容を表示](https://christina04.hatenablog.com/entry/show-server-response)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack
