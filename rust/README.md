@@ -401,6 +401,7 @@
     + [Rust を学習するためのチュートリアル](https://github.com/pingcap/talent-plan)
     + [コマンドラインベンチマークツール](https://github.com/sharkdp/hyperfine)
     + [Tokio stack overview: Runtime](https://dev.to/rogertorres/rust-tokio-stack-overview-runtime-9fh)
+    + [A cross-platform TUI database management tool written in Rust](https://github.com/TaKO8Ki/gobang)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)

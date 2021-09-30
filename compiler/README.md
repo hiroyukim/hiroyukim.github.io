@@ -54,3 +54,4 @@
     + [コンパイル技法: パターンマッチ](https://zenn.dev/blackenedgold/books/compiling-pattern-matching)
     + [Clang のスレッドセーフ分析](https://zenn.dev/junkawa/articles/clang-thread-safety-analysis)
     + [LR\(1\)パーサジェネレータを自作して構文解析をする 第1回:かんたん構文解析入門](http://tatamo.81.la/blog/2016/12/22/lr-parser-generator-implementation/)
+    + [自作Goコンパイラでマルチスレッドが動くようにするまで](https://zenn.dev/dqneo/articles/02114c5c081d38)

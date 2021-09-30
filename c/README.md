@@ -97,6 +97,8 @@
     + [main関数の前には何があるのか](https://atmarkit.itmedia.co.jp/ait/series/5503/)
     + [async/await のしくみ](https://www.slideshare.net/ufcpp/asyncawait-114647813)
     + [STR32-C. 文字列を引数にとるライブラリ関数に null 終端されていない文字配列を渡さない](https://www.jpcert.or.jp/sc-rules/c-str32-c.html)
+    + [変数の volatile 宣言](https://docs.oracle.com/cd/E24845_01/html/E22201/codingpractices-1.html)
+    + [Linux の共有ライブラリを作るとき PIC でコンパイルするのはなぜか](http://0xcc.net/blog/archives/000107.html)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

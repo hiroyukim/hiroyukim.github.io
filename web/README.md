@@ -206,6 +206,8 @@
     + [RedisのRate Limit Pattern 3種類](https://zenn.dev/maruloop/articles/dcfc289e6fb33f9f5164)
     + [GCP でマイクロサービス Saga パターン編](https://medium.com/google-cloud-jp/gcp-saga-microservice-7c03a16a7f9d)
     + [Serving Netflix Video at 400Gb/s on FreeBSD](https://people.freebsd.org/~gallatin/talks/euro2021.pdf)
+    + [つながりをデータから解き明かしたい ~ 複雑ネットワークの世界とそれを活用した不正検知システム，さらに向こうへ](https://engineering.mercari.com/blog/entry/20210920-complex-network-ml-and-vertex-pipelines-in-merpay-ml-team/)
+    + [GraphQL採用サービスで任意カラムを取得できる脆弱性を見つけた話](https://zenn.dev/mipsparc/articles/a818970a19ade6)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

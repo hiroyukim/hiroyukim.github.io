@@ -644,6 +644,7 @@
     + [go1.7.3 の go コマンドを gdb でデバッグする](https://qiita.com/codehex/items/11183553c17cd2f0bb06)
     + [pipeエラーのハンドリング](https://christina04.hatenablog.com/entry/pipe-error-handling)
     + [Go でサーバレスポンスの内容を表示](https://christina04.hatenablog.com/entry/show-server-response)
+    + [Goのconstとvarのコンパイル時解釈](https://medium.com/eureka-engineering/golang-%E3%81%AE-const-%E3%81%A8-var-%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%AB%E6%99%82%E8%A7%A3%E9%87%88-b313a11ce2c3)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack
