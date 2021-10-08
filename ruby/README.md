@@ -19,3 +19,4 @@
     + [セルフホストで学ぶJVM入門](https://k0kubun.hatenablog.com/entry/jjvm)
     + [RubyでJVMを実装してみる](https://speakerdeck.com/daikimiura/implement-jvm-with-ruby)
     + [Ruby 2.7のここがすごい！ パターンマッチ、コンパクションGCなどをリリースマネージャーに聞いた](https://employment.en-japan.com/engineerhub/entry/2019/12/26/103000)
+    + [CoWはコウ可視化するんやで](https://udzura.hatenablog.jp/entry/2021/09/25/013327)

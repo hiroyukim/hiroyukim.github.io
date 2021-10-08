@@ -8,6 +8,8 @@
     + [CMake言語の基本構造](https://qiita.com/mrk_21/items/3c35787418fbfce42103)
     + [cmake tuorialその4:ファイル生成,インストーラーのビルド等](https://yuyubu-sub.hateblo.jp/entry/2019/12/02/cmake)
     + [cmake tutorialその6:ジェネレーター式](https://yuyubu-sub.hateblo.jp/entry/2019/12/06/cmake6)
++ markdown
+    + [Markdown Presentation Ecosystem](https://marp.app/)
 + Manual
     + [doxygen](http://www.stack.nl/~dimitri/doxygen/)
     + [Graphviz](https://www.graphviz.org/)
@@ -41,6 +43,8 @@
     + [Search how many keywords in GitHub Code by GitHub API.](https://github.com/kyoshidajp/ghkw)
 + clip
     + [xclip](https://github.com/astrand/xclip)
++ flow
+    + [ASCII art flow diagrams](https://asciiflow.com/#/)
 + aws
     + [Fast, multi-purpose tool for AWS CloudWatch Logs](https://github.com/TylerBrock/saw)
 + memo

@@ -36,3 +36,4 @@
     + [見逃したくない IntelliJ IDEA プラグイン 10 選](https://blog.jetbrains.com/ja/idea/2021/06/top-10-plugins-for-intellij-idea-ja/)
     + [Goneovim](https://github.com/akiyosi/goneovim)
     + [LinuxカーネルをCLionでデバッグする](https://knqyf263.hatenablog.com/entry/2019/07/01/152643)
+    + [Disassembly Explorer](https://marketplace.visualstudio.com/items?itemName=dseight.disasexpl)

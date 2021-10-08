@@ -62,6 +62,8 @@
     + [The Future of Many Core Computing: ](http://i2pc.cs.illinois.edu/presentations/2010_05_06_Mattson_Slides.pdf)
     + [パソコンユーザーのためのDRAM入門 Part 1](https://qiita.com/Mine02C4/items/8114e23fb6b4148f06b8)
     + [骨まで理解するPCアーキテクチャ(GPU編) 第1回](https://pc.watch.impress.co.jp/docs/column/1month-kouza/642769.html)
+    + [誰も教えてくれない AMD64 と Intel64 の違い](https://neriring.hatenablog.jp/entry/2021/09/25/185310)
+    + [RISC-V の特徴と研究・開発への利用](https://www.rsg.ci.i.u-tokyo.ac.jp/members/shioya/slides/Shioya-KWS'21.pdf)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)

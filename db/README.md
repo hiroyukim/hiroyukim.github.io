@@ -155,6 +155,11 @@
     + [pgx is a framework for developing PostgreSQL extensions in Rust](https://github.com/zombodb/pgx/)
     + [The future of MySQL quality assurance: Introducing pquery](https://www.percona.com/blog/2015/02/04/future-mysql-quality-assurance-introducing-pquery/)
     + [JavaでRDBMSを作成する本](https://www.springer.com/gp/book/9783030338350)
+    + [「トランザクション張っておけば大丈夫」と思ってませんか？ バグの温床になる、よくある実装パターン](https://zenn.dev/tockn/articles/4268398c8ec9a9)
+    + [InnoDBにおいてプライマリキーの選択は性能面において重要](https://www.percona.com/blog/making-aurora-write-latency-15x-higher-or-more-by-choosing-a-bad-primary-key/)
+    + [HyperLogLogを使ったカーディナリティの推測](https://kaigai.hatenablog.com/entry/2021/09/25/131158)
+    + [SQL Serverのロックについて出来る限り分かりやすく解説](https://qiita.com/maaaaaaaa/items/38fd95b142b07acf7700)
+    + [CMUデータベース輪読会第8回](https://www.slideshare.net/keisuke-suzuki/cmu8)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)
