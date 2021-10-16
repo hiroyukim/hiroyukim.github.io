@@ -210,6 +210,8 @@
     + [GraphQL採用サービスで任意カラムを取得できる脆弱性を見つけた話](https://zenn.dev/mipsparc/articles/a818970a19ade6)
     + [個人情報テストデータジェネレーター](https://testdata.userlocal.jp/)
     + [JSON Web Token（JWT）の紹介とYahoo! JAPANにおけるJWTの活用](https://techblog.yahoo.co.jp/advent-calendar-2017/jwt/)
+    + [PHP 8 と V8 (JavaScript) で速さを見比べてみよう！](https://www.slideshare.net/shinjiigarashi/php-8-v8-javascript)
+    + [Swift async/await を支えるモナド、継続、コルーチン](https://speakerdeck.com/inamiy/iosdc-japan-2021)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

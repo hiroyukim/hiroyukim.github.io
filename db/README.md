@@ -160,6 +160,11 @@
     + [HyperLogLogを使ったカーディナリティの推測](https://kaigai.hatenablog.com/entry/2021/09/25/131158)
     + [SQL Serverのロックについて出来る限り分かりやすく解説](https://qiita.com/maaaaaaaa/items/38fd95b142b07acf7700)
     + [CMUデータベース輪読会第8回](https://www.slideshare.net/keisuke-suzuki/cmu8)
+    + [PHPer が知るべき MySQL クエリチューニング](https://speakerdeck.com/mamy1326/what-phpers-need-to-know-about-mysql-query-tuning)
+    + [ MySQLとインデックスと私](https://speakerdeck.com/yoku0825/mysqltoindetukusutosi)
+    + [ MySQLとインデックスとPHPer](https://speakerdeck.com/yoku0825/mysqltoindetukusutophper)
+    + [Dive into InnoDB MVCC](https://nayuta-yanagisawa.hatenablog.com/entry/dive-into-innodb-mvcc)
+    + [The SQL Linter for humans](https://www.sqlfluff.com/)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

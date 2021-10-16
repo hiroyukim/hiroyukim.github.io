@@ -69,6 +69,8 @@
     + [「Debugging Modern Web Protocols with qlog」の紹介](https://like-cat.hatenablog.com/entry/2020/05/04/122544)
     + [QUIC の Initial Packet を復号する](https://tex2e.github.io/blog/protocol/quic-initial-packet-decrypt)
     + [Dissecting Performance of Production QUIC の備忘録](https://like-cat.hatenablog.com/entry/2021/08/21/161758)
+    + [5分間でインターネット全体をスキャンできるTCPポートスキャナ](https://github.com/robertdavidgraham/masscan)
+    + [Wireshark チュートリアル: Wiresharkワークショップビデオシリーズを公開](https://unit42.paloaltonetworks.jp/wireshark-workshop-videos/)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)

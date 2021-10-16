@@ -405,6 +405,9 @@
     + [HTTPサーバとgRPCサーバを組み合わせる開発チュートリアルの四部作](https://www.fpcomplete.com/blog/axum-hyper-tonic-tower-part1/)
     + [Rustでグラフをplotするライブラリのまとめ](https://vaaaaaanquish.hatenablog.com/entry/2021/09/24/101607)
     + [シンプルなツールを配布したいだけなのにバイナリが大きすぎるということでバイナリサイズを減らす話](https://oknozor.github.io/blog/optimize-rust-binary-size/)
+    + [Rustのバッドノウハウとやめるにはどうしたらよいか集](https://adventures.michaelfbryan.com/posts/rust-best-practices/bad-habits/)
+    + [cargo benchcmp](https://github.com/BurntSushi/cargo-benchcmp)
+    + [ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}](https://blog.burntsushi.net/ripgrep/)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)

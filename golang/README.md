@@ -649,6 +649,7 @@
     + [Memory Management in Golang](https://www.timqi.com/2020/06/11/golang-memory-management/)
     + [golangのequalityの評価について](https://pod.hatenablog.com/entry/2016/07/30/204357)
     + [protoactor-go-sender-example](https://github.com/oklahomer/protoactor-go-sender-example)
+    + [Go: Understand the Design of Sync.Pool](https://medium.com/a-journey-with-go/go-understand-the-design-of-sync-pool-2dde3024e277)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

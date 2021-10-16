@@ -426,3 +426,8 @@
     + [Linuxの改造とパッチ](https://speakerdeck.com/morimolymoly/linuxfalsegai-zao-topatuti)
     + [プロダクショングレードストレージシステム on Kubernetes](https://speakerdeck.com/sat/purodakusiyonguredosutorezisisutemu-on-kubernetes)
     + [シェル起動時のスクリプト読み込みフロー](https://blog.flowblok.id.au/2013-02/shell-startup-scripts.html)
+    + [perf + Flame Graphs で Linux カーネル内のボトルネックを特定する](https://yohei-a.hatenablog.jp/entry/20150706/1436208007)
+    + [ノンブロッキングI/Oと非同期I/Oの違いを理解する](https://blog.takanabe.tokyo/2015/03/%E3%83%8E%E3%83%B3%E3%83%96%E3%83%AD%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0i/o%E3%81%A8%E9%9D%9E%E5%90%8C%E6%9C%9Fi/o%E3%81%AE%E9%81%95%E3%81%84%E3%82%92%E7%90%86%E8%A7%A3%E3%81%99%E3%82%8B/)
+    + [User Interrupts – A faster way to signal](https://linuxplumbersconf.org/event/11/contributions/985/attachments/756/1417/User_Interrupts_LPC_2021.pdf)
+    + [Linux perf Profiler UIs](https://www.markhansen.co.nz/profiler-uis/)
+    + [RISC-V OSを作ろう (1) ～ブート処理](https://valinux.hatenablog.com/entry/20210527)

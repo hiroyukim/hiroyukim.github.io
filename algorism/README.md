@@ -222,6 +222,12 @@
     + [なかけんの数学ノート](https://math.nakaken88.com/)
     + [なぜ分散は２乗の和なのか](https://rikunora.hatenablog.com/entry/2019/04/09/114614)
     + [木DPと全方位木DPを基礎から抽象化まで解説【競技プログラミング】](https://algo-logic.info/tree-dp/)
+    + [速度の高みを目指す：高速な単語分割器 Vaporetto の技術解説](https://tech.legalforce.co.jp/entry/2021/09/28/180844)
+    + [線形代数のさまざまな操作を視覚的に表現した教科書](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra/blob/main/The-Art-of-Linear-Algebra.pdf)
+    + [bitset 高速化が定数倍高速化という風潮に対するお気持ち表明](https://rsk0315.hatenablog.com/entry/2021/06/08/091128)
+    + [凸包に関するカラテオドリの定理とその証明](https://manabitimes.jp/math/1216)
+    + [競技プログラミングにおける包除原理問題まとめ](https://blog.hamayanhamayan.com/entry/2017/04/17/161345)
+    + [「写像12相」を総整理！ 〜 数え上げ問題の学びの宝庫 〜](https://qiita.com/drken/items/f2ea4b58b0d21621bd51)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)
