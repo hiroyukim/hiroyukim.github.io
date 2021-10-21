@@ -19,3 +19,4 @@
     + [外国語大学の学習サイト](http://www.coelang.tufs.ac.jp/mt/)
     + [いつか情報系学位を取得したい社会人の皆様へ](https://note.com/manamin0521/n/nebdd19dfcdc6)
     + [株式会社リクルート　エンジニアコース新人研修の内容を公開します！](https://recruit-tech.co.jp/blog/2021/08/20/recruit-bootcamp-2021/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%88%E3%80%80%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%82%B3%E3%83%BC%E3%82%B9%E6%96%B0%E4%BA%BA%E7%A0%94%E4%BF%AE%E3%81%AE%E5%86%85%E5%AE%B9%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%99%EF%BC%81)
+    + [コンピュータ・サイエンスの学習に、放送大学エキスパートが役立つかもしれない話](https://zenn.dev/zuk2y/articles/a649cd09befdeb)

@@ -431,3 +431,8 @@
     + [User Interrupts – A faster way to signal](https://linuxplumbersconf.org/event/11/contributions/985/attachments/756/1417/User_Interrupts_LPC_2021.pdf)
     + [Linux perf Profiler UIs](https://www.markhansen.co.nz/profiler-uis/)
     + [RISC-V OSを作ろう (1) ～ブート処理](https://valinux.hatenablog.com/entry/20210527)
+    + [詳説 OCIコンテナランタイム](https://speakerdeck.com/utam0k/xiang-shuo-ocikontenarantaimu-youki-at-di-15hui-kontenaji-shu-falseqing-bao-jiao-huan-hui)
+    + [Demangling for Rust symbols, written in Rust.](https://github.com/rust-lang/rustc-demangle)
+    + [Hacking Linux USDT with Ftrace](https://www.brendangregg.com/blog/2015-07-03/hacking-linux-usdt-ftrace.html)
+    + [Secure Container Runtime Development](https://speakerdeck.com/manabusugimoto/secure-container-runtime-development)
+    + [BPF Performance Toolsを読んだ感想](https://go-vargo.hatenablog.com/entry/2020/03/29/210304)

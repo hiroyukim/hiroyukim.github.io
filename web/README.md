@@ -212,6 +212,7 @@
     + [JSON Web Token（JWT）の紹介とYahoo! JAPANにおけるJWTの活用](https://techblog.yahoo.co.jp/advent-calendar-2017/jwt/)
     + [PHP 8 と V8 (JavaScript) で速さを見比べてみよう！](https://www.slideshare.net/shinjiigarashi/php-8-v8-javascript)
     + [Swift async/await を支えるモナド、継続、コルーチン](https://speakerdeck.com/inamiy/iosdc-japan-2021)
+    + [Chromium のアーキテクチャを解き明かす](https://docs.google.com/presentation/d/1AzBcuN-dmctk7v1IMZHivfpFAiXwCnsjyJS3wQ4sgE4/edit#slide=id.g82989a6582_1_134)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

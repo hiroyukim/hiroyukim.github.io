@@ -408,6 +408,11 @@
     + [Rustのバッドノウハウとやめるにはどうしたらよいか集](https://adventures.michaelfbryan.com/posts/rust-best-practices/bad-habits/)
     + [cargo benchcmp](https://github.com/BurntSushi/cargo-benchcmp)
     + [ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}](https://blog.burntsushi.net/ripgrep/)
+    + [Native Rust crate for libseccomp library](https://lib.rs/crates/libseccomp)
+    + [AndroidRustの紹介](https://source.android.com/setup/build/rust/building-rust-modules/overview)
+    + [nosc is tiny container engine without std crate](https://github.com/guni1192/nosc)
+    + [Rust Is Safe. But Is It Fast?](https://www.p99conf.io/session/rust-is-safe-but-is-it-fast/)
+    + [Rust で Linux のメモリモデルをどう扱うか Linux perfbook の著者がいくつかのユースケースごとに一連のブログ記事](https://paulmck.livejournal.com/62436.html)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)

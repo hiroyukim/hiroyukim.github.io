@@ -165,6 +165,8 @@
     + [ MySQLとインデックスとPHPer](https://speakerdeck.com/yoku0825/mysqltoindetukusutophper)
     + [Dive into InnoDB MVCC](https://nayuta-yanagisawa.hatenablog.com/entry/dive-into-innodb-mvcc)
     + [The SQL Linter for humans](https://www.sqlfluff.com/)
+    + [bccとUSDTを使ってMySQL/PostgreSQLのクエリログを取得する](https://blog.ssrf.in/post/using-usdt/)
+    + [innodb_rubyの作者の方のブログ](https://blog.jcole.us/innodb/)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)
