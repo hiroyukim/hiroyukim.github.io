@@ -213,6 +213,8 @@
     + [PHP 8 と V8 (JavaScript) で速さを見比べてみよう！](https://www.slideshare.net/shinjiigarashi/php-8-v8-javascript)
     + [Swift async/await を支えるモナド、継続、コルーチン](https://speakerdeck.com/inamiy/iosdc-japan-2021)
     + [Chromium のアーキテクチャを解き明かす](https://docs.google.com/presentation/d/1AzBcuN-dmctk7v1IMZHivfpFAiXwCnsjyJS3wQ4sgE4/edit#slide=id.g82989a6582_1_134)
+    + [CDNは5時間で開発できる](https://postd.cc/the-5-hour-cdn/)
+    + [DX白書2021を読むべし](https://note.com/papanda0806/n/n7661c7b86b19)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

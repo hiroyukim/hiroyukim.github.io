@@ -228,6 +228,11 @@
     + [凸包に関するカラテオドリの定理とその証明](https://manabitimes.jp/math/1216)
     + [競技プログラミングにおける包除原理問題まとめ](https://blog.hamayanhamayan.com/entry/2017/04/17/161345)
     + [「写像12相」を総整理！ 〜 数え上げ問題の学びの宝庫 〜](https://qiita.com/drken/items/f2ea4b58b0d21621bd51)
+    + [できるだけ嘘を書かずに計算量やオーダーの説明をしようとした記事](https://rsk0315.hatenablog.com/entry/2021/10/13/235627)
+    + [Dynamic Segment Tree の ACL 風実装](https://lorent-kyopro.hatenablog.com/entry/2021/03/12/025644)
+    + [ハッシュテーブルを C 実装で解説](https://www.andreinc.net/2021/10/02/implementing-hash-tables-in-c-part-1)
+    + [数学関数の計算コストと精度のトレードオフ](https://arxiv.org/abs/2107.05761)
+    + [こわくないbit全探索](https://qiita.com/u2dayo/items/68e35815659b1041c3c2)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

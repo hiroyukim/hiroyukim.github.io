@@ -167,6 +167,12 @@
     + [The SQL Linter for humans](https://www.sqlfluff.com/)
     + [bccとUSDTを使ってMySQL/PostgreSQLのクエリログを取得する](https://blog.ssrf.in/post/using-usdt/)
     + [innodb_rubyの作者の方のブログ](https://blog.jcole.us/innodb/)
+    + [CockroachDB](https://www.cockroachlabs.com/docs/)
+    + [MySQL on Kubernetes demystified](http://www.tusacentral.com/joomla/index.php/mysql-blogs/243-mysql-on-kubernetes-demystified)
+    + [分散トランザクションに挑戦しよう！](https://www.ogis-ri.co.jp/otc/hiroba/technical/DTP/step2/index.html)
+    + [Scalar DB](https://github.com/scalar-labs/scalardb)
+    + [抜けたデータを線形補完する interpolation の作り方](https://www.bytefish.de/blog/postgresql_interpolation.html)
+    + [TimescaleDB](https://github.com/timescale/timescaledb)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

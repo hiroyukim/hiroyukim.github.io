@@ -57,3 +57,6 @@
     + [自作Goコンパイラでマルチスレッドが動くようにするまで](https://zenn.dev/dqneo/articles/02114c5c081d38)
     + [アセンブラをゼロから作って自作コンパイラをアセンブルするまで](https://zenn.dev/dqneo/articles/012faee0b220fa)
     + [HLX-002](http://essen.osask.jp/?a21_hlx002)
+    + [LLVM入門](https://zenn.dev/silverbirder/articles/d6ae6419ac167e)
+    + [Onigmoのインタプリタをdirect threaded codeに置き換えてCRubyを8%高速化した話](https://imasahiro.hatenablog.com/entry/2021/10/18/103205)
+    + [GCC の -ffast-math で行われる最適化の解説](https://kristerw.github.io/2021/10/19/fast-math/)
