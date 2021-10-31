@@ -64,6 +64,7 @@
     + [骨まで理解するPCアーキテクチャ(GPU編) 第1回](https://pc.watch.impress.co.jp/docs/column/1month-kouza/642769.html)
     + [誰も教えてくれない AMD64 と Intel64 の違い](https://neriring.hatenablog.jp/entry/2021/09/25/185310)
     + [RISC-V の特徴と研究・開発への利用](https://www.rsg.ci.i.u-tokyo.ac.jp/members/shioya/slides/Shioya-KWS'21.pdf)
+    + [論理回路シミュレータ SimcirJS の使い方](https://lecture.ecc.u-tokyo.ac.jp/johzu/joho/Y2016/LogicSimulator/LogicSimulator/01.html)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)

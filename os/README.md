@@ -448,3 +448,7 @@
     + [x86バイナリをリアルタイムに WebAssembly に変換しながら実行する狂気のエミュレータ v86](https://github.com/copy/v86)
     + [LinuxサーバーのTCPネットワークのパフォーマンスを決定するカーネルパラメータ – 2編](https://meetup-jp.toast.com/1509)
     + [負荷が低いのにアクセスを捌けきれない時の対応](https://christina04.hatenablog.com/entry/2016/12/31/124314)
+    + [Linuxのfree コマンドの見方とオプション](https://milestone-of-se.nesuke.com/sv-basic/linux-basic/free-command/)
+    + [新しいLinux namespaceである「CPU Namespace」について](https://blog.inductor.me/entry/2021/10/24/044608)
+    + [Kubernetesのリソース要求/制限(requests/limits)の内部処理をソースコードレベルで読み解く](https://blog.inductor.me/entry/2021/10/24/135331)
+    + [bpftraceを使ってバイナリの謎の性能劣化を突き止めろ](https://blog.cybozu.io/entry/2021/10/26/084000)

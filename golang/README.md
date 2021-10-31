@@ -664,6 +664,8 @@
     + [サイトのロード時間計測ツール](https://github.com/ddosify/ddosify)
     + [gopsutil: psutil for golang](https://pkg.go.dev/github.com/shirou/gopsutil#section-readme)
     + [Go1.16で追加されたio#ReadAll関数から読むストリーミング中のバッファ拡張の仕方](https://budougumi0617.github.io/2021/02/22/update_capacity/)
+    + [チャネルとgoroutineをどうビジネスロジックに当てはめるか](https://logmi.jp/tech/articles/325230)
+    + [OpenTelemetryとgo-chiを繋げてみる ](https://future-architect.github.io/articles/20211020a/)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

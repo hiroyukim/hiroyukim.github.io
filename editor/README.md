@@ -38,3 +38,4 @@
     + [LinuxカーネルをCLionでデバッグする](https://knqyf263.hatenablog.com/entry/2019/07/01/152643)
     + [Disassembly Explorer](https://marketplace.visualstudio.com/items?itemName=dseight.disasexpl)
     + [ゼロから始めるObsidianプラグイン開発-02](https://zenn.dev/estra/articles/obsidian-pluigin-dev_2)
+    + [Using rr in an IDE](https://github.com/rr-debugger/rr/wiki/Using-rr-in-an-IDE)

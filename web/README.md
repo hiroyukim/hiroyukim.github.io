@@ -215,6 +215,7 @@
     + [Chromium のアーキテクチャを解き明かす](https://docs.google.com/presentation/d/1AzBcuN-dmctk7v1IMZHivfpFAiXwCnsjyJS3wQ4sgE4/edit#slide=id.g82989a6582_1_134)
     + [CDNは5時間で開発できる](https://postd.cc/the-5-hour-cdn/)
     + [DX白書2021を読むべし](https://note.com/papanda0806/n/n7661c7b86b19)
+    + [SAML入門](https://zenn.dev/kxn4t/books/3778cace88911a)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

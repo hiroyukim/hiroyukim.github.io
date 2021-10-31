@@ -70,3 +70,4 @@
     + [JavaScriptの非同期処理をじっくり理解する (1) 実行モデルとタスクキュー](https://zenn.dev/qnighy/articles/345aa9cae02d9d)
     + [遅延リストを扱うライブラリと Stage 2 Iterator Helpers](https://zenn.dev/petamoriken/articles/062461b79e0d8f)
     + [今Partytownがヤバい。JavaScript Sandboxの未来はどっちだ？](https://zenn.dev/stomita/articles/2c16a53223f3c9)
+    + [毎秒1GBでJSONをparseできるライブラリ simdjsonの解説](https://arxiv.org/abs/1902.08318)

@@ -423,6 +423,13 @@
     + [rayonの真価は分割統治にアリ](https://keens.github.io/blog/2018/04/08/rayonnoshinkahabunkatsutouchiniari/)
     + [Rustのコードをどうやってチューニングしていくかを具体例を使って順を追って説明してくれている](https://patrickfreed.github.io/rust/2021/10/15/making-slow-rust-code-fast.html)
     + [Rustの実践proc_macro](https://ferrous-systems.com/blog/testing-proc-macros/)
+    + [ベアメタル向けRust stdクレートの実装調査](https://speakerdeck.com/ciniml/beametaruxiang-kerust-stdkuretofalseshi-zhuang-diao-cha)
+    + [RustでOSを実装する](https://docs.google.com/presentation/d/1iHxIPbEC8pYimheyXYtOVvK-bGgMIC6PEkuwiUT6l4M/edit#slide=id.p)
+    + [Rust 1.56を早めに深掘り](https://tech-blog.optim.co.jp/entry/2021/10/22/080000)
+    + [RustでEmacs LispのVMを書いた人の記事](https://coredumped.dev/2021/10/21/building-an-emacs-lisp-vm-in-rust/)
+    + [allocクレートを使えるようにする](https://docs.google.com/presentation/d/1mT1N22j0zPIutotZSSgjsoLIn4-tp14qG02K3uazEyw/edit#slide=id.p)
+    + [組み込み向けの MCU をホスト側からデバッグするためのライブラリ](https://github.com/probe-rs/probe-rs)
+    + [Starlight is a JS engine in Rust which focuses on performance rather than ensuring 100% safety of JS runtime.](https://github.com/Starlight-JS/starlight)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)

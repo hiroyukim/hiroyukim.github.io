@@ -173,6 +173,9 @@
     + [Scalar DB](https://github.com/scalar-labs/scalardb)
     + [抜けたデータを線形補完する interpolation の作り方](https://www.bytefish.de/blog/postgresql_interpolation.html)
     + [TimescaleDB](https://github.com/timescale/timescaledb)
+    + [AWS Aurora MySQL Parallel Query の基礎研究](http://blog.father.gedow.net/2021/10/22/aws-aurora-mysql-parallel-query/)
+    + [Main classes/structures of MariaDB and how they are connected](https://mariadb.org/wp-content/uploads/2019/11/Sanja_2019_Main_strictures_of_MariaDB.pdf)
+    + [津島博士のパフォーマンス講座　第57回　適応問合せ最適化について](https://blogs.oracle.com/otnjp/post/tsushima-hakushi-57)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)
