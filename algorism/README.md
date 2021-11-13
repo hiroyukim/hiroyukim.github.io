@@ -234,6 +234,7 @@
     + [数学関数の計算コストと精度のトレードオフ](https://arxiv.org/abs/2107.05761)
     + [こわくないbit全探索](https://qiita.com/u2dayo/items/68e35815659b1041c3c2)
     + [バタフライ演算で高速化できるものまとめ](https://ngtkana.hatenablog.com/entry/2021/10/27/003705)
+    + [55GiB/s 出せる FizzBuzz プログラム](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

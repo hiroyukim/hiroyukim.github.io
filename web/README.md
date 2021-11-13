@@ -216,6 +216,8 @@
     + [CDNは5時間で開発できる](https://postd.cc/the-5-hour-cdn/)
     + [DX白書2021を読むべし](https://note.com/papanda0806/n/n7661c7b86b19)
     + [SAML入門](https://zenn.dev/kxn4t/books/3778cace88911a)
+    + [Firefox が Linux での WebGPU のパフォーマンスを上げるために EGL バックエンドに移行した話](https://mozillagfx.wordpress.com/2021/10/30/switching-the-linux-graphics-stack-from-glx-to-egl/)
+    + [Spectre の脅威とウェブサイトが設定すべきヘッダーについて](https://blog.agektmr.com/2021/11/browser-security.html)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

@@ -430,6 +430,12 @@
     + [allocクレートを使えるようにする](https://docs.google.com/presentation/d/1mT1N22j0zPIutotZSSgjsoLIn4-tp14qG02K3uazEyw/edit#slide=id.p)
     + [組み込み向けの MCU をホスト側からデバッグするためのライブラリ](https://github.com/probe-rs/probe-rs)
     + [Starlight is a JS engine in Rust which focuses on performance rather than ensuring 100% safety of JS runtime.](https://github.com/Starlight-JS/starlight)
+    + [cargo-build-deps](https://github.com/nacardin/cargo-build-deps)
+    + [Continuous Deployment For Rust Applications](https://www.lpalmieri.com/posts/2020-11-01-zero-to-production-5-how-to-deploy-a-rust-application/)
+    + [Rust Cache Action](https://github.com/Swatinem/rust-cache)
+    + [Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor)
+    + [An alternative Ruby implementation by Rust.](https://github.com/sisshiki1969/ruruby)
+    + [Rust で実際に書いて学ぶターミナル UI みたいな記事](https://www.poor.dev/blog/terminal-anatomy/)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)

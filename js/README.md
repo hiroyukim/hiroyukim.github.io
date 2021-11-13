@@ -71,3 +71,4 @@
     + [遅延リストを扱うライブラリと Stage 2 Iterator Helpers](https://zenn.dev/petamoriken/articles/062461b79e0d8f)
     + [今Partytownがヤバい。JavaScript Sandboxの未来はどっちだ？](https://zenn.dev/stomita/articles/2c16a53223f3c9)
     + [毎秒1GBでJSONをparseできるライブラリ simdjsonの解説](https://arxiv.org/abs/1902.08318)
+    + [TypeScriptコンパイラの読み方](https://zenn.dev/qnighy/articles/178016fb0f49c3)

@@ -59,3 +59,7 @@
     + [行動経済学論文のデータ捏造を暴いた記事の大意を和訳してお届けします](https://note.com/chiki_note/n/na8b256b8b788)
     + [第三回　見たことも、聞いたこともない本を見つけるワザ――件名の本当の使い方](https://www.libro-koseisha.co.jp/webcolumn/reference_tips03/)
     + [実はDDDってしっくりこないんです](https://hachibeechan.hateblo.jp/entry/domain-driven-deskwork)
+    + [ソフトウェアエンジニア採用におけるコーディングテストのススメ](https://mayah.jp/posts/2021/10/coding-test/)
+    + [Scalability Modeling using Universal Scalability Law](https://wso2.com/blog/research/scalability-modeling-using-universal-scalability-law/)
+    + [matzを説得する方法 How to persuade matz](https://staff.aist.go.jp/tanaka-akira/pub/howto-persuade-matz-rubykaigi2008.pdf)
+    + [大学生のためのプレゼンテーション基礎 ](https://www.gshpa.chiba-u.jp/content/files/textbook/textbook_presentation2017.pdf)

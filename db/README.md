@@ -176,6 +176,10 @@
     + [AWS Aurora MySQL Parallel Query の基礎研究](http://blog.father.gedow.net/2021/10/22/aws-aurora-mysql-parallel-query/)
     + [Main classes/structures of MariaDB and how they are connected](https://mariadb.org/wp-content/uploads/2019/11/Sanja_2019_Main_strictures_of_MariaDB.pdf)
     + [津島博士のパフォーマンス講座　第57回　適応問合せ最適化について](https://blogs.oracle.com/otnjp/post/tsushima-hakushi-57)
+    + [AWS Aurora MySQL Parallel Query の基礎研究](http://blog.father.gedow.net/2021/10/22/aws-aurora-mysql-parallel-query/)
+    + [初心者に向けるTiDBの学習 ～ストレージ編 第2回～](https://qiita.com/it2911/items/8050f76eba36f6dc7a25)
+    + [CockroachDB Serverlessがどのようなアーキテクチャかを解説したblog](https://www.cockroachlabs.com/blog/how-we-built-cockroachdb-serverless/)
+    + [Go で実装された MongoDB](https://github.com/MangoDB-io/MangoDB)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

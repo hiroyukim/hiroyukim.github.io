@@ -72,6 +72,9 @@
     + [5分間でインターネット全体をスキャンできるTCPポートスキャナ](https://github.com/robertdavidgraham/masscan)
     + [Wireshark チュートリアル: Wiresharkワークショップビデオシリーズを公開](https://unit42.paloaltonetworks.jp/wireshark-workshop-videos/)
     + [HTTP/2におけるHTTPヘッダインジェクション](https://blog.ts5.me/entry/2021/10/13/144809)
+    + [Can QUIC match TCP’s computational efficiency?](https://www.fastly.com/blog/measuring-quic-vs-tcp-computational-efficiency)
+    + [QUICむけにAES-GCM実装を最適化した話](http://blog.kazuhooku.com/2020/06/quicaes-gcm-22.html)
+    + [QUICスタックとTLSライブラリの関係とOpenSSLの状況](https://medium.com/nttlabs/quic-tls-relation-and-openssl-circumstance-fca824169b46)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)
