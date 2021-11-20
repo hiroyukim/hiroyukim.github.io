@@ -17,3 +17,4 @@
     + [はじめての方向け CVE 入門 CVEID や MITRE などもまとめて紹介](https://yamory.io/blog/what-is-cve/)
     + [軽量なソースコード解析ツール](https://github.com/flatt-security/shisho)
     + [次世代の監視技術 - Telemetry技術のご紹介](https://engineers.ntt.com/entry/2021/09/02/162022)
+    + [XSSワーム「Samy」の動作を解析する](https://akaki.io/2018/analyzing_samy_xss_worm)
