@@ -218,6 +218,8 @@
     + [SAML入門](https://zenn.dev/kxn4t/books/3778cace88911a)
     + [Firefox が Linux での WebGPU のパフォーマンスを上げるために EGL バックエンドに移行した話](https://mozillagfx.wordpress.com/2021/10/30/switching-the-linux-graphics-stack-from-glx-to-egl/)
     + [Spectre の脅威とウェブサイトが設定すべきヘッダーについて](https://blog.agektmr.com/2021/11/browser-security.html)
+    + [Grafana Lokiで構築する大規模ログモニタリング基盤](https://speakerdeck.com/line_developers/grafana-loki-deep-dive)
+    + [SharedArrayBuffer と過渡期な cross-origin isolation の話](https://blog.agektmr.com/2021/11/cross-origin-isolation.html)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

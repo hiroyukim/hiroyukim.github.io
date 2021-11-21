@@ -458,3 +458,8 @@
     + [詳解・電子辞書で Linux がブートするまで](https://speakerdeck.com/puhitaku/boot-linux-on-sharp-brain-explained)
     + [Linux kernelによってdropされたネットワークパケットを捕捉できるツール](https://github.com/nhorman/dropwatch)
     + [Kubernetesネットワーキング初級者脱出ガイド](https://speakerdeck.com/inductor/kubernetes-networking-beginners-guide)
+    + [乗っ取れコンテナ！！ 〜開発者から見たコンテナセキュリティの考え方〜](https://speakerdeck.com/mochizuki875/container-dev-security)
+    + [脅威モデリングで考える Kubernetes セキュリティ](https://speakerdeck.com/mrtc0/cloudnative-days-tokyo-2021-number-cndt2021-number-cndt2021-b)
+    + [第690回　BCCでeBPFのコードを書いてみる](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0690)
+    + [自作して学ぶKubernetes Scheduler入門](https://speakerdeck.com/sanposhiho/zi-zuo-sitexue-bukubernetes-schedulerru-men)
+    + [クラウド・ネイティブのお作法（2）「リトライ」～効率的なリトライ手法「Exponential Backoff and jitter」とは何か](https://codezine.jp/article/detail/10739)
