@@ -65,6 +65,8 @@
     + [誰も教えてくれない AMD64 と Intel64 の違い](https://neriring.hatenablog.jp/entry/2021/09/25/185310)
     + [RISC-V の特徴と研究・開発への利用](https://www.rsg.ci.i.u-tokyo.ac.jp/members/shioya/slides/Shioya-KWS'21.pdf)
     + [論理回路シミュレータ SimcirJS の使い方](https://lecture.ecc.u-tokyo.ac.jp/johzu/joho/Y2016/LogicSimulator/LogicSimulator/01.html)
+    + [SIMD化とは何か](https://speakerdeck.com/kaityo256/basics-of-simd)
+    + [10年で5世代の進化を遂げた高性能パッケージング技術「CoWoS」](https://eetimes.itmedia.co.jp/ee/articles/2111/22/news031.html)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)

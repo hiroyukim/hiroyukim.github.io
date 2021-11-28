@@ -220,6 +220,11 @@
     + [Spectre の脅威とウェブサイトが設定すべきヘッダーについて](https://blog.agektmr.com/2021/11/browser-security.html)
     + [Grafana Lokiで構築する大規模ログモニタリング基盤](https://speakerdeck.com/line_developers/grafana-loki-deep-dive)
     + [SharedArrayBuffer と過渡期な cross-origin isolation の話](https://blog.agektmr.com/2021/11/cross-origin-isolation.html)
+    + [JSON Lines](https://jsonlines.org/)
+    + [WasmBoxC: Simple, Easy, and Fast VM-less Sandboxing](https://kripken.github.io/blog/wasm/2020/07/27/wasmboxc.html)
+    + [リモートブランチの git checkout を peco で簡単にする](https://qiita.com/ymm1x/items/a735e82244a877ac4d23)
+    + [Making connections with TCP and Sockets for Workers](https://blog.cloudflare.com/introducing-socket-workers/)
+    + [SharedArrayBuffer と過渡期な cross-origin isolation の話](https://blog.agektmr.com/2021/11/cross-origin-isolation.html)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

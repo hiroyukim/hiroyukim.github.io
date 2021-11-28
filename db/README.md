@@ -180,6 +180,8 @@
     + [初心者に向けるTiDBの学習 ～ストレージ編 第2回～](https://qiita.com/it2911/items/8050f76eba36f6dc7a25)
     + [CockroachDB Serverlessがどのようなアーキテクチャかを解説したblog](https://www.cockroachlabs.com/blog/how-we-built-cockroachdb-serverless/)
     + [Go で実装された MongoDB](https://github.com/MangoDB-io/MangoDB)
+    + [実際に使うSQLの書き方 徹底解説](https://speakerdeck.com/soudai/pgcon21j-tutorial)
+    + [Query Engines: Push vs. Pull](http://justinjaffray.com/query-engines-push-vs.-pull/)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

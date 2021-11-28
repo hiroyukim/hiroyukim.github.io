@@ -436,6 +436,8 @@
     + [Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor)
     + [An alternative Ruby implementation by Rust.](https://github.com/sisshiki1969/ruruby)
     + [Rust で実際に書いて学ぶターミナル UI みたいな記事](https://www.poor.dev/blog/terminal-anatomy/)
+    + [えっちな grep をつくった](https://rhysd.hatenablog.com/entry/2021/11/23/211530)
+    + [gitの内部を学ぶ記事](https://dev.to/calebsander/git-internals-part-1-the-git-object-model-474m)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)

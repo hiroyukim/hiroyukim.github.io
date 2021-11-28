@@ -75,6 +75,7 @@
     + [Can QUIC match TCP’s computational efficiency?](https://www.fastly.com/blog/measuring-quic-vs-tcp-computational-efficiency)
     + [QUICむけにAES-GCM実装を最適化した話](http://blog.kazuhooku.com/2020/06/quicaes-gcm-22.html)
     + [QUICスタックとTLSライブラリの関係とOpenSSLの状況](https://medium.com/nttlabs/quic-tls-relation-and-openssl-circumstance-fca824169b46)
+    + [大規模Kafkaクラスターで起きた「SYN flood」 再現性のない問題をどのように原因究明したか](https://logmi.jp/tech/articles/325367)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)

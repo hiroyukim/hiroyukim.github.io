@@ -63,3 +63,4 @@
     + [Scalability Modeling using Universal Scalability Law](https://wso2.com/blog/research/scalability-modeling-using-universal-scalability-law/)
     + [matzを説得する方法 How to persuade matz](https://staff.aist.go.jp/tanaka-akira/pub/howto-persuade-matz-rubykaigi2008.pdf)
     + [大学生のためのプレゼンテーション基礎 ](https://www.gshpa.chiba-u.jp/content/files/textbook/textbook_presentation2017.pdf)
+    + [プログラミングというより物事が出来るようになる思考法](https://note.com/simplearchitect/n/n388201603a28)

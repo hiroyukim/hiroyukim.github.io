@@ -235,6 +235,8 @@
     + [こわくないbit全探索](https://qiita.com/u2dayo/items/68e35815659b1041c3c2)
     + [バタフライ演算で高速化できるものまとめ](https://ngtkana.hatenablog.com/entry/2021/10/27/003705)
     + [55GiB/s 出せる FizzBuzz プログラム](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630)
+    + [「三角関数」と「フーリエ変換」－三角関数の幅広い実社会利用での基礎となる重要な数学的手法－](https://www.nli-research.co.jp/report/detail/id=69307?site=nli)
+    + [『増訂解析概論』高木 貞治 著の現代仮名遣い版](https://linesegment.web.fc2.com/books/mathematics/zouteikaisekigairon/index.html)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

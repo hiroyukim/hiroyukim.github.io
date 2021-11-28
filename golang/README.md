@@ -668,6 +668,15 @@
     + [OpenTelemetryとgo-chiを繋げてみる ](https://future-architect.github.io/articles/20211020a/)
     + [CPU コアの数に従って並行での計算を速くする研究](https://github.com/cespare/percpu)
     + [Node.jsのようなJavaScriptランタイム](https://github.com/anons-org/nada)
+    + [Developing games in Go for Nintendo Switch](https://docs.google.com/presentation/d/e/2PACX-1vQ7NcPdBmoVu83KqhPNNZ3X5BqDdemxgDS8lwpuqYOZNOozodmzL76GnEh8prXp96EKkBpWS5DfJOMa/pub?start=false&loop=false&delayms=3000&slide=id.p)
+    + [io/fsパッケージを用いた テスタブルなコード生成ツールの開発](https://docs.google.com/presentation/d/1Ve4GyJGQG-3_Cz5Alse2Am7k4ngcpiCpwwgSfDPzmnE/edit#slide=id.p)
+    + [スケジューラから学ぶGoランタイム](https://speakerdeck.com/sakiengineer/sukeziyurakaraxue-bugorantaimu-code-reading-of-runtime-pkg)
+    + [GoのProposalの追い方ガイド](https://speakerdeck.com/syumai/gofalseproposalfalsezhui-ifang-gaido)
+    + [odiffの3倍高速を謳う画像diffツール](https://github.com/n7olkachev/imgdiff)
+    + [Golangで作るSQL Language Server](https://speakerdeck.com/lighttiger2505/golangdezuo-rusql-language-server-sqls)
+    + [URLやIPアドレスなどを渡すと応答速度、DNS、TLSなどに問題が発生していないかざっくり調べてくれるツール](https://github.com/ycd/dstp)
+    + [一つのプロセスに特化してグラフ付きでモニタリングするCLIツール](https://github.com/evilsocket/uroboros)
+    + [Go でコンパイル形式の awk を作ったら速度がオリジナルの9倍になった話](https://benhoyt.com/writings/awkgo/)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

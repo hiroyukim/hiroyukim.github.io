@@ -40,3 +40,4 @@
     + [ゼロから始めるObsidianプラグイン開発-02](https://zenn.dev/estra/articles/obsidian-pluigin-dev_2)
     + [Using rr in an IDE](https://github.com/rr-debugger/rr/wiki/Using-rr-in-an-IDE)
     + [Mozilla rr を使用したデバッグ](https://pleiades.io/help/go/debugging-with-mozilla-rr.html)
+    + [Clion profiler](https://pleiades.io/help/clion/cpu-profiler.html)
