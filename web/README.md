@@ -225,6 +225,9 @@
     + [リモートブランチの git checkout を peco で簡単にする](https://qiita.com/ymm1x/items/a735e82244a877ac4d23)
     + [Making connections with TCP and Sockets for Workers](https://blog.cloudflare.com/introducing-socket-workers/)
     + [SharedArrayBuffer と過渡期な cross-origin isolation の話](https://blog.agektmr.com/2021/11/cross-origin-isolation.html)
+    + [Oracle Cloudの無料枠でKubernetesクラスタを構築する](https://blog.potproject.net/2021/06/01/oracle-cloud-kubernetes)
+    + [Nginxのtcpのbacklogの設定が何をしているのかに入門する](https://ryuichi1208.hateblo.jp/entry/2021/11/23/232346)
+    + [COOKIE等によるトラッキング規制と代替APIの最新情報まとめ](https://jsconf.jp/2021/talk/summary-of-the-latest-information-on-tracking-restrictions-and-alternative-api-by-cookies-etc)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

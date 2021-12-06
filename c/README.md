@@ -102,6 +102,9 @@
     + [未定義動作は未定義動作だよという話](https://rsk0315.hatenablog.com/entry/2019/09/10/213859)
     + [お手軽に使える高速なSSE4.2専用文字検索ライブラリ](https://blog.cybozu.io/entry/2016/08/25/080000)
     + [Unity の中の人がビルドに40分再現に5〜10分かかるメモリ破壊系のバグを調査・修正した話](https://blog.unity.com/technology/debugging-memory-corruption-who-the-hell-writes-2-into-my-stack-2)
+    + [Linux プロジェクトを構成してアドレス サニタイザーを使用する](https://docs.microsoft.com/ja-jp/cpp/linux/linux-asan-configuration?view=msvc-170)
+    + [AddressSanitizer](https://github.com/google/sanitizers/wiki/AddressSanitizer)
+    + [LD_PRELOAD で標準ライブラリの関数の挙動を変更する](https://blog.cles.jp/item/11910)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

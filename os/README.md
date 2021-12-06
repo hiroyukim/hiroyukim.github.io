@@ -477,3 +477,4 @@
     + [いまどきのVulkan](https://speakerdeck.com/fadis/imadokifalsevulkan)
     + [JITのデバッグ方法](https://github.com/herumi/blog/blob/main/jit-debug.md#gdb%E3%81%A7%E9%80%86%E3%82%A2%E3%82%BB%E3%83%B3%E3%83%96%E3%83%AB)
     + [XDPとはeXpress Data Pathの略でLinuxカーネル内で動作するeBPFベースの高性能なパケット処理技術](https://terassyi.net/posts/2021/10/18/intro-xdp.html)
+    + [A tool for exploring a docker image, layer contents, and discovering ways to shrink the size of your Docker/OCI image.](https://github.com/wagoodman/dive)

@@ -677,6 +677,14 @@
     + [URLやIPアドレスなどを渡すと応答速度、DNS、TLSなどに問題が発生していないかざっくり調べてくれるツール](https://github.com/ycd/dstp)
     + [一つのプロセスに特化してグラフ付きでモニタリングするCLIツール](https://github.com/evilsocket/uroboros)
     + [Go でコンパイル形式の awk を作ったら速度がオリジナルの9倍になった話](https://benhoyt.com/writings/awkgo/)
+    + [epollによるNetwork I/O in Goランタイム](https://speakerdeck.com/sakiengineer/o-in-gorantaimu)
+    + [Goとマルチコアスケール実装](https://zenn.dev/nobonobo/articles/e43cdca80650e4)
+    + [コンテナで動くGoアプリをデバッグする方法](https://zenn.dev/skanehira/articles/2021-11-26-go-remote-debug)
+    + [様々なプロトコルに対応したプロキシサーバ](https://github.com/snail007/goproxy)
+    + [Redisに特化したtopコマンド](https://github.com/factorysh/redistop)
+    + [Varnishと同様のHTTPキャッシュサーバ](https://github.com/vicanso/pike)
+    + [HTTP/HTTPS負荷テストツール](https://github.com/utkusen/reqstress)
+    + [原理原則から適切なgoroutineの数を考える](https://zenn.dev/imamura_sh/articles/goroutine-29492669efb6aef33306)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

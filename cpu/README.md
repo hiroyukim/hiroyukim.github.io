@@ -67,6 +67,7 @@
     + [論理回路シミュレータ SimcirJS の使い方](https://lecture.ecc.u-tokyo.ac.jp/johzu/joho/Y2016/LogicSimulator/LogicSimulator/01.html)
     + [SIMD化とは何か](https://speakerdeck.com/kaityo256/basics-of-simd)
     + [10年で5世代の進化を遂げた高性能パッケージング技術「CoWoS」](https://eetimes.itmedia.co.jp/ee/articles/2111/22/news031.html)
+    + [Dockerで体験する富岳のアーキテクチャ「AArch64」ハンズオン ](https://speakerdeck.com/kaityo256/xbyak-aarch64-handson)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)

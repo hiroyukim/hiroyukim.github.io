@@ -438,6 +438,9 @@
     + [Rust で実際に書いて学ぶターミナル UI みたいな記事](https://www.poor.dev/blog/terminal-anatomy/)
     + [えっちな grep をつくった](https://rhysd.hatenablog.com/entry/2021/11/23/211530)
     + [gitの内部を学ぶ記事](https://dev.to/calebsander/git-internals-part-1-the-git-object-model-474m)
+    + [Rustの非同期のキャンセルについて](https://blog.yoshuawuyts.com/async-cancellation-1/)
+    + [ripgrep をライブラリとして使う](https://docs.google.com/presentation/d/1ORxLKXl5kStlGNxtX3S9WxE2DkMUchxSo64fN4mxZTY/edit#slide=id.p)
+    + [ターミナルレコーダ・プレイヤーの asciinema がフルスクラッチで再実装](https://blog.asciinema.org/post/smaller-faster/)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)

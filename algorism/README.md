@@ -237,6 +237,9 @@
     + [55GiB/s 出せる FizzBuzz プログラム](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630)
     + [「三角関数」と「フーリエ変換」－三角関数の幅広い実社会利用での基礎となる重要な数学的手法－](https://www.nli-research.co.jp/report/detail/id=69307?site=nli)
     + [『増訂解析概論』高木 貞治 著の現代仮名遣い版](https://linesegment.web.fc2.com/books/mathematics/zouteikaisekigairon/index.html)
+    + [AVX2を使ったFizzbuzzの最速実装の解説](https://tech.marksblogg.com/fastest-fizz-buzz.html)
+    + [BSDiffバイナリ差分アルゴリズムの解説](http://misohena.jp/blog/2016-01-18-bsdiff-binary-diff-algorithm.html)
+    + [50分で学ぶアルゴリズム](https://speakerdeck.com/e869120/algorithms-in-50-minutes)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)
