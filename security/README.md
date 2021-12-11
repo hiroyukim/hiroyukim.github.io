@@ -19,3 +19,4 @@
     + [次世代の監視技術 - Telemetry技術のご紹介](https://engineers.ntt.com/entry/2021/09/02/162022)
     + [XSSワーム「Samy」の動作を解析する](https://akaki.io/2018/analyzing_samy_xss_worm)
     + [パッケージマネージャで配布されるマルウェア、対策と課題について](https://brutalgoblin.hatenablog.jp/entry/2021/11/27/182601)
+    + [セキュリティを一切考慮しないMMORPGを開発するとどうなるか](http://akisute.com/2021/11/mmorpg.html)

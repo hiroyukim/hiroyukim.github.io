@@ -441,6 +441,9 @@
     + [Rustの非同期のキャンセルについて](https://blog.yoshuawuyts.com/async-cancellation-1/)
     + [ripgrep をライブラリとして使う](https://docs.google.com/presentation/d/1ORxLKXl5kStlGNxtX3S9WxE2DkMUchxSo64fN4mxZTY/edit#slide=id.p)
     + [ターミナルレコーダ・プレイヤーの asciinema がフルスクラッチで再実装](https://blog.asciinema.org/post/smaller-faster/)
+    + [WebAssemblyの形態素解析器GoyaをRustで作った](https://blog.leko.jp/post/goya-yet-another-japanese-morphological-analyzer/)
+    + [RustでJSONパーサーをフルスクラッチで実装する](https://qiita.com/togatoga/items/9d600e20325775f09547)
+    + [Implementing Raft for Browsers with Rust and WebRTC](https://eevans.co/blog/wraft/)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)

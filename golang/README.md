@@ -685,6 +685,7 @@
     + [Varnishと同様のHTTPキャッシュサーバ](https://github.com/vicanso/pike)
     + [HTTP/HTTPS負荷テストツール](https://github.com/utkusen/reqstress)
     + [原理原則から適切なgoroutineの数を考える](https://zenn.dev/imamura_sh/articles/goroutine-29492669efb6aef33306)
+    + [Goにおけるメモリ管理の可視化](https://zenn.dev/kazu1029/articles/38ab3d99ef0de3)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

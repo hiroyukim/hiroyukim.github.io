@@ -228,6 +228,8 @@
     + [Oracle Cloudの無料枠でKubernetesクラスタを構築する](https://blog.potproject.net/2021/06/01/oracle-cloud-kubernetes)
     + [Nginxのtcpのbacklogの設定が何をしているのかに入門する](https://ryuichi1208.hateblo.jp/entry/2021/11/23/232346)
     + [COOKIE等によるトラッキング規制と代替APIの最新情報まとめ](https://jsconf.jp/2021/talk/summary-of-the-latest-information-on-tracking-restrictions-and-alternative-api-by-cookies-etc)
+    + [バッチ処理における冪等性の検討 ─ クラウドネイティブもしくは、はてなダイアリーの自動移行を題材に](https://developer.hatenastaff.com/entry/2021/11/30/093000)
+
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)
