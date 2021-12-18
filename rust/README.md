@@ -444,6 +444,9 @@
     + [WebAssemblyの形態素解析器GoyaをRustで作った](https://blog.leko.jp/post/goya-yet-another-japanese-morphological-analyzer/)
     + [RustでJSONパーサーをフルスクラッチで実装する](https://qiita.com/togatoga/items/9d600e20325775f09547)
     + [Implementing Raft for Browsers with Rust and WebRTC](https://eevans.co/blog/wraft/)
+    + [Rustのイテレータの網羅的かつ大雑把な紹介](https://qiita.com/lo48576/items/34887794c146042aebf1)
+    + [Rustで書いてWASMで動くWebRTC上のRaftプロトコル](https://eevans.co/blog/wraft/)
+    + [簡易x86エミュレータを再実装してRustを学ぶ](https://qiita.com/Kenta11/items/ba8f687f2c5190db2f4d)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)
@@ -456,3 +459,4 @@
     + [Rust for Rustaceans](https://nostarch.com/rust-rustaceans)
     + [Rust for Embedded Development](https://dev.to/abby06/rust-for-embedded-development-m00)
     + [2D ゲーム実装を通して Rust を学ぶ書籍](https://pragprog.com/titles/hwrust/hands-on-rust/)
+    + [Code Like a Pro in Rust ](https://www.manning.com/books/code-like-a-pro-in-rust)

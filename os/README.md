@@ -479,3 +479,8 @@
     + [XDPとはeXpress Data Pathの略でLinuxカーネル内で動作するeBPFベースの高性能なパケット処理技術](https://terassyi.net/posts/2021/10/18/intro-xdp.html)
     + [A tool for exploring a docker image, layer contents, and discovering ways to shrink the size of your Docker/OCI image.](https://github.com/wagoodman/dive)
     + [レコーディング&リプレイ デバッグツール rr](https://www.nds-osk.co.jp/wp/wp-content/uploads/2021/07/onelcof13_casestudy5.pdf)
+    + [libtree](https://github.com/haampie/libtree)
+    + [This is a REPL for assembly language.](https://github.com/tenderlove/asmrepl)
+    + [第694回　libbpfとclangでポータブルなBPF CO-REバイナリ作成](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0694)
+    + [機械語手書きから言語処理系をブートストラップする](https://qiita.com/9_ties/items/349b2ed65b7cd8a7d580)
+    + [oktetoで無料Kubernetesを遊び尽くす](https://zenn.dev/aoi/articles/9ff83fe3c2e58d)

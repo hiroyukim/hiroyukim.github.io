@@ -240,6 +240,9 @@
     + [AVX2を使ったFizzbuzzの最速実装の解説](https://tech.marksblogg.com/fastest-fizz-buzz.html)
     + [BSDiffバイナリ差分アルゴリズムの解説](http://misohena.jp/blog/2016-01-18-bsdiff-binary-diff-algorithm.html)
     + [50分で学ぶアルゴリズム](https://speakerdeck.com/e869120/algorithms-in-50-minutes)
+    + [The Fastest FizzBuzz Implementation](https://tech.marksblogg.com/fastest-fizz-buzz.html)
+    + [SIMD を使った CSV パーサのアルゴリズム解説](https://nullprogram.com/blog/2021/12/04/)
+    + [Xorshift](https://ja.wikipedia.org/wiki/Xorshift)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

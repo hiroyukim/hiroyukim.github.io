@@ -182,6 +182,8 @@
     + [Go で実装された MongoDB](https://github.com/MangoDB-io/MangoDB)
     + [実際に使うSQLの書き方 徹底解説](https://speakerdeck.com/soudai/pgcon21j-tutorial)
     + [Query Engines: Push vs. Pull](http://justinjaffray.com/query-engines-push-vs.-pull/)
+    + [いまどきの索引技術](https://drive.google.com/file/d/1050akotCU6R9U3OZlMXh8S5_aE1TgzMi/view)
+    + [DynamoDBで分散ロックを実現するsetddblockと現代版アクセスカウンター](https://techblog.kayac.com/dynamodb-setddblock)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

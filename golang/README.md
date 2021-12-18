@@ -686,6 +686,9 @@
     + [HTTP/HTTPS負荷テストツール](https://github.com/utkusen/reqstress)
     + [原理原則から適切なgoroutineの数を考える](https://zenn.dev/imamura_sh/articles/goroutine-29492669efb6aef33306)
     + [Goにおけるメモリ管理の可視化](https://zenn.dev/kazu1029/articles/38ab3d99ef0de3)
+    + [Goの構造体の使われ方の設計 ](https://future-architect.github.io/articles/20210525a/)
+    + [Go Does Not Need a Java Style GC](https://itnext.io/go-does-not-need-a-java-style-gc-ac99b8d26c60)
+    + [Goのinterfaceをデータ構造から理解する](https://zenn.dev/sivchari/articles/be6cc55d313b12)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack
