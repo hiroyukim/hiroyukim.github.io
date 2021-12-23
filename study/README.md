@@ -22,3 +22,5 @@
     + [コンピュータ・サイエンスの学習に、放送大学エキスパートが役立つかもしれない話](https://zenn.dev/zuk2y/articles/a649cd09befdeb)
     + [解説，論説記事](https://www.ueda.info.waseda.ac.jp/~ueda/readings/)
     + [探究的な授業とは？](https://g-tanq.jp/math2)
+    + [機械学習帳](https://chokkan.github.io/mlnote/)
+    + [Python言語による実務で使える100+の最適化問題](https://scmopt.github.io/opt100/)

@@ -184,6 +184,10 @@
     + [Query Engines: Push vs. Pull](http://justinjaffray.com/query-engines-push-vs.-pull/)
     + [いまどきの索引技術](https://drive.google.com/file/d/1050akotCU6R9U3OZlMXh8S5_aE1TgzMi/view)
     + [DynamoDBで分散ロックを実現するsetddblockと現代版アクセスカウンター](https://techblog.kayac.com/dynamodb-setddblock)
+    + [TiDB on AWS EKS 〜DMM動画のPoCレポート〜](https://inside.dmm.com/entry/2021/12/12/tidb-on-aws-eks-poc-report)
+    + [PostgreSQLの拡張機能を作ってpgxnで公開する](https://qiita.com/kasa_zip/items/e28c8abd89e8457caf80?utm_campaign=post_article&utm_medium=twitter&utm_source=twitter_share)
+    + [雑なMySQLパフォーマンスチューニング](https://www.slideshare.net/yoku0825/mysql-57449062)
+    + [LT：MySQLのギャップロックとネクストキーロックについて](https://speakerdeck.com/yoshiakiyamasaki/lt-mysqlfalsegiyatupurotukutonekusutokirotukunituite?slide=9)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

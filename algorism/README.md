@@ -243,6 +243,9 @@
     + [The Fastest FizzBuzz Implementation](https://tech.marksblogg.com/fastest-fizz-buzz.html)
     + [SIMD を使った CSV パーサのアルゴリズム解説](https://nullprogram.com/blog/2021/12/04/)
     + [Xorshift](https://ja.wikipedia.org/wiki/Xorshift)
+    + [GitHub の新しいコード検索の定義ジャンプの実装に使われている stack graphs という名前解決の手法の解説](https://github.blog/2021-12-09-introducing-stack-graphs/)
+    + [In-Place In-Shuffleアルゴリズム](https://qiita.com/kgoto/items/8624168f0ba4832fa786)
+    + [Suffix Automaton](https://yosupo.hatenablog.com/entry/2021/01/31/160215)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

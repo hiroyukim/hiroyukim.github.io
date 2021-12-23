@@ -689,6 +689,9 @@
     + [Goの構造体の使われ方の設計 ](https://future-architect.github.io/articles/20210525a/)
     + [Go Does Not Need a Java Style GC](https://itnext.io/go-does-not-need-a-java-style-gc-ac99b8d26c60)
     + [Goのinterfaceをデータ構造から理解する](https://zenn.dev/sivchari/articles/be6cc55d313b12)
+    + [Goのロギングライブラリ 2021年冬](https://moriyoshi.hatenablog.com/entry/2021/12/14/183703)
+    + [Goでビットの操作やカウントの実装を見てみる](https://medium.com/eureka-engineering/go-bitwise-manipulating-counting-algorithm-4f8bb14893d0)
+    + [sync.Onceの内部実装から学ぶ実装アイデア](https://zenn.dev/sryoya/articles/b0e8e8d83032b0)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

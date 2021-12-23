@@ -76,6 +76,8 @@
     + [QUICむけにAES-GCM実装を最適化した話](http://blog.kazuhooku.com/2020/06/quicaes-gcm-22.html)
     + [QUICスタックとTLSライブラリの関係とOpenSSLの状況](https://medium.com/nttlabs/quic-tls-relation-and-openssl-circumstance-fca824169b46)
     + [大規模Kafkaクラスターで起きた「SYN flood」 再現性のない問題をどのように原因究明したか](https://logmi.jp/tech/articles/325367)
+    + [ゲームでよくある「NATタイプ」はどう判定しているの？](https://zenn.dev/yoshd/articles/2859fc5ffd5a6e)
+    + [今そこにあるIPv6 ─ もう1つのインターネットが普通に使われていることに普通のITエンジニアはどう対応するべきか？](https://eh-career.com/engineerhub/entry/2021/12/13/113000)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)

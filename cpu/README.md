@@ -70,6 +70,7 @@
     + [Dockerで体験する富岳のアーキテクチャ「AArch64」ハンズオン ](https://speakerdeck.com/kaityo256/xbyak-aarch64-handson)
     + [高性能プロセッサー設計の専門書](https://link.springer.com/book/10.1007/978-3-030-76871-3)
     + [x87 FPUの呪い](https://qiita.com/mod_poppo/items/9588b6f425ffe4b5c7bf)
+    + [Graviton2とGraviton3の解説blog](https://muratbuffalo.blogspot.com/2021/12/graviton2-and-graviton3.html)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)

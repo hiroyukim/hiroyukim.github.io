@@ -229,7 +229,10 @@
     + [Nginxのtcpのbacklogの設定が何をしているのかに入門する](https://ryuichi1208.hateblo.jp/entry/2021/11/23/232346)
     + [COOKIE等によるトラッキング規制と代替APIの最新情報まとめ](https://jsconf.jp/2021/talk/summary-of-the-latest-information-on-tracking-restrictions-and-alternative-api-by-cookies-etc)
     + [バッチ処理における冪等性の検討 ─ クラウドネイティブもしくは、はてなダイアリーの自動移行を題材に](https://developer.hatenastaff.com/entry/2021/11/30/093000)
-
+    + [GitHub上のsensitive dataを削除するための手順と道のり](https://engineering.mercari.com/blog/entry/20211207-removing-sensitive-data-from-github/)
+    + [フレッツ光回線でscpが遅かった話](https://qiita.com/tango110/items/c8194d43b46fa2a712d1)
+    + [性能に関する考え方](https://speakerdeck.com/yosuke_furukawa/xing-neng-niguan-surukao-efang)
+    + [【マジで】サイバー演習シナリオの作り方【怖い】](https://developers.freee.co.jp/entry/howto-make-cyber-exercise-scenario)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)
