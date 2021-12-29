@@ -233,6 +233,9 @@
     + [フレッツ光回線でscpが遅かった話](https://qiita.com/tango110/items/c8194d43b46fa2a712d1)
     + [性能に関する考え方](https://speakerdeck.com/yosuke_furukawa/xing-neng-niguan-surukao-efang)
     + [【マジで】サイバー演習シナリオの作り方【怖い】](https://developers.freee.co.jp/entry/howto-make-cyber-exercise-scenario)
+    + [Cloud SpannerとCloud Pub/Subとで実装するTransactional outboxパターン](https://engineering.mercari.com/blog/entry/20211221-transactional-outbox/)
+    + [ついに、Webアプリでの帳票印刷のベストプラクティスを編み出しました](https://blog.ttskch.com/web-app-pdf-printing-best-practice/)
+    + [クラウドサービスにおける ReDoS 対策](https://kazeburo.hatenablog.com/entry/2021/12/24/094914)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

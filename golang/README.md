@@ -692,6 +692,9 @@
     + [Goのロギングライブラリ 2021年冬](https://moriyoshi.hatenablog.com/entry/2021/12/14/183703)
     + [Goでビットの操作やカウントの実装を見てみる](https://medium.com/eureka-engineering/go-bitwise-manipulating-counting-algorithm-4f8bb14893d0)
     + [sync.Onceの内部実装から学ぶ実装アイデア](https://zenn.dev/sryoya/articles/b0e8e8d83032b0)
+    + [golang(cgo)コンパイラのcopyelim最適化パスについて](https://kazuminkun.hatenablog.com/entry/2021/12/18/232035)
+    + [golang(cgo)コンパイラの共通部分式除去について](https://kazuminkun.hatenablog.com/entry/2021/12/18/182833)
+    + [Goの正規表現が遅いって言う人がいたから、（速い）正規表現エンジンを作ったよ](https://zenn.dev/yanother/articles/8b5c3a42d36f27)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

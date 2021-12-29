@@ -246,6 +246,12 @@
     + [GitHub の新しいコード検索の定義ジャンプの実装に使われている stack graphs という名前解決の手法の解説](https://github.blog/2021-12-09-introducing-stack-graphs/)
     + [In-Place In-Shuffleアルゴリズム](https://qiita.com/kgoto/items/8624168f0ba4832fa786)
     + [Suffix Automaton](https://yosupo.hatenablog.com/entry/2021/01/31/160215)
+    + [アルゴ式の「シグマ計算とパイ計算」をすべて発展解法で解く](https://qiita.com/hibit/items/73216131c18c0a842e91)
+    + [二分探索の上限を適切に決められずに失敗する人かわいそう](https://rsk0315.hatenablog.com/entry/2021/12/19/124017)
+    + [一人でabcをやっていたときに気付かなかった知見](https://yassu.gitlab.io/article/2021/12/18/atcoder-for-beginner/)
+    + [型安全で高速な連鎖行列積の計算](https://zenn.dev/lotz/articles/b77c3434fa9451fcc927)
+    + [k-d tree](https://en.wikipedia.org/wiki/K-d_tree)
+    + [アルゴリズムの世界地図](https://qiita.com/square1001/items/6d414167ca95c97bd8b2)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

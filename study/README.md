@@ -24,3 +24,4 @@
     + [探究的な授業とは？](https://g-tanq.jp/math2)
     + [機械学習帳](https://chokkan.github.io/mlnote/)
     + [Python言語による実務で使える100+の最適化問題](https://scmopt.github.io/opt100/)
+    + [ハーバード大学のコンピュータサイエンス入門講義](https://cs50.jp/)

@@ -73,3 +73,4 @@
     + [毎秒1GBでJSONをparseできるライブラリ simdjsonの解説](https://arxiv.org/abs/1902.08318)
     + [TypeScriptコンパイラの読み方](https://zenn.dev/qnighy/articles/178016fb0f49c3)
     + [クリエイティブコーディングの教科書](https://zenn.dev/baroqueengine/books/a19140f2d9fc1a)
+    + [GraphQL Highway](https://speakerdeck.com/cockscomb/graphql-highway)
