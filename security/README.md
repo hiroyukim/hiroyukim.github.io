@@ -20,3 +20,5 @@
     + [XSSワーム「Samy」の動作を解析する](https://akaki.io/2018/analyzing_samy_xss_worm)
     + [パッケージマネージャで配布されるマルウェア、対策と課題について](https://brutalgoblin.hatenablog.jp/entry/2021/11/27/182601)
     + [セキュリティを一切考慮しないMMORPGを開発するとどうなるか](http://akisute.com/2021/11/mmorpg.html)
+    + [あなたの「公開鍵暗号」はPKE? それともPKC?](https://blog.cybozu.io/entry/2021/12/28/080000)
+    + [コインハイブ事件における弁護活動](https://docs.google.com/document/d/1d67ACvHNmhd-HY6osPFE82AMCQ2RqjpeZ-5Au_mHUhE/edit)

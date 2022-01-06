@@ -236,6 +236,8 @@
     + [Cloud SpannerとCloud Pub/Subとで実装するTransactional outboxパターン](https://engineering.mercari.com/blog/entry/20211221-transactional-outbox/)
     + [ついに、Webアプリでの帳票印刷のベストプラクティスを編み出しました](https://blog.ttskch.com/web-app-pdf-printing-best-practice/)
     + [クラウドサービスにおける ReDoS 対策](https://kazeburo.hatenablog.com/entry/2021/12/24/094914)
+    + [分散アプリケーションの依存発見に向いたTCP/UDPソケットに基づく低負荷トレーシング](https://blog.yuuk.io/entry/2021/wsa08)
+    + [bash スクリプトの実行中上書き動作について](https://zenn.dev/mattn/articles/5af86b61004bdc)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

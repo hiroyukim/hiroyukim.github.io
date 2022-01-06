@@ -470,6 +470,12 @@
     + [Rustで実装するmalloc](https://engineers.ntt.com/entry/2021/12/21/125459)
     + [Linux用キーリマッパーxremapをRustで書き直した](https://k0kubun.hatenablog.com/entry/xremap)
     + [並行キャッシュライブラリー「Moka」を作ったのでWebサービスを高速化するサンプルを使って説明します](https://qiita.com/tatsuya6502/items/350ad1029dc39611fff4)
+    + [Unbuffered I/O Can Make Your Rust Programs Much Slower](https://era.co/blog/unbuffered-io-slows-rust-programs)
+    + [Rustでパーサに入門する兼Lynの詳解](https://depth-first.com/articles/2021/12/16/a-beginners-guide-to-parsing-in-rust/)
+    + [rurubyのガベージコレクタとアロケータ](https://qiita.com/sisshiki1969/items/a3de541d3d5b9eec0500)
+    + [Implementing Spinlock for RISC-V OS in Rust](https://vmm.dev/en/rust/spinlock.md)
+    + [LuaのフルスクラッチをRustでやるチュートリアル](https://notes.eatonphil.com/lua-in-rust.html)
+    + [Succinct data structures in Rust](https://github.com/kampersanda/sucds)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)

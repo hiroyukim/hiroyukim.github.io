@@ -497,3 +497,7 @@
     + [システムコールを速く漏れなくフックする方法](https://eng-blog.iij.ad.jp/archives/11169)
     + [動的に機械語を生成するjit x86エミュレータ](https://github.com/NiwakaDev/JIT_X86_EMULATOR)
     + [jq for binary formats](https://github.com/wader/fq)
+    + [Linux eBPFトレーシング技術の概論とツール実装](https://blog.yuuk.io/entry/2021/ebpf-tracing)
+    + [Dockerでファイルをbind mountしたら同期されなかった話](https://zenn.dev/techno_tanoc/articles/449d580e18d2f4)
+    + [Docker のキャッシュを全力で使いこなそう](https://zenn.dev/kou64yama/articles/powerful-docker-build-cache)
+    + [ファイルの編集と置き換えの違い または シェルスクリプトの安全な置き換え](https://mrwk.hateblo.jp/entry/2021/12/30/145427)

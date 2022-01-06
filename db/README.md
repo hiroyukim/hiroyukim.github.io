@@ -198,6 +198,7 @@
     + [データ損失を回避しよう 各DBの機能比較](https://speakerdeck.com/tzkoba/detasun-shi-wohui-bi-siyou-ge-dbfalseji-neng-bi-jiao)
     + [高性能分散SQLエンジン「Trino」最速ガイド](https://engineers.ntt.com/entry/2021/12/22/180853)
     + [pingcap/parser (MySQL互換) で SQL を手軽に解析](https://developers.freee.co.jp/entry/parse-sql-with-pingcapparser)
+    + [OtterTuneのAndy Pavlo氏による2021年のDB業界に関するサマリ](https://ottertune.com/blog/2021-databases-retrospective/)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

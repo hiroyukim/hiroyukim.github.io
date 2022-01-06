@@ -695,6 +695,9 @@
     + [golang(cgo)コンパイラのcopyelim最適化パスについて](https://kazuminkun.hatenablog.com/entry/2021/12/18/232035)
     + [golang(cgo)コンパイラの共通部分式除去について](https://kazuminkun.hatenablog.com/entry/2021/12/18/182833)
     + [Goの正規表現が遅いって言う人がいたから、（速い）正規表現エンジンを作ったよ](https://zenn.dev/yanother/articles/8b5c3a42d36f27)
+    + [Go製アプリケーションのコンテナ化にはkoを推したい](https://ymotongpoo.hatenablog.com/entry/2021/12/22/090000)
+    + [go testの裏側では何をしているのか？Goのtestingパッケージの中身を覗いてみよう！](https://qiita.com/sho-hata/items/31a36016f9a482b8bd86)
+    + [GoでWikipediaの記事を探してfzf風のUIでサクっと絞り込んでブラウザで開けるCLIツール](https://github.com/sheepla/fzwiki)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

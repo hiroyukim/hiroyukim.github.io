@@ -25,3 +25,6 @@
     + [機械学習帳](https://chokkan.github.io/mlnote/)
     + [Python言語による実務で使える100+の最適化問題](https://scmopt.github.io/opt100/)
     + [ハーバード大学のコンピュータサイエンス入門講義](https://cs50.jp/)
+    + [矢谷流論文の読み方](https://iis-lab.org/misc/paperreading/)
+    + [筑波大学が無料公開している機械学習の講義](https://ocw.tsukuba.ac.jp/course/systeminformation/machine_learning/)
+    + [高速で論文がバリバリ読める落合先生のフォーマットがいい感じだったのでメモ](https://lafrenze.hatenablog.com/entry/2015/08/04/120205)
