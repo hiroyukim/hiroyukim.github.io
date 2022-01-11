@@ -476,6 +476,10 @@
     + [Implementing Spinlock for RISC-V OS in Rust](https://vmm.dev/en/rust/spinlock.md)
     + [LuaのフルスクラッチをRustでやるチュートリアル](https://notes.eatonphil.com/lua-in-rust.html)
     + [Succinct data structures in Rust](https://github.com/kampersanda/sucds)
+    + [Rust製ゲームエンジンのBevyを使ってゲームを作る連載](https://dev.to/sbelzile/rust-platformer-part-1-bevy-and-ecs-2pci)
+    + [Gitをpure Rustで書き直すプロジェクトgitoxideの今年の活動の総括](https://github.com/Byron/gitoxide/discussions/285)
+    + [Arc のアトミックな参照カウントが CPU ローカルなキャッシュを無効にしてしまって遅くなるケース](https://pkolaczk.github.io/server-slower-than-a-laptop/)
+    + [Rustでngram言語モデルをいい感じに扱うライブラリ](https://github.com/kampersanda/tongrams-rs)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)

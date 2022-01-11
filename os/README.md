@@ -501,3 +501,4 @@
     + [Dockerでファイルをbind mountしたら同期されなかった話](https://zenn.dev/techno_tanoc/articles/449d580e18d2f4)
     + [Docker のキャッシュを全力で使いこなそう](https://zenn.dev/kou64yama/articles/powerful-docker-build-cache)
     + [ファイルの編集と置き換えの違い または シェルスクリプトの安全な置き換え](https://mrwk.hateblo.jp/entry/2021/12/30/145427)
+    + [高機能なcdコマンド](https://github.com/ajeetdsouza/zoxide)
