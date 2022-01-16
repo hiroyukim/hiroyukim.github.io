@@ -698,6 +698,11 @@
     + [Go製アプリケーションのコンテナ化にはkoを推したい](https://ymotongpoo.hatenablog.com/entry/2021/12/22/090000)
     + [go testの裏側では何をしているのか？Goのtestingパッケージの中身を覗いてみよう！](https://qiita.com/sho-hata/items/31a36016f9a482b8bd86)
     + [GoでWikipediaの記事を探してfzf風のUIでサクっと絞り込んでブラウザで開けるCLIツール](https://github.com/sheepla/fzwiki)
+    + [Go 言語でスライスから要素を消すには](https://zenn.dev/mattn/articles/31dfed3c89956d)
+    + [Goで開発した分散検索エンジンPhalanx](https://github.com/mosuka/phalanx)
+    + [This code tree is based on Golang ported BusTub RDBMS codes: go-bustub.](https://github.com/ryogrid/SamehadaDB)
+    + [How Go handles network and system calls when TCP server](https://dev.to/hgsgtk/how-go-handles-network-and-system-calls-when-tcp-server-1nbd)
+    + [バーストトラフィックをチャネルを使ってどう捌くかという実装例](https://wmnsk.com/posts/20190618_throttling-bursts-in-go/)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

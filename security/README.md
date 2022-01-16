@@ -22,3 +22,4 @@
     + [セキュリティを一切考慮しないMMORPGを開発するとどうなるか](http://akisute.com/2021/11/mmorpg.html)
     + [あなたの「公開鍵暗号」はPKE? それともPKC?](https://blog.cybozu.io/entry/2021/12/28/080000)
     + [コインハイブ事件における弁護活動](https://docs.google.com/document/d/1d67ACvHNmhd-HY6osPFE82AMCQ2RqjpeZ-5Au_mHUhE/edit)
+    + [AWS 環境における暗号通貨採掘悪用に備える](https://blog.serverworks.co.jp/prepare-for-cryptocurrency-mining-abuse-on-aws)

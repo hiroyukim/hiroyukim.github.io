@@ -72,6 +72,8 @@
     + [x87 FPUの呪い](https://qiita.com/mod_poppo/items/9588b6f425ffe4b5c7bf)
     + [Graviton2とGraviton3の解説blog](https://muratbuffalo.blogspot.com/2021/12/graviton2-and-graviton3.html)
     + [分岐予測—あなたが知る必要があるすべて。](https://ichi.pro/bunki-yosoku-anata-ga-shiru-hitsuyo-ga-aru-subete-239778595698814)
+    + [半導体設計について何も知らない素人が1ヶ月で8bitCPUをテープアウトした話](https://yukium.hatenablog.jp/entry/2022/01/05/224858)
+    + [高性能プロセッサ設計の原則](https://link.springer.com/book/10.1007%2F978-3-030-76871-3)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)

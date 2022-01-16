@@ -28,3 +28,5 @@
     + [矢谷流論文の読み方](https://iis-lab.org/misc/paperreading/)
     + [筑波大学が無料公開している機械学習の講義](https://ocw.tsukuba.ac.jp/course/systeminformation/machine_learning/)
     + [高速で論文がバリバリ読める落合先生のフォーマットがいい感じだったのでメモ](https://lafrenze.hatenablog.com/entry/2015/08/04/120205)
+    + [大阪大学の配信講義「計算科学技術特論A/B」](https://www.r-ccs.riken.jp/outreach/schools/tokurona-2021/)
+    + [数学カフェ 確率・統計・機械学習回 「速習 確率・統計」](https://www.slideshare.net/matsukenbook/rev012)

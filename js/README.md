@@ -74,3 +74,5 @@
     + [TypeScriptコンパイラの読み方](https://zenn.dev/qnighy/articles/178016fb0f49c3)
     + [クリエイティブコーディングの教科書](https://zenn.dev/baroqueengine/books/a19140f2d9fc1a)
     + [GraphQL Highway](https://speakerdeck.com/cockscomb/graphql-highway)
+    + [Unhandled Rejection の考え方](https://yosuke-furukawa.hatenablog.com/entry/2022/01/07/113328)
+    + [イミュータブルにデータを扱うライブラリと Stage 2 Record & Tuple](https://zenn.dev/petamoriken/articles/f07f48139d9ba1)

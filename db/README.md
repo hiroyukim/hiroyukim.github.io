@@ -199,6 +199,10 @@
     + [高性能分散SQLエンジン「Trino」最速ガイド](https://engineers.ntt.com/entry/2021/12/22/180853)
     + [pingcap/parser (MySQL互換) で SQL を手軽に解析](https://developers.freee.co.jp/entry/parse-sql-with-pingcapparser)
     + [OtterTuneのAndy Pavlo氏による2021年のDB業界に関するサマリ](https://ottertune.com/blog/2021-databases-retrospective/)
+    + [MVCCを実現するTiDBトランザクションの流れ データの整合性を保つための5つの技術](https://logmi.jp/tech/articles/325794)
+    + [ScyllaDB Blog](https://www.scylladb.com/blog/)
+    + [MySQL SQLオプティマイザのコスト計算アルゴリズム](https://dbstudy.info/files/20120310/mysql_costcalc.pdf)
+    + [第108回　MySQLのコスト見積もりを調整する](https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0108)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

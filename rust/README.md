@@ -480,6 +480,11 @@
     + [Gitをpure Rustで書き直すプロジェクトgitoxideの今年の活動の総括](https://github.com/Byron/gitoxide/discussions/285)
     + [Arc のアトミックな参照カウントが CPU ローカルなキャッシュを無効にしてしまって遅くなるケース](https://pkolaczk.github.io/server-slower-than-a-laptop/)
     + [Rustでngram言語モデルをいい感じに扱うライブラリ](https://github.com/kampersanda/tongrams-rs)
+    + [メモリ安全性と I/O 安全性とパフォーマンスを売りにした新しいシステムコールの wrapper ライブラリ](https://blog.sunfishcode.online/port-std-to-rustix/)
+    + [他言語ユーザがRust言語をガチめに使っての雑感 - 分散KVSを書いてみて -](https://qiita.com/ryo_grid/items/9a82d7230fbc4a0875c1)
+    + [スピンロックをRISC-Vで動くOSに実装する話](https://vmm.dev/en/rust/spinlock.md)
+    + [シェルの事前実行にフックして危ないコマンドを検知するツール](https://github.com/kaplanelad/shellfirm)
+    + [Rust のパフォーマンスに何が影響を与えているのか](https://qiita.com/benki/items/ee14ee6cb9f209a080e1)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)

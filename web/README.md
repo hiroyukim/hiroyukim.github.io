@@ -238,6 +238,9 @@
     + [クラウドサービスにおける ReDoS 対策](https://kazeburo.hatenablog.com/entry/2021/12/24/094914)
     + [分散アプリケーションの依存発見に向いたTCP/UDPソケットに基づく低負荷トレーシング](https://blog.yuuk.io/entry/2021/wsa08)
     + [bash スクリプトの実行中上書き動作について](https://zenn.dev/mattn/articles/5af86b61004bdc)
+    + [git clone 時に秘密鍵を指定する](https://qiita.com/sonots/items/826b90b085f294f93acf)
+    + [Understand your dependencies](https://deps.dev/)
+    + [WebAssemblyのデフォルトで安全で構成可能な未来を構築する](https://bytecodealliance.org/articles/announcing-the-bytecode-alliance)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)
