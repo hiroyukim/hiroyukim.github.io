@@ -76,3 +76,4 @@
     + [GraphQL Highway](https://speakerdeck.com/cockscomb/graphql-highway)
     + [Unhandled Rejection の考え方](https://yosuke-furukawa.hatenablog.com/entry/2022/01/07/113328)
     + [イミュータブルにデータを扱うライブラリと Stage 2 Record & Tuple](https://zenn.dev/petamoriken/articles/f07f48139d9ba1)
+    + [JavaScriptのレガシー挙動を定めたAnnex Bをひたすら読む記事](https://zenn.dev/qnighy/articles/1d96f2c0c662f6)

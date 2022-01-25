@@ -241,6 +241,7 @@
     + [git clone 時に秘密鍵を指定する](https://qiita.com/sonots/items/826b90b085f294f93acf)
     + [Understand your dependencies](https://deps.dev/)
     + [WebAssemblyのデフォルトで安全で構成可能な未来を構築する](https://bytecodealliance.org/articles/announcing-the-bytecode-alliance)
+    + [UI Testing Handbook](https://storybook.js.org/tutorials/ui-testing-handbook/)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

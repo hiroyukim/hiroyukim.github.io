@@ -42,3 +42,4 @@
     + [Mozilla rr を使用したデバッグ](https://pleiades.io/help/go/debugging-with-mozilla-rr.html)
     + [Clion profiler](https://pleiades.io/help/clion/cpu-profiler.html)
     + [VS Codeで小説を書く](https://logmi.jp/tech/articles/325715)
+    + [コミュニティプラグイン全集](https://pouhon.net/obsidian-plugins/7073/)
