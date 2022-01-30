@@ -206,6 +206,8 @@
     + [DBMS 実装で，バッファプール用途で安易に mmap を使ってはいけないという話](https://db.cs.cmu.edu/papers/2022/cidr2022-p13-crotty.pdf)
     + [postgresでlogical replicationを使いつつ、Primaryがフェイルオーバした際の動作について、Patroniを利用することでどう改善するかの解説blog](https://www.percona.com/blog/how-patroni-addresses-the-problem-of-the-logical-replication-slot-failover-in-a-postgresql-cluster/)
     + [The Deadlock Empire](https://deadlockempire.github.io/)
+    + [次世代データベース TiDB の検証とその評価](https://engineering.dena.com/blog/2022/01/infra-meetup-tidb/)
+    + [フットプリントの軽い検索エンジンのQuickwit](https://quickwit.io/blog/quickwit-0.2/)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

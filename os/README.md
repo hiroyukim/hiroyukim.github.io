@@ -509,3 +509,6 @@
     + [TCPコネクションにおけるTIME-WAIT状態とその改善](https://keisukeyamashita.com/blog/2020-11-30/)
     + [TCPのSocket Closeでハマった](https://blog.fujimisakari.com/tcp-socket-close/)
     + [Dockerイメージビルド時の秘密情報の扱い方に関するまとめ](https://terashim.com/posts/docker-build-secret/)
+    + [Linux eBPFトレーシングのツール実装に必要な知識の体系化と動機](https://research.sakura.ad.jp/2022/01/21/linux-ebpf/)
+    + [OpenShift完全解体！〜K8sと比べてどう拡張されてきたか紐解きます〜」](https://speakerdeck.com/orimanabu/openshift-dot-run-2022-makaizo)
+    + [仮想ルータクラスタを自動でローリングアップデートする仕組みの検討と実装](https://engineering.linecorp.com/ja/blog/rollingupdate-vrouter-cluster/)

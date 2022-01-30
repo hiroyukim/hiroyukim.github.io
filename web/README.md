@@ -247,3 +247,5 @@
     + [envoy](https://github.com/envoyproxy/envoy)
     + [Terraformer](https://github.com/GoogleCloudPlatform/terraformer)
     + [OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.](https://github.com/cube2222/octosql)
+    + [バージョン管理システム](https://pijul.org/posts/2022-01-08-beta/)
+    + [Replay.jl と Asciinema で REPL での自動実行と記録をまかなえた.](https://zenn.dev/terasakisatoshi/articles/c87263695fac4f)

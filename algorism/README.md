@@ -255,6 +255,7 @@
     + [人工培養された脳細胞によるゲームプレイの仕組み 〜自由エネルギー原理について〜](https://note.com/masa_kazama/n/n004e8b4e0d52)
     + [SIMD-friendly algorithms for substring searching](http://0x80.pl/articles/simd-strfind.html#algorithm-1-generic-simd)
     + [Data Structures in Dynamic Programming Week](https://codeforces.com/blog/entry/98926)
+    + [dtreeviz : Decision Tree Visualization](https://github.com/parrt/dtreeviz)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

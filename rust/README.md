@@ -487,6 +487,10 @@
     + [Rust のパフォーマンスに何が影響を与えているのか](https://qiita.com/benki/items/ee14ee6cb9f209a080e1)
     + [Using Rustlang’s Async Tokio Runtime for CPU-Bound Tasks](https://thenewstack.io/using-rustlangs-async-tokio-runtime-for-cpu-bound-tasks/)
     + [ぶらり組込みRustライブラリ探索の旅 BBQueue編 -スレッドセーフなSingle Producer Single Consumer Queue-](https://engineering.nature.global/entry/embedded-rust-lib-bbqueue)
+    + [systemdのnotifyサービスを作るのに便利なクレート](https://blog.dend.ro/introducing-sd-notify/)
+    + [Investigating Memory Allocations in Rust](https://ysantos.com/blog/malloc-in-rust)
+    + [Rust大好きっ子のためのデータベース考](https://zenn.dev/kyoheiu/articles/c3b6b6f156e57a)
+    + [A simple, safe HTTP client.](https://github.com/algesten/ureq)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)
