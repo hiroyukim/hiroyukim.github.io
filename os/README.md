@@ -512,3 +512,5 @@
     + [Linux eBPFトレーシングのツール実装に必要な知識の体系化と動機](https://research.sakura.ad.jp/2022/01/21/linux-ebpf/)
     + [OpenShift完全解体！〜K8sと比べてどう拡張されてきたか紐解きます〜」](https://speakerdeck.com/orimanabu/openshift-dot-run-2022-makaizo)
     + [仮想ルータクラスタを自動でローリングアップデートする仕組みの検討と実装](https://engineering.linecorp.com/ja/blog/rollingupdate-vrouter-cluster/)
+    + [Istio が解決する私達の問題](https://engineering.mercari.com/blog/entry/20220210-how-istio-solved-our-problems/)
+    + [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems/)

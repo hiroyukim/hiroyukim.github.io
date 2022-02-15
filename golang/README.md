@@ -703,6 +703,7 @@
     + [This code tree is based on Golang ported BusTub RDBMS codes: go-bustub.](https://github.com/ryogrid/SamehadaDB)
     + [How Go handles network and system calls when TCP server](https://dev.to/hgsgtk/how-go-handles-network-and-system-calls-when-tcp-server-1nbd)
     + [バーストトラフィックをチャネルを使ってどう捌くかという実装例](https://wmnsk.com/posts/20190618_throttling-bursts-in-go/)
+    + [package strconvのintSize = 32 << (∧uint(0) >> 63)は何をしているのか](https://www.cotegg.com/blog/?p=3311)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

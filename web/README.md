@@ -242,6 +242,8 @@
     + [Understand your dependencies](https://deps.dev/)
     + [WebAssemblyのデフォルトで安全で構成可能な未来を構築する](https://bytecodealliance.org/articles/announcing-the-bytecode-alliance)
     + [UI Testing Handbook](https://storybook.js.org/tutorials/ui-testing-handbook/)
+    + [HTML5のLocal Storageを使ってはいけない（翻訳）](https://techracho.bpsinc.jp/hachi8833/2019_10_09/80851)
+    + [おーい磯野ー，Local StorageにJWT保存しようぜ！](https://zenn.dev/musou1500/articles/6bc49fe0f9d7ed7e20cc)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

@@ -208,6 +208,8 @@
     + [The Deadlock Empire](https://deadlockempire.github.io/)
     + [次世代データベース TiDB の検証とその評価](https://engineering.dena.com/blog/2022/01/infra-meetup-tidb/)
     + [フットプリントの軽い検索エンジンのQuickwit](https://quickwit.io/blog/quickwit-0.2/)
+    + [CockroachDBでマルチリージョン・マルチテナントな構成を組み、テナント間の負荷を分離させるやり方について](https://andrewdeally.medium.com/tenant-isolation-with-cockroachdb-85303250ed72)
+    + [MySQL/MariaDB の基本的なデバッグ技法](https://twitter.com/NayutaYanagisaw/status/1492458385014661120)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

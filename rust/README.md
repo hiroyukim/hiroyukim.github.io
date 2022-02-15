@@ -491,6 +491,10 @@
     + [Investigating Memory Allocations in Rust](https://ysantos.com/blog/malloc-in-rust)
     + [Rust大好きっ子のためのデータベース考](https://zenn.dev/kyoheiu/articles/c3b6b6f156e57a)
     + [A simple, safe HTTP client.](https://github.com/algesten/ureq)
+    + [「Rustでやると知らないうちに詰む設計」を避けるためのTipsを集めてみる](https://zenn.dev/qnighy/scraps/93071f7c813cb9)
+    + [「ちょい使い」に便利なIOクレート ezio](https://blog-dry.com/entry/2022/02/11/114624)
+    + [【組込みRust】no_stdで処理時間を計測する](https://www.yu2ta7ka-emdded.com/entry/2022/02/11/084502)
+    + [jless — a command-line JSON viewer](https://github.com/PaulJuliusMartinez/jless)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)

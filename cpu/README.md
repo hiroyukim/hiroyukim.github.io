@@ -74,6 +74,7 @@
     + [分岐予測—あなたが知る必要があるすべて。](https://ichi.pro/bunki-yosoku-anata-ga-shiru-hitsuyo-ga-aru-subete-239778595698814)
     + [半導体設計について何も知らない素人が1ヶ月で8bitCPUをテープアウトした話](https://yukium.hatenablog.jp/entry/2022/01/05/224858)
     + [高性能プロセッサ設計の原則](https://link.springer.com/book/10.1007%2F978-3-030-76871-3)
+    + [累積和の SIMD 実装の話](https://en.algorithmica.org/hpc/algorithms/prefix/)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)
