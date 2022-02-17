@@ -256,6 +256,7 @@
     + [SIMD-friendly algorithms for substring searching](http://0x80.pl/articles/simd-strfind.html#algorithm-1-generic-simd)
     + [Data Structures in Dynamic Programming Week](https://codeforces.com/blog/entry/98926)
     + [dtreeviz : Decision Tree Visualization](https://github.com/parrt/dtreeviz)
+    + [最新のハードウェアのアルゴリズム](https://en.algorithmica.org/hpc/)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)
