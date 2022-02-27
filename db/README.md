@@ -210,6 +210,9 @@
     + [フットプリントの軽い検索エンジンのQuickwit](https://quickwit.io/blog/quickwit-0.2/)
     + [CockroachDBでマルチリージョン・マルチテナントな構成を組み、テナント間の負荷を分離させるやり方について](https://andrewdeally.medium.com/tenant-isolation-with-cockroachdb-85303250ed72)
     + [MySQL/MariaDB の基本的なデバッグ技法](https://twitter.com/NayutaYanagisaw/status/1492458385014661120)
+    + [Apache Flink + TiDB: 分析のためのリアルタイムデータウェアハウスを数秒でスケールアウト](https://pingcap.co.jp/apache-flink-tidb-%e5%88%86%e6%9e%90%e3%81%ae%e3%81%9f%e3%82%81%e3%81%ae%e3%83%aa%e3%82%a2%e3%83%ab%e3%82%bf%e3%82%a4%e3%83%a0%e3%83%87%e3%83%bc%e3%82%bf%e3%82%a6%e3%82%a7%e3%82%a2%e3%83%8f/)
+    + [分析・集計に適したデータベースの最適な物理レイアウトを考える](https://codezine.jp/article/detail/15552)
+    + [MySQL 5.6時代のパフォーマンスチューニング](https://www.slideshare.net/yoyamasaki/20131110-tuning-onmysql56)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

@@ -495,6 +495,11 @@
     + [「ちょい使い」に便利なIOクレート ezio](https://blog-dry.com/entry/2022/02/11/114624)
     + [【組込みRust】no_stdで処理時間を計測する](https://www.yu2ta7ka-emdded.com/entry/2022/02/11/084502)
     + [jless — a command-line JSON viewer](https://github.com/PaulJuliusMartinez/jless)
+    + [RISC-V向けにRustをビルドする方法の紹介](https://danielmangum.com/posts/risc-v-bytes-rust-cross-compilation/)
+    + [An optimization story](https://tinkering.xyz/fmo-optimization-story/)
+    + [非同期Rustでタイムアウトなどの時間に関連するテストをしたいときに使えるモック](https://www.ditto.live/blog/mocking-time-in-async-rust)
+    + [Rust製タスクランナー](https://github.com/jakedeichert/mask/)
+    + [awkベースで型を備えたプログラミング言語](https://github.com/ezrosent/frawk)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)

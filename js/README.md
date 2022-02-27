@@ -78,3 +78,6 @@
     + [イミュータブルにデータを扱うライブラリと Stage 2 Record & Tuple](https://zenn.dev/petamoriken/articles/f07f48139d9ba1)
     + [JavaScriptのレガシー挙動を定めたAnnex Bをひたすら読む記事](https://zenn.dev/qnighy/articles/1d96f2c0c662f6)
     + [clean-code-javascript](https://github.com/mitsuruog/clean-code-javascript)
+    + [正規表現の脆弱性 (ReDoS) を JavaScript で学ぶ](http://nmi.jp/2022-02-18-Understanding-ReDoS)
+    + [今度こそ理解できる！　JavaScriptの参照が完全に分かる記事](https://qiita.com/uhyo/items/da4a764f313a3b795d59)
+    + [JavaScriptの参照レコードとthisバインディング](https://zenn.dev/qnighy/articles/61e2afc6ecd5e1)

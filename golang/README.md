@@ -704,6 +704,9 @@
     + [How Go handles network and system calls when TCP server](https://dev.to/hgsgtk/how-go-handles-network-and-system-calls-when-tcp-server-1nbd)
     + [バーストトラフィックをチャネルを使ってどう捌くかという実装例](https://wmnsk.com/posts/20190618_throttling-bursts-in-go/)
     + [package strconvのintSize = 32 << (∧uint(0) >> 63)は何をしているのか](https://www.cotegg.com/blog/?p=3311)
+    + [Package Management in Go](https://dev.to/cdugga/package-management-in-go-2hjl)
+    + [Go の numpy ぽいやつ](https://github.com/lordlarker/nune-go)
+    + [Gormにおける「仕様通り」なSQLインジェクションの恐れのある実装についての注意喚起](https://tech.andpad.co.jp/entry/2022/02/18/140000)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

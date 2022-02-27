@@ -106,6 +106,8 @@
     + [AddressSanitizer](https://github.com/google/sanitizers/wiki/AddressSanitizer)
     + [LD_PRELOAD で標準ライブラリの関数の挙動を変更する](https://blog.cles.jp/item/11910)
     + [stackfulness of coroutines](https://nymphium.github.io/2019/01/27/stackfulness-of-coroutines.html)
+    + [Fast, fun, omniscient debugging.](https://pernos.co/)
+    + [CMakeの使い方](https://qiita.com/shohirose/items/45fb49c6b429e8b204ac)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

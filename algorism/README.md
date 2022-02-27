@@ -257,6 +257,10 @@
     + [Data Structures in Dynamic Programming Week](https://codeforces.com/blog/entry/98926)
     + [dtreeviz : Decision Tree Visualization](https://github.com/parrt/dtreeviz)
     + [最新のハードウェアのアルゴリズム](https://en.algorithmica.org/hpc/)
+    + [ 正規表現が ReDoS 脆弱になる 3 つの経験則](http://www.rcc.ritsumei.ac.jp/2021/1220_12435/)
+    + [30分でだいたいわかる並列プログラミング](https://www.youtube.com/watch?v=m7r-bdaWdu8)
+        + youtube
+    + [近似最近傍探索の最前線](https://speakerdeck.com/matsui_528/jin-si-zui-jin-bang-tan-suo-falsezui-qian-xian)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

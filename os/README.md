@@ -514,3 +514,7 @@
     + [仮想ルータクラスタを自動でローリングアップデートする仕組みの検討と実装](https://engineering.linecorp.com/ja/blog/rollingupdate-vrouter-cluster/)
     + [Istio が解決する私達の問題](https://engineering.mercari.com/blog/entry/20220210-how-istio-solved-our-problems/)
     + [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems/)
+    + [インターンレポート: RootlessコンテナのTCP/IP高速化](https://medium.com/nttlabs/accelerating-rootless-container-network-29d0e908dda4)
+    + [NVMe ストレージの揮発性内部キャッシュ](https://ymmt.hatenablog.com/entry/2018/02/13/143716)
+    + [あらためて学ぶOSの役割 - 「OSの気持ち」を知り、コンピュータをよりよく理解しよう](https://eh-career.com/engineerhub/entry/2022/02/18/093000)
+    + [oci](https://mylearn.oracle.com/course/developing-cloud-native-applications-on-oci/35644/102393)

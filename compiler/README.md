@@ -65,3 +65,4 @@
     + [100行程度のCで書ける超簡易JITコンパイラ入門](https://github.com/spencertipping/jit-tutorial)
     + [わずか436バイトのLISPインタプリタ SectorLISP](https://justine.lol/sectorlisp2/)
     + [自作言語でLLVM JITによるマクロが動くまで](https://zenn.dev/yubrot/articles/da68aa05cec823)
+    + [LLVMのPassの作り方について学ぶ](https://msyksphinz.hatenablog.com/entry/2021/09/23/040000)
