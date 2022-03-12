@@ -213,6 +213,12 @@
     + [Apache Flink + TiDB: 分析のためのリアルタイムデータウェアハウスを数秒でスケールアウト](https://pingcap.co.jp/apache-flink-tidb-%e5%88%86%e6%9e%90%e3%81%ae%e3%81%9f%e3%82%81%e3%81%ae%e3%83%aa%e3%82%a2%e3%83%ab%e3%82%bf%e3%82%a4%e3%83%a0%e3%83%87%e3%83%bc%e3%82%bf%e3%82%a6%e3%82%a7%e3%82%a2%e3%83%8f/)
     + [分析・集計に適したデータベースの最適な物理レイアウトを考える](https://codezine.jp/article/detail/15552)
     + [MySQL 5.6時代のパフォーマンスチューニング](https://www.slideshare.net/yoyamasaki/20131110-tuning-onmysql56)
+    + [近代的トランザクション処理技法](https://event.dbsj.org/deim2022/post/tutorial/deim2022_tutorial_T3_slides.pdf)
+    + [MariaDBにコミットするまで](https://zenn.dev/fuck/articles/d4a8e8f9a3fd98)
+    + [Docker公式のApple Silicon向けmysqlイメージ](https://hub.docker.com/r/arm64v8/mysql)
+    + [BigQuery MLでスロット使用量が急増しているプロジェクトやユーザーを異常検知する](https://www.yasuhisay.info/entry/2022/03/07/104500)
+    + [不揮発性メモリに最適化したMySQLの高可用性構成](https://techblog.yahoo.co.jp/entry/2022030730269169/)
+    + [MySQL Operator](https://github.com/cybozu-go/moco)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

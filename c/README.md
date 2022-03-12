@@ -108,6 +108,11 @@
     + [stackfulness of coroutines](https://nymphium.github.io/2019/01/27/stackfulness-of-coroutines.html)
     + [Fast, fun, omniscient debugging.](https://pernos.co/)
     + [CMakeの使い方](https://qiita.com/shohirose/items/45fb49c6b429e8b204ac)
+    + [C11の仕様－脆弱性対応に関連する機能強化点](https://www.buildinsider.net/language/clang/02)
+    + [macOS での sprintf と snprintf が遅くて fmtlib に移行したら3倍ほど速くなった話](https://aras-p.info/blog/2022/02/25/Curious-lack-of-sprintf-scaling/)
+    + [BLAS-level CPU Performance in 100 Lines of C](https://cs.stanford.edu/people/shadjis/blas.html)
+    + [ローカル変数アドレス返却とgccの挙動](https://yohhoy.hatenadiary.jp/entry/20160509/p1)
+    + [コンセプトから理解するGitコマンド](https://www.slideshare.net/ktateish/git-concept1)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

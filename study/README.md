@@ -30,3 +30,5 @@
     + [高速で論文がバリバリ読める落合先生のフォーマットがいい感じだったのでメモ](https://lafrenze.hatenablog.com/entry/2015/08/04/120205)
     + [大阪大学の配信講義「計算科学技術特論A/B」](https://www.r-ccs.riken.jp/outreach/schools/tokurona-2021/)
     + [数学カフェ 確率・統計・機械学習回 「速習 確率・統計」](https://www.slideshare.net/matsukenbook/rev012)
+    + [おしえて良書](https://scrapbox.io/goodbooks/%E3%81%8A%E3%81%97%E3%81%88%E3%81%A6%E8%89%AF%E6%9B%B8)
+    + [1年生の数学演習](https://lecture.ecc.u-tokyo.ac.jp/~nkiyono/)

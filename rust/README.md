@@ -500,6 +500,10 @@
     + [非同期Rustでタイムアウトなどの時間に関連するテストをしたいときに使えるモック](https://www.ditto.live/blog/mocking-time-in-async-rust)
     + [Rust製タスクランナー](https://github.com/jakedeichert/mask/)
     + [awkベースで型を備えたプログラミング言語](https://github.com/ezrosent/frawk)
+    + [tokioがアプリケーションや非同期タスクのメトリクスを取れるライブラリtokio-metricsをリリース](https://tokio.rs/blog/2022-02-announcing-tokio-metrics)
+    + [tarui](https://tauri.studio/)
+    + [rust製エディタ](https://github.com/lapce/lapce)
+    + [Rustでゲームボーイエミュレーターを書いた](https://zenn.dev/tanakh/articles/gb-emulator-in-rust)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)

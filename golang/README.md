@@ -707,6 +707,10 @@
     + [Package Management in Go](https://dev.to/cdugga/package-management-in-go-2hjl)
     + [Go の numpy ぽいやつ](https://github.com/lordlarker/nune-go)
     + [Gormにおける「仕様通り」なSQLインジェクションの恐れのある実装についての注意喚起](https://tech.andpad.co.jp/entry/2022/02/18/140000)
+    + [Go言語のジェネリクス入門](https://zenn.dev/nobishii/articles/type_param_intro)
+    + [ゴールーチンリークの2つのパターン](https://betterprogramming.pub/common-goroutine-leaks-that-you-should-avoid-fe12d12d6ee)
+    + [This code tree is based on Golang ported BusTub RDBMS codes](https://github.com/ryogrid/SamehadaDB)
+    + [Synchronization in Go](https://lestrrat.medium.com/synchronization-in-go-but-your-hands-are-tied-6a92839c8f21)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

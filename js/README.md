@@ -81,3 +81,5 @@
     + [正規表現の脆弱性 (ReDoS) を JavaScript で学ぶ](http://nmi.jp/2022-02-18-Understanding-ReDoS)
     + [今度こそ理解できる！　JavaScriptの参照が完全に分かる記事](https://qiita.com/uhyo/items/da4a764f313a3b795d59)
     + [JavaScriptの参照レコードとthisバインディング](https://zenn.dev/qnighy/articles/61e2afc6ecd5e1)
+    + [Production Ready GraphQLはGraphQLを採用するなら必ず読んでおきたい良書](https://zenn.dev/adwd/articles/4b1e38796bd763)
+    + [GraphQLを導入する時に考えておいたほうが良いこと](https://engineering.mercari.com/blog/entry/20220303-concerns-with-using-graphql/)

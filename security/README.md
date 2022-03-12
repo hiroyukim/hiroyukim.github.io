@@ -24,3 +24,6 @@
     + [コインハイブ事件における弁護活動](https://docs.google.com/document/d/1d67ACvHNmhd-HY6osPFE82AMCQ2RqjpeZ-5Au_mHUhE/edit)
     + [AWS 環境における暗号通貨採掘悪用に備える](https://blog.serverworks.co.jp/prepare-for-cryptocurrency-mining-abuse-on-aws)
     + [Kubernetesのセキュリティ対策の第一歩とは？](https://news.mynavi.jp/techplus/article/k8ssecurity-1/)
+    + [TCP Middlebox Reflection と呼ばれる新しいアンプ技術を利用したDDoS攻撃のメカニズム](https://www.akamai.com/blog/security/tcp-middlebox-reflection)
+    + [セキュリティエンジニアが本気でオススメする開発者向けコンテンツ 20選](https://blog.flatt.tech/entry/contents_recommendation_for_developers)
+    + [XSSの脅威を考察する](https://techblog.securesky-tech.com/entry/20220308/)

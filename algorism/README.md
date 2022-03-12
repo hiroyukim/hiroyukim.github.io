@@ -261,6 +261,9 @@
     + [30分でだいたいわかる並列プログラミング](https://www.youtube.com/watch?v=m7r-bdaWdu8)
         + youtube
     + [近似最近傍探索の最前線](https://speakerdeck.com/matsui_528/jin-si-zui-jin-bang-tan-suo-falsezui-qian-xian)
+    + [マルコフ連鎖モンテカルロ法の気持ち](https://speakerdeck.com/kaityo256/markov-chain-monte-carlo)
+    + [k-d tree のお手軽実装について](https://trap.jp/post/1489/)
+    + [人工知能と公平性](https://www.ai-gakkai.or.jp/resource/my-bookmark/my-bookmark_vol37-no2/)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)
