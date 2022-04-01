@@ -524,3 +524,4 @@
     + [分散システムの課題](https://aws.amazon.com/jp/builders-library/challenges-with-distributed-systems/?sc_channel=sm&sc_campaign=Amazon_Builders_Library&sc_publisher=TWITTER&sc_country=Japan&sc_geo=JAPAN&sc_outcome=awareness&sc_content=challenges-with-distributed-systems&trk=challenges-with-distributed-systems)
     + [Merbridge - Accelerate your mesh with eBPF](https://istio.io/latest/blog/2022/merbridge/)
     + [コンテナセキュリティにおける権限制御](https://speakerdeck.com/mochizuki875/container-seccomp)
+    + [Dirty Pipe（CVE-2022-0847）の発見経緯が面白かった](https://knqyf263.hatenablog.com/entry/2022/03/29/050815)

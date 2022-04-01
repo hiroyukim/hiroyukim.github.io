@@ -219,6 +219,9 @@
     + [BigQuery MLでスロット使用量が急増しているプロジェクトやユーザーを異常検知する](https://www.yasuhisay.info/entry/2022/03/07/104500)
     + [不揮発性メモリに最適化したMySQLの高可用性構成](https://techblog.yahoo.co.jp/entry/2022030730269169/)
     + [MySQL Operator](https://github.com/cybozu-go/moco)
+    + [非公式MySQL 8.0オプティマイザガイド](https://yakst.github.io/unofficialmysqlguide-ja/#disqus_thread)
+    + [Benchmarking read/write speed on Amazon Aurora, classic RDS and local disk](https://medium.datadriveninvestor.com/benchmarking-read-write-speed-on-amazon-aurora-classic-rds-and-local-disk-29500d9210da)
+    + [Sysbench でカスタム負荷試験を書く](https://developers.freee.co.jp/entry/writing-sysbench-custom-test)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

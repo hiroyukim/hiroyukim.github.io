@@ -38,6 +38,8 @@
     + [ Bash上でディレクトリのブックマークができる](https://github.com/huyng/bashmarks)
     + [Tokei](https://github.com/XAMPPRocky/tokei)
     + [xdg-open : Linux の GUI で Mac の open コマンドっぽいヤツ](https://neos21.net/blog/2020/04/19-03.html)
++ convert
+    + [jc](https://github.com/kellyjonbrazil/jc)
 + dba
     + [Triton - A DBA Framework](https://triton.quarkslab.com/)
 + name

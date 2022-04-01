@@ -12,3 +12,4 @@
     + [TUI横スクロールシューティングゲーム](https://github.com/vaniacer/piu-piu-SH)
     + [Unity uGUI アドバンスド・リファレンス](http://www.gamecast-blog.com/archives/65984837.html)
     + [ファミコンをトランジスタレベルでエミュレーションするエミュレータ](https://github.com/iaddis/metalnes)
+    + [発売22周年を迎えたPlayStation®2の誕生秘話](https://www.sie.com/jp/blog/2022/03/28/playstation2-22nd-anniversary/)

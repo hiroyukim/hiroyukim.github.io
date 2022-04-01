@@ -264,6 +264,9 @@
     + [マルコフ連鎖モンテカルロ法の気持ち](https://speakerdeck.com/kaityo256/markov-chain-monte-carlo)
     + [k-d tree のお手軽実装について](https://trap.jp/post/1489/)
     + [人工知能と公平性](https://www.ai-gakkai.or.jp/resource/my-bookmark/my-bookmark_vol37-no2/)
+    + [高難易度木問題を解くテクニック集](https://speakerdeck.com/tatyam_prime/gao-nan-yi-du-mu-wen-ti-wojie-kutekunitukuji)
+    + [ヒューリスティック最適化資料集](https://heuristic-ja.growi.cloud/%E3%83%AA%E3%83%B3%E3%82%AF%E9%9B%86)
+    + [マージテクと高さ O(logn) のマージ過程との融合](https://www.mathenachia.blog/mergetech-and-logn/)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)
