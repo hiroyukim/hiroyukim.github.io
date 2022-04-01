@@ -506,6 +506,7 @@
     + [Rustでゲームボーイエミュレーターを書いた](https://zenn.dev/tanakh/articles/gb-emulator-in-rust)
     + [Rustでも継続的プロファイリングしよう！](https://medium.com/nttlabs/rust-continuous-profiling-2a770ad544c7)
     + [Debugger](https://pernos.co/)
+    + [GDB breakpoint like python's breakpoint](https://github.com/fx-kirin/rust_gdb_breakpoint)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)
