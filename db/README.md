@@ -222,6 +222,10 @@
     + [非公式MySQL 8.0オプティマイザガイド](https://yakst.github.io/unofficialmysqlguide-ja/#disqus_thread)
     + [Benchmarking read/write speed on Amazon Aurora, classic RDS and local disk](https://medium.datadriveninvestor.com/benchmarking-read-write-speed-on-amazon-aurora-classic-rds-and-local-disk-29500d9210da)
     + [Sysbench でカスタム負荷試験を書く](https://developers.freee.co.jp/entry/writing-sysbench-custom-test)
+    + [Orcale Database管理](https://xn--w8j8bac3czf5bl7e.com/category/oracle-database-%e7%ae%a1%e7%90%86/)
+    + [NewSQLのコンポーネント詳解](https://qiita.com/tzkoba/items/3e875e5a6ccd99af332f)
+    + [The evolution of DBMS popularity in the DB-Engines Ranking, 2013-2022](https://db-engines.com/en/blog_post/96)
+    + [MySQL 8.0 入門 ～インストール編 for Windows～](https://go.oracle.com/LP=117168?elqCampaignId=320270)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

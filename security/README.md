@@ -27,3 +27,6 @@
     + [TCP Middlebox Reflection と呼ばれる新しいアンプ技術を利用したDDoS攻撃のメカニズム](https://www.akamai.com/blog/security/tcp-middlebox-reflection)
     + [セキュリティエンジニアが本気でオススメする開発者向けコンテンツ 20選](https://blog.flatt.tech/entry/contents_recommendation_for_developers)
     + [XSSの脅威を考察する](https://techblog.securesky-tech.com/entry/20220308/)
+    + [Anti-UPX Unpackingテクニック](https://blogs.jpcert.or.jp/ja/2022/03/anti_upx_unpack.html)
+    + [【CVE-2022-0778】OpenSSLの無限ループの脆弱性の原因解説！](https://zenn.dev/kurenaif/articles/ec2eec4ec7ec52)
+    + [RSAに対するフェルマー攻撃](https://qiita.com/tnakagawa/items/d87fd8459ec9e1ce6844)

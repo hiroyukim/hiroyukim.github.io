@@ -267,6 +267,8 @@
     + [高難易度木問題を解くテクニック集](https://speakerdeck.com/tatyam_prime/gao-nan-yi-du-mu-wen-ti-wojie-kutekunitukuji)
     + [ヒューリスティック最適化資料集](https://heuristic-ja.growi.cloud/%E3%83%AA%E3%83%B3%E3%82%AF%E9%9B%86)
     + [マージテクと高さ O(logn) のマージ過程との融合](https://www.mathenachia.blog/mergetech-and-logn/)
+    + [zer0pts CTF OK writeup](https://qiita.com/kusano_k/items/ac8d6ee61dca023fe5ac)
+    + [数理最適化ことはじめ](https://speakerdeck.com/e869120/introduction-to-mathematical-optimization-5cdef842-50f6-4e46-ab2d-549cf85c1b81)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

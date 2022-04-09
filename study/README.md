@@ -32,3 +32,6 @@
     + [数学カフェ 確率・統計・機械学習回 「速習 確率・統計」](https://www.slideshare.net/matsukenbook/rev012)
     + [おしえて良書](https://scrapbox.io/goodbooks/%E3%81%8A%E3%81%97%E3%81%88%E3%81%A6%E8%89%AF%E6%9B%B8)
     + [1年生の数学演習](https://lecture.ecc.u-tokyo.ac.jp/~nkiyono/)
+    + [わかりやすい説明をすると「結論を理解する労力」が「その結論を導き出した労力」と誤解されるときがある](https://note.com/4bata/n/n0a44276a0ef1)
+    + [配信講義　計算科学技術特論B](https://www.r-ccs.riken.jp/outreach/schools/20220407-1/)
+        + 下の資料が凄い

@@ -83,3 +83,4 @@
     + [JavaScriptの参照レコードとthisバインディング](https://zenn.dev/qnighy/articles/61e2afc6ecd5e1)
     + [Production Ready GraphQLはGraphQLを採用するなら必ず読んでおきたい良書](https://zenn.dev/adwd/articles/4b1e38796bd763)
     + [GraphQLを導入する時に考えておいたほうが良いこと](https://engineering.mercari.com/blog/entry/20220303-concerns-with-using-graphql/)
+    + [JavaScriptの進化で変わる身近なコーディング習慣](https://speakerdeck.com/line_developers/how-your-familiar-javascript-coding-techniques-will-change-in-the-near-future)

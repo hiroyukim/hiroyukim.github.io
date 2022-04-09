@@ -76,6 +76,7 @@
     + [高性能プロセッサ設計の原則](https://link.springer.com/book/10.1007%2F978-3-030-76871-3)
     + [累積和の SIMD 実装の話](https://en.algorithmica.org/hpc/algorithms/prefix/)
     + [非同期設計の考え方](https://elchika.com/article/3cd2c3fd-90da-4c12-b3d1-45924877b5ab/)
+    + [なぜJTAGはCPUデバッグにも使えるのか？](https://logmi.jp/tech/articles/326186)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)

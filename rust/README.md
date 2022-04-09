@@ -507,6 +507,8 @@
     + [Rustでも継続的プロファイリングしよう！](https://medium.com/nttlabs/rust-continuous-profiling-2a770ad544c7)
     + [Debugger](https://pernos.co/)
     + [GDB breakpoint like python's breakpoint](https://github.com/fx-kirin/rust_gdb_breakpoint)
+    + [What happens when an Arc is cloned?](https://stackoverflow.com/questions/40984932/what-happens-when-an-arc-is-cloned)
+    + [Rustの std::sync::RwLock はLinuxでwriter starvation問題を起こす](https://laysakura.github.io/2022/03/30/rust-RwLock-writer-starvation/)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)

@@ -525,3 +525,7 @@
     + [Merbridge - Accelerate your mesh with eBPF](https://istio.io/latest/blog/2022/merbridge/)
     + [コンテナセキュリティにおける権限制御](https://speakerdeck.com/mochizuki875/container-seccomp)
     + [Dirty Pipe（CVE-2022-0847）の発見経緯が面白かった](https://knqyf263.hatenablog.com/entry/2022/03/29/050815)
+    + [Utilizing LLVM LTO for Swift](https://speakerdeck.com/kateinoigakukun/utilizing-llvm-lto-for-swift)
+    + [任意の Mac Application に GraphQL でアクセスできるようにした](https://zenn.dev/potsbo/articles/ebf771fa4f6569)
+    + [perf Examples](https://www.brendangregg.com/perf.html)
+    + [Kubernetes基盤における運用フローのController化と継続的な改善](https://speakerdeck.com/masayaaoyama/kubernetes-controller-improvements)

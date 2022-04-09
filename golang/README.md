@@ -711,6 +711,10 @@
     + [ゴールーチンリークの2つのパターン](https://betterprogramming.pub/common-goroutine-leaks-that-you-should-avoid-fe12d12d6ee)
     + [This code tree is based on Golang ported BusTub RDBMS codes](https://github.com/ryogrid/SamehadaDB)
     + [Synchronization in Go](https://lestrrat.medium.com/synchronization-in-go-but-your-hands-are-tied-6a92839c8f21)
+    + [golangで書いたアプリケーションのstatic link化](https://okzk.hatenablog.com/entry/2016/08/03/234738)
+    + [手を動かして学ぶ Go1.18の新機能](https://docs.google.com/presentation/d/1uyslEAHd6qLOn7Q9BqjMl3lB6UQ9vLyR2FYORXso0Iw/edit#slide=id.p)
+    + [GoのGenericsで差分アルゴリズムを実装してみた](https://zenn.dev/cubicdaiya/articles/0fa9c15e9cd295)
+    + [golangで作るTCPIPプロトコル](https://zenn.dev/satoken/articles/golang-tcpip)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack
