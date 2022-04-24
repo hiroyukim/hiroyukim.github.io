@@ -269,6 +269,9 @@
     + [マージテクと高さ O(logn) のマージ過程との融合](https://www.mathenachia.blog/mergetech-and-logn/)
     + [zer0pts CTF OK writeup](https://qiita.com/kusano_k/items/ac8d6ee61dca023fe5ac)
     + [数理最適化ことはじめ](https://speakerdeck.com/e869120/introduction-to-mathematical-optimization-5cdef842-50f6-4e46-ab2d-549cf85c1b81)
+    + [Modern B-Tree Techniques](https://www.nowpublishers.com/article/Details/DBS-028)
+    + [機械学習システム デザインパターン](https://mercari.github.io/ml-system-design-pattern/README_ja.html)
+    + [学習・研究用テキスト(最適化,線形計画法,内点法,数理計画法)](http://www.me.titech.ac.jp/~mizu_lab/text.html)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

@@ -715,6 +715,13 @@
     + [手を動かして学ぶ Go1.18の新機能](https://docs.google.com/presentation/d/1uyslEAHd6qLOn7Q9BqjMl3lB6UQ9vLyR2FYORXso0Iw/edit#slide=id.p)
     + [GoのGenericsで差分アルゴリズムを実装してみた](https://zenn.dev/cubicdaiya/articles/0fa9c15e9cd295)
     + [golangで作るTCPIPプロトコル](https://zenn.dev/satoken/articles/golang-tcpip)
+    + [GoのGC (garbage collector)について理解する](https://speakerdeck.com/uji/gofalsegc-garbage-collector-nituiteli-jie-suru)
+    + [database/sqlの仕組みについて](https://docs.google.com/presentation/d/11jdcnZUm8pYfv6RijlvWEz8ZgK2tMfloIJyLAo-cMnI/edit#slide=id.p)
+    + [Simple pubsub framework for Go.](https://github.com/lestrrat-go/pubsub)
+    + [go build せずにバイナリをつくって linkname を理解する](https://convto.hatenablog.com/entry/2022/04/23/024436)
+    + [goroutineの仕組みについて](https://speakerdeck.com/sivchari/goroutinefalseshi-zu-minituite)
+    + [Collection of high performance, thread-safe, lock-free go data structures](https://github.com/line/garr)
+    + [JSON-to-Go](https://mholt.github.io/json-to-go/)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

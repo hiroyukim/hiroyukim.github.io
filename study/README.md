@@ -35,3 +35,5 @@
     + [わかりやすい説明をすると「結論を理解する労力」が「その結論を導き出した労力」と誤解されるときがある](https://note.com/4bata/n/n0a44276a0ef1)
     + [配信講義　計算科学技術特論B](https://www.r-ccs.riken.jp/outreach/schools/20220407-1/)
         + 下の資料が凄い
+    + [3Dモデルを使った漫画背景の作り方](https://twitter.com/VillaFana_abcde/status/1513863686502612997)
+    + [Audio機能の基礎と実装テクニック](https://learning.unity3d.jp/759/)

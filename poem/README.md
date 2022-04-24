@@ -66,3 +66,4 @@
     + [プログラミングというより物事が出来るようになる思考法](https://note.com/simplearchitect/n/n388201603a28)
     + [Our Software Dependency Problem](https://research.swtch.com/deps)
     + [絵を添削してもらった](https://kivantium.hateblo.jp/entry/2022/01/07/150242)
+    + [Markdownエディタを作って月15万円稼ぐまでにやったこと — Inkdrop](https://blog.craftz.dog/how-i-built-a-markdown-editor-earning-1300-mo-profit-inkdrop-c6691eca7091)

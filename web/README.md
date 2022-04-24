@@ -249,6 +249,8 @@
     + [Replay.jl と Asciinema で REPL での自動実行と記録をまかなえた.](https://zenn.dev/terasakisatoshi/articles/c87263695fac4f)
     + [A/Bテスト概論](https://speakerdeck.com/recruitengineers/introduction-of-abtesting)
     + [Firebaseのオープンソース代替](https://github.com/appwrite/appwrite)
+    + [メルペイDataPlatformのCDC DataPipeline](https://engineering.mercari.com/blog/entry/20220420-5d89f9d9c7/)
+    + [Firebase Authentication 7つの落とし穴 - 脆弱性を生むIDaaSの不適切な利用](https://blog.flatt.tech/entry/firebase_authentication_security)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

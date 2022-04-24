@@ -226,6 +226,8 @@
     + [NewSQLのコンポーネント詳解](https://qiita.com/tzkoba/items/3e875e5a6ccd99af332f)
     + [The evolution of DBMS popularity in the DB-Engines Ranking, 2013-2022](https://db-engines.com/en/blog_post/96)
     + [MySQL 8.0 入門 ～インストール編 for Windows～](https://go.oracle.com/LP=117168?elqCampaignId=320270)
+    + [Readings in Database Systems, 5th Edition](http://www.redbook.io/)
+    + [The BusTub Relational Database Management System](https://github.com/cmu-db/bustub)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

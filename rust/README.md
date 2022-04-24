@@ -509,6 +509,8 @@
     + [GDB breakpoint like python's breakpoint](https://github.com/fx-kirin/rust_gdb_breakpoint)
     + [What happens when an Arc is cloned?](https://stackoverflow.com/questions/40984932/what-happens-when-an-arc-is-cloned)
     + [Rustの std::sync::RwLock はLinuxでwriter starvation問題を起こす](https://laysakura.github.io/2022/03/30/rust-RwLock-writer-starvation/)
+    + [Rustの教材のリンク集](https://apollolabsblog.hashnode.dev/35-rust-learning-resources-every-beginner-should-know-in-2022)
+    + [Redox は Rustで書かれたUNIXライクなオペレーティングシステム](https://www.redox-os.org/jp/)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)
