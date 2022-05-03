@@ -251,8 +251,12 @@
     + [Firebaseのオープンソース代替](https://github.com/appwrite/appwrite)
     + [メルペイDataPlatformのCDC DataPipeline](https://engineering.mercari.com/blog/entry/20220420-5d89f9d9c7/)
     + [Firebase Authentication 7つの落とし穴 - 脆弱性を生むIDaaSの不適切な利用](https://blog.flatt.tech/entry/firebase_authentication_security)
+    + [Chromium のアーキテクチャを解き明かす](https://docs.google.com/presentation/d/12wd3hLkXVny0b5LnzizmH_3xe8zJ2WY5_9JprfIkp-o/edit#slide=id.g82989a6582_1_134)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)
     + [Terraformer](https://github.com/GoogleCloudPlatform/terraformer)
     + [OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.](https://github.com/cube2222/octosql)
+    + [Git の仕組み (1)](https://koseki.hatenablog.com/entry/2014/04/22/inside-git-1)
+    + [ISO 8601: Date and Time API の基礎知識](https://zenn.dev/khasunuma/articles/introduction-to-iso8601)
+    + [NFT, Web3完全に理解した　になるためのチュートリアル](https://note.com/djrio/n/n9385c61aa402)

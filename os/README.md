@@ -535,3 +535,6 @@
     + [プログラムがメモリをどう使うかを理解する(1)](https://zenn.dev/rita0222/articles/e6ff75245d79b5)
     + [クラウドのノイジーネイバー問題を解決する動的スケジューラー](https://tech.pepabo.com/2022/04/18/instance-migrator/)
     + [Docker composeのコンテナ、ボリューム、依存などの関係を図示してくれるツール](https://github.com/pmsipilot/docker-compose-viz)
+    + [Zero Copy I: User-Mode Perspective](https://www.linuxjournal.com/article/6345)
+    + [インタビューの質問：Linuxのゼロコピー技術を理解する方法は？](https://www.codetd.com/ja/article/12382376)
+    + [QEMUで動くLinuxをGDBで観察する](https://blog.masu-mi.me/post/2020/12/10/observe-linux-over-qemu-with-gdb/)

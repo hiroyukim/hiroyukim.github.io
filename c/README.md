@@ -113,6 +113,8 @@
     + [BLAS-level CPU Performance in 100 Lines of C](https://cs.stanford.edu/people/shadjis/blas.html)
     + [ローカル変数アドレス返却とgccの挙動](https://yohhoy.hatenadiary.jp/entry/20160509/p1)
     + [コンセプトから理解するGitコマンド](https://www.slideshare.net/ktateish/git-concept1)
+    + [ESP-IDF v4.4でまたもやヒープ残量が4KBも減った問題の調査](https://engineering.nature.global/entry/esp-idf-v4.4-hli-vectors)
+    + [C言語でメモリ管理を考えた話](https://speakerdeck.com/hkawai/cyan-yu-dememoriguan-li-wokao-etahua)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

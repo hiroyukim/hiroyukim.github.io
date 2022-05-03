@@ -272,6 +272,7 @@
     + [Modern B-Tree Techniques](https://www.nowpublishers.com/article/Details/DBS-028)
     + [機械学習システム デザインパターン](https://mercari.github.io/ml-system-design-pattern/README_ja.html)
     + [学習・研究用テキスト(最適化,線形計画法,内点法,数理計画法)](http://www.me.titech.ac.jp/~mizu_lab/text.html)
+    + [遅延セグ木を思いつく流れを追う用の記事](https://rsk0315.hatenablog.com/entry/2022/05/02/205504)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

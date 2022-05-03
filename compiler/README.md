@@ -66,3 +66,4 @@
     + [わずか436バイトのLISPインタプリタ SectorLISP](https://justine.lol/sectorlisp2/)
     + [自作言語でLLVM JITによるマクロが動くまで](https://zenn.dev/yubrot/articles/da68aa05cec823)
     + [LLVMのPassの作り方について学ぶ](https://msyksphinz.hatenablog.com/entry/2021/09/23/040000)
+    + [アセンブラすらも存在しない状態から始めて最終的にGCCまで手作業で到達するというプロジェクト](https://github.com/oriansj/stage0)

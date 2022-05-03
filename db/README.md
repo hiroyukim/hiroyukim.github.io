@@ -228,6 +228,10 @@
     + [MySQL 8.0 入門 ～インストール編 for Windows～](https://go.oracle.com/LP=117168?elqCampaignId=320270)
     + [Readings in Database Systems, 5th Edition](http://www.redbook.io/)
     + [The BusTub Relational Database Management System](https://github.com/cmu-db/bustub)
+    + [YDB is an open-source Distributed SQL Database](https://ydb.tech/)
+    + [How To Corrupt An SQLite Database File](https://sqlite.org/howtocorrupt.html)
+    + [MySQL 8.0入門シリーズのセミナー資料](https://www.mysql.com/jp/news-and-events/seminar/downloads.html)
+    + [InnoDBのmini transaction](https://vimeo.com/258533150)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

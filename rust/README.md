@@ -511,6 +511,13 @@
     + [Rustの std::sync::RwLock はLinuxでwriter starvation問題を起こす](https://laysakura.github.io/2022/03/30/rust-RwLock-writer-starvation/)
     + [Rustの教材のリンク集](https://apollolabsblog.hashnode.dev/35-rust-learning-resources-every-beginner-should-know-in-2022)
     + [Redox は Rustで書かれたUNIXライクなオペレーティングシステム](https://www.redox-os.org/jp/)
+    + [Rust のエラーハンドリングはシンタックスシュガーが豊富で完全に初見殺しなので自信を持って使えるように整理してみたら完全に理解した](https://qiita.com/nirasan/items/321e7cc42e0e0f238254)
+    + [YJIT　コードリーディング](https://docs.google.com/presentation/d/1Sl686wyZGXyVpVnKicOVR7LGHknH0F08C8YTR3BFJ1M/edit#slide=id.g1259dd13df4_0_20)
+    + [Chrono: Date and Time for Rust](https://github.com/chronotope/chrono)
+    + [Lua風DSLを備えるシェルスクリプト言語](https://hush-shell.github.io/)
+    + [A simple, portable, high-performance, ACID, embedded key-value store.](https://github.com/cberner/redb)
+    + [Jin is a small relational database engine written in Rust with the standard library and no external dependencies.](https://github.com/shoyo/jindb)
+    + [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)

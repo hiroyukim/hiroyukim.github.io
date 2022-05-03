@@ -85,3 +85,4 @@
     + [GraphQLを導入する時に考えておいたほうが良いこと](https://engineering.mercari.com/blog/entry/20220303-concerns-with-using-graphql/)
     + [JavaScriptの進化で変わる身近なコーディング習慣](https://speakerdeck.com/line_developers/how-your-familiar-javascript-coding-techniques-will-change-in-the-near-future)
     + [イベントループと TypeScript の型から理解する非同期処理](https://zenn.dev/mizchi/articles/understanding-promise-by-ts-eventloop)
+    + [JerryScript: JavaScript engine for the Internet of Things](https://github.com/jerryscript-project/jerryscript)
