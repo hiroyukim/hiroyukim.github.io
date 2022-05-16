@@ -37,3 +37,8 @@
         + 下の資料が凄い
     + [3Dモデルを使った漫画背景の作り方](https://twitter.com/VillaFana_abcde/status/1513863686502612997)
     + [Audio機能の基礎と実装テクニック](https://learning.unity3d.jp/759/)
+    + [2000時間の遠回り英語学習を経てたどり着いた、1日30分でネイティブの会話が聞き取れるようになる練習法](https://anond.hatelabo.jp/20220502190016)
+    + [幾何代数、クリフォード代数って何だ？](https://m-hiyama.hatenablog.com/entry/2022/05/04/122327)
+    + [数学書の読み方：定義・定理となかまたち](https://note.com/ron1827/n/ncac99ac88789)
+    + [英語に少しでも苦手意識がある人のための、英語関連神ツール9選](https://twitter.com/jujulife7/status/1522756516587393024)
+    + [偏微分方程式：講義ノート](https://www.math.kyoto-u.ac.jp/~karel/files/notes_pde_2015.pdf)

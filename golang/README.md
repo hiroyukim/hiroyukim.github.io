@@ -723,6 +723,7 @@
     + [Collection of high performance, thread-safe, lock-free go data structures](https://github.com/line/garr)
     + [JSON-to-Go](https://mholt.github.io/json-to-go/)
     + [GoのS3 ダウンロード処理で知っておくと良いこと - バックエンドパフォーマンス改善](https://zenn.dev/ichigo_dev/articles/2ff2ae3ce02e2a5f15da)
+    + [[Go] base64の４つのエンコード方式の違いを整理する](https://zenn.dev/senk/articles/674e720b6a8700)
 + Sample
     + [netstack](https://github.com/google/netstack)
         + IPv4 and IPv6 userland network stack

@@ -252,6 +252,9 @@
     + [メルペイDataPlatformのCDC DataPipeline](https://engineering.mercari.com/blog/entry/20220420-5d89f9d9c7/)
     + [Firebase Authentication 7つの落とし穴 - 脆弱性を生むIDaaSの不適切な利用](https://blog.flatt.tech/entry/firebase_authentication_security)
     + [Chromium のアーキテクチャを解き明かす](https://docs.google.com/presentation/d/12wd3hLkXVny0b5LnzizmH_3xe8zJ2WY5_9JprfIkp-o/edit#slide=id.g82989a6582_1_134)
+    + [オブジェクト指向言語の言語機能をうまく活かした設計・実装について](https://speakerdeck.com/skmetz/polly-want-a-message-deconstructconf)
+    + [人気順検索のSolrはスケールのためにディスクを捨てた](https://techlife.cookpad.com/entry/2020/11/25/080000)
+    + [ソースコードのドキュメンテーションや解析ができるツール](https://www.sokrates.dev/)
 + Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)

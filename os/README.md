@@ -538,3 +538,5 @@
     + [Zero Copy I: User-Mode Perspective](https://www.linuxjournal.com/article/6345)
     + [インタビューの質問：Linuxのゼロコピー技術を理解する方法は？](https://www.codetd.com/ja/article/12382376)
     + [QEMUで動くLinuxをGDBで観察する](https://blog.masu-mi.me/post/2020/12/10/observe-linux-over-qemu-with-gdb/)
+    + [アセンブラすらも存在しない状態から始めて最終的にGCCまで手作業で到達するというプロジェクト](https://github.com/oriansj/stage0)
+    + [完全アセンブラで書かれた64ビット実時間OS](https://www.menuetos.net/)

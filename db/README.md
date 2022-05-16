@@ -232,6 +232,7 @@
     + [How To Corrupt An SQLite Database File](https://sqlite.org/howtocorrupt.html)
     + [MySQL 8.0入門シリーズのセミナー資料](https://www.mysql.com/jp/news-and-events/seminar/downloads.html)
     + [InnoDBのmini transaction](https://vimeo.com/258533150)
+    + [CMU の Andy Pavlo先生の講義『DATABASE SYSTEMS』のマテリアルをまとめた](https://github.com/ryogrid/CMU_lecture_DATABASE_SYSTEMS_materials)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

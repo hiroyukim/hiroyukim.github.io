@@ -43,3 +43,4 @@
     + [Clion profiler](https://pleiades.io/help/clion/cpu-profiler.html)
     + [VS Codeで小説を書く](https://logmi.jp/tech/articles/325715)
     + [コミュニティプラグイン全集](https://pouhon.net/obsidian-plugins/7073/)
+    + [The 10x Debugger For your IntelliJ](https://www.bug.video/)

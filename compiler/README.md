@@ -67,3 +67,4 @@
     + [自作言語でLLVM JITによるマクロが動くまで](https://zenn.dev/yubrot/articles/da68aa05cec823)
     + [LLVMのPassの作り方について学ぶ](https://msyksphinz.hatenablog.com/entry/2021/09/23/040000)
     + [アセンブラすらも存在しない状態から始めて最終的にGCCまで手作業で到達するというプロジェクト](https://github.com/oriansj/stage0)
+    + [Graydon HoareのCompiler講義資料が面白かった話](https://zehnpaard.hatenablog.com/entry/2022/05/03/085842)

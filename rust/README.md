@@ -518,6 +518,7 @@
     + [A simple, portable, high-performance, ACID, embedded key-value store.](https://github.com/cberner/redb)
     + [Jin is a small relational database engine written in Rust with the standard library and no external dependencies.](https://github.com/shoyo/jindb)
     + [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
+    + [Deref Patterns Project Group](https://github.com/rust-lang/project-deref-patterns)
 + book
     + [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
     + [Rustで作るフルスクラッチQEMU型エミュレータ](https://speakerdeck.com/msyksphinz/rustdezuo-ruhurusukuratutiqemuxing-emiyureta)

@@ -115,6 +115,7 @@
     + [コンセプトから理解するGitコマンド](https://www.slideshare.net/ktateish/git-concept1)
     + [ESP-IDF v4.4でまたもやヒープ残量が4KBも減った問題の調査](https://engineering.nature.global/entry/esp-idf-v4.4-hli-vectors)
     + [C言語でメモリ管理を考えた話](https://speakerdeck.com/hkawai/cyan-yu-dememoriguan-li-wokao-etahua)
+    + [バッファオーバーフローってどんな攻撃？ C言語で見てみよう【伏石ちゃんは意図に反したい】](https://codezine.jp/article/detail/15842)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)
