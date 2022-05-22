@@ -30,3 +30,4 @@
     + [Anti-UPX Unpackingテクニック](https://blogs.jpcert.or.jp/ja/2022/03/anti_upx_unpack.html)
     + [【CVE-2022-0778】OpenSSLの無限ループの脆弱性の原因解説！](https://zenn.dev/kurenaif/articles/ec2eec4ec7ec52)
     + [RSAに対するフェルマー攻撃](https://qiita.com/tnakagawa/items/d87fd8459ec9e1ce6844)
+    + [DNSリバインディング(DNS Rebinding)対策総まとめ](https://blog.tokumaru.org/2022/05/dns-rebinding-protection.html)

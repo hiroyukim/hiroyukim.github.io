@@ -86,3 +86,4 @@
     + [JavaScriptの進化で変わる身近なコーディング習慣](https://speakerdeck.com/line_developers/how-your-familiar-javascript-coding-techniques-will-change-in-the-near-future)
     + [イベントループと TypeScript の型から理解する非同期処理](https://zenn.dev/mizchi/articles/understanding-promise-by-ts-eventloop)
     + [JerryScript: JavaScript engine for the Internet of Things](https://github.com/jerryscript-project/jerryscript)
+    + [JavaScriptでRAII (for-ofを使って)](https://zenn.dev/qnighy/articles/4c667de8dea5fc)

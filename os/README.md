@@ -540,3 +540,4 @@
     + [QEMUで動くLinuxをGDBで観察する](https://blog.masu-mi.me/post/2020/12/10/observe-linux-over-qemu-with-gdb/)
     + [アセンブラすらも存在しない状態から始めて最終的にGCCまで手作業で到達するというプロジェクト](https://github.com/oriansj/stage0)
     + [完全アセンブラで書かれた64ビット実時間OS](https://www.menuetos.net/)
+    + [buildg: Interactive Debugger for Dockerfile](https://medium.com/nttlabs/buildg-a48bc851c1bb)

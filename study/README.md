@@ -42,3 +42,4 @@
     + [数学書の読み方：定義・定理となかまたち](https://note.com/ron1827/n/ncac99ac88789)
     + [英語に少しでも苦手意識がある人のための、英語関連神ツール9選](https://twitter.com/jujulife7/status/1522756516587393024)
     + [偏微分方程式：講義ノート](https://www.math.kyoto-u.ac.jp/~karel/files/notes_pde_2015.pdf)
+    + [20代後半から始める英語習得](https://zenn.dev/ganezasan/articles/ba1771fbe2522d67c952)

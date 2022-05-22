@@ -255,7 +255,6 @@
     + [オブジェクト指向言語の言語機能をうまく活かした設計・実装について](https://speakerdeck.com/skmetz/polly-want-a-message-deconstructconf)
     + [人気順検索のSolrはスケールのためにディスクを捨てた](https://techlife.cookpad.com/entry/2020/11/25/080000)
     + [ソースコードのドキュメンテーションや解析ができるツール](https://www.sokrates.dev/)
-+ Tool
     + [Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/fastly/lucet)
     + [envoy](https://github.com/envoyproxy/envoy)
     + [Terraformer](https://github.com/GoogleCloudPlatform/terraformer)
@@ -263,3 +262,5 @@
     + [Git の仕組み (1)](https://koseki.hatenablog.com/entry/2014/04/22/inside-git-1)
     + [ISO 8601: Date and Time API の基礎知識](https://zenn.dev/khasunuma/articles/introduction-to-iso8601)
     + [NFT, Web3完全に理解した　になるためのチュートリアル](https://note.com/djrio/n/n9385c61aa402)
+    + [TCCパターンとSagaパターンでマイクロサービスのトランザクションをまとめてみた](https://qiita.com/nk2/items/d9e9a220190549107282)
+    + [Web Browser Engineering](https://browser.engineering/)
