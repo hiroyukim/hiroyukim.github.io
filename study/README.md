@@ -43,3 +43,5 @@
     + [英語に少しでも苦手意識がある人のための、英語関連神ツール9選](https://twitter.com/jujulife7/status/1522756516587393024)
     + [偏微分方程式：講義ノート](https://www.math.kyoto-u.ac.jp/~karel/files/notes_pde_2015.pdf)
     + [20代後半から始める英語習得](https://zenn.dev/ganezasan/articles/ba1771fbe2522d67c952)
+    + [「知識ベース」構成一覧](https://www.ieice-hbkb.org/portal/doc_208.html)
+    + [慶應大学　理工学部　講義　統計物理　第一回](https://www.youtube.com/watch?v=zhHoeqVD8ak)

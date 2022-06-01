@@ -277,6 +277,9 @@
     + [Zstandardの仕組み詳細解説](https://nigeltao.github.io/blog/2022/zstandard-part-1-concepts.html)
     + [Highload challenges](https://highload.fun/)
     + [直感でわかる、ヒューリスティック問題の羅針盤 ～貪欲法から山登り法まで～](https://qiita.com/square1001/items/84604f79f55ff10d99b0)
+    + [共同編集を支える技術とライブラリの活用](https://ics.media/entry/220526/)
+    + [エディタの同時編集の競合解消ロジック Operational Transformation についての解説](https://qiita.com/phigasui/items/d68bbc7c8023ab11af92)
+    + [CRDT (Conflict-free Replicated Data Type)を15分で説明してみる](https://qiita.com/everpeace/items/bb73ec64d3e682279d26)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

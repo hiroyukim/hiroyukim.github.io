@@ -233,6 +233,8 @@
     + [MySQL 8.0入門シリーズのセミナー資料](https://www.mysql.com/jp/news-and-events/seminar/downloads.html)
     + [InnoDBのmini transaction](https://vimeo.com/258533150)
     + [CMU の Andy Pavlo先生の講義『DATABASE SYSTEMS』のマテリアルをまとめた](https://github.com/ryogrid/CMU_lecture_DATABASE_SYSTEMS_materials)
+    + [View WAL](https://speakerdeck.com/nuko_yokohama/view-wal)
+    + [テストデータが偏るということについて](https://speakerdeck.com/yoku0825/tesutodetagapian-rutoiukotonituite)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)
