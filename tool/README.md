@@ -20,6 +20,7 @@
     + [A terminal UI for tshark, inspired by Wireshark](https://github.com/gcla/termshark)
     + [The ZMap Project](https://zmap.io/)
     + [tcpdump代替のパケットキャプチャツール](https://github.com/c-grimshaw/gosniff)
+    + [tailscale の OSS 版](https://github.com/juanfont/headscale)
 + file/dir
     + [fd](https://github.com/sharkdp/fd)
     + [Ultimate Plumber is a tool for writing Linux pipes with instant live preview](https://github.com/akavel/up)

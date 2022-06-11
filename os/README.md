@@ -542,3 +542,8 @@
     + [完全アセンブラで書かれた64ビット実時間OS](https://www.menuetos.net/)
     + [buildg: Interactive Debugger for Dockerfile](https://medium.com/nttlabs/buildg-a48bc851c1bb)
     + [Observability Conference 2022から、サイボウズのオブザーバービリティ事例を紹介](https://thinkit.co.jp/article/19539)
+    + [CPU使用率は間違っている](https://yakst.com/ja/posts/4575)
+    + [SDカードのアロケーションユニットサイズとか](https://togetter.com/li/1898469)
+    + [DockerがKubernetesのコードから消滅した理由、歴史的背景、ツールごとの対応方法総まとめ](https://atmarkit.itmedia.co.jp/ait/articles/2206/03/news010.html)
+    + [Data Direct I/O](https://latency-matters.medium.com/ddio-oh-oh-e0099754b7d9)
+    + [KDE で開発されてる Linux 向けのヒーププロファイラ](https://github.com/KDE/heaptrack)

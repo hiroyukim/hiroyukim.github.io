@@ -280,6 +280,9 @@
     + [共同編集を支える技術とライブラリの活用](https://ics.media/entry/220526/)
     + [エディタの同時編集の競合解消ロジック Operational Transformation についての解説](https://qiita.com/phigasui/items/d68bbc7c8023ab11af92)
     + [CRDT (Conflict-free Replicated Data Type)を15分で説明してみる](https://qiita.com/everpeace/items/bb73ec64d3e682279d26)
+    + [暗号技術の実装と数学](https://www.slideshare.net/herumi/ss-251944418)
+    + [組合せ最適化問題を解くためのメタヒューリスティクスに機械学習手法を組み入れる研究分野のレビュー](https://www.sciencedirect.com/science/article/pii/S0377221721003623)
+    + [強化学習100題](https://koki0702.github.io/dezero-p100/)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

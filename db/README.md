@@ -235,6 +235,9 @@
     + [CMU の Andy Pavlo先生の講義『DATABASE SYSTEMS』のマテリアルをまとめた](https://github.com/ryogrid/CMU_lecture_DATABASE_SYSTEMS_materials)
     + [View WAL](https://speakerdeck.com/nuko_yokohama/view-wal)
     + [テストデータが偏るということについて](https://speakerdeck.com/yoku0825/tesutodetagapian-rutoiukotonituite)
+    + [AlloyDB for PostgreSQL の仕組み: データベース対応のインテリジェントなストレージ](https://cloud.google.com/blog/ja/products/databases/alloydb-for-postgresql-intelligent-scalable-storage)
+    + [The New Old Thing: The History of InnoDB YouTube](https://www.youtube.com/watch?v=vWpfi5ryO1s)
+    + [The state of the art in distributed query processing](https://dl.acm.org/doi/abs/10.1145/371578.371598#.Yp9tHi2gCtU.twitter)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

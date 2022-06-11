@@ -264,3 +264,8 @@
     + [NFT, Web3完全に理解した　になるためのチュートリアル](https://note.com/djrio/n/n9385c61aa402)
     + [TCCパターンとSagaパターンでマイクロサービスのトランザクションをまとめてみた](https://qiita.com/nk2/items/d9e9a220190549107282)
     + [Web Browser Engineering](https://browser.engineering/)
+    + [既存のHTTPサーバーをHTTP/3化する手法を使ってPiping ServerをHTTP/3対応する](https://scrapbox.io/nwtgck/%E6%97%A2%E5%AD%98%E3%81%AEHTTP%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%82%92HTTP%2F3%E5%8C%96%E3%81%99%E3%82%8B%E6%89%8B%E6%B3%95%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6Piping_Server%E3%82%92HTTP%2F3%E5%AF%BE%E5%BF%9C%E3%81%99%E3%82%8B)
+    + [How NAT traversal works](https://tailscale.com/blog/how-nat-traversal-works/)
+    + [Cache 解体新書 v0.0.1](https://zenn.dev/jxck/books/cache-anatomia)
+    + [HTTP/3 and QPACK](https://docs.google.com/presentation/d/1_4LZNXbPHdQ48-UnFWtHkJ4JaTQ2hsP695hZePUcb0c/edit#slide=id.p)
+    + [Circuit Breaker Pattern](https://medium.com/@emredalc/circuit-breaker-pattern-8a1607b7a4b4)

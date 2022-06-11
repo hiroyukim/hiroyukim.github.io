@@ -80,6 +80,7 @@
     + [今そこにあるIPv6 ─ もう1つのインターネットが普通に使われていることに普通のITエンジニアはどう対応するべきか？](https://eh-career.com/engineerhub/entry/2021/12/13/113000)
     + [Segment Routing入門](https://speakerdeck.com/watal/segment-routingru-men)
     + [ロックマンエグゼで快適なネット対戦ができるようになるかもしれない話](https://zenn.dev/akatsuki/articles/47cc86955acd38)
+    + [HTTP Core Documents](https://github.com/httpwg/http-core)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)

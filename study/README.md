@@ -45,3 +45,7 @@
     + [20代後半から始める英語習得](https://zenn.dev/ganezasan/articles/ba1771fbe2522d67c952)
     + [「知識ベース」構成一覧](https://www.ieice-hbkb.org/portal/doc_208.html)
     + [慶應大学　理工学部　講義　統計物理　第一回](https://www.youtube.com/watch?v=zhHoeqVD8ak)
+    + [心理統計学の資料](https://osf.io/3xr4k/)
+    + [テクニカルライティングの基本](https://speakerdeck.com/naohiro_nakata/technicalwriting)
+    + [数学に向かない人の数学書の読み方。数学者はこうやって読む。Youtube](https://www.youtube.com/watch?v=q-3IWEyfFQg)
+    + [東京大学深層学習（Deep Learning基礎講座2022）深層学習と自然言語処理](https://speakerdeck.com/verypluming/dong-jing-da-xue-shen-ceng-xue-xi-deep-learningji-chu-jiang-zuo-2022-shen-ceng-xue-xi-tozi-ran-yan-yu-chu-li)
