@@ -283,6 +283,9 @@
     + [暗号技術の実装と数学](https://www.slideshare.net/herumi/ss-251944418)
     + [組合せ最適化問題を解くためのメタヒューリスティクスに機械学習手法を組み入れる研究分野のレビュー](https://www.sciencedirect.com/science/article/pii/S0377221721003623)
     + [強化学習100題](https://koki0702.github.io/dezero-p100/)
+    + [atcoder::lazy_segtree に1行書き足すだけの抽象化 Segment Tree Beats](https://rsm9.hatenablog.com/entry/2021/02/01/220408)
+    + [Better Static Memory Management: Improving Region-Based Analysis of Higher-Order Languages](https://digitalassets.lib.berkeley.edu/techreports/ucb/text/CSD-95-866.pdf)
+    + [「Pythonで体験するベイズ推論:PyMCによるMCMC入門」の原著](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

@@ -79,6 +79,7 @@
     + [なぜJTAGはCPUデバッグにも使えるのか？](https://logmi.jp/tech/articles/326186)
     + [CPU Scheduling](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/6_CPU_Scheduling.html)
     + [インテル® データ・ダイレクト I/O テクノロジーの効果的な利用](https://www.isus.jp/products/vtune/vtune-cookbook-effective-utilization-of-data-direct-io-technology/)
+    + [JTAGを使ってArmのデバイスをデバッグしてみよう ARMv8のプロセッサコアのデバッグ手順とポイント](https://logmi.jp/tech/articles/326201)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)

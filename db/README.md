@@ -238,6 +238,8 @@
     + [AlloyDB for PostgreSQL の仕組み: データベース対応のインテリジェントなストレージ](https://cloud.google.com/blog/ja/products/databases/alloydb-for-postgresql-intelligent-scalable-storage)
     + [The New Old Thing: The History of InnoDB YouTube](https://www.youtube.com/watch?v=vWpfi5ryO1s)
     + [The state of the art in distributed query processing](https://dl.acm.org/doi/abs/10.1145/371578.371598#.Yp9tHi2gCtU.twitter)
+    + [理屈で考える、データベースのチューニング](https://techblog.raccoon.ne.jp/archives/1601618994.html)
+    + [企業やサービスをつなぐ分散トランザクションマネージャを目指して](https://atmarkit.itmedia.co.jp/ait/articles/2206/16/news006.html)
 + Tool
     + [SchemaCrawler](https://www.schemacrawler.com/)
     + [Apache Calcite](https://calcite.apache.org/)

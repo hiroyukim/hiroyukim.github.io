@@ -49,3 +49,5 @@
     + [テクニカルライティングの基本](https://speakerdeck.com/naohiro_nakata/technicalwriting)
     + [数学に向かない人の数学書の読み方。数学者はこうやって読む。Youtube](https://www.youtube.com/watch?v=q-3IWEyfFQg)
     + [東京大学深層学習（Deep Learning基礎講座2022）深層学習と自然言語処理](https://speakerdeck.com/verypluming/dong-jing-da-xue-shen-ceng-xue-xi-deep-learningji-chu-jiang-zuo-2022-shen-ceng-xue-xi-tozi-ran-yan-yu-chu-li)
+    + [2021年前半ノートアプリ比較22選+α](https://note.com/nooyosh/n/nc97d8b3c26c1)
+    + [論文を書く際に、関連する論文を調べる時に役立つのが「Connected papers」というサイト](https://www.connectedpapers.com/)

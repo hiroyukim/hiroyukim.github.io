@@ -9,3 +9,4 @@
     + [Python処理系入門 〜"1 + 1" で学ぶ処理系解読の基礎〜](http://yu-i9.hatenablog.com/entry/cpython?fbclid=IwAR2jlHx4JbGkDLr2xTAVzDcyX_0QULUwW1A9bp_mxiEA4F4j2Oh72tKFneo)
     + [Python ビット演算 超入門](https://qiita.com/7shi/items/41d262ca11ea16d85abc?utm_content=buffer2b637&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
     + [Optimize acquisition functions using CMA-ES](https://botorch.org/tutorials/optimize_with_cmaes)
+    + [CPython Internals](https://realpython.com/products/cpython-internals-book/)

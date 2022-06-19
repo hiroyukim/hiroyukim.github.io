@@ -538,3 +538,7 @@
     + [DropとFutureとDropのfuture](https://techfeed.io/entries/62a170b32080931e36e44907)
     + [Rust/AnyhowのTips](https://zenn.dev/yukinarit/articles/b39cd42820f29e)
     + [Dependant botでセキュリティに問題があるクレートを教えてくれる機能](https://github.blog/2022-06-06-github-brings-supply-chain-security-features-to-the-rust-community/)
+    + [ASYNC CANCELLATION II: TIME AND SIGNALS](https://blog.yoshuawuyts.com/async-cancellation-2/)
+    + [実験段階の低レイヤー向けの関数型プログラミング言語](https://antelang.org/)
+    + [Mozilla で Firefox のクラッシュレポートに使われている minidump を Rust に移植した人の話](https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/)
+    + [NULLポインタ最適化とは](https://qnighy.hatenablog.com/entry/2017/05/08/070000)

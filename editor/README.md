@@ -45,3 +45,4 @@
     + [コミュニティプラグイン全集](https://pouhon.net/obsidian-plugins/7073/)
     + [The 10x Debugger For your IntelliJ](https://www.bug.video/)
     + [vGDB | Visual Studio Code GDB Debug Adapter](https://github.com/penagos/vgdb)
+    + [Dev Container が VSCode から CLI にもやって来た](https://zenn.dev/hankei6km/articles/devcontainers-in-cli-ci)

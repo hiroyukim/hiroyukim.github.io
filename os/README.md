@@ -547,3 +547,5 @@
     + [DockerがKubernetesのコードから消滅した理由、歴史的背景、ツールごとの対応方法総まとめ](https://atmarkit.itmedia.co.jp/ait/articles/2206/03/news010.html)
     + [Data Direct I/O](https://latency-matters.medium.com/ddio-oh-oh-e0099754b7d9)
     + [KDE で開発されてる Linux 向けのヒーププロファイラ](https://github.com/KDE/heaptrack)
+    + [linux の nice 値の計算](https://unix.stackexchange.com/questions/89909/how-is-nice-working)
+    + [Linux のシグナルの話](https://togetter.com/li/1901974)
