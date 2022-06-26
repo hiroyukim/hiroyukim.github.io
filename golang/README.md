@@ -3,6 +3,14 @@
 + Vim
     + [vim-go](https://github.com/fatih/vim-go)
     + install: [vim-plug](https://github.com/junegunn/vim-plug)
++ Sample
+    + [netstack](https://github.com/google/netstack)
+        + IPv4 and IPv6 userland network stack
++ Algolism
+    + [Data-Structures-and-Algorithms](https://github.com/floyernick/Data-Structures-and-Algorithms)
++ YouTube
+    + [Go Programming Language](https://www.youtube.com/watch?v=ADT25tuAx4A)
+        + https://www.infoq.com/presentations/go-programming-language?utm_source=youtube&utm_medium=link&utm_campaign=qcontalks
 + Test
     + [Why does Go not have assertions?](https://golang.org/doc/faq#assertions)
     + [Where is my favorite helper function for testing?](https://golang.org/doc/faq#testing_framework)
@@ -726,11 +734,7 @@
     + [[Go] base64の４つのエンコード方式の違いを整理する](https://zenn.dev/senk/articles/674e720b6a8700)
     + [golang実装のDNSサーバ](https://github.com/Fusion/kittendns)
     + [Bubble Tea でリッチなターミナルアプリケーションを作る](https://motemen.hatenablog.com/entry/2022/06/introduction-to-go-bubbletea)
-+ Sample
-    + [netstack](https://github.com/google/netstack)
-        + IPv4 and IPv6 userland network stack
-+ Algolism
-    + [Data-Structures-and-Algorithms](https://github.com/floyernick/Data-Structures-and-Algorithms)
-+ YouTube
-    + [Go Programming Language](https://www.youtube.com/watch?v=ADT25tuAx4A)
-        + https://www.infoq.com/presentations/go-programming-language?utm_source=youtube&utm_medium=link&utm_campaign=qcontalks
+    + [Go1.19のcrypto/randではunix環境のReadで内部バッファがなくなるので色々しらべた](https://convto.hatenablog.com/entry/2022/06/25/000004)
+    + [1.19 memory model](https://tip.golang.org/doc/go1.19#mem)
+    + [Goにおけるアクターモデルの実現に 向けたライブラリの設計と実装](https://speakerdeck.com/sanposhiho/goniokeruakutamoderufalseshi-xian-ni-xiang-ketaraiburarifalseshe-ji-toshi-zhuang)
+    + [Go の正規表現ビルダ](https://github.com/hedhyw/rex)

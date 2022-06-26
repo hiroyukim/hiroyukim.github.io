@@ -549,3 +549,7 @@
     + [KDE で開発されてる Linux 向けのヒーププロファイラ](https://github.com/KDE/heaptrack)
     + [linux の nice 値の計算](https://unix.stackexchange.com/questions/89909/how-is-nice-working)
     + [Linux のシグナルの話](https://togetter.com/li/1901974)
+    + [glibcでRIP取得に使えるシンボルまとめ](https://kam1tsur3.org/2022/06/22/get-rip-in-libc/)
+    + [bashの組み込みコマンドを自作:YouTube](https://www.youtube.com/watch?v=wXgkrMsxYqk&t=78s)
+    + [sar -W の pswpin/s pswpout/s がどのファイルから読まれているか調べる](https://hiboma.hatenadiary.jp/entry/2022/06/20/123723)
+    + [Python の subprocess の preexec_fn の実装と fork のスレッドセーフティー問題](https://togetter.com/li/476666)

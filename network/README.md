@@ -81,6 +81,7 @@
     + [Segment Routing入門](https://speakerdeck.com/watal/segment-routingru-men)
     + [ロックマンエグゼで快適なネット対戦ができるようになるかもしれない話](https://zenn.dev/akatsuki/articles/47cc86955acd38)
     + [HTTP Core Documents](https://github.com/httpwg/http-core)
+    + [HTTPコネクションでIPパケットをProxyさせる、新しいCONNECT-IPメソッドの仕様](https://asnokaze.hatenablog.com/entry/2021/04/20/003120)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)

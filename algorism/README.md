@@ -286,6 +286,13 @@
     + [atcoder::lazy_segtree に1行書き足すだけの抽象化 Segment Tree Beats](https://rsm9.hatenablog.com/entry/2021/02/01/220408)
     + [Better Static Memory Management: Improving Region-Based Analysis of Higher-Order Languages](https://digitalassets.lib.berkeley.edu/techreports/ucb/text/CSD-95-866.pdf)
     + [「Pythonで体験するベイズ推論:PyMCによるMCMC入門」の原著](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+    + [Implementing the Perceus reference counting GC](https://dev.to/raviqqe/implementing-the-perceus-reference-counting-gc-5662)
+    + [ニューラルネットへのベイズ推定 - Bayesian Neural Network](https://nykergoto.hatenablog.jp/entry/2017/08/14/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A9%E3%83%AB%E3%83%8D%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%99%E3%82%A4%E3%82%BA%E6%8E%A8%E5%AE%9A_-_Baysian_Neural_Network)
+    + [最適輸送と自然言語処理](https://speakerdeck.com/eumesy/optimal-transport-for-natural-language-processing)
+    + [Teaching circuits as the first computational model](https://windowsontheory.org/2022/06/21/teaching-circuits-as-the-first-computational-model/)
+    + [競技プログラミングの問題の解き方、そのマニュアル](https://kmyk.github.io/blog/blog/2016/06/21/how-to-solve-problems-in-competitive-programming/)
+    + [高速フーリエ変換の実装を難しそうかなと思っている方が、なんだ簡単じゃないですか！！ となるための実装講座です](https://caddi.tech/archives/836)
+    + [高速化チューニングとその関連技術１ / How to debug](https://speakerdeck.com/kaityo256/how-to-debug)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

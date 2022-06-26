@@ -1,5 +1,12 @@
 ## db
 
++ Tool
+    + [SchemaCrawler](https://www.schemacrawler.com/)
+    + [Apache Calcite](https://calcite.apache.org/)
+    + [Apache Ignite](https://ignite.apache.org/use-cases/database/distributed-database.html)
+    + [Compile and install MySQL](https://github.com/kamipo/mysql-build)
+    + [innodb_ruby](https://github.com/jeremycole/innodb_ruby)
+    + [sqldef](https://github.com/k0kubun/sqldef)
 + Article
     + [innodb_thread_concurrencyに関する話](http://labs.gree.jp/blog/2018/07/17003/)
     + [MySQLがメモリー不足の時に何をするか : トラブルシューティングガイド](https://yakst.com/ja/posts/5212)
@@ -240,10 +247,7 @@
     + [The state of the art in distributed query processing](https://dl.acm.org/doi/abs/10.1145/371578.371598#.Yp9tHi2gCtU.twitter)
     + [理屈で考える、データベースのチューニング](https://techblog.raccoon.ne.jp/archives/1601618994.html)
     + [企業やサービスをつなぐ分散トランザクションマネージャを目指して](https://atmarkit.itmedia.co.jp/ait/articles/2206/16/news006.html)
-+ Tool
-    + [SchemaCrawler](https://www.schemacrawler.com/)
-    + [Apache Calcite](https://calcite.apache.org/)
-    + [Apache Ignite](https://ignite.apache.org/use-cases/database/distributed-database.html)
-    + [Compile and install MySQL](https://github.com/kamipo/mysql-build)
-    + [innodb_ruby](https://github.com/jeremycole/innodb_ruby)
-    + [sqldef](https://github.com/k0kubun/sqldef)
+    + [CockroachDB から覗く形式手法の世界](https://speakerdeck.com/ytaka23/july-tech-festa-2021-winter)
+    + [MySQL Performance : Benchmark kit](http://dimitrik.free.fr/blog/posts/mysql-perf-bmk-kit.html)
+    + [NoSQLで複雑なデータをモデリングする方法17選](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/)
+    + [SQL Tutorial](https://sqlzoo.net/wiki/SQL_Tutorial)

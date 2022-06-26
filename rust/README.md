@@ -542,3 +542,7 @@
     + [実験段階の低レイヤー向けの関数型プログラミング言語](https://antelang.org/)
     + [Mozilla で Firefox のクラッシュレポートに使われている minidump を Rust に移植した人の話](https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/)
     + [NULLポインタ最適化とは](https://qnighy.hatenablog.com/entry/2017/05/08/070000)
+    + [Skytable is a free and open-source NoSQL database](https://github.com/skytable/skytable)
+    + [Rustの良質な学習リソースをまとめる](https://www.bioerrorlog.work/entry/rust-good-learning-resources)
+    + [C言語へのFFIを含むRustコードをWASMにする（CMakeを添えて）](https://zenn.dev/newgyu/articles/8bff73505c7b35)
+    + [RustがC++より最適化しやすい理由 〜Aliasingルール〜](https://qiita.com/kizul/items/84d3ed90dbb3be51133b)

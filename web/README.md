@@ -269,3 +269,7 @@
     + [Cache 解体新書 v0.0.1](https://zenn.dev/jxck/books/cache-anatomia)
     + [HTTP/3 and QPACK](https://docs.google.com/presentation/d/1_4LZNXbPHdQ48-UnFWtHkJ4JaTQ2hsP695hZePUcb0c/edit#slide=id.p)
     + [Circuit Breaker Pattern](https://medium.com/@emredalc/circuit-breaker-pattern-8a1607b7a4b4)
+    + [実践エクストリームプログラミング](https://speakerdeck.com/enk/extreme-programming-in-practice)
+    + [起動に失敗するAmazon ECSタスクのデバッグにはtracerを使おう](https://zenn.dev/quiver/articles/d645d5ca8612d6)
+    + [【WebAssembly】ブラウザ上で動作するポーカーソルバーを開発した話](https://zenn.dev/b_inary/articles/9cbe5a1550edca)
+    + ["The Essence of Software"が提唱する全く新しいソフトウェア設計の考え方](https://note.com/idein/n/ncdb32616e738)
