@@ -251,3 +251,8 @@
     + [MySQL Performance : Benchmark kit](http://dimitrik.free.fr/blog/posts/mysql-perf-bmk-kit.html)
     + [NoSQLで複雑なデータをモデリングする方法17選](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/)
     + [SQL Tutorial](https://sqlzoo.net/wiki/SQL_Tutorial)
+    + [排他制御のためだけに Redis 渋々使ってませんか？データベース単独でアドバイザリーロックできるよ！](https://zenn.dev/mpyw/articles/rdb-advisory-locks)
+    + [TiDBでPoint in Time Recovery](https://tombo2.hatenablog.com/entry/2022/07/06/233556)
+    + [Extending MySQL 8.0](https://downloads.mysql.com/docs/extending-mysql-8.0-en.a4.pdf)
+    + [MySQLで発生し得る思わぬデッドロックと対応方法](https://zenn.dev/shuntagami/articles/ea44a20911b817)
+    + [WHERE 条件のフィールドを UPDATE するのって，明示的にロックしてなくても安全？全パターン調べてみました！](https://qiita.com/mpyw/items/14925c499b689a0cbc59)

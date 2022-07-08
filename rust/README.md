@@ -546,3 +546,7 @@
     + [Rustの良質な学習リソースをまとめる](https://www.bioerrorlog.work/entry/rust-good-learning-resources)
     + [C言語へのFFIを含むRustコードをWASMにする（CMakeを添えて）](https://zenn.dev/newgyu/articles/8bff73505c7b35)
     + [RustがC++より最適化しやすい理由 〜Aliasingルール〜](https://qiita.com/kizul/items/84d3ed90dbb3be51133b)
+    + [proc_macro_workshopでRustの手続き的マクロに入門する 前編](https://caddi.tech/archives/3555)
+    + [Rustでゲームボーイアドバンスエミュレーターを書いた](https://zenn.dev/tanakh/articles/gba-emulator-in-rust)
+    + [The last two years in Miri](https://www.ralfj.de/blog/2022/07/02/miri.html)
+    + [【Rust】変数のスコープまとめ](https://zenn.dev/heppoko_quasar/articles/806fd48308e6c4)

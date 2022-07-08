@@ -51,3 +51,7 @@
     + [東京大学深層学習（Deep Learning基礎講座2022）深層学習と自然言語処理](https://speakerdeck.com/verypluming/dong-jing-da-xue-shen-ceng-xue-xi-deep-learningji-chu-jiang-zuo-2022-shen-ceng-xue-xi-tozi-ran-yan-yu-chu-li)
     + [2021年前半ノートアプリ比較22選+α](https://note.com/nooyosh/n/nc97d8b3c26c1)
     + [論文を書く際に、関連する論文を調べる時に役立つのが「Connected papers」というサイト](https://www.connectedpapers.com/)
+    + [MIT 6.S192: Deep Learning for Art, Aesthetics, and Creativity](https://ali-design.github.io/deepcreativity/)
+    + [認知科学のススメ](https://speakerdeck.com/takanorip/ren-zhi-ke-xue-falsesusume)
+    + [優れた即興スピーチのための簡単な方法](https://www.kennethmd.com/the-prep-framework-an-easy-way-to-give-excellent-impromptu-speeches/)
+    + [データ分析入門](https://uribo.github.io/tokupon_ds/)

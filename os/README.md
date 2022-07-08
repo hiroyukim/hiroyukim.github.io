@@ -553,3 +553,7 @@
     + [bashの組み込みコマンドを自作:YouTube](https://www.youtube.com/watch?v=wXgkrMsxYqk&t=78s)
     + [sar -W の pswpin/s pswpout/s がどのファイルから読まれているか調べる](https://hiboma.hatenadiary.jp/entry/2022/06/20/123723)
     + [Python の subprocess の preexec_fn の実装と fork のスレッドセーフティー問題](https://togetter.com/li/476666)
+    + [A journey into the Linux scheduler](https://blog.maxgio.me/posts/linux-scheduler-journey/)
+    + [Linux Kernel vs DPDK: HTTP Performance Showdown](https://talawah.io/blog/linux-kernel-vs-dpdk-http-performance-showdown/)
+    + [「ImHex」というクロスプラットフォームでOSSなイケてるバイナリエディタ](https://github.com/WerWolv/ImHex)
+    + [DockerfileのbuildをデバッグできるVSCode拡張](https://github.com/ktock/buildg)

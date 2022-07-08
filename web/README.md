@@ -273,3 +273,6 @@
     + [起動に失敗するAmazon ECSタスクのデバッグにはtracerを使おう](https://zenn.dev/quiver/articles/d645d5ca8612d6)
     + [【WebAssembly】ブラウザ上で動作するポーカーソルバーを開発した話](https://zenn.dev/b_inary/articles/9cbe5a1550edca)
     + ["The Essence of Software"が提唱する全く新しいソフトウェア設計の考え方](https://note.com/idein/n/ncdb32616e738)
+    + [Fluentd 集約ノードのオートスケール](https://techlife.cookpad.com/entry/2022/07/08/110000)
+    + [SUZURI のセールとテレビ CM を乗り越えるために負荷試験を実施しました](https://tech.pepabo.com/2022/07/07/suzuri-sale-and-load-testing/)
+    + [WebAssembly入門 ─ Webフロントエンドの現実的なユースケースを知り、Wasm製アプリケーションを体験してみよう！](https://eh-career.com/engineerhub/entry/2022/07/04/093000)

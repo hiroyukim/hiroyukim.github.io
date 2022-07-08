@@ -83,6 +83,8 @@
     + [HTTP Core Documents](https://github.com/httpwg/http-core)
     + [HTTPコネクションでIPパケットをProxyさせる、新しいCONNECT-IPメソッドの仕様](https://asnokaze.hatenablog.com/entry/2021/04/20/003120)
     + [格闘ゲームのネット対戦を快適にするロールバック方式とは？](https://flash-m.jp/gaming-environment/roleback/)
+    + [HTTP/3のCONNECT-UDPを利用したWebRTC通信](https://asnokaze.hatenablog.com/entry/2022/07/08/011445)
+    + [第1回　TCPの輻輳制御とは何か](https://gihyo.jp/admin/serial/01/tcp-cc/0001)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)

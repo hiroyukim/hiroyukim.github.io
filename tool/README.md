@@ -1,5 +1,9 @@
 ## Tool
 
++ 作図
+    + [https://www.diagrams.net/](https://www.diagrams.net/)
++ json
+    + [trdsql 目次](https://noborus.github.io/trdsql/)
 + analyze
     + [Static analysis tools for all programming languages](https://github.com/mre/awesome-static-analysis)
     + [Universal Ctags](https://ctags.io/)
