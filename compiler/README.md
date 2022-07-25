@@ -68,3 +68,5 @@
     + [LLVMのPassの作り方について学ぶ](https://msyksphinz.hatenablog.com/entry/2021/09/23/040000)
     + [アセンブラすらも存在しない状態から始めて最終的にGCCまで手作業で到達するというプロジェクト](https://github.com/oriansj/stage0)
     + [Graydon HoareのCompiler講義資料が面白かった話](https://zehnpaard.hatenablog.com/entry/2022/05/03/085842)
+    + [Cycloneのソースリポジトリを蘇生してみる (前編)](https://zenn.dev/qnighy/articles/8637ab517c1117)
+    + [正規表現で経路依存のブレークポイントを作る](https://ashiato45.hatenablog.jp/entry/2022/07/24/224009)

@@ -55,3 +55,5 @@
     + [認知科学のススメ](https://speakerdeck.com/takanorip/ren-zhi-ke-xue-falsesusume)
     + [優れた即興スピーチのための簡単な方法](https://www.kennethmd.com/the-prep-framework-an-easy-way-to-give-excellent-impromptu-speeches/)
     + [データ分析入門](https://uribo.github.io/tokupon_ds/)
+    + [論文の読み方 / How to survey](https://speakerdeck.com/kaityo256/how-to-survey)
+    + [The Missing Semester of Your CS Education (日本語版)](https://missing-semester-jp.github.io/)

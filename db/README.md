@@ -256,3 +256,6 @@
     + [Extending MySQL 8.0](https://downloads.mysql.com/docs/extending-mysql-8.0-en.a4.pdf)
     + [MySQLで発生し得る思わぬデッドロックと対応方法](https://zenn.dev/shuntagami/articles/ea44a20911b817)
     + [WHERE 条件のフィールドを UPDATE するのって，明示的にロックしてなくても安全？全パターン調べてみました！](https://qiita.com/mpyw/items/14925c499b689a0cbc59)
+    + [Concurrency Control and Recovery in Database Systems](https://www.microsoft.com/en-us/research/people/philbe/book/)
+    + [RDBMS in Action](https://speakerdeck.com/saiya_moebius/rdbms-in-action)
+    + [実践RDBMS〜PostgreSQL編〜](https://speakerdeck.com/progrhyme/shi-jian-rdbms-postgresqlbian)

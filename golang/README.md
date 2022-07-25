@@ -738,3 +738,5 @@
     + [1.19 memory model](https://tip.golang.org/doc/go1.19#mem)
     + [Goにおけるアクターモデルの実現に 向けたライブラリの設計と実装](https://speakerdeck.com/sanposhiho/goniokeruakutamoderufalseshi-xian-ni-xiang-ketaraiburarifalseshe-ji-toshi-zhuang)
     + [Go の正規表現ビルダ](https://github.com/hedhyw/rex)
+    + [Golang で HTTP コンテンツの charset 判定をするには](https://mattn.kaoriya.net/software/lang/go/20171205164150.htm)
+    + [go-ray-tracing-in-one-weekend](https://github.com/aratama/go-ray-tracing-in-one-weekend)
