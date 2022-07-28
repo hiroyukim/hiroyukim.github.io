@@ -304,6 +304,10 @@
     + [統計的因果探索: 領域知識とデータによる因果構造グラフの推測](https://speakerdeck.com/sshimizu2006/tong-ji-de-yin-guo-tan-suo-ling-yu-zhi-shi-todetaniyoruyin-guo-gou-zao-gurahufalsetui-ce)
     + [推薦システム](https://www.kamishima.net/archive/recsys.pdf)
     + [機械学習システムのアーキテクチャとデザインパターン](https://speakerdeck.com/washizaki/ji-jie-xue-xi-sisutemufalseakitekutiyatodezainpatan)
+    + [【夏休みの自由研究】そうだブロックチェーンを作ろう！](https://zenn.dev/koduki/articles/52c207493f4d5e)
+    + [制限ボルツマンマシンの基礎 ～概念編～](https://zenn.dev/kaityo256/articles/bolzmann_machine)
+    + [DFSとBFSの計算量は違う](https://qiita.com/assy0000/items/6d0b798e9cd725f5caa9)
+    + [ならし計算量のよくある誤解について](https://rsk0315.hatenablog.com/entry/2022/07/22/090000)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

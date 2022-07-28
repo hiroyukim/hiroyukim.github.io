@@ -740,3 +740,6 @@
     + [Go の正規表現ビルダ](https://github.com/hedhyw/rex)
     + [Golang で HTTP コンテンツの charset 判定をするには](https://mattn.kaoriya.net/software/lang/go/20171205164150.htm)
     + [go-ray-tracing-in-one-weekend](https://github.com/aratama/go-ray-tracing-in-one-weekend)
+    + [Full text search engine](https://github.com/YadaYuki/omochi)
+    + [Go製の全文検索エンジンOmochiを作った.](https://zenn.dev/yukiyada/articles/7e2c67d8406f0d)
+    + [Golang で HTTP コンテンツの charset 判定をするには](https://mattn.kaoriya.net/software/lang/go/20171205164150.htm)

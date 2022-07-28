@@ -29,3 +29,4 @@
     + [C++とJSを跨ぐ クロスコンポーネント ガベージコレクタ](https://docs.google.com/presentation/d/1r5WC_yTW2WS9ZYMn025_CZQjXLnnYnm54KOcZVzVYBc/edit#slide=id.p)
     + [C++のコピー・ムーブ・参照・右辺値参照を私なりにまとめてみました](https://zenn.dev/yumeno/articles/ec872f9815a97f)
     + [C++ vtables - Part 1 - Basics](https://shaharmike.com/cpp/vtable-part1/)
+    + [メモリモデル？なにそれ？おいしいの？](https://yohhoy.hatenablog.jp/entry/2014/12/21/171035)

@@ -259,3 +259,5 @@
     + [Concurrency Control and Recovery in Database Systems](https://www.microsoft.com/en-us/research/people/philbe/book/)
     + [RDBMS in Action](https://speakerdeck.com/saiya_moebius/rdbms-in-action)
     + [実践RDBMS〜PostgreSQL編〜](https://speakerdeck.com/progrhyme/shi-jian-rdbms-postgresqlbian)
+    + [データ民主化基盤のSQLコーディング規約](https://note.com/well_living_ry/n/n099215323cfb)
+    + [slp is a MySQL SlowLog Profiler.](https://github.com/tkuchiki/slp)

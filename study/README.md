@@ -57,3 +57,5 @@
     + [データ分析入門](https://uribo.github.io/tokupon_ds/)
     + [論文の読み方 / How to survey](https://speakerdeck.com/kaityo256/how-to-survey)
     + [The Missing Semester of Your CS Education (日本語版)](https://missing-semester-jp.github.io/)
+    + [ネットワーク勉強まとめ](https://zenn.dev/bells17/scraps/ced3289cd8116d#comment-1100f69adf07ce)
+    + [Idrisでふんわり眺める依存型](https://sititou70.github.io/Idris%E3%81%A7%E3%81%B5%E3%82%93%E3%82%8F%E3%82%8A%E7%9C%BA%E3%82%81%E3%82%8B%E4%BE%9D%E5%AD%98%E5%9E%8B/)

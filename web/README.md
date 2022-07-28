@@ -276,3 +276,5 @@
     + [Fluentd 集約ノードのオートスケール](https://techlife.cookpad.com/entry/2022/07/08/110000)
     + [SUZURI のセールとテレビ CM を乗り越えるために負荷試験を実施しました](https://tech.pepabo.com/2022/07/07/suzuri-sale-and-load-testing/)
     + [WebAssembly入門 ─ Webフロントエンドの現実的なユースケースを知り、Wasm製アプリケーションを体験してみよう！](https://eh-career.com/engineerhub/entry/2022/07/04/093000)
+    + [TLS, HTTP/2演習](https://www.slideshare.net/shigeki_ohtsu/tls-http2)
+    + [Edge Side Frontend という新領域](https://speakerdeck.com/mizchi/edge-side-frontend-toiuxin-ling-yu)

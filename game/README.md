@@ -15,3 +15,4 @@
     + [発売22周年を迎えたPlayStation®2の誕生秘話](https://www.sie.com/jp/blog/2022/03/28/playstation2-22nd-anniversary/)
     + [PC-6001 クロス開発環境](https://codeknowledge.livedoor.blog/archives/14714379.html)
     + [Unreal Engine5 Lumenの仕組みと肝心なところ](https://www.docswell.com/s/EpicGamesJapan/5EV87K-UE5_Lumen101)
+    + [blenderジオメトリノード建物ジェネレータ公開しました](https://skywheel.booth.pm/items/4014205)
