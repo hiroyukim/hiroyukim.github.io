@@ -308,6 +308,7 @@
     + [制限ボルツマンマシンの基礎 ～概念編～](https://zenn.dev/kaityo256/articles/bolzmann_machine)
     + [DFSとBFSの計算量は違う](https://qiita.com/assy0000/items/6d0b798e9cd725f5caa9)
     + [ならし計算量のよくある誤解について](https://rsk0315.hatenablog.com/entry/2022/07/22/090000)
+    + [book-algorihm-solution](https://github.com/yuk1ty/book-algorithm-solution)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

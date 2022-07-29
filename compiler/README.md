@@ -70,3 +70,5 @@
     + [Graydon HoareのCompiler講義資料が面白かった話](https://zehnpaard.hatenablog.com/entry/2022/05/03/085842)
     + [Cycloneのソースリポジトリを蘇生してみる (前編)](https://zenn.dev/qnighy/articles/8637ab517c1117)
     + [正規表現で経路依存のブレークポイントを作る](https://ashiato45.hatenablog.jp/entry/2022/07/24/224009)
+    + [Ferrocene Language Specification](https://spec.ferrocene.dev/)
+    + [SQLite Internals: Pages & B-trees](https://fly.io/blog/sqlite-internals-btree/)

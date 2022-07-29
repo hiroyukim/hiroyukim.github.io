@@ -278,3 +278,4 @@
     + [WebAssembly入門 ─ Webフロントエンドの現実的なユースケースを知り、Wasm製アプリケーションを体験してみよう！](https://eh-career.com/engineerhub/entry/2022/07/04/093000)
     + [TLS, HTTP/2演習](https://www.slideshare.net/shigeki_ohtsu/tls-http2)
     + [Edge Side Frontend という新領域](https://speakerdeck.com/mizchi/edge-side-frontend-toiuxin-ling-yu)
+    + [Terraform を使用するためのベスト プラクティス](https://cloud.google.com/docs/terraform/best-practices-for-terraform?hl=ja)

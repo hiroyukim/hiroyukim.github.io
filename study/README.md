@@ -59,3 +59,6 @@
     + [The Missing Semester of Your CS Education (日本語版)](https://missing-semester-jp.github.io/)
     + [ネットワーク勉強まとめ](https://zenn.dev/bells17/scraps/ced3289cd8116d#comment-1100f69adf07ce)
     + [Idrisでふんわり眺める依存型](https://sititou70.github.io/Idris%E3%81%A7%E3%81%B5%E3%82%93%E3%82%8F%E3%82%8A%E7%9C%BA%E3%82%81%E3%82%8B%E4%BE%9D%E5%AD%98%E5%9E%8B/)
+    + [トリコの動かし方](https://www.slideshare.net/gendesign/ss-82621799)
+    + [第14回 配信講義　計算科学技術特論B（2022）](https://www.slideshare.net/RCCSRENKEI/14-b2022)
+    + [読書感想文書けない子のサポート](https://twitter.com/parfaitthestudy/status/1549282280459231232)

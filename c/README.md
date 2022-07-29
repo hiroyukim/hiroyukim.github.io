@@ -117,6 +117,7 @@
     + [C言語でメモリ管理を考えた話](https://speakerdeck.com/hkawai/cyan-yu-dememoriguan-li-wokao-etahua)
     + [バッファオーバーフローってどんな攻撃？ C言語で見てみよう【伏石ちゃんは意図に反したい】](https://codezine.jp/article/detail/15842)
     + [C 言語プログラムから MIPS アセンブリを生成する方法とコンパイラによる最適化について](https://www8281uo.sakura.ne.jp/blog/?p=847)
+    + [jread](https://github.com/naleksiev/jread)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

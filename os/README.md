@@ -558,3 +558,4 @@
     + [「ImHex」というクロスプラットフォームでOSSなイケてるバイナリエディタ](https://github.com/WerWolv/ImHex)
     + [DockerfileのbuildをデバッグできるVSCode拡張](https://github.com/ktock/buildg)
     + [A journey into the Linux scheduler](https://blog.maxgio.me/posts/linux-scheduler-journey/)
+    + [データ競合と happens-before 関係](https://uchan.hateblo.jp/entry/2020/06/19/185152)

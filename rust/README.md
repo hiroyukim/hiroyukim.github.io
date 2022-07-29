@@ -550,3 +550,6 @@
     + [Rustでゲームボーイアドバンスエミュレーターを書いた](https://zenn.dev/tanakh/articles/gba-emulator-in-rust)
     + [The last two years in Miri](https://www.ralfj.de/blog/2022/07/02/miri.html)
     + [【Rust】変数のスコープまとめ](https://zenn.dev/heppoko_quasar/articles/806fd48308e6c4)
+    + [Rustにおけるスレッド間でのデータ共有とstd::thread::scope](https://zenn.dev/toru3/articles/ce9232f53c47c8)
+    + [Actually Portable Executables with Rust and Cosmopolitan Libc](https://ahgamut.github.io/2022/07/27/ape-rust-example/)
+    + [How to speed up the Rust compiler in July 2022](https://nnethercote.github.io/2022/07/20/how-to-speed-up-the-rust-compiler-in-july-2022.html)

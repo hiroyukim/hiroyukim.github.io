@@ -86,6 +86,7 @@
     + [HTTP/3のCONNECT-UDPを利用したWebRTC通信](https://asnokaze.hatenablog.com/entry/2022/07/08/011445)
     + [第1回　TCPの輻輳制御とは何か](https://gihyo.jp/admin/serial/01/tcp-cc/0001)
     + [When the window is not fully open, your TCP stack is doing more than you think](https://blog.cloudflare.com/when-the-window-is-not-fully-open-your-tcp-stack-is-doing-more-than-you-think/)
+    + [DNSの歴史（第5回「DNSサーバーの誕生」）](https://xtech.nikkei.com/it/members/ITPro/ITARTICLE/20010223/5/)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)
