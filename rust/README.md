@@ -553,3 +553,8 @@
     + [Rustにおけるスレッド間でのデータ共有とstd::thread::scope](https://zenn.dev/toru3/articles/ce9232f53c47c8)
     + [Actually Portable Executables with Rust and Cosmopolitan Libc](https://ahgamut.github.io/2022/07/27/ape-rust-example/)
     + [How to speed up the Rust compiler in July 2022](https://nnethercote.github.io/2022/07/20/how-to-speed-up-the-rust-compiler-in-july-2022.html)
+    + [Rustとdeno_coreを使って、独自のJavaScriptランタイムを作ってみる](https://zenn.dev/k41531/articles/3896b8d496ebe0)
+    + [Rustのasyncプログラムのデバッグツール](https://github.com/tokio-rs/console)
+    + [【Rust】static でも Drop したい](https://zenn.dev/emakryo/articles/4f9522bc0ff30f)
+    + [Proc macro support in rust-analyzer for nightly rustc versions](https://fasterthanli.me/articles/proc-macro-support-in-rust-analyzer-for-nightly-rustc-versions)
+    + [Elegant and performant recursion in Rust](https://recursion.wtf/posts/rust_schemes/)

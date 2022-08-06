@@ -279,3 +279,5 @@
     + [TLS, HTTP/2演習](https://www.slideshare.net/shigeki_ohtsu/tls-http2)
     + [Edge Side Frontend という新領域](https://speakerdeck.com/mizchi/edge-side-frontend-toiuxin-ling-yu)
     + [Terraform を使用するためのベスト プラクティス](https://cloud.google.com/docs/terraform/best-practices-for-terraform?hl=ja)
+    + [アクセス数に連動してDNSの重み付けを自動制御する仕組みをAWSで作った話](https://tech.pepabo.com/2022/08/04/auto-multicloud-routing/)
+    + [Auth0のアクセストークンをLocal Storageに保存するのは安全？メリット・デメリットをin-memory方式と比較して検討する](https://blog.flatt.tech/entry/auth0_access_token)

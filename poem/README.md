@@ -69,3 +69,4 @@
     + [Markdownエディタを作って月15万円稼ぐまでにやったこと — Inkdrop](https://blog.craftz.dog/how-i-built-a-markdown-editor-earning-1300-mo-profit-inkdrop-c6691eca7091)
     + [20220704 『もにラジ』第6回「『マギアレコード Final SEASON -浅き夢の暁-』大感想会」](https://moni-mode.hatenablog.com/entry/2022/07/04/191026)
     + [劇場版「Ｇのレコンギスタ」富野由悠季総監督が考える幸せのあり方](https://animeanime.jp/article/2022/07/22/70958.html)
+    + [ソフトウェアアーキテクチャの基礎](https://speakerdeck.com/snoozer05/sohutoueaakitekutiyafalseji-chu-software-architecture-in-a-nutshell)

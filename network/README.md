@@ -87,6 +87,8 @@
     + [第1回　TCPの輻輳制御とは何か](https://gihyo.jp/admin/serial/01/tcp-cc/0001)
     + [When the window is not fully open, your TCP stack is doing more than you think](https://blog.cloudflare.com/when-the-window-is-not-fully-open-your-tcp-stack-is-doing-more-than-you-think/)
     + [DNSの歴史（第5回「DNSサーバーの誕生」）](https://xtech.nikkei.com/it/members/ITPro/ITARTICLE/20010223/5/)
+    + [TCP通信に意図的なレイテンシーを追加できるプロキシ実装](https://github.com/kffl/speedbump)
+    + [Dissecting Performance of Production QUIC の備忘録](https://like-cat.hatenablog.com/entry/2021/08/21/161758)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)

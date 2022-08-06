@@ -62,3 +62,8 @@
     + [トリコの動かし方](https://www.slideshare.net/gendesign/ss-82621799)
     + [第14回 配信講義　計算科学技術特論B（2022）](https://www.slideshare.net/RCCSRENKEI/14-b2022)
     + [読書感想文書けない子のサポート](https://twitter.com/parfaitthestudy/status/1549282280459231232)
+    + [Practice Writing Complex Software](https://codecrafters.io/)
+    + [京極夏彦氏が一挙公開、ルビと禁則処理の法則](https://jbpress.ismedia.jp/articles/-/53512?utm_source=t.co&utm_medium=referral&utm_campaign=PCfooterButton)
+    + [統計数理研究所が無料講座](https://www.ism.ac.jp/lectures/leadingdat/2022/free_movie.html)
+    + [「恋する小惑星（アステロイド）」作者Quro先生と担当編集竹ノ内さんへのインタビュー](https://www.jstage.jst.go.jp/article/minnanochigaku/2/0/2_1/_article/-char/ja)
+    + [異世界でゼロからコンピューターを作る方法](https://sunpro.io/techbookfest2/hakatashi.html)

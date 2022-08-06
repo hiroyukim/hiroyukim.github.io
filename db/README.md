@@ -262,3 +262,4 @@
     + [データ民主化基盤のSQLコーディング規約](https://note.com/well_living_ry/n/n099215323cfb)
     + [slp is a MySQL SlowLog Profiler.](https://github.com/tkuchiki/slp)
     + [Slab キャッシュの使用量が増加した原因を SystemTap で調査した](https://engineering.dena.com/blog/2022/07/investigation-of-increased-memory-usage/)
+    + [sqlite-zstd](https://github.com/phiresky/sqlite-zstd)

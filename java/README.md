@@ -26,3 +26,4 @@
     + [恐怖の JVM 大量メモリ消費！メモリリークの謎を追え！！](https://blog.cybozu.io/entry/8218)
     + [OpenJDK の Shenandoah GC がスレッドごとのスタックを並行に走査することで停止時間を改善した話](https://developers.redhat.com/articles/2021/09/16/shenandoah-openjdk-17-sub-millisecond-gc-pauses#)
     + [JavaがDockerコンテナ内でどのようにCPU数、メモリサイズを取得しているのかを調べてみる](https://kazuhira-r.hatenablog.com/entry/2022/01/05/142023)
+    + [クラウドネイティブ環境におけるJavaチューニングの進め方 ](https://techblog.yahoo.co.jp/entry/2022080330326593/?cpt_n=BlogPR&cpt_m=lnk&cpt_s=twitter)

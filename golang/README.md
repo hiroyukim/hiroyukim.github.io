@@ -743,3 +743,5 @@
     + [Full text search engine](https://github.com/YadaYuki/omochi)
     + [Go製の全文検索エンジンOmochiを作った.](https://zenn.dev/yukiyada/articles/7e2c67d8406f0d)
     + [Golang で HTTP コンテンツの charset 判定をするには](https://mattn.kaoriya.net/software/lang/go/20171205164150.htm)
+    + [Go製ミドルウェアのメモリリークを解決した話](https://tech.mirrativ.stream/entry/2022/08/03/114918)
+    + [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](https://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html)

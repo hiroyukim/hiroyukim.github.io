@@ -30,3 +30,4 @@
     + [C++のコピー・ムーブ・参照・右辺値参照を私なりにまとめてみました](https://zenn.dev/yumeno/articles/ec872f9815a97f)
     + [C++ vtables - Part 1 - Basics](https://shaharmike.com/cpp/vtable-part1/)
     + [メモリモデル？なにそれ？おいしいの？](https://yohhoy.hatenablog.jp/entry/2014/12/21/171035)
+    + [プログラム解析入門](https://docs.google.com/presentation/d/1WHmCLeC5ZPiq2MBOQaZc-pNVWaJanx8eXAkViGl2zws/view#slide=id.p)
