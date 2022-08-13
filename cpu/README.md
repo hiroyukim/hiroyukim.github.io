@@ -83,6 +83,7 @@
     + [ハイパースレッディングの 並列化効率への影響](https://speakerdeck.com/kaityo256/hyper-threading)
     + [軽率にGPUを使っていこう、OpenCL入門](https://cra2ypierr0t.hatenablog.jp/entry/2022/06/22/032512)
     + [SIMDによる将棋Bitboard計算の高速化](https://memo.sugyan.com/entry/2022/07/08/002408)
+    + [UMAP on RAPIDS (15x Speedup)](https://medium.com/the-artificial-impostor/umap-on-rapids-15x-speedup-f4eabfbdd978)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)

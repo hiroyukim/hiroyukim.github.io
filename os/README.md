@@ -563,3 +563,4 @@
     + [Epoll, Kqueue and IOCP Explained with Rust](https://github.com/cfsamson/book-exploring-epoll-kqueue-iocp)
     + [Apport ～Ubuntu のコアダンプ作成動作～](https://valinux.hatenablog.com/entry/20210721)
     + [MySQLのロックについて](https://sh2.hatenablog.jp/entry/20140914)
+    + [IPC Buffer Sizes](https://www.netmeister.org/blog/ipcbufs.html)

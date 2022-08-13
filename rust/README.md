@@ -558,3 +558,7 @@
     + [【Rust】static でも Drop したい](https://zenn.dev/emakryo/articles/4f9522bc0ff30f)
     + [Proc macro support in rust-analyzer for nightly rustc versions](https://fasterthanli.me/articles/proc-macro-support-in-rust-analyzer-for-nightly-rustc-versions)
     + [Elegant and performant recursion in Rust](https://recursion.wtf/posts/rust_schemes/)
+    + [The State Of Rust In 2022](https://deprogrammaticaipsum.com/the-state-of-rust-in-2022/)
+    + [Fang, async background processing for Rust](https://pxp9.github.io/rust/async-processing/)
+    + [Request coalescing in async Rust](https://fasterthanli.me/articles/request-coalescing-in-async-rust)
+    + [Rust 1.63を早めに深掘り](https://aznhe21.hatenablog.com/entry/2022/08/12/rust-1.63)

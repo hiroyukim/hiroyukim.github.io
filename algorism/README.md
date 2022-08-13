@@ -309,6 +309,12 @@
     + [DFSとBFSの計算量は違う](https://qiita.com/assy0000/items/6d0b798e9cd725f5caa9)
     + [ならし計算量のよくある誤解について](https://rsk0315.hatenablog.com/entry/2022/07/22/090000)
     + [book-algorihm-solution](https://github.com/yuk1ty/book-algorithm-solution)
+    + [高速な二次計画法ソルバ](https://github.com/Simple-Robotics/proxsuite)
+    + [nand](https://nindanaoto.github.io/)
+    + [仕事で出会ったアルゴリズムたち](https://inside.estie.co.jp/entry/2022/08/04/113000)
+    + [lower_bound で混乱している人かわいそう](https://rsk0315.hatenablog.com/entry/2022/08/12/130515)
+    + [CTFのCryptoで使うCoppersmith法を解説する本](https://sanya.sweetduet.info/ctfcoppersmith/)
+    + [最適化数学](https://www2.kaiyodai.ac.jp/~yoshi-s/Lectures/Optimization/optimization14.html)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

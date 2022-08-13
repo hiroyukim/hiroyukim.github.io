@@ -745,3 +745,8 @@
     + [Golang で HTTP コンテンツの charset 判定をするには](https://mattn.kaoriya.net/software/lang/go/20171205164150.htm)
     + [Go製ミドルウェアのメモリリークを解決した話](https://tech.mirrativ.stream/entry/2022/08/03/114918)
     + [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](https://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html)
+    + [Simple wrappers for primitive types to enforce atomic access.](https://github.com/uber-go/atomic)
+    + [Goで静的解析ツールを実行する場合に注意すること](https://zenn.dev/tenntenn/articles/658e16ae6966b3)
+    + [Goにおける型によってSQLインジェクションを防ぐ方法](https://zenn.dev/tenntenn/articles/b452911b4200ff)
+    + [Go 公式の脆弱性管理システム](https://zenn.dev/spiegel/articles/20220811-go-vulnerability-management)
+    + [Minimal memory usage in Golang with large stream processing](https://golang.ch/minimal-memory-usage-in-golang-with-large-stream-processing/)

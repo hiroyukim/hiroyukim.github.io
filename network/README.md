@@ -89,6 +89,7 @@
     + [DNSの歴史（第5回「DNSサーバーの誕生」）](https://xtech.nikkei.com/it/members/ITPro/ITARTICLE/20010223/5/)
     + [TCP通信に意図的なレイテンシーを追加できるプロキシ実装](https://github.com/kffl/speedbump)
     + [Dissecting Performance of Production QUIC の備忘録](https://like-cat.hatenablog.com/entry/2021/08/21/161758)
+    + [1GbpsのEthernetの実現手段を知ろう](https://ascii.jp/elem/000/000/431/431314/)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)

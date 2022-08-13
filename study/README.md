@@ -67,3 +67,7 @@
     + [統計数理研究所が無料講座](https://www.ism.ac.jp/lectures/leadingdat/2022/free_movie.html)
     + [「恋する小惑星（アステロイド）」作者Quro先生と担当編集竹ノ内さんへのインタビュー](https://www.jstage.jst.go.jp/article/minnanochigaku/2/0/2_1/_article/-char/ja)
     + [異世界でゼロからコンピューターを作る方法](https://sunpro.io/techbookfest2/hakatashi.html)
+    + [The-Art-of-Linear-Algebra-j.pdf](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra/blob/main/The-Art-of-Linear-Algebra-j.pdf)
+    + [Designing Data Spaces](https://link.springer.com/book/10.1007/978-3-030-93975-5)
+    + [「作って学ぶ、Webブラウザ」](https://docs.google.com/document/d/1jIrYmkbwzxlYG1izYVgaZlMw8U0v7MZVA6p1Rnh_agw/edit)
+    + [Spring and Summer 2022: ミクロ経済入門／ミクロ経済学の考え方](https://sites.google.com/site/takeshimurookaweb/home/teaching#h.p_qcvZLqDHsXIs)

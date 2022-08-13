@@ -72,3 +72,7 @@
     + [正規表現で経路依存のブレークポイントを作る](https://ashiato45.hatenablog.jp/entry/2022/07/24/224009)
     + [Ferrocene Language Specification](https://spec.ferrocene.dev/)
     + [SQLite Internals: Pages & B-trees](https://fly.io/blog/sqlite-internals-btree/)
+    + [When is JIT Faster Than A Compiler?](https://shopify.engineering/when-jit-faster-than-compiler)
+    + [プログラミング言語処理系が好きな人の集まり](https://prog-lang-sys-ja-slack.github.io/wiki/)
+    + [c-compiler](https://github.com/hsjoihs/c-compiler)
+    + [Zig 標準ライブラリで用意されているコレクション型をざっくり押さえる](https://zenn.dev/magurotuna/articles/zig-std-collections)

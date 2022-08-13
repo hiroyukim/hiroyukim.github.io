@@ -263,3 +263,8 @@
     + [slp is a MySQL SlowLog Profiler.](https://github.com/tkuchiki/slp)
     + [Slab キャッシュの使用量が増加した原因を SystemTap で調査した](https://engineering.dena.com/blog/2022/07/investigation-of-increased-memory-usage/)
     + [sqlite-zstd](https://github.com/phiresky/sqlite-zstd)
+    + [MySQLで直感的じゃない動きをするRAND()とSYSDATE()について](https://atsuizo.hatenadiary.jp/entry/2019/05/27/125043)
+    + [簡単関係照会言語 Erq で快適なデータベース分析生活を送る](https://mandel59.hateblo.jp/entry/2022/08/12/153423)
+    + [日本 オラクルによる MySQL および MySQL HeatWave に関連する情報提供のチャンネルです。](https://videohub.oracle.com/channel/MySQL+Japan/)
+    + [Kubernetesでもデータベースを本格運用――「PostgreSQL Operator PGO」を使い倒す](https://atmarkit.itmedia.co.jp/ait/articles/2208/10/news007.html)
+    + [An Overview of Query Optimization in Relational Systems](https://docs.google.com/presentation/d/1ruGYLRLeagkfv1gQBlmh_di7AviaSx0MJih4oH24AsY/edit#slide=id.p)
