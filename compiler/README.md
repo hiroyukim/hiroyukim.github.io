@@ -76,3 +76,4 @@
     + [プログラミング言語処理系が好きな人の集まり](https://prog-lang-sys-ja-slack.github.io/wiki/)
     + [c-compiler](https://github.com/hsjoihs/c-compiler)
     + [Zig 標準ライブラリで用意されているコレクション型をざっくり押さえる](https://zenn.dev/magurotuna/articles/zig-std-collections)
+    + [The Lemon Parser Generator](https://sqlite.org/src/doc/trunk/doc/lemon.html)

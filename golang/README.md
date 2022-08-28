@@ -750,3 +750,5 @@
     + [Goにおける型によってSQLインジェクションを防ぐ方法](https://zenn.dev/tenntenn/articles/b452911b4200ff)
     + [Go 公式の脆弱性管理システム](https://zenn.dev/spiegel/articles/20220811-go-vulnerability-management)
     + [Minimal memory usage in Golang with large stream processing](https://golang.ch/minimal-memory-usage-in-golang-with-large-stream-processing/)
+    + [Go Secure Coding Practice の日本語翻訳を公開します](https://tech.techtouch.jp/entry/gosecurecoding-jajp)
+    + [golangで作るQUICプロトコル](https://zenn.dev/satoken/articles/golang-quic-protocol)

@@ -564,3 +564,5 @@
     + [Apport ～Ubuntu のコアダンプ作成動作～](https://valinux.hatenablog.com/entry/20210721)
     + [MySQLのロックについて](https://sh2.hatenablog.jp/entry/20140914)
     + [IPC Buffer Sizes](https://www.netmeister.org/blog/ipcbufs.html)
+    + [controller-runtime clientについて](https://zenn.dev/bells17/articles/controller-runtime-client)
+    + [Kubernetesコントローラのプログラミングモデル](https://speakerdeck.com/sat/kuberneteskontororanopuroguramingumoderu)

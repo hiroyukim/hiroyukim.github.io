@@ -283,3 +283,5 @@
     + [Auth0のアクセストークンをLocal Storageに保存するのは安全？メリット・デメリットをin-memory方式と比較して検討する](https://blog.flatt.tech/entry/auth0_access_token)
     + [開発環境のセキュリティおよびCI/CDパイプラインのセキュア化](https://speakerdeck.com/rung/training-devenv-security-ja)
     + [freeeの自動テストの全体構成](https://developers.freee.co.jp/entry/automated-test-structure-2022)
+    + [マイクロサービスにおけるAZ間通信のコスト大幅削減した話 with Istio Locality Load Balancing](https://tech.gunosy.io/entry/istio_locality_load_balancing)
+    + [Storyshotsを止めてスナップショットテストの仕組みを自作した話](https://www.wantedly.com/companies/wantedly/post_articles/421107)

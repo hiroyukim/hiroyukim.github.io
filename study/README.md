@@ -71,3 +71,6 @@
     + [Designing Data Spaces](https://link.springer.com/book/10.1007/978-3-030-93975-5)
     + [「作って学ぶ、Webブラウザ」](https://docs.google.com/document/d/1jIrYmkbwzxlYG1izYVgaZlMw8U0v7MZVA6p1Rnh_agw/edit)
     + [Spring and Summer 2022: ミクロ経済入門／ミクロ経済学の考え方](https://sites.google.com/site/takeshimurookaweb/home/teaching#h.p_qcvZLqDHsXIs)
+    + [物語要素事典](https://www.lib.agu.ac.jp/yousojiten/)
+    + [Unreal Engine 5 - Chaos Destruction 入門【CEDEC 2022】](https://www.docswell.com/s/EpicGamesJapan/5V3PXZ-UE_CEDEC2022_ChaosDestruction)
+    + [【無料公開】社内研修書籍『Unity パフォーマンスチューニングバイブル』のPDF公開&オープンソース化しました！](https://developers.cyberagent.co.jp/blog/archives/37085/)

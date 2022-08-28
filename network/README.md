@@ -90,6 +90,8 @@
     + [TCP通信に意図的なレイテンシーを追加できるプロキシ実装](https://github.com/kffl/speedbump)
     + [Dissecting Performance of Production QUIC の備忘録](https://like-cat.hatenablog.com/entry/2021/08/21/161758)
     + [1GbpsのEthernetの実現手段を知ろう](https://ascii.jp/elem/000/000/431/431314/)
+    + [QUIC の initial鍵生成に使用する initial_salt と QUIC version](https://momoka0122y.hatenablog.com/entry/2022/08/26/040830)
+    + [HTTP/3の今と将来](https://docs.google.com/presentation/d/1zguVfx0ApC2IehcSp50-IXquWdekmXDwoJWomql_UOE/edit#slide=id.p)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)

@@ -315,6 +315,7 @@
     + [lower_bound で混乱している人かわいそう](https://rsk0315.hatenablog.com/entry/2022/08/12/130515)
     + [CTFのCryptoで使うCoppersmith法を解説する本](https://sanya.sweetduet.info/ctfcoppersmith/)
     + [最適化数学](https://www2.kaiyodai.ac.jp/~yoshi-s/Lectures/Optimization/optimization14.html)
+    + [初心者が陥りがちな嘘貪欲やコーナーケースやその他諸々に関して](https://rsk0315.hatenablog.com/entry/2022/08/27/164644)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)
