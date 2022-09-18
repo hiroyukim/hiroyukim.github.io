@@ -10,3 +10,4 @@
     + [Python ビット演算 超入門](https://qiita.com/7shi/items/41d262ca11ea16d85abc?utm_content=buffer2b637&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
     + [Optimize acquisition functions using CMA-ES](https://botorch.org/tutorials/optimize_with_cmaes)
     + [CPython Internals](https://realpython.com/products/cpython-internals-book/)
+    + [Python 3.11の新機能(その3）関数呼び出しのインライン化](https://www.python.jp/news/wnpython311/inline-function.html)

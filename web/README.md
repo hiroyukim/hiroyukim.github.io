@@ -285,3 +285,6 @@
     + [freeeの自動テストの全体構成](https://developers.freee.co.jp/entry/automated-test-structure-2022)
     + [マイクロサービスにおけるAZ間通信のコスト大幅削減した話 with Istio Locality Load Balancing](https://tech.gunosy.io/entry/istio_locality_load_balancing)
     + [Storyshotsを止めてスナップショットテストの仕組みを自作した話](https://www.wantedly.com/companies/wantedly/post_articles/421107)
+    + [The Protobuf Language Specification](https://buf.build/blog/protobuf-language-specification)
+    + [Service Meshがっつり入門](https://speakerdeck.com/oracle4engineer/get-started-service-mesh)
+    + [ヤフー全社横断「Webパフォーマンス改善」の取り組み (Core Web Vitalsスコアの向上)](https://techblog.yahoo.co.jp/entry/2022090530337093/)

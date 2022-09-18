@@ -752,3 +752,7 @@
     + [Minimal memory usage in Golang with large stream processing](https://golang.ch/minimal-memory-usage-in-golang-with-large-stream-processing/)
     + [Go Secure Coding Practice の日本語翻訳を公開します](https://tech.techtouch.jp/entry/gosecurecoding-jajp)
     + [golangで作るQUICプロトコル](https://zenn.dev/satoken/articles/golang-quic-protocol)
+    + [OPA/Regoによる汎用的なGo言語の静的解析](https://zenn.dev/mizutani/articles/go-static-analysis-with-rego)
+    + [stringの比較でヌルポのpanicが発生する](https://budougumi0617.github.io/2021/03/31/go-string-null-pointer-panic/)
+    + [Vulnerability Management for Go](https://go.dev/blog/vuln)
+    + [golangで作るQUICプロトコル(HTTP3リクエストの送信と受信)](https://zenn.dev/satoken/articles/golang-quic-protocol3)

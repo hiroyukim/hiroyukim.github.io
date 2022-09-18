@@ -566,3 +566,6 @@
     + [IPC Buffer Sizes](https://www.netmeister.org/blog/ipcbufs.html)
     + [controller-runtime clientについて](https://zenn.dev/bells17/articles/controller-runtime-client)
     + [Kubernetesコントローラのプログラミングモデル](https://speakerdeck.com/sat/kuberneteskontororanopuroguramingumoderu)
+    + [linuxのプロセスの物理アドレスへのマッピングを調べるツール](https://github.com/dwks/pagemap)
+    + [eBPF - 入門概要 編](https://zenn.dev/hidenori3/articles/e1352e8cfeb2af)
+    + [eBPFに3日で入門した話](https://caddi.tech/archives/3880)

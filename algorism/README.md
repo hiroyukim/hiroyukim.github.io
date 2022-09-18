@@ -316,6 +316,11 @@
     + [CTFのCryptoで使うCoppersmith法を解説する本](https://sanya.sweetduet.info/ctfcoppersmith/)
     + [最適化数学](https://www2.kaiyodai.ac.jp/~yoshi-s/Lectures/Optimization/optimization14.html)
     + [初心者が陥りがちな嘘貪欲やコーナーケースやその他諸々に関して](https://rsk0315.hatenablog.com/entry/2022/08/27/164644)
+    + [Scaling Git’s garbage collection](https://github.blog/2022-09-13-scaling-gits-garbage-collection/)
+    + [Range Sort Range Product ってなんですか](https://www.mathenachia.blog/range-sort-range-product/)
+    + [Crypto超入門](https://speakerdeck.com/ushigai/seccon-beginners-live-2022)
+    + [Constant-Time Data Processing At a Secret Offset, Privacy and QUIC](https://research.nccgroup.com/2022/09/05/constant-time-data-processing-at-a-secret-offset-privacy-and-quic/)
+    + [数値計算の研究をしている学生が"数値計算に潜むとんでもないリスク"について話してみる](https://qiita.com/2754github/items/26a18fe01c8ad221f0ba)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

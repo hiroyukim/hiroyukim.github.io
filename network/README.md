@@ -92,6 +92,10 @@
     + [1GbpsのEthernetの実現手段を知ろう](https://ascii.jp/elem/000/000/431/431314/)
     + [QUIC の initial鍵生成に使用する initial_salt と QUIC version](https://momoka0122y.hatenablog.com/entry/2022/08/26/040830)
     + [HTTP/3の今と将来](https://docs.google.com/presentation/d/1zguVfx0ApC2IehcSp50-IXquWdekmXDwoJWomql_UOE/edit#slide=id.p)
+    + [HOWTO: bind to a non local address](https://codemonkeytips.blogspot.com/2011/07/howto-bind-to-non-local-address.html)
+    + [イラストで正しく理解するTLS 1.3の暗号技術](https://zenn.dev/herumi/articles/tls1_3_crypto)
+    + [3GPP NTN(非地上ネットワーク) 仕様解説](https://zenn.dev/nic/articles/fe6d218bb1800d)
+    + [HTTPS 証明書の Common Name の検証がしれっと禁止されていた件について](https://eng-blog.iij.ad.jp/archives/14820)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)

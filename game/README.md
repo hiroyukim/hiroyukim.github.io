@@ -16,3 +16,4 @@
     + [PC-6001 クロス開発環境](https://codeknowledge.livedoor.blog/archives/14714379.html)
     + [Unreal Engine5 Lumenの仕組みと肝心なところ](https://www.docswell.com/s/EpicGamesJapan/5EV87K-UE5_Lumen101)
     + [blenderジオメトリノード建物ジェネレータ公開しました](https://skywheel.booth.pm/items/4014205)
+    + [スプラトゥーンの非同期処理の話 ～なにがラグのせいなのか～](https://note.com/maktopia/n/n307369c9f10d)
