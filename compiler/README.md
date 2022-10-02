@@ -77,3 +77,5 @@
     + [c-compiler](https://github.com/hsjoihs/c-compiler)
     + [Zig 標準ライブラリで用意されているコレクション型をざっくり押さえる](https://zenn.dev/magurotuna/articles/zig-std-collections)
     + [The Lemon Parser Generator](https://sqlite.org/src/doc/trunk/doc/lemon.html)
+    + [2022年セキュリティ・キャンプL3（Cコンパイラゼミ）の会話ログを全て公開します](https://hsjoihs.hatenablog.com/entry/2022/09/17/014206)
+    + [Lessons from Writing a Compiler](https://borretti.me/article/lessons-writing-compiler)

@@ -321,6 +321,10 @@
     + [Crypto超入門](https://speakerdeck.com/ushigai/seccon-beginners-live-2022)
     + [Constant-Time Data Processing At a Secret Offset, Privacy and QUIC](https://research.nccgroup.com/2022/09/05/constant-time-data-processing-at-a-secret-offset-privacy-and-quic/)
     + [数値計算の研究をしている学生が"数値計算に潜むとんでもないリスク"について話してみる](https://qiita.com/2754github/items/26a18fe01c8ad221f0ba)
+    + [【計算結果が正しくない！？】案外知らない、計算誤差の話](https://qiita.com/MG_TANAKA/items/2d3d09e3a0b628c2204e)
+    + [表現可能関手を用いたメモ化の実装方法](https://iagoleal.com/posts/representable-memoize/)
+    + [拡散確率モデルと音声波形生成](https://speakerdeck.com/yumakoizumi/kuo-san-que-lu-moderutoyin-sheng-bo-xing-sheng-cheng)
+    + [両端優先度付きキューのInterval-Heap実装](https://natsugiri.hatenablog.com/entry/2016/10/10/035445)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

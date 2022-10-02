@@ -71,3 +71,4 @@
     + [劇場版「Ｇのレコンギスタ」富野由悠季総監督が考える幸せのあり方](https://animeanime.jp/article/2022/07/22/70958.html)
     + [ソフトウェアアーキテクチャの基礎](https://speakerdeck.com/snoozer05/sohutoueaakitekutiyafalseji-chu-software-architecture-in-a-nutshell)
     + [アンリアルエンジンで漫画背景できた](https://www.pixiv.net/artworks/100775245)
+    + [気高き「敗者」の物語。荒木飛呂彦の納得と重力。 ～『ジョジョの奇妙な冒険』第7部「スティール・ボール・ラン」](https://www.jigowatt121.com/entry/2022/09/28/183900)

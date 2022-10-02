@@ -756,3 +756,6 @@
     + [stringの比較でヌルポのpanicが発生する](https://budougumi0617.github.io/2021/03/31/go-string-null-pointer-panic/)
     + [Vulnerability Management for Go](https://go.dev/blog/vuln)
     + [golangで作るQUICプロトコル(HTTP3リクエストの送信と受信)](https://zenn.dev/satoken/articles/golang-quic-protocol3)
+    + [Goのdefer文を使うときに気をつけること](https://tech.yappli.io/entry/understanding-defer-in-go)
+    + [たのしいGoリフレクション: 変数アサイン ](https://future-architect.github.io/articles/20220921a/)
+    + [GoでGraphQLの静的解析ツールを作る](https://zenn.dev/sonatard/articles/ca764e39c6d257)

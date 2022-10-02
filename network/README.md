@@ -96,6 +96,8 @@
     + [イラストで正しく理解するTLS 1.3の暗号技術](https://zenn.dev/herumi/articles/tls1_3_crypto)
     + [3GPP NTN(非地上ネットワーク) 仕様解説](https://zenn.dev/nic/articles/fe6d218bb1800d)
     + [HTTPS 証明書の Common Name の検証がしれっと禁止されていた件について](https://eng-blog.iij.ad.jp/archives/14820)
+    + [tls-clienthello](https://github.com/netspooky/xx/blob/main/examples/tls-clienthello.xx)
+    + [平文のTCP/IPにおいて転送されたデータの信頼性を期待してはいけない](https://yamaz.hatenablog.com/entry/2018/03/03/214221)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)

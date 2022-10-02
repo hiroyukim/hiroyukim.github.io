@@ -118,6 +118,9 @@
     + [バッファオーバーフローってどんな攻撃？ C言語で見てみよう【伏石ちゃんは意図に反したい】](https://codezine.jp/article/detail/15842)
     + [C 言語プログラムから MIPS アセンブリを生成する方法とコンパイラによる最適化について](https://www8281uo.sakura.ne.jp/blog/?p=847)
     + [jread](https://github.com/naleksiev/jread)
+    + [GNU CoreUtils の、5倍速くなったという wc のソース](https://github.com/coreutils/coreutils/blob/master/src/wc_avx2.c)
+    + [改行コード(CR/LF)と改行文字と標準C](https://yohhoy.hatenadiary.jp/entry/20220902/p1)
+    + [Cosmopolitan](https://github.com/jart/cosmopolitan)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)
