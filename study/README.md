@@ -87,3 +87,4 @@
     + [Stable Diffusionの内容を理解するための情報・書籍](https://karaage.hatenadiary.jp/entry/2022/09/23/073000)
     + [研究の常識：論文を探せ！](http://xrobotlab.jp/2022/10/02/look-for-papers/)
     + [Lambda the Ultimate Pattern Factory](https://github.com/thma/LtuPatternFactory)
+    + [覚え書き: 先読み・後読みを含む正規表現の数学的定式化](https://zenn.dev/qnighy/articles/afddeb444f606f)

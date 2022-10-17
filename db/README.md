@@ -270,3 +270,4 @@
     + [An Overview of Query Optimization in Relational Systems](https://docs.google.com/presentation/d/1ruGYLRLeagkfv1gQBlmh_di7AviaSx0MJih4oH24AsY/edit#slide=id.p)
     + [RDBおける候補キーを求めるためのアルゴリズム](https://speakerdeck.com/boro1234/rdbokeruhou-bu-kiwoqiu-merutamenoarugorizumu)
     + [Amazon MemoryDB for Redisはどのように耐久性を保証しているか](https://hidetatz.io/articles/2021/11/19/amazon_memorydb_architecture_ja/)
+    + [ここがすごいぞyugabyteDB！～OSS版CloudSpanner～](https://tech-blog.rakus.co.jp/entry/20221014/yugabytedb)

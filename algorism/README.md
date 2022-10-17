@@ -325,6 +325,7 @@
     + [表現可能関手を用いたメモ化の実装方法](https://iagoleal.com/posts/representable-memoize/)
     + [拡散確率モデルと音声波形生成](https://speakerdeck.com/yumakoizumi/kuo-san-que-lu-moderutoyin-sheng-bo-xing-sheng-cheng)
     + [両端優先度付きキューのInterval-Heap実装](https://natsugiri.hatenablog.com/entry/2016/10/10/035445)
+    + [Facebookが開発した圧縮アルゴリズムZstandardについて調べた](https://blog.3qe.us/entry/2022/10/10/120114)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)
