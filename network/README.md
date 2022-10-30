@@ -99,6 +99,7 @@
     + [tls-clienthello](https://github.com/netspooky/xx/blob/main/examples/tls-clienthello.xx)
     + [平文のTCP/IPにおいて転送されたデータの信頼性を期待してはいけない](https://yamaz.hatenablog.com/entry/2018/03/03/214221)
     + [プロトコルスタックを写経してネットワークを完全に理解したかった日記](https://sititou70.github.io/%E3%83%97%E3%83%AD%E3%83%88%E3%82%B3%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E3%82%92%E5%86%99%E7%B5%8C%E3%81%97%E3%81%A6%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%92%E5%AE%8C%E5%85%A8%E3%81%AB%E7%90%86%E8%A7%A3%E3%81%97%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E6%97%A5%E8%A8%98/)
+    + [Analysis for the Differences Between Standard Congestion Control Schemes](https://www.ietf.org/archive/id/draft-nishida-tcpm-standard-cc-analysis-00.html)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)

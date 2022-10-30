@@ -31,3 +31,5 @@
     + [C++ vtables - Part 1 - Basics](https://shaharmike.com/cpp/vtable-part1/)
     + [メモリモデル？なにそれ？おいしいの？](https://yohhoy.hatenablog.jp/entry/2014/12/21/171035)
     + [プログラム解析入門](https://docs.google.com/presentation/d/1WHmCLeC5ZPiq2MBOQaZc-pNVWaJanx8eXAkViGl2zws/view#slide=id.p)
+    + [Unreal Engine 5から始める C++ & Blueprint](https://zenn.dev/posita33/books/ue5_starter_cpp_and_bp_001)
+    + [Level up your code with game programming patterns](https://resources.unity.com/games/level-up-your-code-with-game-programming-patterns)

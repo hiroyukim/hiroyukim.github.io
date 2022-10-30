@@ -575,3 +575,7 @@
     + [eBPFやLD_PRELOADを利用した共有ライブラリの関数フック](https://tech.tier4.jp/entry/2021/03/10/160000)
     + [Nature Remo SDKアップデートの軌跡](https://speakerdeck.com/tomoyuki/nature-remo-sdkatupudetonogui-ji)
     + [Kubernetes Threat Matrixの再構築およびFalcoによる攻撃検知の検証](https://engineering.mercari.com/blog/entry/20220928-kubernetes-threat-matrix-and-attack-detection-by-falco/)
+    + [クラウドネイティブな新しいネットワークコントローラをつくる](https://speakerdeck.com/hrk091/kuraudoneiteibunaxin-siinetutowakukontororawotukuru)
+    + [Why Ubuntu is the only supported distro](https://github.com/nextcloud-snap/nextcloud-snap/wiki/Why-Ubuntu-is-the-only-supported-distro)
+    + [Linuxのネイティブツールを悪用した攻撃方法に関する解説](https://www.trendmicro.com/ja_jp/research/22/j/how-malicious-actors-abuse-native-linux-tools-in-their-attacks.html)
+    + [How Wine works 101](https://werat.dev/blog/how-wine-works-101/)

@@ -761,3 +761,7 @@
     + [GoでGraphQLの静的解析ツールを作る](https://zenn.dev/sonatard/articles/ca764e39c6d257)
     + [image/png RGBA エンコーダの最適化](https://github.com/golang/go/commit/76e4833b7a3f1ab2d8f30e497d00809b1f6cf1e6)
     + [認知的複雑度から見るGo言語のイベントソーシング実装](https://speakerdeck.com/suzushin54/event-sourcing-with-go)
+    + [GoのTyped-nilの扱い](https://zenn.dev/nobonobo/articles/f554041aea1955)
+    + [Goでつまづいたところを仕様を見ながら理解してみる](https://ravineport.hatenablog.com/entry/2022/10/14/203939)
+    + [Deep dive into Vulnerability Management for Go](https://docs.google.com/presentation/d/1jtuK52vSPLNxzuSJ8LdPrJ2n1-UyY7bNXW7Irr1GEsA/edit#slide=id.p)
+

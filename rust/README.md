@@ -587,3 +587,6 @@
     + [Toward fearless cargo update](https://predr.ag/blog/toward-fearless-cargo-update/)
     + [RustでUEFIアプリのHello, world!](https://zebian.hatenablog.com/entry/2022/09/03/170425)
     + [WHY ASYNC RUST](https://blog.yoshuawuyts.com/why-async-rust/)
+    + [SQL Database Engine as a Library](https://github.com/gluesql/gluesql)
+    + [gh-sql](https://github.com/koba789/gh-sql)
+    + [The HTTP crash course nobody asked for](https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for)

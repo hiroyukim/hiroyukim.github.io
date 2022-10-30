@@ -271,3 +271,6 @@
     + [RDBおける候補キーを求めるためのアルゴリズム](https://speakerdeck.com/boro1234/rdbokeruhou-bu-kiwoqiu-merutamenoarugorizumu)
     + [Amazon MemoryDB for Redisはどのように耐久性を保証しているか](https://hidetatz.io/articles/2021/11/19/amazon_memorydb_architecture_ja/)
     + [ここがすごいぞyugabyteDB！～OSS版CloudSpanner～](https://tech-blog.rakus.co.jp/entry/20221014/yugabytedb)
+    + [A Survey of Cloud Database Systems](https://docs.google.com/presentation/d/12h5OcwUhaP_RMEA8QpLFAevrFbpgQYAW/edit#slide=id.p1)
+    + [史上最強のデータベース、SurrealDB](https://qiita.com/silane1001/items/795c3539675e588c2c4d)
+    + [Hasura, PostgreSQL, MySQL対応の速度改善ツールを作りました - GravityR](https://zenn.dev/mrasu/articles/70376e36891f9e)

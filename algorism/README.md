@@ -326,6 +326,9 @@
     + [拡散確率モデルと音声波形生成](https://speakerdeck.com/yumakoizumi/kuo-san-que-lu-moderutoyin-sheng-bo-xing-sheng-cheng)
     + [両端優先度付きキューのInterval-Heap実装](https://natsugiri.hatenablog.com/entry/2016/10/10/035445)
     + [Facebookが開発した圧縮アルゴリズムZstandardについて調べた](https://blog.3qe.us/entry/2022/10/10/120114)
+    + [ピクセルベースの NLP！「画像化テキスト」からの言語処理の最前線](https://ja.stateofaiguides.com/20221025-pixel-based-nlp/)
+    + [Why do tree-based models still outperform deep learning on tabular data?](https://arxiv.org/abs/2207.08815)
+    + [RSA暗号で実はpが素数でなかったら?](https://togetter.com/li/1955969)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)
