@@ -329,6 +329,9 @@
     + [ピクセルベースの NLP！「画像化テキスト」からの言語処理の最前線](https://ja.stateofaiguides.com/20221025-pixel-based-nlp/)
     + [Why do tree-based models still outperform deep learning on tabular data?](https://arxiv.org/abs/2207.08815)
     + [RSA暗号で実はpが素数でなかったら?](https://togetter.com/li/1955969)
+    + [ワードサイズの転倒数を O(log(w)²) 時間で求めるよ](https://rsk0315.hatenablog.com/entry/2022/10/13/005235)
+    + [はじめての機械学習(自分でデータセットを作る編)](https://zenn.dev/kaityo256/articles/my_first_machine_learning)
+    + [AIモデルから情報流出？学習データを復元する「Model Inversion Attack」を検証](https://www.nri-secure.co.jp/blog/model-inversion-attack-principles-and-risks)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

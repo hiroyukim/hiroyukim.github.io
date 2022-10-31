@@ -97,3 +97,6 @@
     + [統計学 標準演習100選 〜確率、推測統計、回帰、応用、数理統計学〜](https://www.hello-statisticians.com/practice_100)
     + [CS50 for Japanese: コンピュータサイエンスの入門](https://cs50.jp/)
     + [学習・研究用テキスト(最適化,線形計画法,内点法,数理計画法)](http://www.me.titech.ac.jp/~mizu_lab/text.html)
+    + [書籍を使った勉強のしかた](https://satoru-takeuchi.hatenablog.com/entry/2021/11/02/194459)
+    + [疫学や公衆衛生に関わる業務のための R](https://epirhandbook.com/jp/)
+    + [ほぼ筆を折っていた絵描きがイラストAIのおかげでまた絵を描けるようになった話](https://note.com/hirazi/n/na608977f837e)

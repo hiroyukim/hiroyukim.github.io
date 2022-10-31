@@ -579,3 +579,6 @@
     + [Why Ubuntu is the only supported distro](https://github.com/nextcloud-snap/nextcloud-snap/wiki/Why-Ubuntu-is-the-only-supported-distro)
     + [Linuxのネイティブツールを悪用した攻撃方法に関する解説](https://www.trendmicro.com/ja_jp/research/22/j/how-malicious-actors-abuse-native-linux-tools-in-their-attacks.html)
     + [How Wine works 101](https://werat.dev/blog/how-wine-works-101/)
+    + [シングルコアのコンテナにおけるJavaのベストプラクティス](https://rheb.hatenablog.com/entry/best-practices-java-single-core-containers)
+    + [Move a running process into a tmux session](https://xai.sh/2020/10/16/Move-running-process-into-tmux-session.html)
+    + [Device Tracking via Linux’s New TCP Source Port Selection Algorithm](https://arxiv.org/pdf/2209.12993.pdf)

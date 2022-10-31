@@ -274,3 +274,4 @@
     + [A Survey of Cloud Database Systems](https://docs.google.com/presentation/d/12h5OcwUhaP_RMEA8QpLFAevrFbpgQYAW/edit#slide=id.p1)
     + [史上最強のデータベース、SurrealDB](https://qiita.com/silane1001/items/795c3539675e588c2c4d)
     + [Hasura, PostgreSQL, MySQL対応の速度改善ツールを作りました - GravityR](https://zenn.dev/mrasu/articles/70376e36891f9e)
+    + [Queries for Finding Poorly-Designed MySQL Schemas and How to Fix Them](https://www.percona.com/blog/queries-for-finding-poorly-designed-mysql-schemas-and-how-to-fix-them/)

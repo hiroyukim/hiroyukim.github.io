@@ -590,3 +590,7 @@
     + [SQL Database Engine as a Library](https://github.com/gluesql/gluesql)
     + [gh-sql](https://github.com/koba789/gh-sql)
     + [The HTTP crash course nobody asked for](https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for)
+    + [NVIDIA GPU profiling with Rust](https://simbleau.github.io/blog/gpu-profiling-with-rust/)
+    + [Zero To Production In Rust](https://www.zero2prod.com/index.html?country=Japan&discount_code=VAT20)
+    + [Pelikan is Twitter's framework for developing cache services.](https://github.com/twitter/pelikan)
+    + [Brute forcing protected ZIP archives in Rust](https://agourlay.github.io/brute-forcing-protected-zip-rust/)

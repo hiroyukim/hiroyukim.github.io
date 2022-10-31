@@ -304,3 +304,6 @@
     + [Cloudflare Workers and micro-frontends: made for one another](https://blog.cloudflare.com/better-micro-frontends/)
     + [Designing Event-Driven Architectures (Japanese) 日本語字幕版](https://explore.skillbuilder.aws/learn/course/external/view/elearning/14319/designing-event-driven-architectures-japanese)
     + [コードの複雑度をあげる Pull Requests を GitHub Actions で止めよう](https://zenn.dev/stafes_blog/articles/a9c632e7794aa9)
+    + [UUID v6, v7, v8 : タイムスタンプでソートできる新しい UUID のドラフト仕様](https://kakakakakku.hatenablog.com/entry/2022/10/31/082041)
+    + [自作マークアップ言語からはじめる自作ブログ](https://zenn.dev/momeemt/articles/developed-half-scratch-blog)
+    + [BaggageをREST/gRPC/SQSで伝播できるようにした話](https://qiita.com/behiron/items/cc02e77ed41103f4a195)
