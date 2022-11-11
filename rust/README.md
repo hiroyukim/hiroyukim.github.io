@@ -594,3 +594,5 @@
     + [Zero To Production In Rust](https://www.zero2prod.com/index.html?country=Japan&discount_code=VAT20)
     + [Pelikan is Twitter's framework for developing cache services.](https://github.com/twitter/pelikan)
     + [Brute forcing protected ZIP archives in Rust](https://agourlay.github.io/brute-forcing-protected-zip-rust/)
+    + [Relational database with Datalog as the query language](https://github.com/cozodb/cozo)
+    + [rust port scan](https://github.com/RustScan/RustScan)
