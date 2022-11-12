@@ -582,3 +582,8 @@
     + [シングルコアのコンテナにおけるJavaのベストプラクティス](https://rheb.hatenablog.com/entry/best-practices-java-single-core-containers)
     + [Move a running process into a tmux session](https://xai.sh/2020/10/16/Move-running-process-into-tmux-session.html)
     + [Device Tracking via Linux’s New TCP Source Port Selection Algorithm](https://arxiv.org/pdf/2209.12993.pdf)
+    + [RtlAllocateHeap を用いたデバッガ回避テクニック](https://ameblo.jp/reverse-eg-mal-memo/entry-12773724929.html)
+    + [eBPFで正規表現を使えるようにするカーネルモジュール](https://github.com/G-Core/linux-regex-module)
+    + [カーネルパラメーターサイドからの物語](https://sysdig.jp/blog/kernel-parameters-falco/)
+    + [PUI PUI Linux](https://github.com/Code-Hex/puipui-linux)
+    + [Linux カーネル 最近のコンテナ関連新機能](https://speakerdeck.com/tenforward/techfeed-experts-night-number-7)

@@ -332,6 +332,8 @@
     + [ワードサイズの転倒数を O(log(w)²) 時間で求めるよ](https://rsk0315.hatenablog.com/entry/2022/10/13/005235)
     + [はじめての機械学習(自分でデータセットを作る編)](https://zenn.dev/kaityo256/articles/my_first_machine_learning)
     + [AIモデルから情報流出？学習データを復元する「Model Inversion Attack」を検証](https://www.nri-secure.co.jp/blog/model-inversion-attack-principles-and-risks)
+    + [転置インデックスの圧縮技法](https://takuya-a.net/blog/inverted-index-compression-techniques/)
+    + [区間スケジューリング問題とGo言語におけるライブラリを使った優先度付きキューの実装](https://zenn.dev/manaty226/articles/64b2c6c9082e67)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

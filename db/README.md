@@ -275,3 +275,6 @@
     + [史上最強のデータベース、SurrealDB](https://qiita.com/silane1001/items/795c3539675e588c2c4d)
     + [Hasura, PostgreSQL, MySQL対応の速度改善ツールを作りました - GravityR](https://zenn.dev/mrasu/articles/70376e36891f9e)
     + [Queries for Finding Poorly-Designed MySQL Schemas and How to Fix Them](https://www.percona.com/blog/queries-for-finding-poorly-designed-mysql-schemas-and-how-to-fix-them/)
+    + [AlloyDB for PostgreSQL の仕組み: データベース対応のインテリジェントなストレージ](https://cloud.google.com/blog/ja/products/databases/alloydb-for-postgresql-intelligent-scalable-storage)
+    + [CustomScan API を使い倒して俺様 DB エンジンを実装する](https://www.slideshare.net/kaigai/20221111jpugcustomscanapi)
+    + [BigQueryによる最大内積検索の実装](https://blog.recruit.co.jp/data/articles/bigquery_vector_search/)

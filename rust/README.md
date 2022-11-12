@@ -596,3 +596,6 @@
     + [Brute forcing protected ZIP archives in Rust](https://agourlay.github.io/brute-forcing-protected-zip-rust/)
     + [Relational database with Datalog as the query language](https://github.com/cozodb/cozo)
     + [rust port scan](https://github.com/RustScan/RustScan)
+    + [What is blessed.rs?](https://blessed.rs/crates)
+    + [git](https://github.com/Byron/gitoxide)
+    + [Rustのopen traitシステム dyno (RFC3192) を読む](https://zenn.dev/qnighy/articles/cd687a56fa069c)
