@@ -31,3 +31,4 @@
     + [【CVE-2022-0778】OpenSSLの無限ループの脆弱性の原因解説！](https://zenn.dev/kurenaif/articles/ec2eec4ec7ec52)
     + [RSAに対するフェルマー攻撃](https://qiita.com/tnakagawa/items/d87fd8459ec9e1ce6844)
     + [DNSリバインディング(DNS Rebinding)対策総まとめ](https://blog.tokumaru.org/2022/05/dns-rebinding-protection.html)
+    + [OpenSSLの「重大な」脆弱性を徹底解説](https://qiita.com/SnykSec/items/8c1996fbb4ab14dec484)

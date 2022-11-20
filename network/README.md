@@ -102,6 +102,7 @@
     + [Analysis for the Differences Between Standard Congestion Control Schemes](https://www.ietf.org/archive/id/draft-nishida-tcpm-standard-cc-analysis-00.html)
     + [tcpdumpとiptablesで理解するTCPのキープアライブ(TCP keepalive)](https://qiita.com/keikmobile/items/5f2f427baf9121ccf40f)
     + [有望なTCPの代替としてHoma](https://github.com/PlatformLab/Homa)
+    + [今からでも遅くない pyATS でネットワーク自動化入門 2021版](https://qiita.com/tahigash/items/05a2cad4365ec1a47f55)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)

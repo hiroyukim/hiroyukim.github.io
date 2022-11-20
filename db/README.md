@@ -278,3 +278,4 @@
     + [AlloyDB for PostgreSQL の仕組み: データベース対応のインテリジェントなストレージ](https://cloud.google.com/blog/ja/products/databases/alloydb-for-postgresql-intelligent-scalable-storage)
     + [CustomScan API を使い倒して俺様 DB エンジンを実装する](https://www.slideshare.net/kaigai/20221111jpugcustomscanapi)
     + [BigQueryによる最大内積検索の実装](https://blog.recruit.co.jp/data/articles/bigquery_vector_search/)
+    + [AWSマネージドサービス+Terraformを活用してDBオペレーションをより安全&簡単に（pt-oscの例）](https://developers.freee.co.jp/entry/improvements-of-online-schema-change-operation)

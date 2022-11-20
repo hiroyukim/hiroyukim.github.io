@@ -765,4 +765,6 @@
     + [Goでつまづいたところを仕様を見ながら理解してみる](https://ravineport.hatenablog.com/entry/2022/10/14/203939)
     + [Deep dive into Vulnerability Management for Go](https://docs.google.com/presentation/d/1jtuK52vSPLNxzuSJ8LdPrJ2n1-UyY7bNXW7Irr1GEsA/edit#slide=id.p)
     + [並列化したgo testでDockerコンテナを効率的に使用するためのパッケージを作った](https://zenn.dev/daichitakahashi/articles/9e091863f158b7)
-
+    + [Go言語のBasic Interfaceはcomparableを満たすようになる(でも実装するようにはならない)](https://zenn.dev/nobishii/articles/basic-interface-is-comparable)
+    + [golang実装のWebクローリングツール](https://github.com/projectdiscovery/katana)
+    + [公式のスタイルガイド](https://google.github.io/styleguide/go/)

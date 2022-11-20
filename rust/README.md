@@ -599,3 +599,4 @@
     + [What is blessed.rs?](https://blessed.rs/crates)
     + [git](https://github.com/Byron/gitoxide)
     + [Rustのopen traitシステム dyno (RFC3192) を読む](https://zenn.dev/qnighy/articles/cd687a56fa069c)
+    + [Writing NES Emulator in Rustをやった](https://zenn.dev/razokulover/articles/1191ca55f9f22e)

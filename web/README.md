@@ -308,3 +308,4 @@
     + [自作マークアップ言語からはじめる自作ブログ](https://zenn.dev/momeemt/articles/developed-half-scratch-blog)
     + [BaggageをREST/gRPC/SQSで伝播できるようにした話](https://qiita.com/behiron/items/cc02e77ed41103f4a195)
     + [7つの入金外部サービスと連携して分かった実践的な”状態管理”設計パターン3選](https://speakerdeck.com/shoheimitani/7tunoru-jin-wai-bu-sabisutolian-xi-sitefen-katutashi-jian-de-na-zhuang-tai-guan-li-she-ji-patan3xuan)
+    + [Git の最新アップデートから考える開発手法の潮流](https://speakerdeck.com/yuukiyo/trends-in-development-methodology-from-the-latest-git-updates)

@@ -587,3 +587,5 @@
     + [カーネルパラメーターサイドからの物語](https://sysdig.jp/blog/kernel-parameters-falco/)
     + [PUI PUI Linux](https://github.com/Code-Hex/puipui-linux)
     + [Linux カーネル 最近のコンテナ関連新機能](https://speakerdeck.com/tenforward/techfeed-experts-night-number-7)
+    + [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
+    + [Linux kernel memory barriers](https://docs.kernel.org/core-api/wrappers/memory-barriers.html)
