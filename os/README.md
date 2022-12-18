@@ -589,3 +589,5 @@
     + [Linux カーネル 最近のコンテナ関連新機能](https://speakerdeck.com/tenforward/techfeed-experts-night-number-7)
     + [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
     + [Linux kernel memory barriers](https://docs.kernel.org/core-api/wrappers/memory-barriers.html)
+    + [【malloc自作のために】共有ライブラリ差し替えとmain()の前処理を理解する](https://zenn.dev/mfunyu/articles/malloc-dynamic-link)
+    + [eBPFに3日で入門した話](https://caddi.tech/archives/3880)

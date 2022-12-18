@@ -102,3 +102,4 @@
     + [ほぼ筆を折っていた絵描きがイラストAIのおかげでまた絵を描けるようになった話](https://note.com/hirazi/n/na608977f837e)
     + [手っ取り早く実用的なプログラミング言語を作るために](https://blog.miz-ar.info/2022/11/creating-a-programming-language-quickly/)
     + [微積分を発明できなかった理由](https://www.jstage.jst.go.jp/article/jhsj/26/164/26_193/_pdf)
+    + [先生の「まずは論文の骨子を箇条書きで書いてみて」に対応する: 論文執筆の第一歩](https://shunk031.hatenablog.com/entry/lets-write-outline)

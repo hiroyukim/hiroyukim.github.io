@@ -334,6 +334,10 @@
     + [AIモデルから情報流出？学習データを復元する「Model Inversion Attack」を検証](https://www.nri-secure.co.jp/blog/model-inversion-attack-principles-and-risks)
     + [転置インデックスの圧縮技法](https://takuya-a.net/blog/inverted-index-compression-techniques/)
     + [区間スケジューリング問題とGo言語におけるライブラリを使った優先度付きキューの実装](https://zenn.dev/manaty226/articles/64b2c6c9082e67)
+    + [チョットワカル【QR分解】](https://qiita.com/Sharkkii/items/cebba1bc538fdaaa9fb5)
+    + [数値計算 Advent Calendar 2022](https://qiita.com/advent-calendar/2022/numerical_analysis)
+    + [RSA署名を正しく理解する](https://zenn.dev/herumi/articles/rsa-signature)
+    + [数理最適化 Advent Calendar 2022](https://qiita.com/advent-calendar/2022/mathematical-optimization)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)

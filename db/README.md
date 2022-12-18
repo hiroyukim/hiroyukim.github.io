@@ -279,3 +279,6 @@
     + [CustomScan API を使い倒して俺様 DB エンジンを実装する](https://www.slideshare.net/kaigai/20221111jpugcustomscanapi)
     + [BigQueryによる最大内積検索の実装](https://blog.recruit.co.jp/data/articles/bigquery_vector_search/)
     + [AWSマネージドサービス+Terraformを活用してDBオペレーションをより安全&簡単に（pt-oscの例）](https://developers.freee.co.jp/entry/improvements-of-online-schema-change-operation)
+    + [ローカル開発環境でMySQL5.7を使っているときにtable_open_cacheを少なくすると、なぜLost connection to MySQL serverが起きなくなるか](https://blog.shibayu36.org/entry/2022/12/13/115054)
+    + [ST_FIELD_INFO の順番がやっと何のことだか理解したはなし](https://yoku0825.blogspot.com/2022/12/stfieldinfo.html)
+    + [クエリログを使ったPostgreSQLの負荷テスト](https://tech.kanmu.co.jp/entry/2022/12/04/131536)

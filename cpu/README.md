@@ -86,6 +86,7 @@
     + [UMAP on RAPIDS (15x Speedup)](https://medium.com/the-artificial-impostor/umap-on-rapids-15x-speedup-f4eabfbdd978)
     + [Filtering a Vector with SIMD Instructions](https://quickwit.io/blog/filtering%20a%20vector%20with%20simd%20instructions%20avx-2%20and%20avx-512/)
     + [ZynqMPを理解しよう](https://zenn.dev/ryuz88/books/zynqmp_study)
+    + [Sorting with SIMD](https://tweedegolf.nl/en/blog/79/sorting-with-simd)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)
