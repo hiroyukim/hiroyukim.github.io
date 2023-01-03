@@ -79,3 +79,6 @@
     + [The Lemon Parser Generator](https://sqlite.org/src/doc/trunk/doc/lemon.html)
     + [2022年セキュリティ・キャンプL3（Cコンパイラゼミ）の会話ログを全て公開します](https://hsjoihs.hatenablog.com/entry/2022/09/17/014206)
     + [Lessons from Writing a Compiler](https://borretti.me/article/lessons-writing-compiler)
+    + [397 行で tiny basic のインタプリタを作る - Qiita](https://qiita.com/iigura/items/3cad19fd38def582c342)
+    + [外部関数呼び出し規約を考慮した累積レジスタ割り付け - Qiita](https://qiita.com/abo_junghichi/items/6f5b0105603e57177eb9)
+    + [LL(1)言語を作るのは難しい、しかしLL(1)言語は素晴らしい](https://zenn.dev/ryo33/articles/1c77354211c2e9)

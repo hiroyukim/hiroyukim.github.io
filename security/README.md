@@ -34,3 +34,5 @@
     + [OpenSSLの「重大な」脆弱性を徹底解説](https://qiita.com/SnykSec/items/8c1996fbb4ab14dec484)
     + [SECCON Beginners CTF 2022 Writeup](https://hack.nikkei.com/blog/ctf4b202206/)
     + [Hack The Box Business CTF 2022 - Rouge (Forensics) Writeup （暗号化されたSMBトラフィックの復号）](https://blog.nflabs.jp/entry/2022/12/12/094816)
+    + [【悪用厳禁】ファイルアップロード機能を利用してサイトをハッキングする方法を中学生が解説](https://note.com/activetk5929/n/n83a55d929992)
+    + [GitHub - Z4nzu/hackingtool: ALL IN ONE Hacking Tool For Hackers](https://github.com/Z4nzu/hackingtool)

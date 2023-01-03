@@ -87,6 +87,8 @@
     + [Filtering a Vector with SIMD Instructions](https://quickwit.io/blog/filtering%20a%20vector%20with%20simd%20instructions%20avx-2%20and%20avx-512/)
     + [ZynqMPを理解しよう](https://zenn.dev/ryuz88/books/zynqmp_study)
     + [Sorting with SIMD](https://tweedegolf.nl/en/blog/79/sorting-with-simd)
+    + [GitHub - cyring/CoreFreq: CoreFreq is a CPU monitoring software designed for the 64-bits Processors.](https://htn.to/26Zu9vdfAi)
+    + [TangNano9kにRISC-Vを実装(移植)した](https://zenn.dev/yutyan/articles/tang-nano9k-cpu)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)

@@ -768,3 +768,8 @@
     + [Go言語のBasic Interfaceはcomparableを満たすようになる(でも実装するようにはならない)](https://zenn.dev/nobishii/articles/basic-interface-is-comparable)
     + [golang実装のWebクローリングツール](https://github.com/projectdiscovery/katana)
     + [公式のスタイルガイド](https://google.github.io/styleguide/go/)
+    + [Profiling and Execution Tracing in Go](https://teivah.medium.com/profiling-and-execution-tracing-in-go-a5e646970f5b)
+    + [graceful shutdown可能な非同期リトライするGoライブラリをOSSとして作った話 - Qiita](https://htn.to/43tTZKzyby)
+    + [RackとGoのhttp.Clientの相性問題について](https://zenn.dev/catatsuy/articles/64e805a05505d1)
+    + [Go の HTTP クライアントで mTLS を利用する](https://zenn.dev/shiguredo/articles/go-mtls-cloudflare-mtls)
+    + [Goでスタイリッシュにエラーをラップする方法を学んだ - カミナシ エンジニアブログ](https://kaminashi-developer.hatenablog.jp/entry/2022/12/15/093000)

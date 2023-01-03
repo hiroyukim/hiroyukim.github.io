@@ -282,3 +282,8 @@
     + [ローカル開発環境でMySQL5.7を使っているときにtable_open_cacheを少なくすると、なぜLost connection to MySQL serverが起きなくなるか](https://blog.shibayu36.org/entry/2022/12/13/115054)
     + [ST_FIELD_INFO の順番がやっと何のことだか理解したはなし](https://yoku0825.blogspot.com/2022/12/stfieldinfo.html)
     + [クエリログを使ったPostgreSQLの負荷テスト](https://tech.kanmu.co.jp/entry/2022/12/04/131536)
+    + [How does a relational database execute SQL statements and prepared statements - Vlad Mihalcea](https://vladmihalcea.com/relational-database-sql-prepared-statements/)
+    + [GitHub - marsupialtail/quokka: Open source SQL engine in Python](http://github.com/marsupialtail/quokka)
+    + [Database Pages — A deep dive](https://medium.com/@hnasr/database-pages-a-deep-dive-38cdb2c79eb5)
+    + [Writing a disk-based key-value store in Golang](https://mrkaran.dev/posts/barreldb/)
+    + [Building data-centric apps with a reactive relational database](https://riffle.systems/essays/prelude/)

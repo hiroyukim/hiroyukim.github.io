@@ -46,3 +46,5 @@
     + [The 10x Debugger For your IntelliJ](https://www.bug.video/)
     + [vGDB | Visual Studio Code GDB Debug Adapter](https://github.com/penagos/vgdb)
     + [Dev Container が VSCode から CLI にもやって来た](https://zenn.dev/hankei6km/articles/devcontainers-in-cli-ci)
+    + [次世代のノートテーキングツールである Obsidian を使って Zenn で記事や本を作ろう!](https://zenn.dev/estra/books/obsidian-dot-zenn)
+    + [GitHub - lite-xl/lite-xl: A lightweight text editor written in Lua](https://htn.to/bhACB4nnWs)

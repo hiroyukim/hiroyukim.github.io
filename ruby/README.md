@@ -21,3 +21,4 @@
     + [Ruby 2.7のここがすごい！ パターンマッチ、コンパクションGCなどをリリースマネージャーに聞いた](https://employment.en-japan.com/engineerhub/entry/2019/12/26/103000)
     + [CoWはコウ可視化するんやで](https://udzura.hatenablog.jp/entry/2021/09/25/013327)
     + [RubyKaigi takeoutでRuby to BPF compilerの話をした話](https://udzura.hatenablog.jp/entry/2021/12/02/124654)
+    + [HTTP server in Ruby 3 - Fibers & Ractors](https://www.dmitry-ishkov.com/2021/07/http-server-in-ruby-3-fibers-ractors.html)

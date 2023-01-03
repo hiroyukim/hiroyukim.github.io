@@ -27,3 +27,4 @@
     + [OpenJDK の Shenandoah GC がスレッドごとのスタックを並行に走査することで停止時間を改善した話](https://developers.redhat.com/articles/2021/09/16/shenandoah-openjdk-17-sub-millisecond-gc-pauses#)
     + [JavaがDockerコンテナ内でどのようにCPU数、メモリサイズを取得しているのかを調べてみる](https://kazuhira-r.hatenablog.com/entry/2022/01/05/142023)
     + [クラウドネイティブ環境におけるJavaチューニングの進め方 ](https://techblog.yahoo.co.jp/entry/2022080330326593/?cpt_n=BlogPR&cpt_m=lnk&cpt_s=twitter)
+    + [JavaProfiling Async-profiler - manual by use cases](https://krzysztofslusarski.github.io/2022/12/12/async-manual.html)
