@@ -325,4 +325,18 @@
     + [VS CodeのRemote DevelopmentでSSHアクセスすると接続先の高負荷状態が続く問題と対応 - zaki work log](https://zaki-hmkc.hatenablog.com/entry/2021/01/06/230727)
     + [Cloud RunのJavaの起動速度を60%改善した](https://zenn.dev/koduki/articles/93a5eb4ee41fa0)
     + [Webパフォーマンス高速化とこれからのアーキテクチャ](https://htn.to/AVQT4vuMcU)
+    + [Why Twitter Didn’t Go Down: From a Real Twitter SRE](https://matthewtejo.substack.com/p/why-twitter-didnt-go-down-from-a)
+    + [GitHub - Cysharp/MessagePipe: High performance in-memory/distributed messaging pipeline for .NET and Unity.](https://github.com/Cysharp/MessagePipe)
+    + [Rook/Cephストレージシステムを開発しながらupstream OSSに成果を還元してきた取り組み](https://speakerdeck.com/sat/cephsutorezisisutemuwokai-fa-sinagaraupstream-ossnicheng-guo-wohuan-yuan-sitekitaqu-rizu-mi)
+    + [M1 Macでnginx+LibreSSLがbuildできるようになりました（＋LibreSSLの紹介）](https://zenn.dev/catatsuy/articles/11150ec88f9f4f)
+    + [The Software Pro's Best Kept Secret.](https://codecrafters.io/)
+    + [RailsConf 2017: Perusing the Rails Source Code - A Beginners Guide by Alex Kitchens](https://www.youtube.com/watch?v=Q_MpGRfnY5s)
+    + [Client Vs Server Side Vulnerabilities](https://gowthams.gitbook.io/bughunter-handbook/client-vs-server-side-vulnerabilities)
+    + [GitHub - thangchung/go-coffeeshop: ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment](https://github.com/thangchung/go-coffeeshop)
+    + [DNSの弱点を振り返り、今後の針路について考える～ランチのおともにDNS～](https://jprs.jp/tech/material/iw2022-lunch-L6-01.pdf)
+    + [Web Runtime](https://speakerdeck.com/dynamis/web-runtime)
+    + [Raft + Redis な内製Redisサーバの紹介 - Mirrativ Tech Blog](https://htn.to/3taxSub9EA)
+    + [プログラミング初心者はgit commitする前に必ずdiffを自分でレビューするクセを付けよう - give IT a try](https://blog.jnito.com/entry/2021/01/30/172607)
+    + [Writing Better Integration Tests with RAII](https://notado.substack.com/p/writing-better-integration-tests)
+
 

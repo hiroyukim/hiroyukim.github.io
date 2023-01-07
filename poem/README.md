@@ -74,3 +74,4 @@
     + [気高き「敗者」の物語。荒木飛呂彦の納得と重力。 ～『ジョジョの奇妙な冒険』第7部「スティール・ボール・ラン」](https://www.jigowatt121.com/entry/2022/09/28/183900)
     + [登さん、LAPRASをどう思いますか？そしてエンジニアは今後どうすべきですか？](https://note.lapras.com/interview/dnobori/)
     + [《新海誠監督インタビュー》“三流SF”のような現実の中で僕らが出来ること | 文春オンライン](https://bunshun.jp/articles/-/36462?utm_source=twitter.com&utm_medium=social&utm_campaign=socialLink)
+    + [【藤津亮太の「新・主人公の条件」】第32回　「ぼっち・ざ・ろっく」後藤ひとり“ぼっち”](https://anime.eiga.com/news/column/fujitsu_joken/117319/)

@@ -103,6 +103,9 @@
     + [tcpdumpとiptablesで理解するTCPのキープアライブ(TCP keepalive)](https://qiita.com/keikmobile/items/5f2f427baf9121ccf40f)
     + [有望なTCPの代替としてHoma](https://github.com/PlatformLab/Homa)
     + [今からでも遅くない pyATS でネットワーク自動化入門 2021版](https://qiita.com/tahigash/items/05a2cad4365ec1a47f55)
+    + [1時間で学び直すDNSの仕組みのキホン【Internet Week Basic オンデマンド】](https://www.youtube.com/watch?v=M10upNHjLh8)
+    + [スプラトゥーン3の通信に欠かせない、UDPとNAT越えを理解しよう](https://xtech.nikkei.com/atcl/nxt/column/18/02253/110900001/)
+    + [Netlinkと友達になろう - ネットワークは砕けない](https://eniyo0.hatenablog.com/entry/2022/11/23/180135)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)

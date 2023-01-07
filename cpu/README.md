@@ -89,6 +89,9 @@
     + [Sorting with SIMD](https://tweedegolf.nl/en/blog/79/sorting-with-simd)
     + [GitHub - cyring/CoreFreq: CoreFreq is a CPU monitoring software designed for the 64-bits Processors.](https://htn.to/26Zu9vdfAi)
     + [TangNano9kにRISC-Vを実装(移植)した](https://zenn.dev/yutyan/articles/tang-nano9k-cpu)
+    + [Home-Built CPU Runs With Home-Built Toolchain](https://hackaday.com/2022/11/22/home-built-cpu-runs-with-home-built-toolchain/)
+    + [なぜ違う値を見たのかーー並列実行におけるCPUの動作 - ユニファ開発者ブログ](https://htn.to/37SuewmTqx)
+    + [GitHub - riscv/riscv-cfi: This repo holds the work area and revisions of the RISC-V CFI (Shadow Stack and Landing Pads) specifications. CFI defines the privileged and unprivileged ISA extensions that can be used by privileged and unprivileged programs to protect the integrity of their control-flow.](https://github.com/riscv/riscv-cfi)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)

@@ -33,3 +33,4 @@
     + [プログラム解析入門](https://docs.google.com/presentation/d/1WHmCLeC5ZPiq2MBOQaZc-pNVWaJanx8eXAkViGl2zws/view#slide=id.p)
     + [Unreal Engine 5から始める C++ & Blueprint](https://zenn.dev/posita33/books/ue5_starter_cpp_and_bp_001)
     + [Level up your code with game programming patterns](https://resources.unity.com/games/level-up-your-code-with-game-programming-patterns)
+    + [SEC BOOKS：ESCR C++ Ver. 2.0：【改訂版】組込みソフトウェア開発向けコーディング作法ガイド［C++言語版］ Ver. 2.0：IPA 独立行政法人 情報処理推進機構](https://www.ipa.go.jp/sec/publish/tn16-007.html)

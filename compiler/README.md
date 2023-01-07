@@ -82,3 +82,7 @@
     + [397 行で tiny basic のインタプリタを作る - Qiita](https://qiita.com/iigura/items/3cad19fd38def582c342)
     + [外部関数呼び出し規約を考慮した累積レジスタ割り付け - Qiita](https://qiita.com/abo_junghichi/items/6f5b0105603e57177eb9)
     + [LL(1)言語を作るのは難しい、しかしLL(1)言語は素晴らしい](https://zenn.dev/ryo33/articles/1c77354211c2e9)
+    + [Compiling Brainfuck code - Part 1: A Optimized Interpreter](https://rodrigodd.github.io/2022/10/21/bf_compiler-part1.html)
+    + [コンパイル技法: パターンマッチ](https://zenn.dev/blackenedgold/books/compiling-pattern-matching)
+    + [自作したRISC-V向けCコンパイラでセルフホストまでこぎつけた - 詩と創作・思索のひろば](https://htn.to/GRabApBve5)
+    + [既存言語のミニ版ぽいものまとめた](https://blog.uta8a.net/post/2022-11-26-minlang/)
