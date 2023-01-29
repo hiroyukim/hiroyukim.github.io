@@ -632,3 +632,8 @@
     + [Lineiform, a meta-JIT library for Rust interpreters | Red Vice](https://redvice.org/2022/lineiform-rust-meta-jit/)
     + [Rustによる言語内x86_64アセンブラのAPIデザインと実装](https://zenn.dev/yubrot/articles/6d9b0eb95f412b)
     + [Rustでクラスを表すと](https://zenn.dev/qnighy/articles/830a1b0d51acbe)
+    + [Writing a container in Rust](https://litchipi.github.io/series/container_in_rust)
+    + [GitHub - KOBA789/flb-plugin: Fluent Bit plugin binding for Rust](https://github.com/KOBA789/flb-plugin)
+    + [crates.io: Rust Package Registry](http://crates.io)
+    + [自作のRust製エミュレーターをWebブラウザーで動くようにした](https://zenn.dev/tanakh/articles/rust-emulator-in-browser)
+    + [Cover - Effective Rust](https://lurklurk.org/effective-rust/cover.html)

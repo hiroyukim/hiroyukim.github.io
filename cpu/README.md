@@ -92,6 +92,8 @@
     + [Home-Built CPU Runs With Home-Built Toolchain](https://hackaday.com/2022/11/22/home-built-cpu-runs-with-home-built-toolchain/)
     + [なぜ違う値を見たのかーー並列実行におけるCPUの動作 - ユニファ開発者ブログ](https://htn.to/37SuewmTqx)
     + [GitHub - riscv/riscv-cfi: This repo holds the work area and revisions of the RISC-V CFI (Shadow Stack and Landing Pads) specifications. CFI defines the privileged and unprivileged ISA extensions that can be used by privileged and unprivileged programs to protect the integrity of their control-flow.](https://github.com/riscv/riscv-cfi)
+    + [RISC-VなGPGPUであるVortexを深堀する (その6) - Vengineerの戯言](https://vengineer.hatenablog.com/entry/2022/10/06/090000)
+    + [続CPUとは何か - ハードウェアエミュレータから見たCPU](https://fortee.jp/phpcon-2022/proposal/c184ec3f-27dd-4e2c-a51c-6b7608b46d2a)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)

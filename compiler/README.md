@@ -86,3 +86,4 @@
     + [コンパイル技法: パターンマッチ](https://zenn.dev/blackenedgold/books/compiling-pattern-matching)
     + [自作したRISC-V向けCコンパイラでセルフホストまでこぎつけた - 詩と創作・思索のひろば](https://htn.to/GRabApBve5)
     + [既存言語のミニ版ぽいものまとめた](https://blog.uta8a.net/post/2022-11-26-minlang/)
+    + [The Super Tiny Compiler ではじめるコンパイラ入門](https://zenn.dev/ryo_kawamata/articles/302577a69c06b7)

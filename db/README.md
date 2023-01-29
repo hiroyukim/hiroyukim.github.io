@@ -294,3 +294,8 @@
     + [大きめのテーブルにカラムやインデックスを追加する際の注意 - LukeSilvia’s diary](https://lukesilvia.hatenablog.com/entry/20090315/p1)
     + [オンディスク 並行Skip List を作ってみた - Qiita](https://qiita.com/ryo_grid/items/662ed4a069e4b9064dff)
     + [Databases in 2022: A Year in Review - OtterTune](https://ottertune.com/blog/2022-databases-retrospective/)
+    - [PostgreSQL15の最新機能を解説してみる](https://zenn.dev/stafes/articles/ikkitang-1e9f724c383969)
+    - [MySQL: Local and distributed storage](https://blog.koehntopp.info/2022/09/27/mysql-local-and-distributed-storage.html)
+    - [mysqlコマンドラインクライアントって、自分の出力がパイプかどうかどうやって判定してるんだろ](https://gist.github.com/yoku0825/2629031b69c06377f4dd5b5dc7552ef3)
+    - [データベース自作入門のソースコード](https://github.com/starpos/develop-transaction-system)
+    - [mysqldump と repair with keycache - いちいの日記](https://ichii386.hatenablog.com/entry/20070924/1190610994)

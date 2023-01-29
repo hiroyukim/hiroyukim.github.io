@@ -125,4 +125,9 @@
     + [ECMAScript仕様書を誰でも読めるようにする技術を求めて](https://docs.google.com/presentation/d/1ZxLH48-HVYUNfU--Byeweyu3Tzho3F7caNghGsBFkyw/edit?usp=sharing)
     + [アニメータになりたい人へ](https://twitter.com/goodsleepy2/status/1587802443920076802/photo/1)
     + [【独学】40日でCISSPに合格した勉強方法や学習ログ](https://muchipopo.com/it/cissp/)
+    + [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
+    + [【Deep Learning研修（発展）】データ生成・変換のための機械学習　第７回前編「Diffusion models」](https://youtu.be/10ki2IS55Q4)
+    + [やる夫で学ぶディジタル信号処理](http://www.ic.is.tohoku.ac.jp/~swk/lecture/yaruodsp/main.html)
+    + [セキュリティ・キャンプ2022：B3 Policy as Code入門](https://docs.google.com/presentation/d/1dk4l50A9G7L4wYRmnC-93CLw9cBLjoE1m_9zp4BNTt0/edit#slide=id.gc6f73a04f_0_0)
+    + [技術文書の書き方](https://gist.github.com/ymmt2005/d2c152bb7179d07015f336b1a0582679)
 
