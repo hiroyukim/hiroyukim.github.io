@@ -779,3 +779,4 @@
     + [GitHub - felixge/fgtrace](https://github.com/felixge/fgtrace)
     + [至高のGoプラグイン用ツールを作った - knqyf263's blog](https://knqyf263.hatenablog.com/entry/2022/08/30/052303)
     + [Fixing Memory Exhaustion Bugs in My Golang Web App](https://mtlynch.io/notes/picoshare-perf/)
+    + [FlameScope for Go](https://blog.felixge.de/flamescope-for-go/)

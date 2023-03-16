@@ -354,5 +354,7 @@
     + [メルカリWebのマイクロサービス化、その4年](https://engineering.mercari.com/blog/entry/20220830-15d4e8480e/)
     + [DNS前史：HOSTS.TXTとドメイン名ができるまで](https://heartbeats.jp/hbblog/2022/08/hoststxt.html)
     + [Git's database internals I: packed object store | The GitHub Blog](https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/)
-
-
+    + [仕様と実装から理解するOpenTelemetryの全体像](https://zenn.dev/ymtdzzz/articles/37c2856f46ea10)
+    + [30分で完全理解するTransformerの世界](https://zenn.dev/zenkigen/articles/2023-01-shimizu)
+    + [JWT ハンドブック](https://auth0.com/resources/ebooks/jp-jwt-handbook)
+    + [分散データシステム入門の決定版『データ指向アプリケーションデザイン』をたった30分で学んでみた](https://dev.classmethod.jp/articles/report-on-designing-data-intensive-applications/)

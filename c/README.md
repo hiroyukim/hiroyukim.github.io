@@ -124,6 +124,7 @@
     + [mruby/c で実装したメモリ管理のこと](https://www.docswell.com/s/8539470196/ZLM83K-2022-11-11-115402)
     + [C言語でのオーバーフロー検査](https://zenn.dev/mod_poppo/articles/c-checked-int)
     + [GitHub - h2o/qrintf: sprintf accelerator for GCC and Clang](https://github.com/h2o/qrintf)
+    + [C言語の符号付き整数はモジュラー演算ではない](https://zenn.dev/mod_poppo/articles/c-signed-int-is-not-modular)
 + Compiler
     + [rui314/9cc](https://github.com/rui314/9cc)
     + [ushitora-anqou/aqcc](https://github.com/ushitora-anqou/aqcc)

@@ -361,6 +361,7 @@
     + [Re: 浮動小数点数の二分探索 - えびちゃんの日記](https://rsk0315.hatenablog.com/entry/2022/04/07/004618)
     + [a22_acl2_02 - essen-wiki](http://essen.osask.jp/?a22_acl2_02)
     + [Cache invalidation really is one of the hardest problems in computer science](https://surfingcomplexity.blog/2022/11/25/cache-invalidation-really-is-one-of-the-hardest-things-in-computer-science/)
+    + [実務に活かすアルゴリズム](https://speakerdeck.com/pol_user/d50b6e65bcee16848d8ed7a0dbc0b064)
 + Book
     + [Competitive Programmer's Handbook](https://cses.fi/book/)
     + [Dive into Deep learning](https://en.d2l.ai/d2l-en.pdf)
@@ -375,3 +376,4 @@
     + [Swisstable Hash に使われているビット演算の魔術 - methaneのブログ](https://methane.hatenablog.jp/entry/2022/02/22/Swisstable_Hash_%E3%81%AB%E4%BD%BF%E3%82%8F%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%83%93%E3%83%83%E3%83%88%E6%BC%94%E7%AE%97%E3%81%AE%E9%AD%94%E8%A1%93)
     + [RustのHashMapを通じて，最近のハッシュテーブルをもう一歩理解してみる - Qiita](https://qiita.com/fumilemon/items/5f5a58fa3b9920b5d2bc)
     + [crypto/sha512: optimize ARM64 sha512 implemention · golang/go@4381c61](https://github.com/golang/go/commit/4381c61c58315dbdb8004bf56e54a5d2aa5d0498)
+    + [オートマトンと言語　授業資料](https://www.ccn.yamanashi.ac.jp/~ysuzuki/automaton/)
