@@ -131,4 +131,6 @@
     + [セキュリティ・キャンプ2022：B3 Policy as Code入門](https://docs.google.com/presentation/d/1dk4l50A9G7L4wYRmnC-93CLw9cBLjoE1m_9zp4BNTt0/edit#slide=id.gc6f73a04f_0_0)
     + [技術文書の書き方](https://gist.github.com/ymmt2005/d2c152bb7179d07015f336b1a0582679)
     + [Logic Winter School](https://sites.google.com/view/logic-winter-school-2023/)
-
+    + [論文読みの日課について](https://joisino.hatenablog.com/entry/2023/04/10/170519)
+    + [https://paperpile.com/](https://paperpile.com/)
+    + [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)

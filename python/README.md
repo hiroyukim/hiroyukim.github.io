@@ -11,3 +11,4 @@
     + [Optimize acquisition functions using CMA-ES](https://botorch.org/tutorials/optimize_with_cmaes)
     + [CPython Internals](https://realpython.com/products/cpython-internals-book/)
     + [Python 3.11の新機能(その3）関数呼び出しのインライン化](https://www.python.jp/news/wnpython311/inline-function.html)
+    + [Pythonプログラミング入門](https://utokyo-ipp.github.io/index.html)

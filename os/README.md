@@ -634,3 +634,6 @@
     + [L1キャッシュ怖い](https://www.dropbox.com/s/dwc9gc6h71s19c5/L1%E3%82%AD%E3%83%A3%E3%83%83%E3%82%B7%E3%83%A5%E6%80%96%E3%81%84.pdf?dl=0)
     + [MINIX From Scratch](https://github.com/o-oconnell/minixfromscratch)
     + [Kubernetesもどき、作ってみた！](https://tech-blog.cloud-config.jp/2022-12-26-make-my-container-orchestration-system)
+    + [Zig で作ったブートローダーから Hello World するまで](https://zenn.dev/ssstoyama/articles/16dcf8e956adbe)
+    + [ネットワークパケットをトレースできるeBPFベースのツール](https://github.com/cilium/pwru)
+    + [大規模ソフトウェアを手探る](https://doss.eidos.ic.i.u-tokyo.ac.jp/)

@@ -94,6 +94,7 @@
     + [GitHub - riscv/riscv-cfi: This repo holds the work area and revisions of the RISC-V CFI (Shadow Stack and Landing Pads) specifications. CFI defines the privileged and unprivileged ISA extensions that can be used by privileged and unprivileged programs to protect the integrity of their control-flow.](https://github.com/riscv/riscv-cfi)
     + [RISC-VなGPGPUであるVortexを深堀する (その6) - Vengineerの戯言](https://vengineer.hatenablog.com/entry/2022/10/06/090000)
     + [続CPUとは何か - ハードウェアエミュレータから見たCPU](https://fortee.jp/phpcon-2022/proposal/c184ec3f-27dd-4e2c-a51c-6b7608b46d2a)
+    + [Writing a simple RISC-V emulator in plain C](https://fmash16.github.io/content/posts/riscv-emulator-in-c.html)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)

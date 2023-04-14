@@ -11,6 +11,7 @@
 
 ## Link
 
++ [ai](https://hiroyukim.github.io/ai/)
 + [manga](https://hiroyukim.github.io/manga/)
 + [win](https://hiroyukim.github.io/win/)
 + [study](https://hiroyukim.github.io/study/)

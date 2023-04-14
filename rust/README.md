@@ -639,3 +639,6 @@
     + [Cover - Effective Rust](https://lurklurk.org/effective-rust/cover.html)
     + [Writing a Debugger From Scratch - DbgRs Part 1 - Attaching to a Process](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-1/)
     + [QUICの参考書―ゼロから作るRust言語による実装解説―Initial Packet編](https://techbookfest.org/product/dbdqnF6pbbj9N6i4fv1VqY?productVariantID=s7LixPN5j0fqC8sJ1mq59X&utm_campaign=share&utm_medium=social&utm_source=twitter)
+    + [flamegraph](https://github.com/flamegraph-rs/flamegraph)
+    + [RustにおけるGitHub Actionsベストプラクティス](https://techblog.paild.co.jp/entry/2023/04/10/170218)
+    + [Rustで作る自作言語 目次](https://zenn.dev/taka2/articles/985e4bf8cac838)

@@ -780,3 +780,5 @@
     + [至高のGoプラグイン用ツールを作った - knqyf263's blog](https://knqyf263.hatenablog.com/entry/2022/08/30/052303)
     + [Fixing Memory Exhaustion Bugs in My Golang Web App](https://mtlynch.io/notes/picoshare-perf/)
     + [FlameScope for Go](https://blog.felixge.de/flamescope-for-go/)
+    + [今日から分散トレーシングに対応しないといけなくなった人のための opentelemetry-go 入門](https://blog.cybozu.io/entry/2023/04/12/170000)
+    + [Go 1.20 HTTP ResponseController](https://future-architect.github.io/articles/20230128a/)
