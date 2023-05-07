@@ -642,3 +642,5 @@
     + [flamegraph](https://github.com/flamegraph-rs/flamegraph)
     + [RustにおけるGitHub Actionsベストプラクティス](https://techblog.paild.co.jp/entry/2023/04/10/170218)
     + [Rustで作る自作言語 目次](https://zenn.dev/taka2/articles/985e4bf8cac838)
+    + [Algebra and Data Types](https://justinpombrio.net/2021/03/11/algebra-and-data-types.html)
+    + [Learning Game Dev - Building a platformer with Bevy #1](https://affanshahid.dev/posts/learning-game-dev-bevy-1/)

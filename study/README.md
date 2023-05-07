@@ -134,3 +134,6 @@
     + [論文読みの日課について](https://joisino.hatenablog.com/entry/2023/04/10/170519)
     + [https://paperpile.com/](https://paperpile.com/)
     + [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
+    + [三角関数の話](https://zenn.dev/kaityo256/articles/trigonometric_function)
+    + [二次方程式の話](https://zenn.dev/kaityo256/articles/quadratic_equation)
+    + [数学入門公開講座](https://www.kurims.kyoto-u.ac.jp/kouza/index.html)

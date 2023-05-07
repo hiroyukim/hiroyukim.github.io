@@ -637,3 +637,7 @@
     + [Zig で作ったブートローダーから Hello World するまで](https://zenn.dev/ssstoyama/articles/16dcf8e956adbe)
     + [ネットワークパケットをトレースできるeBPFベースのツール](https://github.com/cilium/pwru)
     + [大規模ソフトウェアを手探る](https://doss.eidos.ic.i.u-tokyo.ac.jp/)
+    + [Investigating Linux Phantom Disk Reads](https://questdb.io/blog/investigating-linux-phantom-disk-reads/)
+    + [unfork](https://github.com/whitequark/unfork)
+    + [fq Tool, language and decoders for working with binary data.](https://github.com/wader/fq)
+    + [Debug linux drop packets](https://speakerdeck.com/takehaya/debug-linux-drop-packets)

@@ -782,3 +782,4 @@
     + [FlameScope for Go](https://blog.felixge.de/flamescope-for-go/)
     + [今日から分散トレーシングに対応しないといけなくなった人のための opentelemetry-go 入門](https://blog.cybozu.io/entry/2023/04/12/170000)
     + [Go 1.20 HTTP ResponseController](https://future-architect.github.io/articles/20230128a/)
+    + [Writing an OS in Go: The Bootloader](https://totallygamerjet.hashnode.dev/writing-an-os-in-go-the-bootloader)

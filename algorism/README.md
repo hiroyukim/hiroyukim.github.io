@@ -378,3 +378,5 @@
     + [crypto/sha512: optimize ARM64 sha512 implemention · golang/go@4381c61](https://github.com/golang/go/commit/4381c61c58315dbdb8004bf56e54a5d2aa5d0498)
     + [オートマトンと言語　授業資料](https://www.ccn.yamanashi.ac.jp/~ysuzuki/automaton/)
     + [Building a Fibonacci Heap](https://www.kurtlawrence.info/blog/building-a-fibonacci-heap)
+    + [mod についてふんわりとしか理解していない競プロ er のみなさん](https://rsk0315.hatenablog.com/entry/2023/05/05/221524)
+    + [DRAWING TREES FUNCTIONALLY: REINGOLD AND TILFORD, 1981](https://williamyaoh.com/posts/2023-04-22-drawing-trees-functionally.html)

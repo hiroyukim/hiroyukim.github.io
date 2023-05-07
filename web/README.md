@@ -359,3 +359,5 @@
     + [JWT ハンドブック](https://auth0.com/resources/ebooks/jp-jwt-handbook)
     + [分散データシステム入門の決定版『データ指向アプリケーションデザイン』をたった30分で学んでみた](https://dev.classmethod.jp/articles/report-on-designing-data-intensive-applications/)
     + [循環的複雑度に着目し10年モノのコードを改善する](https://techblog.yahoo.co.jp/entry/2023041030419798/)
+    + [PyroscopeでContinuous Profiling](https://bmf-tech.com/posts/Pyroscope%E3%81%A7Continuous%20Profiling)
+    + [OAuth認証とは何か?なぜダメなのか - 2020冬](https://ritou.hatenablog.com/entry/2020/12/01/000000)
