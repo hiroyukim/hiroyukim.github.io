@@ -783,3 +783,5 @@
     + [今日から分散トレーシングに対応しないといけなくなった人のための opentelemetry-go 入門](https://blog.cybozu.io/entry/2023/04/12/170000)
     + [Go 1.20 HTTP ResponseController](https://future-architect.github.io/articles/20230128a/)
     + [Writing an OS in Go: The Bootloader](https://totallygamerjet.hashnode.dev/writing-an-os-in-go-the-bootloader)
+    + [次なるpkg/errorsを探して](https://speakerdeck.com/always_allokay/errorswotan-site)
+    + [よくわかるThe Go Memory Model for Go Conference 2023 Online](https://zenn.dev/nobishii/articles/goocn2023_retrospective)

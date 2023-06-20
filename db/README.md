@@ -301,3 +301,5 @@
     - [mysqldump と repair with keycache - いちいの日記](https://ichii386.hatenablog.com/entry/20070924/1190610994)
     + [JdbcRunner 1.3.1リリース（データベース負荷テストツール）](https://sh2.hatenablog.jp/entry/2023/04/13/225109)
     + [データベースのロックの基礎からデッドロックまで](https://zenn.dev/gibjapan/articles/1d8dfb7520dabc)
+    + [自分の研究内容(DBMS実装)に関する最強の本一式揃えた](https://yoshisaur.hatenablog.jp/entry/2023/06/16/221730)
+    + [mysql-build-debug-and-test](https://speakerdeck.com/lrf141/mysql-build-debug-and-test)
