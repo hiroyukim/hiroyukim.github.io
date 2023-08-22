@@ -363,3 +363,4 @@
     + [OAuth認証とは何か?なぜダメなのか - 2020冬](https://ritou.hatenablog.com/entry/2020/12/01/000000)
     + [SRE不在のチームに入って2カ月でやったこと - 負荷試験から始めるプラクティスの導入](https://techfeed.io/entries/648fe4674dcc77274ca57504)
     + [How we deal with Data Quality using Circuit Breakers](https://modern-cdo.medium.com/taming-data-quality-with-circuit-breakers-dbe550d3ca78)
+    + [実質的に他人が勝手に商売にできないオープンソースライセンス](https://www.wasp.co.jp/blog/280)

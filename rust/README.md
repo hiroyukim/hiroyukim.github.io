@@ -645,3 +645,5 @@
     + [Algebra and Data Types](https://justinpombrio.net/2021/03/11/algebra-and-data-types.html)
     + [Learning Game Dev - Building a platformer with Bevy #1](https://affanshahid.dev/posts/learning-game-dev-bevy-1/)
     + [Effective Rust](https://www.lurklurk.org/effective-rust/cover.html#effective-rust)
+    + [組込みRust爆速入門―Raspberry Pi Picoで電子工作](https://ushitora.net/archives/3932)
+    + [Learning Async Rust With Entirely Too Many Web Servers](https://ibraheem.ca/posts/too-many-web-servers/)

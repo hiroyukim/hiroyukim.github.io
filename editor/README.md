@@ -50,3 +50,4 @@
     + [GitHub - lite-xl/lite-xl: A lightweight text editor written in Lua](https://htn.to/bhACB4nnWs)
     + [GitHub - folke/lazy.nvim: 💤 A modern plugin manager for Neovim](https://github.com/folke/lazy.nvim)
     + [Obsidian流 読書ノートの作り方](https://pouhon.net/obsidian-kindle/6507/)
+    + [Obsidian Kanban プラグインの基本的な使い方](https://00.bulog.jp/archives/8085)

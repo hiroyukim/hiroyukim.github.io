@@ -95,6 +95,7 @@
     + [RISC-VなGPGPUであるVortexを深堀する (その6) - Vengineerの戯言](https://vengineer.hatenablog.com/entry/2022/10/06/090000)
     + [続CPUとは何か - ハードウェアエミュレータから見たCPU](https://fortee.jp/phpcon-2022/proposal/c184ec3f-27dd-4e2c-a51c-6b7608b46d2a)
     + [Writing a simple RISC-V emulator in plain C](https://fmash16.github.io/content/posts/riscv-emulator-in-c.html)
+    + [samply is a command line CPU profiler which uses the Firefox profiler as its UI.](https://github.com/mstange/samply)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)

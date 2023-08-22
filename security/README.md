@@ -37,3 +37,5 @@
     + [【悪用厳禁】ファイルアップロード機能を利用してサイトをハッキングする方法を中学生が解説](https://note.com/activetk5929/n/n83a55d929992)
     + [GitHub - Z4nzu/hackingtool: ALL IN ONE Hacking Tool For Hackers](https://github.com/Z4nzu/hackingtool)
     + [その証明書、安全ですか？](https://eng-blog.iij.ad.jp/archives/17668)
+    + [MalDoc in PDF - 検知回避を狙って悪性なWordファイルをPDFファイルへ埋め込む手法 -](https://blogs.jpcert.or.jp/ja/2023/08/maldocinpdf.html)
+    + [何故パスワードをハッシュ化して保存するだけでは駄目なのか？](https://tech.nri-net.com/entry/hashing_password)

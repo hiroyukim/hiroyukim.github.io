@@ -641,3 +641,4 @@
     + [unfork](https://github.com/whitequark/unfork)
     + [fq Tool, language and decoders for working with binary data.](https://github.com/wader/fq)
     + [Debug linux drop packets](https://speakerdeck.com/takehaya/debug-linux-drop-packets)
+    + [OSはどうやってP-coreとE-coreを使い分けているのか](https://retrage01.hateblo.jp/entry/2023/08/20/195456)

@@ -380,3 +380,5 @@
     + [Building a Fibonacci Heap](https://www.kurtlawrence.info/blog/building-a-fibonacci-heap)
     + [mod についてふんわりとしか理解していない競プロ er のみなさん](https://rsk0315.hatenablog.com/entry/2023/05/05/221524)
     + [DRAWING TREES FUNCTIONALLY: REINGOLD AND TILFORD, 1981](https://williamyaoh.com/posts/2023-04-22-drawing-trees-functionally.html)
+    + [線形論理の誕生](https://www.kurims.kyoto-u.ac.jp/~terui/birth.pdf)
+    + [グラフアルゴリズム実践活用術](https://speakerdeck.com/joisino/gurahuarugorizumushi-jian-huo-yong-shu)

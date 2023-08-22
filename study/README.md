@@ -137,3 +137,6 @@
     + [三角関数の話](https://zenn.dev/kaityo256/articles/trigonometric_function)
     + [二次方程式の話](https://zenn.dev/kaityo256/articles/quadratic_equation)
     + [数学入門公開講座](https://www.kurims.kyoto-u.ac.jp/kouza/index.html)
+    + [ジョージア工科大学でコンピュータサイエンスを学び始める話](https://qiita.com/kohei-arai/items/6da2327165dc4deeb146)
+    + [eSIMはどんな仕組みで成立しているのか？についてモバイル通信を熟知したエンジニアが解説](https://gigazine.net/news/20230822-esim/)
+    + [低レイヤ技術を間接的に仕事で生かしてきた経験の共有。元Linuxカーネル開発技術者の場合](https://satoru-takeuchi.hatenablog.com/entry/2023/08/21/222744)
