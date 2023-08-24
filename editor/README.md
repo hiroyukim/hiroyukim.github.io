@@ -51,3 +51,4 @@
     + [GitHub - folke/lazy.nvim: 💤 A modern plugin manager for Neovim](https://github.com/folke/lazy.nvim)
     + [Obsidian流 読書ノートの作り方](https://pouhon.net/obsidian-kindle/6507/)
     + [Obsidian Kanban プラグインの基本的な使い方](https://00.bulog.jp/archives/8085)
+    + [リバースエンジニア向けの多機能バイナリエディター](https://freesoft-100.com/review/imhex.html)

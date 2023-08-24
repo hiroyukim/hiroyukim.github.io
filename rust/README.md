@@ -647,3 +647,6 @@
     + [Effective Rust](https://www.lurklurk.org/effective-rust/cover.html#effective-rust)
     + [組込みRust爆速入門―Raspberry Pi Picoで電子工作](https://ushitora.net/archives/3932)
     + [Learning Async Rust With Entirely Too Many Web Servers](https://ibraheem.ca/posts/too-many-web-servers/)
+    + [Rust製自作RISC-VエミュレータをTLB+αで高速化する](https://docs.google.com/presentation/d/1oFnA6rKpzgLw0KdTki8rp_oFOs2_QyBtCAo2pl0mzxo/edit#slide=id.p)
+    + [Rust での tracing](https://blog.ojisan.io/rust-tracing/)
+    + [Rust Latam: procedural macros workshop](https://github.com/dtolnay/proc-macro-workshop)

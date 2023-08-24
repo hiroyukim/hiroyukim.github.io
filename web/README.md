@@ -364,3 +364,6 @@
     + [SRE不在のチームに入って2カ月でやったこと - 負荷試験から始めるプラクティスの導入](https://techfeed.io/entries/648fe4674dcc77274ca57504)
     + [How we deal with Data Quality using Circuit Breakers](https://modern-cdo.medium.com/taming-data-quality-with-circuit-breakers-dbe550d3ca78)
     + [実質的に他人が勝手に商売にできないオープンソースライセンス](https://www.wasp.co.jp/blog/280)
+    + [QUICプロトコルライブラリにOpenTelemetryを実装](https://www.figma.com/proto/95ic5PsCdVgaaP4x6vYJQB/OpenTelemetry%E3%81%A7%E2%80%A8QUIC%E3%81%AE%E9%80%9A%E4%BF%A1%E3%82%92Trace%E3%81%99%E3%82%8B%E2%80%A8%E6%96%B9%E6%B3%95%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E8%80%83%E5%AF%9F?type=design&node-id=1-2&t=LbqZqO8csEU3tvCv-1&scaling=contain&page-id=0%3A1)
+    + [分散キャッシュシステム on Kubernetes / Kubernetes Meetup Tokyo 60](https://speakerdeck.com/pfn/k8s-tokyo-60-distributed-cache-system)
+    + [HTTP/3｜Webエンジニアが知るべき新常識 ─ QUICやコネクションマイグレーションなどを学ぶ](https://eh-career.com/engineerhub/entry/2023/08/18/093000)

@@ -140,3 +140,6 @@
     + [ジョージア工科大学でコンピュータサイエンスを学び始める話](https://qiita.com/kohei-arai/items/6da2327165dc4deeb146)
     + [eSIMはどんな仕組みで成立しているのか？についてモバイル通信を熟知したエンジニアが解説](https://gigazine.net/news/20230822-esim/)
     + [低レイヤ技術を間接的に仕事で生かしてきた経験の共有。元Linuxカーネル開発技術者の場合](https://satoru-takeuchi.hatenablog.com/entry/2023/08/21/222744)
+    + [バーチャル教室でコンピュータを学ぼう](https://www.meta-school.t.u-tokyo.ac.jp/junior/23svc/)
+    + [2020.06.01 M1勉強会 論文の読み方・書き方・研究室の過ごし方](https://speakerdeck.com/sei88888/2020-dot-06-dot-01-m1mian-qiang-hui-lun-wen-falsedu-mifang-shu-kifang-yan-jiu-shi-falseguo-gosifang?slide=9)
+    + [京都大学工学部専門科目「プログラミング言語処理系」講義資料](https://kuis-isle3sw.github.io/IoPLMaterials/)

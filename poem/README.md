@@ -76,3 +76,6 @@
     + [《新海誠監督インタビュー》“三流SF”のような現実の中で僕らが出来ること | 文春オンライン](https://bunshun.jp/articles/-/36462?utm_source=twitter.com&utm_medium=social&utm_campaign=socialLink)
     + [【藤津亮太の「新・主人公の条件」】第32回　「ぼっち・ざ・ろっく」後藤ひとり“ぼっち”](https://anime.eiga.com/news/column/fujitsu_joken/117319/)
     + [yoku0825さんがMySQLスペシャリストになるまでにやってきた勉強法を、私たちにすべて教えてください！](https://engineer-lab.findy-code.io/yoku0825-mysql)
+    + [誤りを認める練習](https://satoru-takeuchi.hatenablog.com/entry/2023/08/18/201343)
+    + [プログラマの実力は経験だけであがらないことがレベル格差につながる](https://nowokay.hatenablog.com/entry/20121010/1349838665)
+    + [価値の判断基準が自分の外にある人間は表現者になれない](https://next49.hatenadiary.jp/entry/20090222/p2)

@@ -96,6 +96,10 @@
     + [続CPUとは何か - ハードウェアエミュレータから見たCPU](https://fortee.jp/phpcon-2022/proposal/c184ec3f-27dd-4e2c-a51c-6b7608b46d2a)
     + [Writing a simple RISC-V emulator in plain C](https://fmash16.github.io/content/posts/riscv-emulator-in-c.html)
     + [samply is a command line CPU profiler which uses the Firefox profiler as its UI.](https://github.com/mstange/samply)
+    + [RISC-Vのベクトル命令一覧と関連情報をまとめたページを公開した](https://msyksphinz.hatenablog.com/entry/2023/08/23/040000)
+    + [無から始める自作CPU](https://vlsi.jp/LetsMakeCPU.html#%E7%84%A1%E3%81%8B%E3%82%89%E5%A7%8B%E3%82%81%E3%82%8B%E8%87%AA%E4%BD%9Ccpu)
+    + [書籍『はじめて読む486』のサンプルプログラム集](https://github.com/tkmc/486)
+    + [高性能のCPUの研究・動向](https://github.com/shioyadan/advanced-computer-organization/blob/master/aco-shioya-appendix-processor.pdf)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)

@@ -39,3 +39,4 @@
     + [その証明書、安全ですか？](https://eng-blog.iij.ad.jp/archives/17668)
     + [MalDoc in PDF - 検知回避を狙って悪性なWordファイルをPDFファイルへ埋め込む手法 -](https://blogs.jpcert.or.jp/ja/2023/08/maldocinpdf.html)
     + [何故パスワードをハッシュ化して保存するだけでは駄目なのか？](https://tech.nri-net.com/entry/hashing_password)
+    + [セキュリティキャンプ講義資料](https://qliphoth.io/seccamp/)

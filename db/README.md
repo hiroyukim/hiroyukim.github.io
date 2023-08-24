@@ -305,3 +305,5 @@
     + [mysql-build-debug-and-test](https://speakerdeck.com/lrf141/mysql-build-debug-and-test)
     + [MySQLのリアルタイムモニタリングに「innotop」](https://thinkit.co.jp/article/9781)
     + [MySQLとOracleの実行計画を比較してみた](https://tomomo1015.hatenablog.com/entry/2023/08/17/181426)
+    + [クエリの実行計画に表示されるauto_keyについて](https://gihyo.jp/article/2023/08/mysql-rcn0203)
+    + [MySQL 探索記 ~自作プラグイン開発でユニットテストを気合いでサポートするための色々~](https://rabbitfoot141.hatenablog.com/entry/2023/08/14/221803)
