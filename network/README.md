@@ -109,6 +109,7 @@
     + [[Multi-AS Segment Routing 検証連載 #9] TI-LFA を用いた障害時の高速迂回 - NTT Communications Engineers' Blog](https://engineers.ntt.com/entry/2022/10/03/090000)
     + [Packed structs in Zig make bit/flag sets trivial](https://devlog.hexops.com/2022/packed-structs-in-zig/)
     + [送信ドメイン認証の現状](https://speakerdeck.com/hinono/song-xin-domeinren-zheng-noxian-zhuang)
+    + [TCPプロトコルスタック自作](https://drive.google.com/drive/folders/1k2vymbC3vUk5CTJbay4LLEdZ9HemIpZe)
 + Tool
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)
