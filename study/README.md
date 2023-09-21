@@ -143,3 +143,8 @@
     + [バーチャル教室でコンピュータを学ぼう](https://www.meta-school.t.u-tokyo.ac.jp/junior/23svc/)
     + [2020.06.01 M1勉強会 論文の読み方・書き方・研究室の過ごし方](https://speakerdeck.com/sei88888/2020-dot-06-dot-01-m1mian-qiang-hui-lun-wen-falsedu-mifang-shu-kifang-yan-jiu-shi-falseguo-gosifang?slide=9)
     + [京都大学工学部専門科目「プログラミング言語処理系」講義資料](https://kuis-isle3sw.github.io/IoPLMaterials/)
+    + [はじめよう、研究データ管理](https://catalog.lib.kyushu-u.ac.jp/opac_detail_md/?lang=0&amode=MD100000&bibid=6796147)
+    + [CPUを自作したりコンピューターアーキテクチャを理解するためにおすすめの本の一覧](https://hikalium.hatenablog.jp/entry/2023/09/21/001358)
+    + [行動モデルに沿った意志力に頼らない良い習慣の作り方](https://note.com/higu_engineer/n/n43955bd85459)
+    + [これは勉強のやり方が分からなくて困っている人のために書いた文章です（増補しました）](https://readingmonkey.blog.fc2.com/blog-entry-592.html?sp)
+    + [「自分の意見をちゃんと言える人」は頭の中で何を考えているのか？](https://diamond.jp/articles/-/301391)

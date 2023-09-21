@@ -642,3 +642,7 @@
     + [fq Tool, language and decoders for working with binary data.](https://github.com/wader/fq)
     + [Debug linux drop packets](https://speakerdeck.com/takehaya/debug-linux-drop-packets)
     + [OSはどうやってP-coreとE-coreを使い分けているのか](https://retrage01.hateblo.jp/entry/2023/08/20/195456)
+    + [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+    + [RISC-V OSを作ろう (3) ～ 割り込み](https://valinux.hatenablog.com/entry/20210805)
+    + [x86-64機械語入門](https://zenn.dev/mod_poppo/articles/x86-64-machine-code)
+    + [Linux システムコール 徹底入門](https://www.kimullaa.com/posts/202001051012/)

@@ -87,3 +87,4 @@
     + [自作したRISC-V向けCコンパイラでセルフホストまでこぎつけた - 詩と創作・思索のひろば](https://htn.to/GRabApBve5)
     + [既存言語のミニ版ぽいものまとめた](https://blog.uta8a.net/post/2022-11-26-minlang/)
     + [The Super Tiny Compiler ではじめるコンパイラ入門](https://zenn.dev/ryo_kawamata/articles/302577a69c06b7)
+    + [Ichigo Lispコンパイラ完全解説](https://pages.zick.run/2023/ichigo.html)

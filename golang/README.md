@@ -785,3 +785,4 @@
     + [Writing an OS in Go: The Bootloader](https://totallygamerjet.hashnode.dev/writing-an-os-in-go-the-bootloader)
     + [次なるpkg/errorsを探して](https://speakerdeck.com/always_allokay/errorswotan-site)
     + [よくわかるThe Go Memory Model for Go Conference 2023 Online](https://zenn.dev/nobishii/articles/goocn2023_retrospective)
+    + [Go 言語が生成するバイナリについて](https://www.kimullaa.com/posts/202309070000/)

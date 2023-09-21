@@ -307,3 +307,5 @@
     + [MySQLとOracleの実行計画を比較してみた](https://tomomo1015.hatenablog.com/entry/2023/08/17/181426)
     + [クエリの実行計画に表示されるauto_keyについて](https://gihyo.jp/article/2023/08/mysql-rcn0203)
     + [MySQL 探索記 ~自作プラグイン開発でユニットテストを気合いでサポートするための色々~](https://rabbitfoot141.hatenablog.com/entry/2023/08/14/221803)
+    + [MySQL 8.1シリーズにおけるInnoDB Clusterとリードレプリカの融合（ただしMySQL Serverは8.0でOK）](http://nippondanji.blogspot.com/2023/09/mysql-81innodb-clustermysql-server80ok.html)
+    + [PostgreSQLの主要コントリビューター「EDB」が語る、クラウドネイティブデータベースの現状](https://atmarkit.itmedia.co.jp/ait/articles/2309/19/news006.html)

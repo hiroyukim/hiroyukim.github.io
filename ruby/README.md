@@ -23,3 +23,4 @@
     + [RubyKaigi takeoutでRuby to BPF compilerの話をした話](https://udzura.hatenablog.jp/entry/2021/12/02/124654)
     + [HTTP server in Ruby 3 - Fibers & Ractors](https://www.dmitry-ishkov.com/2021/07/http-server-in-ruby-3-fibers-ractors.html)
     + [Ruby AST勘所](https://zenn.dev/qnighy/articles/cc67193321b5e6)
+    + [Rails appでrbs prototype runtimeを使う](https://www.wantedly.com/companies/wantedly/post_articles/543722?utm_source=t.co&utm_medium=share&lang=ja)
