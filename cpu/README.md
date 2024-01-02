@@ -100,6 +100,9 @@
     + [無から始める自作CPU](https://vlsi.jp/LetsMakeCPU.html#%E7%84%A1%E3%81%8B%E3%82%89%E5%A7%8B%E3%82%81%E3%82%8B%E8%87%AA%E4%BD%9Ccpu)
     + [書籍『はじめて読む486』のサンプルプログラム集](https://github.com/tkmc/486)
     + [高性能のCPUの研究・動向](https://github.com/shioyadan/advanced-computer-organization/blob/master/aco-shioya-appendix-processor.pdf)
+    + [Intel APXの解説（エンコーディングの歴史編）](https://zenn.dev/herumi/articles/intel-apx-encoding)
+    + [MN-Core におけるテンソルのメモリ配置レイアウト表現](https://tech.preferred.jp/ja/blog/mn-core-tensor-layout/)
+    + [GPUの基礎](https://edx.nii.ac.jp/lecture/20230726-06)
 + Tool
     + [aqcc](https://github.com/ushitora-anqou/aqcc)
     + [Unicorn](https://www.unicorn-engine.org/docs/)

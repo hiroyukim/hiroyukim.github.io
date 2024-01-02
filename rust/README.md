@@ -659,3 +659,8 @@
     + [The friendly little instrumentation profiler for Rust](https://github.com/EmbarkStudios/puffin)
     + [Experimental OS, built with Rust](https://github.com/Ruddle/Fomos)
     + [Get familiar with “Rusty” kernel programming in Ubuntu Lunar Lobster](https://ubuntu.com/blog/get-familiar-with-rusty-kernel-programming-in-ubuntu-lunar-lobster)
+    + [Rust実装のIDE。LSP対応](https://github.com/lapce/lapce)
+    + [Rustマクロの衛生性はどのように実現されているか(1/2) 識別子に関する衛生性](https://qnighy.hatenablog.com/entry/2017/03/24/070000)
+    + [From NAND to Raytracer: Raytracing on the Hack computer (feat. Rust)](https://blog.alexqua.ch/posts/from-nand-to-raytracer/)
+    + [「Rust」言語向けの“ビジュアルタイムトラベルデバッガー”「FireDBG」が公開](https://forest.watch.impress.co.jp/docs/news/1557204.html)
+    + [Rust のエイリアシングモデル Stacked Borrows (MIRI の元) を噛み砕いて和訳したもの](https://qiita.com/MikuroXina/items/70f574a3049f4a402f36)

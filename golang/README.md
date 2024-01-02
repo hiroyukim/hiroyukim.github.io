@@ -786,3 +786,6 @@
     + [次なるpkg/errorsを探して](https://speakerdeck.com/always_allokay/errorswotan-site)
     + [よくわかるThe Go Memory Model for Go Conference 2023 Online](https://zenn.dev/nobishii/articles/goocn2023_retrospective)
     + [Go 言語が生成するバイナリについて](https://www.kimullaa.com/posts/202309070000/)
+    + [ebpf-goによるLinuxカーネルトレース入門](https://zenn.dev/yyamamot/articles/ebpf-go-kernel-trace)
+    + [High performance in-memory cache](https://github.com/maypok86/otter)
+    + [Forwarder Proxy](https://github.com/saucelabs/forwarder)

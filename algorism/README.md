@@ -389,3 +389,7 @@
     + [プログラマのための公開鍵による暗号化と署名の話](https://zenn.dev/herumi/articles/pke-signature-for-programmer)
     + [Clang の k 乗和の最適化を眺める](https://rsk0315.hatenablog.com/entry/2023/09/19/043126)
     + [ソースコードを見て計算量を下から抑えるのは怪しいという話](https://rsk0315.hatenablog.com/entry/2023/09/17/193635)
+    + [計算科学ロードマップ2023](https://cs-forum.github.io/roadmap-2023/)
+    + [シミュレーションのための乱数入門](https://www.jspf.or.jp/Journal/PDF_JSPF/9606-08koza.pdf)
+    + [「中学受験の算数」で磨くプログラミング的思考力！ 〜 親・子供・プログラマすべてに送る 25 問 〜](https://qiita.com/drken/items/3b15cf5f089488c38faa)
+    + [ベイズ的方法に基づく決定木:Bayesian CART](https://qiita.com/bebebeBayes/items/dcb3bb9ddea539f3bde7)

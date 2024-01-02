@@ -41,3 +41,4 @@
     + [何故パスワードをハッシュ化して保存するだけでは駄目なのか？](https://tech.nri-net.com/entry/hashing_password)
     + [セキュリティキャンプ講義資料](https://qliphoth.io/seccamp/)
     + [パスワードがペッパー付きハッシュ値で保存されているサイトのSQLインジェクションによる認証回避の練習問題](https://qiita.com/ockeghem/items/0f3b09a0f413bdd39bd5)
+    + [フリーWi-Fiを使ったら秘密情報を抜かれる経路にはどのようなものがあるか](https://qiita.com/ockeghem/items/c6a3602d2c2409f89fbb)

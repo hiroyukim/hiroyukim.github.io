@@ -646,3 +646,6 @@
     + [RISC-V OSを作ろう (3) ～ 割り込み](https://valinux.hatenablog.com/entry/20210805)
     + [x86-64機械語入門](https://zenn.dev/mod_poppo/articles/x86-64-machine-code)
     + [Linux システムコール 徹底入門](https://www.kimullaa.com/posts/202001051012/)
+    + [第56回 情報科学若手の会 Wasmを実行するunikernelとWasmコンパイラ](https://speakerdeck.com/sazaku/di-56hui-qing-bao-ke-xue-ruo-shou-nohui-wasmwoshi-xing-suruunikerneltowasmkonpaira)
+    + [systemdエッセンシャル / systemd-intro](https://speakerdeck.com/moriwaka/systemd-intro)
+    + [Live Debugging Techniques for the Linux Kernel, Part 1 of 3](https://blogs.oracle.com/linux/post/live-kernel-debugging-1)

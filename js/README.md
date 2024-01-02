@@ -90,3 +90,4 @@
     + [hi18n (i18nライブラリ) の使い方](https://www.wantedly.com/companies/wantedly/post_articles/399501)
     + [Inside JavaScript Engines, Part 1: Parsing](https://medium.com/@yanguly/inside-javascript-engines-part-1-parsing-c519d75833d7)
     + [Bun is a fast all-in-one JavaScript runtime](https://bun.sh/)
+    + [JavaScriptクイズ: JSON評価時の挙動](https://zenn.dev/qnighy/articles/4889cf4de3047f)
