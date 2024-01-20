@@ -2,24 +2,43 @@
 
 + Tool
     + [BIOS Simulator Center](https://download.lenovo.com/bsco/index.html)
+        + LenovoのBIOS設定シミュレーター。
     + [High-level tracing language for Linux eBPF](https://github.com/iovisor/bpftrace)
+        + Linux eBPF用の高水準トレース言語。
     + [A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI](https://github.com/knqyf263/trivy)
+        + コンテナ向けの簡易かつ包括的な脆弱性スキャナー。
     + [ELKDAT: easy linux kernel development and test tool](https://github.com/satoru-takeuchi/elkdat)
+        + Linuxカーネル開発とテストを容易にするツール。
     + [sharkdp/hexyl](https://github.com/sharkdp/hexyl)
+        + コマンドラインヘックスビューア。
     + [Labean is a simple HTTP/HTTPS port knocker for GNU/Linux.](https://github.com/uprt/labean)
+        + GNU/Linux用HTTP/HTTPSポートノッカー。
     + [howto_implement_hypervisor](https://github.com/syuu1228/howto_implement_hypervisor)
+        + ハイパーバイザー実装方法ガイド。
     + [Linuxカーネルソースコードを読むツール (1)：cscope編](http://proc-cpuinfo.fixstars.com/2017/05/linux-kernel-reading-tips-cscope/)
+        + Linuxカーネルソースコード読み取りツール。
     + [An Introduction to libuv](https://nikhilm.github.io/uvbook/)
+        + 非同期I/Oライブラリlibuvの入門書。
     + [gprof2dot](https://github.com/jrfonseca/gprof2dot)
+        + プロファイリングデータをグラフに変換するツール。
     + [ctop](https://github.com/bcicen/ctop)
+        + コンテナの監視と管理ツール。
     + [BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more](https://github.com/iovisor/bcc)
+        + BPFベースのLinux IO解析ツール。
     + [NVIDIA GPUs htop like monitoring tool](https://github.com/Syllo/nvtop)
+        + NVIDIA GPUの監視ツール。
     + [Record the CPU and memory activity of a process](https://github.com/astrofrog/psrecord)
+        + プロセスのCPUとメモリ活動記録ツール。
     + [CR0.CD manipulate Linux Kernel Module as a proc filesystem](https://github.com/alphaKAI/cr0cd)
+        + プロセスファイルシステムとしてのLinuxカーネルモジュール操作ツール。
     + [Valgrind](http://www.valgrind.org/)
+        + メモリデバッグとプロファイリングツール。
     + [Sandboxed kernel mode WebAssembly runtime](https://github.com/wasmerio/kernel-wasm)
+        + サンドボックス化されたカーネルモードWebAssemblyランタイム。
     + [simple disk I/0 latency measuring tool](https://github.com/koct9i/ioping)
+        + ディスクI/O遅延測定ツール。
     + [An x86 kernel written in Zig](https://github.com/SamTebbs33/pluto)
+        + Zigで書かれたx86カーネル。
 + Article
     + [Linuxとかカーネル方面のYoutubeチャンネル](https://kernhack.hatenablog.com/entry/2018/08/09/102951)
     + [小さいLinux環境の作り方](https://speakerdeck.com/fadis/xiao-sailinuxhuan-jing-falsezuo-rifang)
@@ -649,3 +668,15 @@
     + [第56回 情報科学若手の会 Wasmを実行するunikernelとWasmコンパイラ](https://speakerdeck.com/sazaku/di-56hui-qing-bao-ke-xue-ruo-shou-nohui-wasmwoshi-xing-suruunikerneltowasmkonpaira)
     + [systemdエッセンシャル / systemd-intro](https://speakerdeck.com/moriwaka/systemd-intro)
     + [Live Debugging Techniques for the Linux Kernel, Part 1 of 3](https://blogs.oracle.com/linux/post/live-kernel-debugging-1)
+    + [The ARM32 Scheduling and Kernelspace/Userspace Boundary](https://people.kernel.org/linusw/the-arm32-scheduling-and-kernelspace-userspace-boundary)
+    + [SSD時代の「I/O Scheduler」](https://drive.google.com/file/d/1mUmEi3H1dJNPjtdUkiLlxIOvQWBNHAYj/view)
+    + [Kubernetes CKS Complete Course - Theory - Practice](https://www.youtube.com/watch?v=d9xfB5qaOfg)
+        + youtube
+    + [Understanding the Heap - a beautiful mess](https://jackfromeast.site/2023-01/understand-the-heap-a-beautiful-mess.html)
+    + [Linux 6.8 Network Optimizations Can Boost TCP Performance For Many Concurrent Connections By ~40%](https://www.phoronix.com/news/Linux-6.8-Networking)
+    + [Starlink(スターリンク) 対応ルータをSEIL/x86 Ayameで自作する](https://eng-blog.iij.ad.jp/archives/22489)
+    + [wasmos：WebAssemblyをネイティブに実行する概念実証マイクロカーネル](https://medium.com/@r1ru/wasmos-a-proof-of-concept-microkernel-that-runs-webassembly-natively-850043cad121)
+    + [Exploring Linux's New Random Kmalloc Caches](https://sam4k.com/exploring-linux-random-kmalloc-caches/)
+    + [意外と知られていない、Linuxのメモリホットプラグのインタフェースについて](https://qiita.com/YasunoriGoto1/items/657fd0dcd6887881f9a9)
+    + [Linux ptrace introduction AKA injecting into sshd for fun](https://blog.xpnsec.com/linux-process-injection-aka-injecting-into-sshd-for-fun/)
+    + [SSHD Injection and Password Harvesting](https://jm33.me/sshd-injection-and-password-harvesting.html)

@@ -309,3 +309,8 @@
     + [MySQL 探索記 ~自作プラグイン開発でユニットテストを気合いでサポートするための色々~](https://rabbitfoot141.hatenablog.com/entry/2023/08/14/221803)
     + [MySQL 8.1シリーズにおけるInnoDB Clusterとリードレプリカの融合（ただしMySQL Serverは8.0でOK）](http://nippondanji.blogspot.com/2023/09/mysql-81innodb-clustermysql-server80ok.html)
     + [PostgreSQLの主要コントリビューター「EDB」が語る、クラウドネイティブデータベースの現状](https://atmarkit.itmedia.co.jp/ait/articles/2309/19/news006.html)
+    + [型キャストの場所のせいで、秒で終わっていたクエリに1時間超かかるようになってしまった話](https://tech.smarthr.jp/entry/2024/01/18/110929)
+    + [Predicate Transfer: Efficient Pre-Filtering on Multi-Join Queries](https://www.cidrdb.org/cidr2024/papers/p22-yang.pdf)
+    + [CloudJump: Optimizing Cloud Databases for Cloud Storages](https://www.vldb.org/pvldb/vol15/p3432-chen.pdf)
+    + [PostgreSQLの仕組みから学ぶために必要な資料](https://soudai.hatenablog.com/entry/2024/01/18/150718#google_vignette)
+    + [MySQLでUUIDv4をプライマリキーにするとパフォーマンス問題が起きるのはなぜ？（N回目）](https://zenn.dev/reiwatravel/articles/9ce1050bf8509b)

@@ -110,7 +110,7 @@
     + [Packed structs in Zig make bit/flag sets trivial](https://devlog.hexops.com/2022/packed-structs-in-zig/)
     + [送信ドメイン認証の現状](https://speakerdeck.com/hinono/song-xin-domeinren-zheng-noxian-zhuang)
     + [TCPプロトコルスタック自作](https://drive.google.com/drive/folders/1k2vymbC3vUk5CTJbay4LLEdZ9HemIpZe)
-+ Tool
+    + [変化するDNS運用とこれからの課題について(DNS設計/運用者の目線から)](https://speakerdeck.com/lycorptech_jp/efforts-to-improve-dns-operations)
     + [tcpdp](https://github.com/k1LoW/tcpdp)
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)
     + [アプリケーション開発者向けHTTP使い方ガイド](https://httpwg.org/http-extensions/draft-ietf-httpbis-bcp56bis.html#section-4.6)

@@ -664,3 +664,8 @@
     + [From NAND to Raytracer: Raytracing on the Hack computer (feat. Rust)](https://blog.alexqua.ch/posts/from-nand-to-raytracer/)
     + [「Rust」言語向けの“ビジュアルタイムトラベルデバッガー”「FireDBG」が公開](https://forest.watch.impress.co.jp/docs/news/1557204.html)
     + [Rust のエイリアシングモデル Stacked Borrows (MIRI の元) を噛み砕いて和訳したもの](https://qiita.com/MikuroXina/items/70f574a3049f4a402f36)
+    + [Why stdout is faster than stderr?](https://blog.orhun.dev/stdout-vs-stderr/)
+    + [Rust 1.75.0におけるtrait内のasync fn](https://zenn.dev/garasubo/articles/rust-1750-async-trait)
+    + [Rustで作るLinuxデバイスドライバ](https://medium.com/nttlabs/linux-for-rust-phy-device-driver-f1b9d74d6a10)
+    + [Rust で JSON5 を実行するインタプリタを作って自作言語の高速スタートアップをしよう](https://techracho.bpsinc.jp/yoshi/2024_01_05/138115)
+    + [Rust のエイリアシングモデル Stacked Borrows (MIRI の元) を噛み砕いて和訳したもの](https://qiita.com/MikuroXina/items/70f574a3049f4a402f36)

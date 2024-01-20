@@ -10,5 +10,6 @@
     + [6502 アセンブラ プログラミング入門](https://euske.github.io/slides/asm6502/index.html)
     + [vas: Assembler written in V](https://github.com/v420v/vas)
         + [作る時に役にたったやつ](https://twitter.com/ibuki42O/status/1670085955330650112)
+    + [x86-64機械語入門 AVX/AVX-512編](https://zenn.dev/mod_poppo/articles/x86-64-vex-evex)
 + Tool
     + [Compiler Explorer](https://godbolt.org/)

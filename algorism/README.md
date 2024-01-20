@@ -393,3 +393,6 @@
     + [シミュレーションのための乱数入門](https://www.jspf.or.jp/Journal/PDF_JSPF/9606-08koza.pdf)
     + [「中学受験の算数」で磨くプログラミング的思考力！ 〜 親・子供・プログラマすべてに送る 25 問 〜](https://qiita.com/drken/items/3b15cf5f089488c38faa)
     + [ベイズ的方法に基づく決定木:Bayesian CART](https://qiita.com/bebebeBayes/items/dcb3bb9ddea539f3bde7)
+    + [茶コーダーが競プロ家庭教師した話](https://speakerdeck.com/burioden/240117-uv-lt-fa84027b-5df9-4c05-b31c-ace56c010103)
+    + [平方根の高速化とマジックナンバー](https://qiita.com/metaphysical_bard/items/e04378b16d6173127435)
+    + [凡人が約5年かけて青コーダーになった話](https://blog.nishigake.net/posts/irohen_blue/)

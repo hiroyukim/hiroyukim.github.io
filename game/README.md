@@ -21,3 +21,4 @@
     + [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
     + [お好みの3Dモデルを使って音声対話可能なチャットボットを作るためのフレームワーク](https://github.com/uezo/ChatdollKit/blob/master/README.ja.md)
     + [Stack-chan](https://github.com/meganetaaan/stack-chan)
+    + [ドラクエ4のAI戦闘と作戦、完全に理解した](https://note.com/frenchbread/n/n7bf90335f5eb)

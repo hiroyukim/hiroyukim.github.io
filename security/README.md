@@ -42,3 +42,5 @@
     + [セキュリティキャンプ講義資料](https://qliphoth.io/seccamp/)
     + [パスワードがペッパー付きハッシュ値で保存されているサイトのSQLインジェクションによる認証回避の練習問題](https://qiita.com/ockeghem/items/0f3b09a0f413bdd39bd5)
     + [フリーWi-Fiを使ったら秘密情報を抜かれる経路にはどのようなものがあるか](https://qiita.com/ockeghem/items/c6a3602d2c2409f89fbb)
+    + [セキュリティエンジニアを3年続けて分かったおすすめ勉強法](https://p-0.me/b/p/614/)
+    + [私のセキュリティ情報収集法を整理してみた（2024年版）](https://foxsecurity.hatenablog.com/entry/2024/01/03/081044)

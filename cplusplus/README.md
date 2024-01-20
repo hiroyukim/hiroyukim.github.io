@@ -35,3 +35,4 @@
     + [Level up your code with game programming patterns](https://resources.unity.com/games/level-up-your-code-with-game-programming-patterns)
     + [SEC BOOKS：ESCR C++ Ver. 2.0：【改訂版】組込みソフトウェア開発向けコーディング作法ガイド［C++言語版］ Ver. 2.0：IPA 独立行政法人 情報処理推進機構](https://www.ipa.go.jp/sec/publish/tn16-007.html)
     + [CMake debugger allows you to debug your CMake scripts and more](https://devblogs.microsoft.com/cppblog/cmake-debugger-allows-you-to-debug-your-cmake-scripts-and-more/)
+    + [google-perftoolsでC++プログラムのプロファイリング](https://nu-pan.hatenablog.com/entry/20140410/1397099300)

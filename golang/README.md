@@ -789,3 +789,4 @@
     + [ebpf-goによるLinuxカーネルトレース入門](https://zenn.dev/yyamamot/articles/ebpf-go-kernel-trace)
     + [High performance in-memory cache](https://github.com/maypok86/otter)
     + [Forwarder Proxy](https://github.com/saucelabs/forwarder)
+    + [Build A Simple Terminal Emulator In 100 Lines of Golang](https://ishuah.com/2021/03/10/build-a-terminal-emulator-in-100-lines-of-go/)

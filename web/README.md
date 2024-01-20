@@ -369,3 +369,6 @@
     + [HTTP/3｜Webエンジニアが知るべき新常識 ─ QUICやコネクションマイグレーションなどを学ぶ](https://eh-career.com/engineerhub/entry/2023/08/18/093000)
     + [特定ファイルを更新したマージコミットを探す](https://blog.shibayu36.org/entry/2023/09/19/173000)
     + [モジュラモノリスにおけるトランザクション設計の考え方 ](https://speakerdeck.com/nazonohito51/transaction-design-on-modular-monolith)
+    + [保守しやすく変化に強いソフトウェアを支える柱　自動テストとテスト駆動開発⁠⁠、その全体像](https://gihyo.jp/article/2024/01/automated-test-and-tdd)
+    + [eBPFを使った自動テストツール「Keploy」がすごい](https://zenn.dev/jambowrd/articles/3ee00f61c0b827)
+    + [3PCA 最終日: 3rd Party Cookie 亡き後の Web はどうなるか?](https://blog.jxck.io/entries/2023-12-30/after-deprecation.html)
