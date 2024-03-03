@@ -669,3 +669,5 @@
     + [Rustで作るLinuxデバイスドライバ](https://medium.com/nttlabs/linux-for-rust-phy-device-driver-f1b9d74d6a10)
     + [Rust で JSON5 を実行するインタプリタを作って自作言語の高速スタートアップをしよう](https://techracho.bpsinc.jp/yoshi/2024_01_05/138115)
     + [Rust のエイリアシングモデル Stacked Borrows (MIRI の元) を噛み砕いて和訳したもの](https://qiita.com/MikuroXina/items/70f574a3049f4a402f36)
+    + [async-std の開発者が Rust の非同期ランタイム開発者向けに WASI 0.2 の readiness ベースなポーリングモデルについて解説する記事](https://blog.yoshuawuyts.com/building-an-async-runtime-for-wasi/)
+    + [Rustのライフタイムを上手く使ったAPI設計のハック](https://blog.cocl2.com/posts/rust-ref-stable-collection/)

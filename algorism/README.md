@@ -396,3 +396,4 @@
     + [茶コーダーが競プロ家庭教師した話](https://speakerdeck.com/burioden/240117-uv-lt-fa84027b-5df9-4c05-b31c-ace56c010103)
     + [平方根の高速化とマジックナンバー](https://qiita.com/metaphysical_bard/items/e04378b16d6173127435)
     + [凡人が約5年かけて青コーダーになった話](https://blog.nishigake.net/posts/irohen_blue/)
+    + [うるう日にしか発生しないバグ](https://zenn.dev/razokulover/articles/7001ed233137e5)

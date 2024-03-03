@@ -92,3 +92,4 @@
     + [Bun is a fast all-in-one JavaScript runtime](https://bun.sh/)
     + [JavaScriptクイズ: JSON評価時の挙動](https://zenn.dev/qnighy/articles/4889cf4de3047f)
     + [ECMAScript Module Harmony](https://zenn.dev/pixiv/articles/c7071eb29927fe)
+    + [TypeScriptの代数的部分型模型](https://zenn.dev/estra/books/algebraic-subtyping-models)

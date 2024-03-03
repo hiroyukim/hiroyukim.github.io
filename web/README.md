@@ -372,3 +372,4 @@
     + [保守しやすく変化に強いソフトウェアを支える柱　自動テストとテスト駆動開発⁠⁠、その全体像](https://gihyo.jp/article/2024/01/automated-test-and-tdd)
     + [eBPFを使った自動テストツール「Keploy」がすごい](https://zenn.dev/jambowrd/articles/3ee00f61c0b827)
     + [3PCA 最終日: 3rd Party Cookie 亡き後の Web はどうなるか?](https://blog.jxck.io/entries/2023-12-30/after-deprecation.html)
+    + [キャッシュと向き合う、キャッシュと共に生きる](https://speakerdeck.com/soudai/cache-pattern)

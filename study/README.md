@@ -163,3 +163,7 @@
     + [Troubleshoot and make a sad server happy!](https://sadservers.com/)
     + [論文ウォッチ](https://aasj.jp/category/news/watch)
     + [Security Campus e-Learning](https://www.security-campus.com/)
+    + [トポス理論](https://nineties.github.io/topos-theory/)
+    + [202403_能登半島地震におけるオープンデータの価値](https://speakerdeck.com/sushi514/202403-neng-deng-ban-dao-niokeruopundetanojia-zhi)
+    + [日本の古典和歌を埋め込みベクトルで分析する](https://note.com/yhkondo/n/nd321604729cd?sub_rt=share_b)
+    + [「プログラマーのためのCPU入門」は入り口として丁度よい！](https://speakerdeck.com/forrep/introduction-to-cpus-for-programmers-is-just-right-f33bb0e0-4242-4f9b-8813-cc830709221b)

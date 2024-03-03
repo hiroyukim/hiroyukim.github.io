@@ -314,3 +314,5 @@
     + [CloudJump: Optimizing Cloud Databases for Cloud Storages](https://www.vldb.org/pvldb/vol15/p3432-chen.pdf)
     + [PostgreSQLの仕組みから学ぶために必要な資料](https://soudai.hatenablog.com/entry/2024/01/18/150718#google_vignette)
     + [MySQLでUUIDv4をプライマリキーにするとパフォーマンス問題が起きるのはなぜ？（N回目）](https://zenn.dev/reiwatravel/articles/9ce1050bf8509b)
+    + [Rustでリレーショナルデータベースを自作したときの成果と反省と学び](https://yoshisaur.hatenablog.jp/entry/2024/03/03/162352)
+    + [Dive into InnoDB from redo logs](https://speakerdeck.com/tombo/dive-into-innodb-from-redo-logs)
