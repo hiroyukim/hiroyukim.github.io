@@ -44,3 +44,4 @@
     + [フリーWi-Fiを使ったら秘密情報を抜かれる経路にはどのようなものがあるか](https://qiita.com/ockeghem/items/c6a3602d2c2409f89fbb)
     + [セキュリティエンジニアを3年続けて分かったおすすめ勉強法](https://p-0.me/b/p/614/)
     + [私のセキュリティ情報収集法を整理してみた（2024年版）](https://foxsecurity.hatenablog.com/entry/2024/01/03/081044)
+    + [セキュリティ主要７分野・脅威の進化と対応](https://tech-blog.rakus.co.jp/entry/20240315/security)

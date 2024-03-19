@@ -115,3 +115,5 @@
     + [libwireshark のdissector を借りて、バイト列をパケットとしてデコードする](https://codeout.hatenablog.com/entry/2018/09/17/171136)
     + [アプリケーション開発者向けHTTP使い方ガイド](https://httpwg.org/http-extensions/draft-ietf-httpbis-bcp56bis.html#section-4.6)
     + [モダンなTCP通信チェックツール](https://github.com/mehrdadrad/tcpprobe)
+    + [実は知らなかった、DNSが解決しているものは何？](https://speakerdeck.com/maimyyym/what-is-dns-resolving)
+    + [ネットワークが劣悪な環境を再現する方法](https://zenn.dev/headwaters/articles/simulate-a-slow-network-environment)

@@ -397,3 +397,8 @@
     + [平方根の高速化とマジックナンバー](https://qiita.com/metaphysical_bard/items/e04378b16d6173127435)
     + [凡人が約5年かけて青コーダーになった話](https://blog.nishigake.net/posts/irohen_blue/)
     + [うるう日にしか発生しないバグ](https://zenn.dev/razokulover/articles/7001ed233137e5)
+    + [2次元セグメント木](https://drive.google.com/file/d/1bSjYiA-nSsHzBbCnLq1GeTpRzs2Ucm0q/view)
+    + [つくって理解するストリーム暗号 ChaCha20](https://convto.hatenablog.com/entry/2024/02/26/121013)
+    + [ちょっと変わったセグメント木の使い方](https://ei1333.hateblo.jp/entry/2017/12/14/000000)
+    + [『定理証明手習い』の読み方（私論）](https://golden-lucky.hatenablog.com/entry/2024/02/29/140813)
+    + [最高に使いやすい Manacher のアルゴリズムの実装方法](https://ngtkana.hatenablog.com/entry/2024/03/17/034026)

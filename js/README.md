@@ -93,3 +93,6 @@
     + [JavaScriptクイズ: JSON評価時の挙動](https://zenn.dev/qnighy/articles/4889cf4de3047f)
     + [ECMAScript Module Harmony](https://zenn.dev/pixiv/articles/c7071eb29927fe)
     + [TypeScriptの代数的部分型模型](https://zenn.dev/estra/books/algebraic-subtyping-models)
+    + [Zig製のJS runtime](https://kiesel.dev/)
+    + [Node.jsに入る新しいCJSからESMへの読み込み方法の紹介](https://hiroppy.me/blog/nodejs-new-module-algorithm)
+    + [See this page fetch itself, byte by byte, over TLS](https://bytebybyte.dev/)

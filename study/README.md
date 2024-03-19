@@ -167,3 +167,6 @@
     + [202403_能登半島地震におけるオープンデータの価値](https://speakerdeck.com/sushi514/202403-neng-deng-ban-dao-niokeruopundetanojia-zhi)
     + [日本の古典和歌を埋め込みベクトルで分析する](https://note.com/yhkondo/n/nd321604729cd?sub_rt=share_b)
     + [「プログラマーのためのCPU入門」は入り口として丁度よい！](https://speakerdeck.com/forrep/introduction-to-cpus-for-programmers-is-just-right-f33bb0e0-4242-4f9b-8813-cc830709221b)
+    + [数学：物理を学び楽しむために](https://www.gakushuin.ac.jp/~881791/mathbook/)
+    + [rng_58がおすすめする練習の仕方 - 茶色になるために](https://info.atcoder.jp/entry/2024/03/18/160342)
+    + [パソコンユーザーのためのDRAM入門 Part 3 ～限界領域の電磁気～](https://qiita.com/Mine02C4/items/856a55d9b35a24958d5c)
