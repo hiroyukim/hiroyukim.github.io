@@ -402,3 +402,7 @@
     + [ちょっと変わったセグメント木の使い方](https://ei1333.hateblo.jp/entry/2017/12/14/000000)
     + [『定理証明手習い』の読み方（私論）](https://golden-lucky.hatenablog.com/entry/2024/02/29/140813)
     + [最高に使いやすい Manacher のアルゴリズムの実装方法](https://ngtkana.hatenablog.com/entry/2024/03/17/034026)
+    + [EthernetのCRCを実装した](https://vlsi.jp/EthernetCRCimpl.html#ethernet%E3%81%AEcrc%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%97%E3%81%9F)
+        + [追記](https://x.com/_primenumber/status/1776398494854758613)
+    + [【非公式】 AtCoder 上の問題について、取組み状況を記録していくサイト](https://atcoder-novisteps.vercel.app/)
+    + [AtCoderコンテストにRustで参加するためのガイドブック](https://doc.rust-jp.rs/atcoder-rust-resources/)

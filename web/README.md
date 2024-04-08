@@ -374,3 +374,4 @@
     + [3PCA 最終日: 3rd Party Cookie 亡き後の Web はどうなるか?](https://blog.jxck.io/entries/2023-12-30/after-deprecation.html)
     + [キャッシュと向き合う、キャッシュと共に生きる](https://speakerdeck.com/soudai/cache-pattern)
     + [開発環境構築ツール](https://github.com/jetpack-io/devbox)
+    + [Git as debugging tool](https://lucasoshiro.github.io/posts-en/2023-02-13-git-debug/)

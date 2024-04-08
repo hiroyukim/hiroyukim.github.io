@@ -671,3 +671,6 @@
     + [Rust のエイリアシングモデル Stacked Borrows (MIRI の元) を噛み砕いて和訳したもの](https://qiita.com/MikuroXina/items/70f574a3049f4a402f36)
     + [async-std の開発者が Rust の非同期ランタイム開発者向けに WASI 0.2 の readiness ベースなポーリングモデルについて解説する記事](https://blog.yoshuawuyts.com/building-an-async-runtime-for-wasi/)
     + [Rustのライフタイムを上手く使ったAPI設計のハック](https://blog.cocl2.com/posts/rust-ref-stable-collection/)
+    + [RustのNLL(Non-Lexical Lifetimes)について](https://zenn.dev/hanao/articles/a250a69918ee58)
+    + [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
+    + [rustlings](https://github.com/rust-lang/rustlings)

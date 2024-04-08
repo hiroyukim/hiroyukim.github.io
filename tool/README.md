@@ -58,6 +58,7 @@
     + [Fast, multi-purpose tool for AWS CloudWatch Logs](https://github.com/TylerBrock/saw)
 + memo
     + [memo](https://github.com/mattn/memo)
+    + [TeXについて](https://alg-d.com/math/tex.html)
 + grep
     + [rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.](https://github.com/phiresky/ripgrep-all)
 + 負荷ツール 

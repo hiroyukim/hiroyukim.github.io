@@ -684,3 +684,4 @@
     + [The Return of the Frame Pointers](https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html)
     + [Linux のシステムコール削減とカーネルサイズの縮小](http://www.ipsj.or.jp/sig/os/index.php?openfile=ComSys_2016_paper_21.pdf&plugin=attach&refer=ComSys2016+%A5%DD%A5%B9%A5%BF%A1%BC%A5%BB%A5%C3%A5%B7%A5%E7%A5%F3)
     + [static link について](https://shinh.hatenablog.com/entry/2014/10/03/010637)
+    + [Landlock: ユーザ権限によるアクセス制御](https://zenn.dev/termoshtt/articles/rust-landlock)
