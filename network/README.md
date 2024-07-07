@@ -117,3 +117,6 @@
     + [モダンなTCP通信チェックツール](https://github.com/mehrdadrad/tcpprobe)
     + [実は知らなかった、DNSが解決しているものは何？](https://speakerdeck.com/maimyyym/what-is-dns-resolving)
     + [ネットワークが劣悪な環境を再現する方法](https://zenn.dev/headwaters/articles/simulate-a-slow-network-environment)
+    + [dig の全てのコマンドラインオプションを一覧にしたシートを作成しました](https://qiita.com/ymatsumo/items/5a64cc19ebe432a05931)
+    + [ネットワーク パフォーマンスの解読: TCP と UDP のバルクフローのベンチマーク](https://cloud.google.com/blog/ja/products/networking/tips-for-benchmarking-tcp-and-udp-bulk-flows/)
+    + [doggo](https://github.com/mr-karan/doggo)

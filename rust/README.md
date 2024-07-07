@@ -674,3 +674,4 @@
     + [RustのNLL(Non-Lexical Lifetimes)について](https://zenn.dev/hanao/articles/a250a69918ee58)
     + [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
     + [rustlings](https://github.com/rust-lang/rustlings)
+    + [Rustlings Rewrite](https://mo8it.com/blog/rustlings-rewrite/)
